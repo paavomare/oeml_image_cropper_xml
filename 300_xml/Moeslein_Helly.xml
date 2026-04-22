@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9a35f4d1-262c-4b8e-8380-39bbfed4b37f" n="moeslein-helly">
+  <desc type="filename">Moeslein_Helly.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B670760T12981301.jpg" width="800" height="632">
+  </graphic>
+  <zone type="medallionCrop" ulx="382" uly="98" lrx="648" lry="364" cx="515" cy="231" r="133" rotate="0"/>
+  <desc type="modified">2026-04-22T12:39:29.912Z</desc>
+</surface>

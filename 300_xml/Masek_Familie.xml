@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c31ac2a7-c690-4b1a-b1fa-ddb817ef11e5" n="masek-familie">
+  <desc type="filename">Masek_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9255859T9255864.jpg" width="593" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="142" lrx="537" lry="628" cx="295" cy="385" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T13:53:03.948Z</desc>
+</surface>

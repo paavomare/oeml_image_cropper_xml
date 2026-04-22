@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e82d8c84-6172-41e9-a0a3-380d94b43406" n="muethel-lothar">
+  <desc type="filename">Muethel_Lothar.xml</desc>
+  <graphic url="bildarchivaustria/8_B1244893T1244897.jpg" width="569" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="115" lrx="522" lry="595" cx="282" cy="355" r="240" rotate="0"/>
+  <desc type="modified">2026-04-22T13:46:59.703Z</desc>
+</surface>

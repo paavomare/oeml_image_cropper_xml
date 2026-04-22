@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bb8a884c-c1ec-4c12-a222-ed6a88cf68da" n="reiter-martin">
+  <desc type="filename">Reiter_Martin.xml</desc>
+  <graphic url="Reiter_Martin.jpg" width="674" height="1011">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="58" lrx="674" lry="732" cx="337" cy="395" r="337" rotate="0"/>
+  <desc type="modified">2026-04-22T12:47:50.354Z</desc>
+</surface>

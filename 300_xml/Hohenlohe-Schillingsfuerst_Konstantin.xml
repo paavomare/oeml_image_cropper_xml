@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ce0c2be-fc78-4824-aba0-d12ef71e6033" n="hohenlohe-schillingsfuerst-konstantin">
+  <desc type="filename">Hohenlohe-Schillingsfuerst_Konstantin.xml</desc>
+  <graphic url="bildarchivaustria/168_B3768229T3768233.jpg" width="575" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="47" lrx="545" lry="545" cx="296" cy="296" r="249" rotate="0"/>
+  <desc type="modified">2026-04-22T14:10:20.507Z</desc>
+</surface>

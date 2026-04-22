@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8015410b-1dd9-40c4-bd0f-6156357e4053" n="wiener-hugo">
+  <desc type="filename">Wiener_Hugo.xml</desc>
+  <graphic url="bildarchivaustria/88_B676114T1828537.jpg" width="629" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="216" uly="301" lrx="617" lry="702" cx="417" cy="502" r="201" rotate="0"/>
+  <desc type="modified">2026-04-22T13:38:49.306Z</desc>
+</surface>

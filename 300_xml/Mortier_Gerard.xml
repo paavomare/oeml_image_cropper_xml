@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0a16b446-6785-4203-9f49-622cdb99dd75" n="mortier-gerard">
+  <desc type="filename">Mortier_Gerard.xml</desc>
+  <graphic url="bildarchivaustria/BA_913_B11289464T11289469.jpg" width="604" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="14" uly="182" lrx="595" lry="763" cx="305" cy="473" r="291" rotate="0"/>
+  <desc type="modified">2026-04-22T12:49:00.204Z</desc>
+</surface>

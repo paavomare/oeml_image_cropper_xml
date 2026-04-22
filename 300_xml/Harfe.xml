@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8586af89-038f-47f9-9cdc-01452f92f240" n="harfe">
+  <desc type="filename">Harfe.xml</desc>
+  <graphic url="Harfe3.jpg" width="352" height="508">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="352" lry="352" cx="176" cy="176" r="176" rotate="0"/>
+  <desc type="modified">2026-04-22T12:33:51.605Z</desc>
+</surface>

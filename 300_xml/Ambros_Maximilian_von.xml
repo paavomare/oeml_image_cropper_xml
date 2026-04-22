@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9bacd3ea-2f54-482a-8c9f-ff54a80b9eb9" n="ambros-maximilian-von">
+  <desc type="filename">Ambros_Maximilian_von.xml</desc>
+  <graphic url="Ambros_Maximilian_von.jpg" width="340" height="521">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="74" lrx="340" lry="414" cx="170" cy="244" r="170" rotate="0"/>
+  <desc type="modified">2026-04-22T13:02:27.840Z</desc>
+</surface>

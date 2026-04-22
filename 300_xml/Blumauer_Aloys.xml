@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f0e7fc4f-b221-4086-aac3-2f85fdbcf345" n="blumauer-aloys">
+  <desc type="filename">Blumauer_Aloys.xml</desc>
+  <graphic url="bildarchivaustria/BA_922_B12273964T12273969.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="64" lrx="578" lry="642" cx="289" cy="353" r="289" rotate="0"/>
+  <desc type="modified">2026-04-22T13:08:51.872Z</desc>
+</surface>

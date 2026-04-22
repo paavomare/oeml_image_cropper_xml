@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9d09ac86-90e9-43ab-977d-0fd568f9cc97" n="simandl-franz">
+  <desc type="filename">Simandl_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9262800T9262805.jpg" width="526" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="66" uly="168" lrx="455" lry="557" cx="261" cy="363" r="195" rotate="0"/>
+  <desc type="modified">2026-04-22T12:43:28.542Z</desc>
+</surface>

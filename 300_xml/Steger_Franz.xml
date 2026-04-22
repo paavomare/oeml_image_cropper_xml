@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5b49d6db-0cb2-4b1f-9d1a-2ad8ef342e2e" n="steger-franz">
+  <desc type="filename">Steger_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9262499T9262504.jpg" width="643" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="48" lrx="484" lry="480" cx="268" cy="264" r="216" rotate="0"/>
+  <desc type="modified">2026-04-22T12:45:56.191Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1dd2f6d3-1b78-4ea1-9c07-b8d37c77fe89" n="st-andrae-woerdern">
+  <desc type="filename">St_Andrae-Woerdern.xml</desc>
+  <graphic url="St_Andrae.JPG" width="779" height="570">
+  </graphic>
+  <zone type="medallionCrop" ulx="108" uly="0" lrx="678" lry="570" cx="393" cy="285" r="285" rotate="0"/>
+  <desc type="modified">2026-04-22T12:50:28.515Z</desc>
+</surface>

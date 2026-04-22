@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9ddc77c0-f79f-4cf7-a079-1c8fd525409b" n="poelzer-familie">
+  <desc type="filename">Poelzer_Familie.xml</desc>
+  <graphic url="Poelzer_Julius.jpg" width="472" height="614">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="472" lry="472" cx="236" cy="236" r="236" rotate="0"/>
+  <desc type="modified">2026-04-22T13:30:54.558Z</desc>
+</surface>

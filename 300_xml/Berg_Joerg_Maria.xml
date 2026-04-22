@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_042b15c7-0014-415f-be09-30058aa1e634" n="berg-joerg-maria">
+  <desc type="filename">Berg_Joerg_Maria.xml</desc>
+  <graphic url="Berg_Joerg_Maria.jpg" width="283" height="374">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="283" lry="296" cx="142" cy="155" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:56.012Z</desc>
+</surface>

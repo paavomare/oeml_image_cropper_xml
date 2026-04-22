@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1ee9402a-f1f0-46c4-ab98-1baa433f3b53" n="sieczynski-rudolf">
+  <desc type="filename">Sieczynski_Rudolf.xml</desc>
+  <graphic url="Sieczynski_Rudolf_2.jpg" width="600" height="709">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="143" lrx="561" lry="668" cx="299" cy="406" r="263" rotate="0"/>
+  <desc type="modified">2026-04-22T13:42:30.615Z</desc>
+</surface>

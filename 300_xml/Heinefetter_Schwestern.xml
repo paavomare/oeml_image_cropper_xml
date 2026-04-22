@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e03cc0d1-bc1b-4410-a7fd-0717b7f34546" n="heinefetter-schwestern">
+  <desc type="filename">Heinefetter_Schwestern.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9275210T9275215.jpg" width="629" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="62" uly="69" lrx="574" lry="581" cx="318" cy="325" r="256" rotate="0"/>
+  <desc type="modified">2026-04-22T13:56:45.230Z</desc>
+</surface>

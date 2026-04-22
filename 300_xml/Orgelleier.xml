@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fd42327-2b85-4602-b056-ababe95fd68f" n="orgelleier">
+  <desc type="filename">Orgelleier.xml</desc>
+  <graphic url="Orgelleier_Berlin.jpg" width="800" height="890">
+  </graphic>
+  <zone type="medallionCrop" ulx="41" uly="81" lrx="668" lry="708" cx="355" cy="395" r="314" rotate="0"/>
+  <desc type="modified">2026-04-22T14:00:47.835Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_19dfd49b-8fe5-46d3-b064-529d7947f05a" n="schrank-ludwig">
+  <desc type="filename">Schrank_Ludwig.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9255628T9255633.jpg" width="563" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="59" lrx="405" lry="465" cx="203" cy="262" r="203" rotate="0"/>
+  <desc type="modified">2026-04-22T13:54:28.433Z</desc>
+</surface>

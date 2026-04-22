@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4ca12727-9db5-446b-972f-50c17bd53bc5" n="baumann-friedrich">
+  <desc type="filename">Baumann_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9122508T9122513.jpg" width="626" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="169" uly="198" lrx="461" lry="489" cx="315" cy="344" r="146" rotate="0"/>
+  <desc type="modified">2026-04-22T13:57:04.512Z</desc>
+</surface>

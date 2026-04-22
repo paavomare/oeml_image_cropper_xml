@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7aa269e7-62f5-4abe-92b2-16eed01aa770" n="stolz-familie">
+  <desc type="filename">Stolz_Familie.xml</desc>
+  <graphic url="Stolz_Robert_2.jpg" width="425" height="531">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="425" lry="440" cx="213" cy="228" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T12:44:14.236Z</desc>
+</surface>

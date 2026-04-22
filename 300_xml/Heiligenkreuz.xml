@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8de215d6-3118-4bf5-9fdf-1abb93958042" n="heiligenkreuz">
+  <desc type="filename">Heiligenkreuz.xml</desc>
+  <graphic url="Heiligenkreuz_Orgel.jpg" width="567" height="751">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="184" lrx="567" lry="751" cx="284" cy="468" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T13:46:48.638Z</desc>
+</surface>

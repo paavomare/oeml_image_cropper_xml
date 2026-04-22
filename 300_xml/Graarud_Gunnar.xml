@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d1afa241-d487-494f-9384-e16183bc30d7" n="graarud-gunnar">
+  <desc type="filename">Graarud_Gunnar.xml</desc>
+  <graphic url="bildarchivaustria/747_B8081837T8081841.jpg" width="549" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="549" lry="549" cx="275" cy="275" r="275" rotate="0"/>
+  <desc type="modified">2026-04-22T13:36:54.735Z</desc>
+</surface>

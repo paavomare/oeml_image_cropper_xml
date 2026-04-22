@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f317e71f-b317-40be-b578-20a91b65a80a" n="weis-ostborn-familie">
+  <desc type="filename">Weis-Ostborn_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9264102T9264107.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="55" uly="131" lrx="531" lry="607" cx="293" cy="369" r="238" rotate="0"/>
+  <desc type="modified">2026-04-22T12:57:22.695Z</desc>
+</surface>

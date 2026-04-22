@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_73aff88e-3a66-40ea-96ca-82c48eea01c4" n="kerber-familie">
+  <desc type="filename">Kerber_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_903_B10030173T10030178.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="53" uly="135" lrx="501" lry="584" cx="277" cy="359" r="224" rotate="0"/>
+  <desc type="modified">2026-04-22T12:35:35.992Z</desc>
+</surface>

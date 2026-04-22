@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_06f01ab8-fa17-4bbf-955a-21dbf13f2bbd" n="bettelheim-caroline">
+  <desc type="filename">Bettelheim_Caroline.xml</desc>
+  <graphic url="bildarchivaustria/115_B3534799T3534803.jpg" width="522" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="107" lrx="522" lry="629" cx="261" cy="368" r="261" rotate="0"/>
+  <desc type="modified">2026-04-22T13:59:18.473Z</desc>
+</surface>

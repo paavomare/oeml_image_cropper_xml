@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b1754c7e-d12c-45ac-af53-67a65e31b154" n="dische-familie">
+  <desc type="filename">Dische_Familie.xml</desc>
+  <graphic url="Dische_Cesia_2.jpg" width="498" height="581">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="12" lrx="498" lry="510" cx="249" cy="261" r="249" rotate="0"/>
+  <desc type="modified">2026-04-22T13:17:38.388Z</desc>
+</surface>

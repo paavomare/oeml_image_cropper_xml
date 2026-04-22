@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2d8cf9a2-d0af-4384-8aba-16cb01a8e327" n="manna-ruggiero">
+  <desc type="filename">Manna_Ruggiero.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9255621T9255626.jpg" width="617" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="125" lrx="484" lry="519" cx="288" cy="322" r="197" rotate="0"/>
+  <desc type="modified">2026-04-22T13:35:03.245Z</desc>
+</surface>

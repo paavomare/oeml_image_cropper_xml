@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a275ccb3-12d7-424f-a28d-fc7712f1b03e" n="pergmann-simone">
+  <desc type="filename">Pergmann_Simone.xml</desc>
+  <graphic url="Pergmann_Simone.jpg" width="1260" height="787">
+  </graphic>
+  <zone type="medallionCrop" ulx="128" uly="0" lrx="915" lry="787" cx="522" cy="394" r="394" rotate="0"/>
+  <desc type="modified">2026-04-22T12:32:28.540Z</desc>
+</surface>

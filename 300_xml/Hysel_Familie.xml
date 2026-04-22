@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_acb292c5-32c3-4f65-8cea-3a2bc8debce8" n="hysel-familie">
+  <desc type="filename">Hysel_Familie.xml</desc>
+  <graphic url="bildarchivaustria/207_B3942939T3942943.jpg" width="572" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="152" uly="174" lrx="413" lry="435" cx="283" cy="305" r="131" rotate="0"/>
+  <desc type="modified">2026-04-22T13:38:33.227Z</desc>
+</surface>

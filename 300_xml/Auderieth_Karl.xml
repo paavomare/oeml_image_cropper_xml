@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_48a8875d-c026-4cb8-bf63-3f1a3753f70d" n="auderieth-karl">
+  <desc type="filename">Auderieth_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247943T9247948.jpg" width="800" height="595">
+  </graphic>
+  <zone type="medallionCrop" ulx="497" uly="87" lrx="767" lry="357" cx="632" cy="222" r="135" rotate="0"/>
+  <desc type="modified">2026-04-22T13:29:32.608Z</desc>
+</surface>

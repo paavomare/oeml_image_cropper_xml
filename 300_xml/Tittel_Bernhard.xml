@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b61904af-227c-4e5a-8ede-2704db4eb335" n="tittel-bernhard">
+  <desc type="filename">Tittel_Bernhard.xml</desc>
+  <graphic url="Tittel_Bernhard.JPG" width="452" height="570">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="452" lry="469" cx="226" cy="243" r="226" rotate="0"/>
+  <desc type="modified">2026-04-22T12:44:30.012Z</desc>
+</surface>

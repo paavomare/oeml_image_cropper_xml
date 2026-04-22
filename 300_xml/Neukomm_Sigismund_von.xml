@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8c17cb2f-7a55-4590-ae97-9b18bf1453b9" n="neukomm-sigismund-von">
+  <desc type="filename">Neukomm_Sigismund_von.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247067T9247072.jpg" width="545" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="66" lrx="517" lry="544" cx="278" cy="305" r="239" rotate="0"/>
+  <desc type="modified">2026-04-22T12:38:52.841Z</desc>
+</surface>

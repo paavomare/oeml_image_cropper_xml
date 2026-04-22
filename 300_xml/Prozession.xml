@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_32488d49-1b13-494d-97af-eb28a0d6ea14" n="prozession">
+  <desc type="filename">Prozession.xml</desc>
+  <graphic url="Katholikentag_wrb1933.jpg" width="2671" height="3427">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="973" lrx="2322" lry="3295" cx="1161" cy="2134" r="1161" rotate="0"/>
+  <desc type="modified">2026-04-22T13:14:52.460Z</desc>
+</surface>

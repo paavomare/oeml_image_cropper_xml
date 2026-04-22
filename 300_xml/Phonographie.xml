@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_23675e4e-2a30-42fd-8098-3dff84144aa5" n="phonographie">
+  <desc type="filename">Phonographie.xml</desc>
+  <graphic url="Phonographie1.jpg" width="369" height="408">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="369" lry="401" cx="185" cy="217" r="185" rotate="0"/>
+  <desc type="modified">2026-04-22T13:46:26.348Z</desc>
+</surface>

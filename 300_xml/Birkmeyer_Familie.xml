@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ac7d8bf3-debe-4c3e-87b1-36bbbe722aef" n="birkmeyer-familie">
+  <desc type="filename">Birkmeyer_Familie.xml</desc>
+  <graphic url="Giuditta_wrb1933.jpg" width="1720" height="1189">
+  </graphic>
+  <zone type="medallionCrop" ulx="266" uly="0" lrx="1455" lry="1189" cx="861" cy="595" r="595" rotate="0"/>
+  <desc type="modified">2026-04-22T13:05:40.537Z</desc>
+</surface>

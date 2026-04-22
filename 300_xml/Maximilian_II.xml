@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_623785be-e737-47cc-ae42-228735d6d30d" n="maximilian-ii">
+  <desc type="filename">Maximilian_II.xml</desc>
+  <graphic url="bildarchivaustria/397_B4620551T4620555.jpg" width="526" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="72" uly="143" lrx="452" lry="523" cx="262" cy="333" r="190" rotate="0"/>
+  <desc type="modified">2026-04-22T12:44:39.803Z</desc>
+</surface>

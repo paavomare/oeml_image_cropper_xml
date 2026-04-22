@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2eed19b7-fd50-4bd7-b6dc-31d2c301dad8" n="schulhof-otto">
+  <desc type="filename">Schulhof_Otto.xml</desc>
+  <graphic url="Schulhof_Otto.jpg" width="214" height="205">
+  </graphic>
+  <zone type="medallionCrop" ulx="6" uly="0" lrx="211" lry="205" cx="109" cy="103" r="103" rotate="0"/>
+  <desc type="modified">2026-04-22T13:14:28.046Z</desc>
+</surface>

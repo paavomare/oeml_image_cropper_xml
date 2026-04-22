@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a113ac22-a7de-4053-86aa-78696108d495" n="spitzeder-familie">
+  <desc type="filename">Spitzeder_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9133505T9133510.jpg" width="610" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="79" lrx="563" lry="616" cx="295" cy="348" r="269" rotate="0"/>
+  <desc type="modified">2026-04-22T13:32:43.823Z</desc>
+</surface>

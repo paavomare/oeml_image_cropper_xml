@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a8377aed-0830-452e-96bb-98be1e87ce39" n="tenschert-ehepaar">
+  <desc type="filename">Tenschert_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449414T10449419.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="69" lrx="499" lry="522" cx="273" cy="295" r="226" rotate="0"/>
+  <desc type="modified">2026-04-22T14:03:07.358Z</desc>
+</surface>

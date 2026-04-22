@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_273c4972-1b59-434d-b0bb-061786f85298" n="white-stars">
+  <desc type="filename">White_Stars.xml</desc>
+  <graphic url="White_Stars_1963.jpg" width="1181" height="886">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="886" lry="886" cx="443" cy="443" r="443" rotate="0"/>
+  <desc type="modified">2026-04-22T13:06:07.657Z</desc>
+</surface>

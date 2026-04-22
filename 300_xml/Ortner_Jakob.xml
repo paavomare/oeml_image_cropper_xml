@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7c4cd106-57dc-4c50-b1fe-c885a249e64f" n="ortner-jakob">
+  <desc type="filename">Ortner_Jakob.xml</desc>
+  <graphic url="Ortner_Jakob.jpg" width="358" height="492">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="47" lrx="358" lry="405" cx="179" cy="226" r="179" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:49.166Z</desc>
+</surface>

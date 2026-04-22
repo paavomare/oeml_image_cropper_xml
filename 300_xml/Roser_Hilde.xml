@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_408bff9c-5158-4932-9e5b-e76a4e470ac2" n="roser-hilde">
+  <desc type="filename">Roser_Hilde.xml</desc>
+  <graphic url="Roser_Hilde.jpg" width="700" height="935">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="235" lrx="700" lry="935" cx="350" cy="585" r="350" rotate="0"/>
+  <desc type="modified">2026-04-22T13:14:17.279Z</desc>
+</surface>

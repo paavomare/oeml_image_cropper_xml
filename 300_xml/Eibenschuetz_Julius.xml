@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_922cbd8e-a84c-4bb9-87b6-e002aef4c09c" n="eibenschuetz-julius">
+  <desc type="filename">Eibenschuetz_Julius.xml</desc>
+  <graphic url="Eibenschuetz_Julius.jpg" width="315" height="455">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="315" lry="316" cx="158" cy="159" r="158" rotate="0"/>
+  <desc type="modified">2026-04-22T13:25:07.504Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_baa3b29d-d2b6-4fe9-ad28-1fc478b5ba31" n="meyer-adolf">
+  <desc type="filename">Meyer_Adolf.xml</desc>
+  <graphic url="bildarchivaustria/232_B4039842T4039846.jpg" width="558" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="58" uly="101" lrx="491" lry="535" cx="275" cy="318" r="217" rotate="0"/>
+  <desc type="modified">2026-04-22T13:06:32.585Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_63b72261-190e-47f3-a082-049f793e6001" n="godlewski-carl">
+  <desc type="filename">Godlewski_Carl.xml</desc>
+  <graphic url="Godlewski_wrb1933.jpg" width="674" height="1119">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="674" lry="674" cx="337" cy="337" r="337" rotate="0"/>
+  <desc type="modified">2026-04-22T13:33:59.294Z</desc>
+</surface>

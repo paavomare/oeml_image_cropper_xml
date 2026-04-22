@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4d30a9a8-703b-4b8f-b342-b3b721ed7ff2" n="hammerschmied-gertha">
+  <desc type="filename">Hammerschmied_Gertha.xml</desc>
+  <graphic url="Hammerschmied_Gertha.jpg" width="226" height="259">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="5" lrx="226" lry="231" cx="113" cy="118" r="113" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:12.334Z</desc>
+</surface>

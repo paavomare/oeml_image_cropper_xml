@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6c180b2c-859d-4987-8f69-f3c8d54b7e6d" n="winkler-franz">
+  <desc type="filename">Winkler_Franz.xml</desc>
+  <graphic url="Winkler_Franz1.jpg" width="365" height="253">
+  </graphic>
+  <zone type="medallionCrop" ulx="240" uly="2" lrx="364" lry="126" cx="302" cy="64" r="62" rotate="0"/>
+  <desc type="modified">2026-04-22T13:35:23.885Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d389af99-40a0-49df-8b8d-3333693c14d4" n="strasser-johannes">
+  <desc type="filename">Strasser_Johannes.xml</desc>
+  <graphic url="Strasser_Hans_2024.jpg" width="441" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="8" lrx="441" lry="449" cx="221" cy="229" r="221" rotate="0"/>
+  <desc type="modified">2026-04-22T12:42:57.119Z</desc>
+</surface>

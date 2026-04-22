@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7b889847-a706-4719-acb3-35c8c7bd5b2d" n="gruenbaum-familie">
+  <desc type="filename">Gruenbaum_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9266365T9266370.jpg" width="540" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="44" uly="139" lrx="496" lry="591" cx="270" cy="365" r="226" rotate="0"/>
+  <desc type="modified">2026-04-22T13:22:19.884Z</desc>
+</surface>

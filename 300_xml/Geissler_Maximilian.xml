@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a62896a0-f309-451d-bee1-c46c30df9680" n="geissler-maximilian">
+  <desc type="filename">Geissler_Maximilian.xml</desc>
+  <graphic url="Geissler_Philharmoniker_in_Uniform.jpg" width="1389" height="756">
+  </graphic>
+  <zone type="medallionCrop" ulx="607" uly="33" lrx="728" lry="154" cx="668" cy="94" r="61" rotate="0"/>
+  <desc type="modified">2026-04-22T13:28:04.854Z</desc>
+</surface>

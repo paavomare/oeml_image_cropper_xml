@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_79f578f7-3971-41e9-ab93-64b1e72bbd56" n="fledermaus">
+  <desc type="filename">Fledermaus.xml</desc>
+  <graphic url="bildarchivaustria/BA_1076_B15831163T18801948.jpg" width="800" height="496">
+  </graphic>
+  <zone type="medallionCrop" ulx="275" uly="0" lrx="771" lry="496" cx="523" cy="248" r="248" rotate="0"/>
+  <desc type="modified">2026-04-22T12:32:09.642Z</desc>
+</surface>

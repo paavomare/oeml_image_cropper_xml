@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3b609a46-e431-495a-b4bf-1510cd02cfd7" n="breuer-kurt">
+  <desc type="filename">Breuer_Kurt.xml</desc>
+  <graphic url="Breuer_Kurt_1940.jpg" width="263" height="296">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="263" lry="278" cx="132" cy="147" r="132" rotate="0"/>
+  <desc type="modified">2026-04-22T12:28:22.376Z</desc>
+</surface>

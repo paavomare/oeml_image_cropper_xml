@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_55c16217-6cdd-4d2f-96c0-2b34ef9c7fda" n="leschen-familie">
+  <desc type="filename">Leschen_Familie.xml</desc>
+  <graphic url="Leschen_Wilhelm_1875.jpg" width="849" height="989">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="849" lry="855" cx="425" cy="431" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T14:09:02.720Z</desc>
+</surface>

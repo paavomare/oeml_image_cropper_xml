@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_50b691e3-f0d5-405e-b2c6-3f558de3c9ae" n="kartousch-louise">
+  <desc type="filename">Kartousch_Louise.xml</desc>
+  <graphic url="bildarchivaustria/341_B305999T4443361.jpg" width="603" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="117" uly="35" lrx="431" lry="350" cx="274" cy="192" r="157" rotate="0"/>
+  <desc type="modified">2026-04-22T14:05:35.394Z</desc>
+</surface>

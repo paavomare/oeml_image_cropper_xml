@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ca1433b7-74d4-4410-804f-800d8ff96ac2" n="schwarz-familie-2">
+  <desc type="filename">Schwarz_Familie_2.xml</desc>
+  <graphic url="Schwarz_Familie.JPG" width="699" height="503">
+  </graphic>
+  <zone type="medallionCrop" ulx="126" uly="0" lrx="629" lry="503" cx="378" cy="252" r="252" rotate="0"/>
+  <desc type="modified">2026-04-22T13:04:20.046Z</desc>
+</surface>

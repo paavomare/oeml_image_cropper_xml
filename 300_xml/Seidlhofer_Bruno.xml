@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_44f81c83-9c40-4419-97fa-b79a28a63621" n="seidlhofer-bruno">
+  <desc type="filename">Seidlhofer_Bruno.xml</desc>
+  <graphic url="Seidlhofer.jpg" width="429" height="611">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="145" lrx="429" lry="574" cx="215" cy="360" r="215" rotate="0"/>
+  <desc type="modified">2026-04-22T13:37:26.903Z</desc>
+</surface>

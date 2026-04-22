@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_98f67415-6f58-4edf-8dec-62253ffb4e7c" n="schreker-ehepaar">
+  <desc type="filename">Schreker_Ehepaar.xml</desc>
+  <graphic url="Schreker_Ehepaar.jpg" width="237" height="322">
+  </graphic>
+  <zone type="medallionCrop" ulx="12" uly="22" lrx="219" lry="230" cx="116" cy="126" r="104" rotate="0"/>
+  <desc type="modified">2026-04-22T13:02:07.884Z</desc>
+</surface>

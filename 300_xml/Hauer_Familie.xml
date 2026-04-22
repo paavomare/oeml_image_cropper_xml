@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_908945ff-1924-491b-9a3d-16d90817c796" n="hauer-familie">
+  <desc type="filename">Hauer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/342_B306361T4446855.jpg" width="600" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="37" uly="67" lrx="565" lry="595" cx="301" cy="331" r="264" rotate="0"/>
+  <desc type="modified">2026-04-22T13:31:01.657Z</desc>
+</surface>

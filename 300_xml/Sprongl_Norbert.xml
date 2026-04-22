@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6d9db6b4-810c-417b-9a2e-0943acb130c7" n="sprongl-norbert">
+  <desc type="filename">Sprongl_Norbert.xml</desc>
+  <graphic url="Sprongl%20(2).jpg" width="436" height="630">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="113" lrx="436" lry="549" cx="218" cy="331" r="218" rotate="0"/>
+  <desc type="modified">2026-04-22T13:24:38.540Z</desc>
+</surface>

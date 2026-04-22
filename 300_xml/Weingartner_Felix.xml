@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_89b6317c-0aa2-4c21-942f-d1fdfea7f1a2" n="weingartner-felix">
+  <desc type="filename">Weingartner_Felix.xml</desc>
+  <graphic url="bildarchivaustria/BA_927_B12427171T12427176.jpg" width="564" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="564" lry="590" cx="282" cy="308" r="282" rotate="0"/>
+  <desc type="modified">2026-04-22T12:40:42.120Z</desc>
+</surface>

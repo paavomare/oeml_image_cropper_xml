@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b5311f36-e475-4585-9a6f-cd4b6a19b6b7" n="schild-theodor">
+  <desc type="filename">Schild_Theodor.xml</desc>
+  <graphic url="Schild_Theodor-Franz_1896.jpg" width="482" height="583">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="38" lrx="482" lry="520" cx="241" cy="279" r="241" rotate="0"/>
+  <desc type="modified">2026-04-22T13:10:53.456Z</desc>
+</surface>

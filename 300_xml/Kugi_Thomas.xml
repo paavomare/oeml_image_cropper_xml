@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4a538af1-d901-4ca1-b0b9-b550d6f4afd7" n="kugi-thomas">
+  <desc type="filename">Kugi_Thomas.xml</desc>
+  <graphic url="Kugi_Thomas.jpg" width="728" height="1100">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="728" lry="728" cx="364" cy="364" r="364" rotate="0"/>
+  <desc type="modified">2026-04-22T13:06:58.169Z</desc>
+</surface>

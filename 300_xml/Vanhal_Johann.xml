@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eda9e797-2d78-4ef2-a729-dd561b064d5b" n="vanhal-johann">
+  <desc type="filename">Vanhal_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247521T9247526.jpg" width="519" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="127" uly="203" lrx="390" lry="467" cx="259" cy="335" r="132" rotate="0"/>
+  <desc type="modified">2026-04-22T13:30:46.766Z</desc>
+</surface>

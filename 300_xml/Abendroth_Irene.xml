@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1511767e-e03b-4d62-82b3-4abb9992b20f" n="abendroth-irene">
+  <desc type="filename">Abendroth_Irene.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9275287T9275292.jpg" width="600" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="20" lrx="566" lry="570" cx="291" cy="296" r="276" rotate="0"/>
+  <desc type="modified">2026-04-22T12:31:36.985Z</desc>
+</surface>

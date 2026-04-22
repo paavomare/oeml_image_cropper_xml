@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b5184c41-b137-4e47-b079-4cd41fe34d8b" n="fux-familie">
+  <desc type="filename">Fux_Familie.xml</desc>
+  <graphic url="bildarchivaustria/3_B1209428T1209432.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="108" lrx="557" lry="665" cx="279" cy="387" r="279" rotate="0"/>
+  <desc type="modified">2026-04-22T12:45:23.408Z</desc>
+</surface>

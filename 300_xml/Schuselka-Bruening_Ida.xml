@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_69ad616d-65b7-4215-a8cd-6d6cc2f0ff57" n="schuselka-bruening-ida">
+  <desc type="filename">Schuselka-Bruening_Ida.xml</desc>
+  <graphic url="Schmidt-Wohlbrueck_wrb1933.jpg" width="1369" height="1960">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1369" lry="1369" cx="685" cy="685" r="685" rotate="0"/>
+  <desc type="modified">2026-04-22T13:56:52.223Z</desc>
+</surface>

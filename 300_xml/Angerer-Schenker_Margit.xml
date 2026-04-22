@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f8b43cfe-9a39-4a1c-b096-926b894afd96" n="angerer-schenker-margit">
+  <desc type="filename">Angerer-Schenker_Margit.xml</desc>
+  <graphic url="Schenker-Angerer_wrb1933.jpg" width="2675" height="3303">
+  </graphic>
+  <zone type="medallionCrop" ulx="975" uly="0" lrx="2191" lry="1216" cx="1583" cy="608" r="608" rotate="0"/>
+  <desc type="modified">2026-04-22T13:48:14.382Z</desc>
+</surface>

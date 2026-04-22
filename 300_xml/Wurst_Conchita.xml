@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dc54e1a6-b494-430a-aad2-143a6882b5a1" n="wurst-conchita">
+  <desc type="filename">Wurst_Conchita.xml</desc>
+  <graphic url="Wurst_Conchita_1.jpg" width="1080" height="1350">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1080" lry="1080" cx="540" cy="540" r="540" rotate="0"/>
+  <desc type="modified">2026-04-22T13:43:02.970Z</desc>
+</surface>

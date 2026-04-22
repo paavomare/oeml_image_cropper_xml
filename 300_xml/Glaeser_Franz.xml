@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_61504acc-8c46-4aab-b046-5768676ace64" n="glaeser-franz">
+  <desc type="filename">Glaeser_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9235041T9235046.jpg" width="604" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="96" uly="182" lrx="512" lry="598" cx="304" cy="390" r="208" rotate="0"/>
+  <desc type="modified">2026-04-22T12:39:01.693Z</desc>
+</surface>

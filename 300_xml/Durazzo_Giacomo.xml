@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1549e367-1d00-4e61-8ec7-0666d33ec9c5" n="durazzo-giacomo">
+  <desc type="filename">Durazzo_Giacomo.xml</desc>
+  <graphic url="bildarchivaustria/741_B8054813T8054817.jpg" width="574" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="175" uly="216" lrx="410" lry="451" cx="293" cy="334" r="118" rotate="0"/>
+  <desc type="modified">2026-04-22T12:46:39.825Z</desc>
+</surface>

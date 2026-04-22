@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f1ed68b6-97af-45e5-b143-480b9df066b7" n="kammerer-paul">
+  <desc type="filename">Kammerer_Paul.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12995959T12995964.jpg" width="522" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="22" lrx="509" lry="517" cx="262" cy="269" r="247" rotate="0"/>
+  <desc type="modified">2026-04-22T13:11:02.284Z</desc>
+</surface>

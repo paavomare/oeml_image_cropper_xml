@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7c71016d-7171-4fe7-a5f7-b8bba02fcea2" n="lipp-wilma">
+  <desc type="filename">Lipp_Wilma.xml</desc>
+  <graphic url="bildarchivaustria/57_B659846T1526834.jpg" width="800" height="614">
+  </graphic>
+  <zone type="medallionCrop" ulx="303" uly="48" lrx="800" lry="546" cx="552" cy="297" r="249" rotate="0"/>
+  <desc type="modified">2026-04-22T13:20:01.901Z</desc>
+</surface>

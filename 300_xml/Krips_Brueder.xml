@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fe7c98bc-71b6-499e-94ee-ffcccfef46da" n="krips-brueder">
+  <desc type="filename">Krips_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/403_B391882T4650396.jpg" width="585" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="31" lrx="538" lry="526" cx="291" cy="279" r="248" rotate="0"/>
+  <desc type="modified">2026-04-22T13:21:35.804Z</desc>
+</surface>

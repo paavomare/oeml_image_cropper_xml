@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_306ffee8-7259-428a-bcf8-5c68b7aeeac8" n="moscheles-ignaz">
+  <desc type="filename">Moscheles_Ignaz.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9235977T9235982.jpg" width="617" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="49" uly="105" lrx="561" lry="617" cx="305" cy="361" r="256" rotate="0"/>
+  <desc type="modified">2026-04-22T13:15:59.659Z</desc>
+</surface>

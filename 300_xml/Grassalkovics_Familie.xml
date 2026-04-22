@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f27da21c-88b0-4bcb-848a-518dbfbdc458" n="grassalkovics-familie">
+  <desc type="filename">Grassalkovics_Familie.xml</desc>
+  <graphic url="bildarchivaustria/517_B5312172T5312176.jpg" width="673" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="86" uly="143" lrx="593" lry="650" cx="340" cy="397" r="254" rotate="0"/>
+  <desc type="modified">2026-04-22T12:44:24.047Z</desc>
+</surface>

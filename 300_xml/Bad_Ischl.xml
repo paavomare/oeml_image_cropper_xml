@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_41a013d6-227a-4eeb-8d59-c339595b92c0" n="bad-ischl">
+  <desc type="filename">Bad_Ischl.xml</desc>
+  <graphic url="Ischl_Kurpromenade.jpg" width="660" height="513">
+  </graphic>
+  <zone type="medallionCrop" ulx="102" uly="0" lrx="615" lry="513" cx="359" cy="257" r="257" rotate="0"/>
+  <desc type="modified">2026-04-22T13:59:33.167Z</desc>
+</surface>

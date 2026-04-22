@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_81d7df97-8aad-44ac-b498-1095f2442538" n="strauss-ludwig">
+  <desc type="filename">Strauss_Ludwig.xml</desc>
+  <graphic url="Strauss_Ludwig.jpg" width="633" height="738">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="12" lrx="633" lry="645" cx="317" cy="329" r="317" rotate="0"/>
+  <desc type="modified">2026-04-22T13:30:19.325Z</desc>
+</surface>

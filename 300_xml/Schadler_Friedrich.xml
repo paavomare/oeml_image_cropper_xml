@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c3eb3388-b468-4166-b730-446340b7b3de" n="schadler-friedrich">
+  <desc type="filename">Schadler_Friedrich.xml</desc>
+  <graphic url="Schadler_Friedrich_1946.jpg" width="455" height="608">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="31" lrx="407" lry="407" cx="219" cy="219" r="188" rotate="0"/>
+  <desc type="modified">2026-04-22T14:11:52.936Z</desc>
+</surface>

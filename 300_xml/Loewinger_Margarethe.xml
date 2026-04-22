@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0389613e-c292-403f-9f4f-b73a2eb7edb3" n="loewinger-margarethe">
+  <desc type="filename">Loewinger_Margarethe.xml</desc>
+  <graphic url="Loewinger_wrb1933.jpg" width="1486" height="1086">
+  </graphic>
+  <zone type="medallionCrop" ulx="246" uly="0" lrx="751" lry="506" cx="499" cy="253" r="253" rotate="0"/>
+  <desc type="modified">2026-04-22T12:44:55.613Z</desc>
+</surface>

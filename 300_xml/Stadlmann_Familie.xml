@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bdbdb7e2-409a-4b99-972d-433e477d108e" n="stadlmann-familie">
+  <desc type="filename">Stadlmann_Familie.xml</desc>
+  <graphic url="Baryton_Stadlmann.jpeg" width="438" height="640">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="200" lrx="438" lry="638" cx="219" cy="419" r="219" rotate="0"/>
+  <desc type="modified">2026-04-22T12:43:23.279Z</desc>
+</surface>

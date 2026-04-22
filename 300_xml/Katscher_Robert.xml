@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_25c64f83-0acc-44f2-a044-d3ec5177d90e" n="katscher-robert">
+  <desc type="filename">Katscher_Robert.xml</desc>
+  <graphic url="bildarchivaustria/BA_922_B12274013T12274017.jpg" width="573" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="42" lrx="543" lry="558" cx="286" cy="300" r="258" rotate="0"/>
+  <desc type="modified">2026-04-22T14:00:23.164Z</desc>
+</surface>

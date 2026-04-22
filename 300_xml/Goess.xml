@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_60fca60f-1c0c-45f6-985a-fe972c0fd241" n="goess">
+  <desc type="filename">Goess.xml</desc>
+  <graphic url="Goess_1912.jpg" width="1678" height="1052">
+  </graphic>
+  <zone type="medallionCrop" ulx="252" uly="0" lrx="1304" lry="1052" cx="778" cy="526" r="526" rotate="0"/>
+  <desc type="modified">2026-04-22T13:54:48.450Z</desc>
+</surface>

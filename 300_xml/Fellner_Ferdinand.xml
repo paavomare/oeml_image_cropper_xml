@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_202a22d6-abe7-4aa2-9035-71c494111dfb" n="fellner-ferdinand">
+  <desc type="filename">Fellner_Ferdinand.xml</desc>
+  <graphic url="bildarchivaustria/744_B8075277T8075281.jpg" width="522" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="522" lry="561" cx="261" cy="300" r="261" rotate="0"/>
+  <desc type="modified">2026-04-22T13:44:31.900Z</desc>
+</surface>

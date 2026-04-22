@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_93ceaa35-72cb-4727-ada7-e85d119db704" n="kitzler-otto">
+  <desc type="filename">Kitzler_Otto.xml</desc>
+  <graphic url="Kitzler_Otto_1.jpg" width="2692" height="1812">
+  </graphic>
+  <zone type="medallionCrop" ulx="777" uly="243" lrx="2152" lry="1618" cx="1465" cy="931" r="688" rotate="0"/>
+  <desc type="modified">2026-04-22T12:58:07.287Z</desc>
+</surface>

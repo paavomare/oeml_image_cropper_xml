@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e40f81d7-b0ff-4933-940d-ec3f28895187" n="becher-alfred">
+  <desc type="filename">Becher_Alfred.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247465T9247470.jpg" width="525" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="74" uly="143" lrx="456" lry="524" cx="265" cy="334" r="191" rotate="0"/>
+  <desc type="modified">2026-04-22T13:08:44.576Z</desc>
+</surface>

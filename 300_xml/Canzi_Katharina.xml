@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_afcd78df-931b-4ca3-bd33-926aba243733" n="canzi-katharina">
+  <desc type="filename">Canzi_Katharina.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9277382T9277387.jpg" width="590" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="117" lrx="515" lry="597" cx="275" cy="357" r="240" rotate="0"/>
+  <desc type="modified">2026-04-22T13:44:11.103Z</desc>
+</surface>

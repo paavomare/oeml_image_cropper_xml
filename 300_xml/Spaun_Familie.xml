@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_150baa55-4a5a-4933-a955-9bf5ecef8cc2" n="spaun-familie">
+  <desc type="filename">Spaun_Familie.xml</desc>
+  <graphic url="bildarchivaustria/593_B7432429T7432433.jpg" width="601" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="78" uly="131" lrx="523" lry="576" cx="301" cy="354" r="223" rotate="0"/>
+  <desc type="modified">2026-04-22T13:10:06.333Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_89a1655e-fca8-4094-b0d4-9a0791d0a0c7" n="schaefer-klotilde">
+  <desc type="filename">Schaefer_Klotilde.xml</desc>
+  <graphic url="Schaefer_Klotilde.jpg" width="343" height="425">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="343" lry="354" cx="172" cy="183" r="172" rotate="0"/>
+  <desc type="modified">2026-04-22T14:07:25.346Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_638adb6a-85a8-40be-b83e-c4f05e9b8a91" n="klein-josef">
+  <desc type="filename">Klein_Josef.xml</desc>
+  <graphic url="Klein_1896.jpg" width="676" height="919">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="140" lrx="676" lry="816" cx="338" cy="478" r="338" rotate="0"/>
+  <desc type="modified">2026-04-22T13:45:24.395Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_87131512-c448-45a1-af37-5adcee40c7b7" n="berlanda-emil">
+  <desc type="filename">Berlanda_Emil.xml</desc>
+  <graphic url="Berlanda.jpg" width="376" height="440">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="45" lrx="376" lry="421" cx="188" cy="233" r="188" rotate="0"/>
+  <desc type="modified">2026-04-22T14:05:14.179Z</desc>
+</surface>

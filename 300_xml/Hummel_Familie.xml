@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf3992f7-8794-41d0-8ef7-0981b1a367d3" n="hummel-familie">
+  <desc type="filename">Hummel_Familie.xml</desc>
+  <graphic url="Hummel_Joseph_Gedenktafel.JPG" width="912" height="1185">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="164" lrx="912" lry="1076" cx="456" cy="620" r="456" rotate="0"/>
+  <desc type="modified">2026-04-22T12:27:49.032Z</desc>
+</surface>

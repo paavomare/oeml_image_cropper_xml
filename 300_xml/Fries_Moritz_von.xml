@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e1125be-ccd6-4e9d-acde-ce91d4b6f458" n="fries-moritz-von">
+  <desc type="filename">Fries_Moritz_von.xml</desc>
+  <graphic url="bildarchivaustria/763_B8144856T8144860.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="178" uly="208" lrx="456" lry="487" cx="317" cy="347" r="139" rotate="0"/>
+  <desc type="modified">2026-04-22T14:08:02.191Z</desc>
+</surface>

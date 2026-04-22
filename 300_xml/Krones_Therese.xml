@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7a8d5d7a-febc-400f-9667-a3cd5f2b9142" n="krones-therese">
+  <desc type="filename">Krones_Therese.xml</desc>
+  <graphic url="bildarchivaustria/BA_851_B9138633T9139770.jpg" width="608" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="30" uly="61" lrx="510" lry="541" cx="270" cy="301" r="240" rotate="0"/>
+  <desc type="modified">2026-04-22T13:09:52.078Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3efcf686-105d-4127-a4db-6fb1591c4b87" n="geiringer-familie">
+  <desc type="filename">Geiringer_Familie.xml</desc>
+  <graphic url="Geiringer_Karl.jpg" width="530" height="732">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="530" lry="558" cx="265" cy="293" r="265" rotate="0"/>
+  <desc type="modified">2026-04-22T12:42:18.317Z</desc>
+</surface>

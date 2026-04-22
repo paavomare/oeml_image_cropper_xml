@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f6829eab-6637-4f3f-be96-d172a6dad1d0" n="beer-familie">
+  <desc type="filename">Beer_Familie.xml</desc>
+  <graphic url="Beer_Otto.jpg" width="316" height="569">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="12" lrx="316" lry="328" cx="158" cy="170" r="158" rotate="0"/>
+  <desc type="modified">2026-04-22T13:03:00.025Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9f652c0a-ea31-4247-b5a6-53f4fcea7dd3" n="tacchinardi-niccolo">
+  <desc type="filename">Tacchinardi_Niccolo.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9263653T9263658.jpg" width="581" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="67" lrx="529" lry="554" cx="286" cy="310" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T13:05:27.656Z</desc>
+</surface>

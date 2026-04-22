@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ab225ecb-866d-41eb-a09a-3e90a6795e01" n="paulirinus-paulus">
+  <desc type="filename">Paulirinus_Paulus.xml</desc>
+  <graphic url="Paulirinus_Paulus.jpg" width="637" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="106" uly="184" lrx="514" lry="591" cx="310" cy="388" r="204" rotate="0"/>
+  <desc type="modified">2026-04-22T12:50:21.531Z</desc>
+</surface>

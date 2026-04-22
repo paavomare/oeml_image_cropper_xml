@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ceb0aa6b-fa22-4e94-8259-94d6fc7344d6" n="handl-geschwister">
+  <desc type="filename">Handl_Geschwister.xml</desc>
+  <graphic url="Handl_Marianne_1.jpg" width="1236" height="844">
+  </graphic>
+  <zone type="medallionCrop" ulx="873" uly="185" lrx="1070" lry="382" cx="972" cy="284" r="99" rotate="0"/>
+  <desc type="modified">2026-04-22T12:38:06.137Z</desc>
+</surface>

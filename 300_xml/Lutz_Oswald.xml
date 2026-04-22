@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3b3fad5e-6ab0-4d6c-aef6-86b69e002527" n="lutz-oswald">
+  <desc type="filename">Lutz_Oswald.xml</desc>
+  <graphic url="Lutz_Oswald.jpg" width="188" height="176">
+  </graphic>
+  <zone type="medallionCrop" ulx="1" uly="0" lrx="177" lry="176" cx="89" cy="88" r="88" rotate="0"/>
+  <desc type="modified">2026-04-22T13:15:50.081Z</desc>
+</surface>

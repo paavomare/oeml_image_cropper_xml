@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_133d8f43-2c58-4b25-876b-dfeecbae25fa" n="wolzogen-laura">
+  <desc type="filename">Wolzogen_Laura.xml</desc>
+  <graphic url="Wolzogen_Laura_1913.jpg" width="401" height="730">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="4" lrx="401" lry="405" cx="201" cy="205" r="201" rotate="0"/>
+  <desc type="modified">2026-04-22T13:13:46.922Z</desc>
+</surface>

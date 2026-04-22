@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8f14ec23-a0ba-4b02-8459-58d9b896fe8c" n="kristinus-karl">
+  <desc type="filename">Kristinus_Karl.xml</desc>
+  <graphic url="Kristinus_Karl.jpg" width="567" height="740">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="567" lry="567" cx="284" cy="284" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T12:40:45.694Z</desc>
+</surface>

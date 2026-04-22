@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b152f017-85ce-433a-8474-e5f5e9a35d40" n="linda-bertha">
+  <desc type="filename">Linda_Bertha.xml</desc>
+  <graphic url="Linda_Bertha_1875.jpg" width="858" height="1062">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="858" lry="887" cx="429" cy="458" r="429" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:57.905Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_059e1700-fa93-4269-bc1c-a36c0a835fbb" n="rappoldi-ehepaar">
+  <desc type="filename">Rappoldi_Ehepaar.xml</desc>
+  <graphic url="Rappoldi_Ehepaar.jpg" width="488" height="472">
+  </graphic>
+  <zone type="medallionCrop" ulx="30" uly="0" lrx="439" lry="410" cx="235" cy="205" r="205" rotate="0"/>
+  <desc type="modified">2026-04-22T14:11:25.917Z</desc>
+</surface>

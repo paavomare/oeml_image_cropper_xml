@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d3a6be69-02de-4da8-bb24-0a5d68e23cb4" n="planyavsky-familie">
+  <desc type="filename">Planyavsky_Familie.xml</desc>
+  <graphic url="Planyavsky_1976.jpg" width="571" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="46" lrx="571" lry="617" cx="286" cy="332" r="286" rotate="0"/>
+  <desc type="modified">2026-04-22T12:39:47.582Z</desc>
+</surface>

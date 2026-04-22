@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8879d489-9e9e-4a6e-823d-e9900ddb9004" n="liebhardt-ida">
+  <desc type="filename">Liebhardt_Ida.xml</desc>
+  <graphic url="Liebhardt_Ida.jpg" width="338" height="420">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="338" lry="366" cx="169" cy="197" r="169" rotate="0"/>
+  <desc type="modified">2026-04-22T13:13:17.147Z</desc>
+</surface>

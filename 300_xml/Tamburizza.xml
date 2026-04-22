@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_71e32f1a-6c72-4721-bbb9-d4e8c77ffa7e" n="tamburizza">
+  <desc type="filename">Tamburizza.xml</desc>
+  <graphic url="Tamburizza.jpg" width="906" height="597">
+  </graphic>
+  <zone type="medallionCrop" ulx="155" uly="0" lrx="752" lry="597" cx="454" cy="299" r="299" rotate="0"/>
+  <desc type="modified">2026-04-22T13:57:32.947Z</desc>
+</surface>

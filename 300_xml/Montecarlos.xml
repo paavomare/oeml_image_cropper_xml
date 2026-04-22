@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fa10dc45-a76a-4521-8f48-0b9bdb35f574" n="montecarlos">
+  <desc type="filename">Montecarlos.xml</desc>
+  <graphic url="Montecarlos.jpg" width="369" height="486">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="82" lrx="369" lry="451" cx="185" cy="267" r="185" rotate="0"/>
+  <desc type="modified">2026-04-22T14:11:33.830Z</desc>
+</surface>

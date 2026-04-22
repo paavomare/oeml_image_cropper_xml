@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3bada68c-7bea-46f0-bd80-d0eeb33e8a5b" n="walther-von-der-vogelweide">
+  <desc type="filename">Walther_von_der_Vogelweide.xml</desc>
+  <graphic url="Walther_von_der_Vogelweide.jpg" width="486" height="738">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="134" lrx="458" lry="576" cx="237" cy="355" r="221" rotate="0"/>
+  <desc type="modified">2026-04-22T14:08:54.793Z</desc>
+</surface>

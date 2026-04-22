@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9f276164-560c-4cbb-832f-ddaddc8fc135" n="gentiluomo-ehepaar">
+  <desc type="filename">Gentiluomo_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/198_B3914289T3914293.jpg" width="642" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="77" uly="141" lrx="539" lry="603" cx="308" cy="372" r="231" rotate="0"/>
+  <desc type="modified">2026-04-22T13:22:46.141Z</desc>
+</surface>

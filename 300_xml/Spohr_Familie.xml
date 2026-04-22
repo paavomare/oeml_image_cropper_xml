@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9eb14fc0-2542-4321-9901-1a34cf59887a" n="spohr-familie">
+  <desc type="filename">Spohr_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9232749T9232754.jpg" width="600" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="100" uly="145" lrx="478" lry="522" cx="289" cy="334" r="189" rotate="0"/>
+  <desc type="modified">2026-04-22T12:57:51.317Z</desc>
+</surface>

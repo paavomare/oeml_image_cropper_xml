@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_95775555-5a92-4daf-a5c6-aae57a67a1f9" n="kleinhapl-friedrich">
+  <desc type="filename">Kleinhapl_Friedrich.xml</desc>
+  <graphic url="Kleinhapl.JPG" width="269" height="582">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="269" lry="299" cx="135" cy="165" r="135" rotate="0"/>
+  <desc type="modified">2026-04-22T13:09:40.701Z</desc>
+</surface>

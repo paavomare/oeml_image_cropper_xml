@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ac2285f2-90f6-43c0-a9d6-f9f64335ac1b" n="stelzhamer-franz">
+  <desc type="filename">Stelzhamer_Franz.xml</desc>
+  <graphic url="bildarchivaustria/330_B4401764T4401768.jpg" width="485" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="44" lrx="485" lry="529" cx="243" cy="287" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T12:39:53.785Z</desc>
+</surface>

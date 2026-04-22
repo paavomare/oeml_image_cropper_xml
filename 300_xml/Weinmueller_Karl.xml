@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90c7ab9f-29c2-4b45-803e-0483de89ff14" n="weinmueller-karl">
+  <desc type="filename">Weinmueller_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9237040T9237045.jpg" width="581" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="149" uly="183" lrx="418" lry="452" cx="284" cy="318" r="135" rotate="0"/>
+  <desc type="modified">2026-04-22T13:23:10.620Z</desc>
+</surface>

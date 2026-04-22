@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_49c296d3-ddc7-4d56-8863-fc506fb732fa" n="pauer-fritz">
+  <desc type="filename">Pauer_Fritz.xml</desc>
+  <graphic url="Pauer_Fritz.jpg" width="591" height="889">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="193" lrx="591" lry="784" cx="296" cy="489" r="296" rotate="0"/>
+  <desc type="modified">2026-04-22T13:57:20.479Z</desc>
+</surface>

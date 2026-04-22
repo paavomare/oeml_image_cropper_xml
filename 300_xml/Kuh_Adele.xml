@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d92084aa-ceed-4034-8361-4eb6b7835145" n="kuh-adele">
+  <desc type="filename">Kuh_Adele.xml</desc>
+  <graphic url="Kuh_Adele.jpg" width="2328" height="3617">
+  </graphic>
+  <zone type="medallionCrop" ulx="80" uly="518" lrx="2157" lry="2596" cx="1119" cy="1557" r="1039" rotate="0"/>
+  <desc type="modified">2026-04-22T14:03:45.464Z</desc>
+</surface>

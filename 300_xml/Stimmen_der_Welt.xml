@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8e3b0821-eaf7-4138-8f51-c3b6dfe30a66" n="stimmen-der-welt">
+  <desc type="filename">Stimmen_der_Welt.xml</desc>
+  <graphic url="Stimmen_der_Welt_1970.jpg" width="637" height="900">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="637" lry="637" cx="319" cy="319" r="319" rotate="0"/>
+  <desc type="modified">2026-04-22T12:59:15.156Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3b9b3e83-02f1-48a7-a34f-05efa31e355c" n="hueni-mihacsek-felicie">
+  <desc type="filename">Hueni-Mihacsek_Felicie.xml</desc>
+  <graphic url="bildarchivaustria/BA_909_B10541707T10541712.jpg" width="540" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="48" uly="21" lrx="505" lry="478" cx="277" cy="250" r="229" rotate="0"/>
+  <desc type="modified">2026-04-22T13:23:27.052Z</desc>
+</surface>

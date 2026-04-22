@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9bcc82c4-4b0b-416c-a1c8-bfca720049ed" n="pruewer-julius">
+  <desc type="filename">Pruewer_Julius.xml</desc>
+  <graphic url="Pruewer_Julius.jpg" width="339" height="418">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="339" lry="353" cx="170" cy="184" r="170" rotate="0"/>
+  <desc type="modified">2026-04-22T14:04:53.004Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9a8e6ad0-e17b-470d-a648-9e01315e6377" n="deutsch-alex">
+  <desc type="filename">Deutsch_Alex.xml</desc>
+  <graphic url="Deutsch_Alex.jpg" width="1100" height="734">
+  </graphic>
+  <zone type="medallionCrop" ulx="172" uly="0" lrx="906" lry="734" cx="539" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-22T13:29:53.150Z</desc>
+</surface>

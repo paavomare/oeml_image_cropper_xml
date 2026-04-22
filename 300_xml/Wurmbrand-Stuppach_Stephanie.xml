@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_71545c29-e66e-42e6-97f4-0c3f4732ec64" n="wurmbrand-stuppach-stephanie">
+  <desc type="filename">Wurmbrand-Stuppach_Stephanie.xml</desc>
+  <graphic url="Wurmbrand_Stephanie.jpg" width="341" height="411">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="341" lry="369" cx="171" cy="199" r="171" rotate="0"/>
+  <desc type="modified">2026-04-22T13:11:14.595Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_021e3637-a969-4294-9d73-f112fc589ae6" n="haebler-ingrid">
+  <desc type="filename">Haebler_Ingrid.xml</desc>
+  <graphic url="Haebler_Ingrid_1966.jpg" width="1276" height="836">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="686" lry="701" cx="343" cy="358" r="343" rotate="0"/>
+  <desc type="modified">2026-04-22T12:43:54.017Z</desc>
+</surface>

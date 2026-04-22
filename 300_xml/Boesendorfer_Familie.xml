@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_56558d7d-c10b-4e3b-96f7-f230ec8ca033" n="boesendorfer-familie">
+  <desc type="filename">Boesendorfer_Familie.xml</desc>
+  <graphic url="Boesendorfer_Ludwig.jpg" width="476" height="718">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="92" lrx="476" lry="568" cx="238" cy="330" r="238" rotate="0"/>
+  <desc type="modified">2026-04-22T13:13:27.404Z</desc>
+</surface>

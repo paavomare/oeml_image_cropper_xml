@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9039715f-dfb2-49fc-be03-820a9a8909ef" n="kornienko-alexei">
+  <desc type="filename">Kornienko_Alexei.xml</desc>
+  <graphic url="Kornienko_Alexei.jpg" width="1156" height="768">
+  </graphic>
+  <zone type="medallionCrop" ulx="80" uly="0" lrx="848" lry="768" cx="464" cy="384" r="384" rotate="0"/>
+  <desc type="modified">2026-04-22T13:02:32.908Z</desc>
+</surface>

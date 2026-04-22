@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5516ed00-cae5-4514-a700-085fc1346850" n="mayseder-joseph">
+  <desc type="filename">Mayseder_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/127_B3590781T3590785.jpg" width="610" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="138" uly="177" lrx="464" lry="503" cx="301" cy="340" r="163" rotate="0"/>
+  <desc type="modified">2026-04-22T12:49:49.721Z</desc>
+</surface>

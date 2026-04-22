@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_89481402-8574-4d19-8288-96dafc040d56" n="schuetz-franz">
+  <desc type="filename">Schuetz_Franz.xml</desc>
+  <graphic url="Schuetz_wrb1931.jpg" width="1297" height="851">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="851" lry="851" cx="426" cy="426" r="426" rotate="0"/>
+  <desc type="modified">2026-04-22T13:24:18.285Z</desc>
+</surface>

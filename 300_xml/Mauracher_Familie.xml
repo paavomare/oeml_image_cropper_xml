@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_614707e1-1e5f-41fc-9d80-ed5f7437a524" n="mauracher-familie">
+  <desc type="filename">Mauracher_Familie.xml</desc>
+  <graphic url="Bludenz_Orgel.jpg" width="1134" height="794">
+  </graphic>
+  <zone type="medallionCrop" ulx="147" uly="0" lrx="941" lry="794" cx="544" cy="397" r="397" rotate="0"/>
+  <desc type="modified">2026-04-22T12:50:07.617Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9956f066-ed3a-49b5-b510-e8fa0974d4e7" n="kauffmann-angelika">
+  <desc type="filename">Kauffmann_Angelika.xml</desc>
+  <graphic url="bildarchivaustria/152_B3705027T3705031.jpg" width="599" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="118" uly="123" lrx="479" lry="483" cx="299" cy="304" r="181" rotate="0"/>
+  <desc type="modified">2026-04-22T12:47:11.937Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ef8f1a30-903d-4fb8-9439-2cd88a0293a7" n="losch-tilly">
+  <desc type="filename">Losch_Tilly.xml</desc>
+  <graphic url="Losch_1926.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="96" uly="58" lrx="548" lry="510" cx="322" cy="284" r="226" rotate="0"/>
+  <desc type="modified">2026-04-22T14:28:15.435Z</desc>
+</surface>

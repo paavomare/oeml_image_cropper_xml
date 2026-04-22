@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4230183e-71d5-408a-9ba2-98736ef796c6" n="klosterneuburg">
+  <desc type="filename">Klosterneuburg.xml</desc>
+  <graphic url="Klosterneuburg_Festorgel.jpg" width="850" height="941">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="45" lrx="850" lry="895" cx="425" cy="470" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T12:47:00.858Z</desc>
+</surface>

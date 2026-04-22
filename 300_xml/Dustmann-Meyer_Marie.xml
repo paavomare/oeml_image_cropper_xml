@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ba51f342-738f-4d9d-b7e1-93b4f6dcaeba" n="dustmann-meyer-marie">
+  <desc type="filename">Dustmann-Meyer_Marie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9265254T9265259.jpg" width="698" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="698" lry="712" cx="349" cy="363" r="349" rotate="0"/>
+  <desc type="modified">2026-04-22T12:39:36.573Z</desc>
+</surface>

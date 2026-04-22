@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_30b9f5d2-8541-49e9-b58d-662fc80ee005" n="pernerstorfer-ehepaar">
+  <desc type="filename">Pernerstorfer_Ehepaar.xml</desc>
+  <graphic url="Pernerstorfer_Alois.jpg" width="281" height="397">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="48" lrx="281" lry="329" cx="141" cy="189" r="141" rotate="0"/>
+  <desc type="modified">2026-04-22T14:10:47.111Z</desc>
+</surface>

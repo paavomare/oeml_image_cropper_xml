@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_16c29591-304e-4fa1-ba4f-e9d36f935424" n="brauer-familie">
+  <desc type="filename">Brauer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_928_B12531107T12531112.jpg" width="588" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="588" lry="627" cx="294" cy="333" r="294" rotate="0"/>
+  <desc type="modified">2026-04-22T13:36:46.430Z</desc>
+</surface>

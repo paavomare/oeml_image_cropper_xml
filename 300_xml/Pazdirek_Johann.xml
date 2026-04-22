@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d239cc5c-786d-4bdd-b4e8-cc5614798b72" n="pazdirek-johann">
+  <desc type="filename">Pazdirek_Johann.xml</desc>
+  <graphic url="Gotthard_J_P.jpg" width="322" height="479">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="33" lrx="322" lry="355" cx="161" cy="194" r="161" rotate="0"/>
+  <desc type="modified">2026-04-22T13:25:56.605Z</desc>
+</surface>

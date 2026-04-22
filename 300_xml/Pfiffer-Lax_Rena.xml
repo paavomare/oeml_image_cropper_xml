@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_230d0bd6-c5a7-4d17-be47-3ea1d935dc76" n="pfiffer-lax-rena">
+  <desc type="filename">Pfiffer-Lax_Rena.xml</desc>
+  <graphic url="Pfiffer-Lax_Rena.jpg" width="567" height="786">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="80" lrx="524" lry="580" cx="275" cy="330" r="250" rotate="0"/>
+  <desc type="modified">2026-04-22T12:58:14.389Z</desc>
+</surface>

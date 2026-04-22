@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_66eb2249-f9cc-49ff-a019-999c93f3faea" n="budik-peter">
+  <desc type="filename">Budik_Peter.xml</desc>
+  <graphic url="bildarchivaustria/191_B3885017T3885021.jpg" width="582" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="72" uly="152" lrx="503" lry="583" cx="288" cy="368" r="216" rotate="0"/>
+  <desc type="modified">2026-04-22T13:09:00.346Z</desc>
+</surface>

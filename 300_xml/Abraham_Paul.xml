@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_905e4d8a-db58-40de-bdef-877d8e9d03cb" n="abraham-paul">
+  <desc type="filename">Abraham_Paul.xml</desc>
+  <graphic url="bildarchivaustria/736_B391746T8018084.jpg" width="800" height="585">
+  </graphic>
+  <zone type="medallionCrop" ulx="1" uly="0" lrx="586" lry="585" cx="294" cy="293" r="293" rotate="0"/>
+  <desc type="modified">2026-04-22T13:42:49.625Z</desc>
+</surface>

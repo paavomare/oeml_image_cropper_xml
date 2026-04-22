@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3fb550cf-3a01-4473-b87f-fab371723b78" n="nedbal-familie">
+  <desc type="filename">Nedbal_Familie.xml</desc>
+  <graphic url="Nedbal_Oskar.jpg" width="454" height="666">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="60" lrx="454" lry="514" cx="227" cy="287" r="227" rotate="0"/>
+  <desc type="modified">2026-04-22T14:08:26.403Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ea2f1162-7d21-4159-aa63-58d4033bc67c" n="rainer-familie">
+  <desc type="filename">Rainer_Familie.xml</desc>
+  <graphic url="Rainer_Ludwig.jpg" width="425" height="516">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="60" lrx="425" lry="485" cx="213" cy="273" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T13:41:21.533Z</desc>
+</surface>

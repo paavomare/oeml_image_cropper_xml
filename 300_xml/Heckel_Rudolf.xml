@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2d35061f-6a42-4e86-89fa-caf9b9bf2f23" n="heckel-rudolf">
+  <desc type="filename">Heckel_Rudolf.xml</desc>
+  <graphic url="Heckel_Rudolf.jpg" width="548" height="667">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="45" lrx="520" lry="536" cx="274" cy="291" r="246" rotate="0"/>
+  <desc type="modified">2026-04-22T13:34:28.623Z</desc>
+</surface>

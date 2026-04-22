@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_89caf555-e7bc-4af0-91c0-4bce4860b6e0" n="weiner-dillmann-hans">
+  <desc type="filename">Weiner-Dillmann_Hans.xml</desc>
+  <graphic url="bildarchivaustria/190_B3884185T3884188.jpg" width="726" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="53" uly="42" lrx="664" lry="653" cx="359" cy="348" r="306" rotate="0"/>
+  <desc type="modified">2026-04-22T13:20:20.567Z</desc>
+</surface>

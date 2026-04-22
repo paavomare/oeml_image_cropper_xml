@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ab734eaf-f36f-4c10-893c-c665468c08d6" n="benatzky-ralph">
+  <desc type="filename">Benatzky_Ralph.xml</desc>
+  <graphic url="Benatzky_Ralph_2.jpg" width="1110" height="1320">
+  </graphic>
+  <zone type="medallionCrop" ulx="171" uly="29" lrx="1110" lry="968" cx="641" cy="499" r="470" rotate="0"/>
+  <desc type="modified">2026-04-22T12:33:26.276Z</desc>
+</surface>

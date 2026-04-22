@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ff7ed752-6b1a-4e2e-b986-fd8ce9f4e9ec" n="poppy-alba">
+  <desc type="filename">Poppy_Alba.xml</desc>
+  <graphic url="Poppy_Alba.jpg" width="198" height="335">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="56" lrx="198" lry="254" cx="99" cy="155" r="99" rotate="0"/>
+  <desc type="modified">2026-04-22T12:40:54.586Z</desc>
+</surface>

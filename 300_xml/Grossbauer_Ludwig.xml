@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ddf2dba0-8890-40dc-aa49-6730eca6f285" n="grossbauer-ludwig">
+  <desc type="filename">Grossbauer_Ludwig.xml</desc>
+  <graphic url="Grossbauer_Ludwig.jpg" width="340" height="339">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="17" lrx="326" lry="327" cx="171" cy="172" r="155" rotate="0"/>
+  <desc type="modified">2026-04-22T12:58:24.629Z</desc>
+</surface>

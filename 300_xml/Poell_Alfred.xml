@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fdf28549-25c2-4c68-b752-2546498e53e8" n="poell-alfred">
+  <desc type="filename">Poell_Alfred.xml</desc>
+  <graphic url="bildarchivaustria/71_B659762T1798375.jpg" width="629" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="92" lrx="471" lry="563" cx="236" cy="328" r="236" rotate="0"/>
+  <desc type="modified">2026-04-22T12:50:40.975Z</desc>
+</surface>

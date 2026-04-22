@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e9ecfd28-4340-4f30-938f-1cd58b7a35ce" n="kohl-franz">
+  <desc type="filename">Kohl_Franz.xml</desc>
+  <graphic url="Kohl_Franz_Friedrich.jpg" width="425" height="559">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="425" lry="443" cx="213" cy="231" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T12:50:48.134Z</desc>
+</surface>

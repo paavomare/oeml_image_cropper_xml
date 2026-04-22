@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e0e73d8e-9af2-455c-b15a-e41490da8a33" n="lindemayr-maurus">
+  <desc type="filename">Lindemayr_Maurus.xml</desc>
+  <graphic url="Lindemayr.jpg" width="242" height="384">
+  </graphic>
+  <zone type="medallionCrop" ulx="10" uly="68" lrx="231" lry="289" cx="121" cy="179" r="111" rotate="0"/>
+  <desc type="modified">2026-04-22T14:05:49.021Z</desc>
+</surface>

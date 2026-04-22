@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dafdb34e-e903-44fd-9800-205f08db6ecd" n="gedenkstaetten">
+  <desc type="filename">Gedenkstaetten.xml</desc>
+  <graphic url="Beethoven-TieferGraben.jpg" width="3010" height="1583">
+  </graphic>
+  <zone type="medallionCrop" ulx="416" uly="0" lrx="1999" lry="1583" cx="1208" cy="792" r="792" rotate="0"/>
+  <desc type="modified">2026-04-22T13:59:09.743Z</desc>
+</surface>

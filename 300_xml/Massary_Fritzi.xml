@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_83a6ae03-a100-4382-a452-769dae970ff3" n="massary-fritzi">
+  <desc type="filename">Massary_Fritzi.xml</desc>
+  <graphic url="bildarchivaustria/342_B306293T4446559.jpg" width="593" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="22" uly="45" lrx="570" lry="593" cx="296" cy="319" r="274" rotate="0"/>
+  <desc type="modified">2026-04-22T14:11:08.886Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6a542862-3617-4222-9d15-196f69e1cd49" n="ostbahn-kurti">
+  <desc type="filename">Ostbahn_Kurti.xml</desc>
+  <graphic url="Ostbahnkurti_Plakat1990.jpg" width="565" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="257" uly="172" lrx="522" lry="437" cx="390" cy="305" r="133" rotate="0"/>
+  <desc type="modified">2026-04-22T13:07:25.049Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_73babfdb-3674-4bbf-abcc-cea97051f3bf" n="waldburg-wurzach-julie">
+  <desc type="filename">Waldburg-Wurzach_Julie.xml</desc>
+  <graphic url="Waldburg-Wurzach_Julie.jpg" width="352" height="591">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="352" lry="391" cx="176" cy="215" r="176" rotate="0"/>
+  <desc type="modified">2026-04-22T14:10:41.317Z</desc>
+</surface>

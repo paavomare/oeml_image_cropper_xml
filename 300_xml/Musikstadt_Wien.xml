@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c45a05bf-ee56-4286-b6dd-4dc3f15b39b4" n="musikstadt-wien">
+  <desc type="filename">Musikstadt_Wien.xml</desc>
+  <graphic url="Zasche_1919.jpg" width="1918" height="1268">
+  </graphic>
+  <zone type="medallionCrop" ulx="140" uly="0" lrx="1408" lry="1268" cx="774" cy="634" r="634" rotate="0"/>
+  <desc type="modified">2026-04-22T13:45:07.070Z</desc>
+</surface>

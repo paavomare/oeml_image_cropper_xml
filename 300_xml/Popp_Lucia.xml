@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b96f9e68-0ffe-4c65-b7fe-289db633e2d9" n="popp-lucia">
+  <desc type="filename">Popp_Lucia.xml</desc>
+  <graphic url="Popp_1966.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="119" lrx="579" lry="698" cx="290" cy="409" r="290" rotate="0"/>
+  <desc type="modified">2026-04-22T13:46:34.103Z</desc>
+</surface>

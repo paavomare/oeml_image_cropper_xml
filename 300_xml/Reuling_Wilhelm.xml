@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ef65c088-d523-4f58-9be1-788fd229b21d" n="reuling-wilhelm">
+  <desc type="filename">Reuling_Wilhelm.xml</desc>
+  <graphic url="Reuling.jpg" width="515" height="709">
+  </graphic>
+  <zone type="medallionCrop" ulx="118" uly="71" lrx="413" lry="366" cx="266" cy="219" r="148" rotate="0"/>
+  <desc type="modified">2026-04-22T13:37:22.111Z</desc>
+</surface>

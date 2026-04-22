@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5b247356-3034-46bc-b760-f01343dd06c6" n="kittel-hermine">
+  <desc type="filename">Kittel_Hermine.xml</desc>
+  <graphic url="Kittel_Hermine_1902.jpg" width="833" height="873">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="833" lry="839" cx="417" cy="423" r="417" rotate="0"/>
+  <desc type="modified">2026-04-22T14:03:29.121Z</desc>
+</surface>

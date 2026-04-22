@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0d233b73-db8f-4564-84e4-54fbc007ae82" n="pewny-michael">
+  <desc type="filename">Pewny_Michael.xml</desc>
+  <graphic url="Pewny_Michael.jpg" width="654" height="744">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="654" lry="667" cx="327" cy="340" r="327" rotate="0"/>
+  <desc type="modified">2026-04-22T14:07:43.984Z</desc>
+</surface>

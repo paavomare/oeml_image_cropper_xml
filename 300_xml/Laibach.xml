@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_13ea73b0-746b-4601-b5c8-e6490b75ed8b" n="laibach">
+  <desc type="filename">Laibach.xml</desc>
+  <graphic url="Laibach_Oper.jpg" width="921" height="677">
+  </graphic>
+  <zone type="medallionCrop" ulx="95" uly="0" lrx="772" lry="677" cx="434" cy="339" r="339" rotate="0"/>
+  <desc type="modified">2026-04-22T13:45:38.297Z</desc>
+</surface>

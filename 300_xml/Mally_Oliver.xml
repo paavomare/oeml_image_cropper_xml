@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6c777754-c6d1-44a0-bf08-5e3a87c27dcb" n="mally-oliver">
+  <desc type="filename">Mally_Oliver.xml</desc>
+  <graphic url="Mally_Oliver.jpg" width="1134" height="756">
+  </graphic>
+  <zone type="medallionCrop" ulx="276" uly="0" lrx="1032" lry="756" cx="654" cy="378" r="378" rotate="0"/>
+  <desc type="modified">2026-04-22T14:09:06.340Z</desc>
+</surface>

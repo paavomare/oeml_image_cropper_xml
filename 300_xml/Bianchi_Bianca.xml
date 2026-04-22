@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_560bb557-d01e-4d74-926f-6909fe5caec2" n="bianchi-bianca">
+  <desc type="filename">Bianchi_Bianca.xml</desc>
+  <graphic url="bildarchivaustria/BA_903_B10029885T10029890.jpg" width="564" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="95" lrx="564" lry="659" cx="282" cy="377" r="282" rotate="0"/>
+  <desc type="modified">2026-04-22T12:57:36.692Z</desc>
+</surface>

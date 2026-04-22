@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_97455654-6a87-40bc-930d-06173c446c61" n="frodl-familie">
+  <desc type="filename">Frodl_Familie.xml</desc>
+  <graphic url="Frodl_Hilda.jpg" width="425" height="592">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="425" lry="448" cx="213" cy="236" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T13:21:41.010Z</desc>
+</surface>

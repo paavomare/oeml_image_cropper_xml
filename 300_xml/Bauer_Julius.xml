@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_45b1d491-3567-4ed2-9122-6301634bb283" n="bauer-julius">
+  <desc type="filename">Bauer_Julius.xml</desc>
+  <graphic url="bildarchivaustria/539_B7226113T7226117.jpg" width="593" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="329" lrx="295" lry="613" cx="153" cy="471" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T13:16:55.184Z</desc>
+</surface>

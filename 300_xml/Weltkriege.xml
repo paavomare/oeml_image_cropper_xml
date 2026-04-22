@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e13dbcdd-377f-4420-a6ef-ab382e504a61" n="weltkriege">
+  <desc type="filename">Weltkriege.xml</desc>
+  <graphic url="Weltkriege1.jpg" width="612" height="842">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="90" lrx="612" lry="702" cx="306" cy="396" r="306" rotate="0"/>
+  <desc type="modified">2026-04-22T13:19:45.608Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6b9941f6-244a-4e75-b368-e7b0d14a3716" n="graetz-joseph">
+  <desc type="filename">Graetz_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9253748T9253753.jpg" width="517" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="46" uly="141" lrx="474" lry="569" cx="260" cy="355" r="214" rotate="0"/>
+  <desc type="modified">2026-04-22T12:27:24.748Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e69eaca6-a11c-4630-9c9b-e5cbbaad43d3" n="derschmidt-familie">
+  <desc type="filename">Derschmidt_Familie.xml</desc>
+  <graphic url="Derschmidt_Wolfram.jpg" width="755" height="1119">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="120" lrx="755" lry="875" cx="378" cy="498" r="378" rotate="0"/>
+  <desc type="modified">2026-04-22T13:22:40.731Z</desc>
+</surface>

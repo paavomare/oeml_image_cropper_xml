@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_85486146-4c93-454f-bd7d-0228fc0aa8db" n="ehn-josef">
+  <desc type="filename">Ehn_Josef.xml</desc>
+  <graphic url="Ehn_Josef.jpg" width="426" height="691">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="37" lrx="426" lry="463" cx="213" cy="250" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T12:27:42.411Z</desc>
+</surface>

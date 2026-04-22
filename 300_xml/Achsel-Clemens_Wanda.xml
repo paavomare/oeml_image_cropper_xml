@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_916b375e-51c6-4ccd-b8ce-fe72c733b2a8" n="achsel-clemens-wanda">
+  <desc type="filename">Achsel-Clemens_Wanda.xml</desc>
+  <graphic url="Achsel-Clemens_Wanda_1929.jpg" width="1072" height="1348">
+  </graphic>
+  <zone type="medallionCrop" ulx="70" uly="0" lrx="1061" lry="990" cx="566" cy="496" r="496" rotate="0"/>
+  <desc type="modified">2026-04-22T13:33:50.010Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7a1da6ee-0c58-4e36-a288-4a9751e21fca" n="einem-gottfried-von">
+  <desc type="filename">Einem_Gottfried_von.xml</desc>
+  <graphic url="bildarchivaustria/391_B391947T4606531.jpg" width="575" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="575" lry="607" cx="288" cy="320" r="288" rotate="0"/>
+  <desc type="modified">2026-04-22T13:03:16.125Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_323ac294-c6f1-49a5-bf38-9fdd3b3a5625" n="schoenberg-arnold">
+  <desc type="filename">Schoenberg_Arnold.xml</desc>
+  <graphic url="bildarchivaustria/93_B2955685T2955689.jpg" width="554" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="53" lrx="554" lry="607" cx="277" cy="330" r="277" rotate="0"/>
+  <desc type="modified">2026-04-22T13:44:02.121Z</desc>
+</surface>

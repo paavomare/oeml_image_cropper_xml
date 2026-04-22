@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_11ab18c2-b6bc-42da-80c6-0e0b11c66eb3" n="sontag-henriette">
+  <desc type="filename">Sontag_Henriette.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9275609T9275614.jpg" width="626" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="74" uly="161" lrx="545" lry="632" cx="310" cy="397" r="236" rotate="0"/>
+  <desc type="modified">2026-04-22T12:27:36.251Z</desc>
+</surface>

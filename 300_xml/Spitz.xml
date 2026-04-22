@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_01c69f9e-a1b8-480f-84ec-ee3b2a898307" n="spitz">
+  <desc type="filename">Spitz.xml</desc>
+  <graphic url="bildarchivaustria/BA_1083_B19210514T19210519.jpg" width="800" height="593">
+  </graphic>
+  <zone type="medallionCrop" ulx="41" uly="0" lrx="634" lry="593" cx="338" cy="297" r="297" rotate="0"/>
+  <desc type="modified">2026-04-22T14:06:56.286Z</desc>
+</surface>

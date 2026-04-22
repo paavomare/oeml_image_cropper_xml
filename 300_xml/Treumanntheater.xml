@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_547e7722-8624-40c1-a762-9dc57045d27b" n="treumanntheater">
+  <desc type="filename">Treumanntheater.xml</desc>
+  <graphic url="Treumanntheater_2.jpg" width="960" height="824">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="60" lrx="695" lry="691" cx="380" cy="376" r="316" rotate="0"/>
+  <desc type="modified">2026-04-22T13:30:13.167Z</desc>
+</surface>

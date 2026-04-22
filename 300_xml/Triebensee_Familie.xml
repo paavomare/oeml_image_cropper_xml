@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c5e04333-68d7-4498-8b8f-ea93da5dd857" n="triebensee-familie">
+  <desc type="filename">Triebensee_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247423T9247428.jpg" width="569" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="30" uly="97" lrx="516" lry="583" cx="273" cy="340" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T13:09:36.013Z</desc>
+</surface>

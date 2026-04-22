@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_05757061-9c8d-404f-97c3-4a709651b99f" n="carl-carl">
+  <desc type="filename">Carl_Carl.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9124505T9124510.jpg" width="594" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="41" lrx="526" lry="523" cx="285" cy="283" r="242" rotate="0"/>
+  <desc type="modified">2026-04-22T13:14:11.502Z</desc>
+</surface>

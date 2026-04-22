@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0d5bc517-869a-4b96-8d10-cfd069f74528" n="mandoline">
+  <desc type="filename">Mandoline.xml</desc>
+  <graphic url="Mandoline-Bertoni_KaB.jpg" width="1286" height="2390">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1286" lry="1286" cx="643" cy="643" r="643" rotate="0"/>
+  <desc type="modified">2026-04-22T14:19:56.907Z</desc>
+</surface>

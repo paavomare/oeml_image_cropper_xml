@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_46121ca5-d806-43ef-a229-e97f8c63e9d2" n="modl-gabriele">
+  <desc type="filename">Modl_Gabriele.xml</desc>
+  <graphic url="Modl_Gabriele_Donauweibchen.jpg" width="483" height="858">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="483" lry="504" cx="242" cy="263" r="242" rotate="0"/>
+  <desc type="modified">2026-04-22T12:45:36.864Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_126713fc-77c3-4afb-b662-ddcd7de243d8" n="kober-ignaz">
+  <desc type="filename">Kober_Ignaz.xml</desc>
+  <graphic url="Kober_Ignaz.jpg" width="567" height="756">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="189" lrx="567" lry="756" cx="284" cy="473" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T12:32:51.320Z</desc>
+</surface>

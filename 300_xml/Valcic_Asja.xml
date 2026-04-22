@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ff136abb-248e-4d01-bd1c-2598e8fe2832" n="valcic-asja">
+  <desc type="filename">Valcic_Asja.xml</desc>
+  <graphic url="Valcic_Asja_Porgy.jpg" width="2331" height="3110">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="2331" lry="2331" cx="1166" cy="1166" r="1166" rotate="0"/>
+  <desc type="modified">2026-04-22T13:17:11.324Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_035cd200-bc02-4649-a8ea-fac5a282f66b" n="hanslick-eduard">
+  <desc type="filename">Hanslick_Eduard.xml</desc>
+  <graphic url="bildarchivaustria/747_B8081819T8081823.jpg" width="487" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="87" lrx="466" lry="531" cx="244" cy="310" r="223" rotate="0"/>
+  <desc type="modified">2026-04-22T12:57:07.536Z</desc>
+</surface>

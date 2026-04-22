@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_06eeb7fd-e9a0-4fd0-932c-aea5a387135d" n="schubert-brueder-franz">
+  <desc type="filename">Schubert_Brueder_FRANZ.xml</desc>
+  <graphic url="bildarchivaustria/543_B7240899T7240903.jpg" width="601" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="95" lrx="507" lry="511" cx="299" cy="303" r="208" rotate="0"/>
+  <desc type="modified">2026-04-22T13:57:54.737Z</desc>
+</surface>

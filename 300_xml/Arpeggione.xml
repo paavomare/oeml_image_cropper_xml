@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b690aa90-744e-4f7e-b86e-1395bf37fcb2" n="arpeggione">
+  <desc type="filename">Arpeggione.xml</desc>
+  <graphic url="Arpeggione_Staufer.jpg" width="334" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="327" lrx="334" lry="661" cx="167" cy="494" r="167" rotate="0"/>
+  <desc type="modified">2026-04-22T13:53:21.165Z</desc>
+</surface>

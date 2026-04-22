@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d1182ba3-2bc7-4b8b-8364-2f35346dccd4" n="gurk">
+  <desc type="filename">Gurk.xml</desc>
+  <graphic url="Gurk_Orgel.jpg" width="992" height="944">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="0" lrx="978" lry="944" cx="506" cy="472" r="472" rotate="0"/>
+  <desc type="modified">2026-04-22T13:19:21.896Z</desc>
+</surface>

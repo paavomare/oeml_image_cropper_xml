@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_82cf7525-719d-428a-8b43-037453e18e5c" n="ring-theater">
+  <desc type="filename">Ring-Theater.xml</desc>
+  <graphic url="bildarchivaustria/BA_900_B1942704T9967268.jpg" width="801" height="634">
+  </graphic>
+  <zone type="medallionCrop" ulx="109" uly="0" lrx="743" lry="634" cx="426" cy="317" r="317" rotate="0"/>
+  <desc type="modified">2026-04-22T13:41:43.831Z</desc>
+</surface>

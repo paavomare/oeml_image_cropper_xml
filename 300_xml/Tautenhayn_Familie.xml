@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_afe3fb7e-4ab3-41a0-bc71-48a4776c87fa" n="tautenhayn-familie">
+  <desc type="filename">Tautenhayn_Familie.xml</desc>
+  <graphic url="bildarchivaustria/248_B4097996T4098000.jpg" width="617" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="125" uly="186" lrx="492" lry="552" cx="309" cy="370" r="184" rotate="0"/>
+  <desc type="modified">2026-04-22T13:34:16.617Z</desc>
+</surface>

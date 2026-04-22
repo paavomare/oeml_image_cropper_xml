@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_15005cd7-25d8-415e-8ac0-dce99c8622ae" n="zamara-familie">
+  <desc type="filename">Zamara_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9819527T9819532.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="578" lry="609" cx="289" cy="320" r="289" rotate="0"/>
+  <desc type="modified">2026-04-22T13:42:56.873Z</desc>
+</surface>

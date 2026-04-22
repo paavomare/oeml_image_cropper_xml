@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1aad9dd8-ae07-4a82-8d29-caadde3a2671" n="pauer-ernst">
+  <desc type="filename">Pauer_Ernst.xml</desc>
+  <graphic url="bildarchivaustria/744_B8075497T8075501.jpg" width="516" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="75" uly="108" lrx="470" lry="503" cx="273" cy="306" r="198" rotate="0"/>
+  <desc type="modified">2026-04-22T13:55:32.767Z</desc>
+</surface>

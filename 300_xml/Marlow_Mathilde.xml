@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6ac6e535-7a7a-4a27-ba2a-247b4e44ed69" n="marlow-mathilde">
+  <desc type="filename">Marlow_Mathilde.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9267373T9267378.jpg" width="572" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="54" uly="97" lrx="536" lry="579" cx="295" cy="338" r="241" rotate="0"/>
+  <desc type="modified">2026-04-22T13:10:14.192Z</desc>
+</surface>

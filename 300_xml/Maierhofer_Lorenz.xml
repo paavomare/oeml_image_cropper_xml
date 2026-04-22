@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_05889653-355d-4caa-9125-9eeb099d7361" n="maierhofer-lorenz">
+  <desc type="filename">Maierhofer_Lorenz.xml</desc>
+  <graphic url="Maierhofer_Lorenz_2017.jpg" width="1134" height="756">
+  </graphic>
+  <zone type="medallionCrop" ulx="119" uly="0" lrx="875" lry="756" cx="497" cy="378" r="378" rotate="0"/>
+  <desc type="modified">2026-04-22T13:44:26.810Z</desc>
+</surface>

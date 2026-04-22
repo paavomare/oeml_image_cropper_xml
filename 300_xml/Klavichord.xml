@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_df0637f2-ddc1-46e4-a878-129cfb526f94" n="klavichord">
+  <desc type="filename">Klavichord.xml</desc>
+  <graphic url="Klavichord2.jpg" width="747" height="831">
+  </graphic>
+  <zone type="medallionCrop" ulx="390" uly="234" lrx="747" lry="592" cx="569" cy="413" r="179" rotate="0"/>
+  <desc type="modified">2026-04-22T12:28:17.838Z</desc>
+</surface>

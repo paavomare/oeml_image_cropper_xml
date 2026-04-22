@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_39bdd953-82e4-4cc3-a72c-0cbf3a33651a" n="stollewerk-nina">
+  <desc type="filename">Stollewerk_Nina.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9268745T9268750.jpg" width="584" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="76" lrx="545" lry="580" cx="294" cy="328" r="252" rotate="0"/>
+  <desc type="modified">2026-04-22T13:09:06.548Z</desc>
+</surface>

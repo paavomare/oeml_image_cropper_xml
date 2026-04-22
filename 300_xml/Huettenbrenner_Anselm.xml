@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_07b47837-a844-4033-b34e-77036d453cdd" n="huettenbrenner-anselm">
+  <desc type="filename">Huettenbrenner_Anselm.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9254442T9254447.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="60" uly="162" lrx="455" lry="557" cx="258" cy="360" r="198" rotate="0"/>
+  <desc type="modified">2026-04-22T14:09:15.602Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3bd73f48-3b23-4c5c-9cb4-1d40735686e0" n="wiet-helene">
+  <desc type="filename">Wiet_Helene.xml</desc>
+  <graphic url="Wiet_Helene.jpg" width="428" height="405">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="0" lrx="401" lry="374" cx="215" cy="187" r="187" rotate="0"/>
+  <desc type="modified">2026-04-22T13:15:02.812Z</desc>
+</surface>

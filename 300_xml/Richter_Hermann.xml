@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ddf3f561-5cce-428d-9f95-20017bac5d75" n="richter-hermann">
+  <desc type="filename">Richter_Hermann.xml</desc>
+  <graphic url="richter.jpg" width="431" height="613">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="60" lrx="431" lry="491" cx="216" cy="276" r="216" rotate="0"/>
+  <desc type="modified">2026-04-22T12:50:02.398Z</desc>
+</surface>

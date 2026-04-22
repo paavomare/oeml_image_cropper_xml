@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1d12c309-422a-4477-80f1-bade7077ac28" n="rosenthal-karl">
+  <desc type="filename">Rosenthal_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10453672T10453677.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="112" lrx="507" lry="560" cx="283" cy="336" r="224" rotate="0"/>
+  <desc type="modified">2026-04-22T12:58:34.064Z</desc>
+</surface>

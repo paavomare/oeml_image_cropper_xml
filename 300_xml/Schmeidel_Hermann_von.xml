@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_59c7ca26-661b-49e7-9c68-584005ee6aa7" n="schmeidel-hermann-von">
+  <desc type="filename">Schmeidel_Hermann_von.xml</desc>
+  <graphic url="bildarchivaustria/196_B3902271T3902275.jpg" width="621" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="42" lrx="608" lry="635" cx="312" cy="338" r="296" rotate="0"/>
+  <desc type="modified">2026-04-22T14:06:04.402Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_62244713-f8af-4a0d-ab85-0b340bd8a401" n="mallinger-mathilde">
+  <desc type="filename">Mallinger_Mathilde.xml</desc>
+  <graphic url="Mallinger_Mathilde_1875.jpg" width="822" height="981">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="822" lry="845" cx="411" cy="434" r="411" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:10.223Z</desc>
+</surface>

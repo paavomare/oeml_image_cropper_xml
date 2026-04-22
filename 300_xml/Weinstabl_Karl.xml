@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fedfca5c-fbe4-4738-85d2-e26919bba17b" n="weinstabl-karl">
+  <desc type="filename">Weinstabl_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_904_B10135701T10135706.jpg" width="508" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="45" lrx="452" lry="475" cx="238" cy="260" r="215" rotate="0"/>
+  <desc type="modified">2026-04-22T13:24:08.218Z</desc>
+</surface>

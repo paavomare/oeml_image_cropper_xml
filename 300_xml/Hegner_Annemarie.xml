@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fdc2004-3024-4e5a-8e19-a4fbcf4d3f11" n="hegner-annemarie">
+  <desc type="filename">Hegner_Annemarie.xml</desc>
+  <graphic url="Hegner_Annemarie_1929.jpg" width="580" height="950">
+  </graphic>
+  <zone type="medallionCrop" ulx="135" uly="0" lrx="525" lry="390" cx="330" cy="195" r="195" rotate="0"/>
+  <desc type="modified">2026-04-22T13:08:03.928Z</desc>
+</surface>

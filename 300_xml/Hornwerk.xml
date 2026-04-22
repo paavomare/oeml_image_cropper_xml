@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2f9118b9-ebbd-448c-b687-bdd353e53dad" n="hornwerk">
+  <desc type="filename">Hornwerk.xml</desc>
+  <graphic url="Salzburger_Stier.jpg" width="744" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="744" lry="744" cx="372" cy="372" r="372" rotate="0"/>
+  <desc type="modified">2026-04-22T13:43:58.988Z</desc>
+</surface>

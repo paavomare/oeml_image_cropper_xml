@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f2e846dd-e7b4-4046-b079-18ee01c8fc91" n="poglietti-alessandro">
+  <desc type="filename">Poglietti_Alessandro.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245812T9245817.jpg" width="632" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="32" uly="130" lrx="590" lry="688" cx="311" cy="409" r="279" rotate="0"/>
+  <desc type="modified">2026-04-22T13:02:52.654Z</desc>
+</surface>

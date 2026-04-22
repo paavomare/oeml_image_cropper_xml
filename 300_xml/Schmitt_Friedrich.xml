@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8f329963-e326-4d36-8182-d0e9df83cc9f" n="schmitt-friedrich">
+  <desc type="filename">Schmitt_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257938T9257943.jpg" width="479" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="106" lrx="424" lry="496" cx="229" cy="301" r="195" rotate="0"/>
+  <desc type="modified">2026-04-22T12:32:18.007Z</desc>
+</surface>

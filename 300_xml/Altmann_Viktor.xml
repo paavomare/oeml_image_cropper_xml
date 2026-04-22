@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_98692f48-b907-4335-9c71-b0fe51c3826b" n="altmann-viktor">
+  <desc type="filename">Altmann_Viktor.xml</desc>
+  <graphic url="Altmann_Viktor.jpg" width="278" height="401">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="66" lrx="278" lry="344" cx="139" cy="205" r="139" rotate="0"/>
+  <desc type="modified">2026-04-22T13:08:37.936Z</desc>
+</surface>

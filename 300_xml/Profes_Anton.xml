@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_de6903df-d4fc-4606-b30a-5d788a5dcbc5" n="profes-anton">
+  <desc type="filename">Profes_Anton.xml</desc>
+  <graphic url="Profes_Plakat.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="228" lrx="568" lry="796" cx="284" cy="512" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T12:39:17.482Z</desc>
+</surface>

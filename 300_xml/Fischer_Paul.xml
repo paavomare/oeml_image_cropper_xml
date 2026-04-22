@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_64ab2992-dc04-42d1-821d-2a18fda3a8fc" n="fischer-paul">
+  <desc type="filename">Fischer_Paul.xml</desc>
+  <graphic url="Fischer_Paul.jpg" width="184" height="247">
+  </graphic>
+  <zone type="medallionCrop" ulx="13" uly="56" lrx="174" lry="216" cx="94" cy="137" r="81" rotate="0"/>
+  <desc type="modified">2026-04-22T12:59:37.831Z</desc>
+</surface>

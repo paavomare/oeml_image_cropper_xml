@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3d69cb27-1508-4d7c-800c-35b2a12f83f2" n="diemberger-familie">
+  <desc type="filename">Diemberger_Familie.xml</desc>
+  <graphic url="Diemberger_Josef.jpg" width="482" height="530">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="482" lry="482" cx="241" cy="241" r="241" rotate="0"/>
+  <desc type="modified">2026-04-22T13:10:00.203Z</desc>
+</surface>

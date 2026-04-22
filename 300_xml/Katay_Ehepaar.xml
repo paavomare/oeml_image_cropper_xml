@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_733c829a-8e16-4a29-86d9-0977807a5011" n="katay-ehepaar">
+  <desc type="filename">Katay_Ehepaar.xml</desc>
+  <graphic url="Katay_Julius_1928.jpg" width="299" height="406">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="299" lry="319" cx="150" cy="170" r="150" rotate="0"/>
+  <desc type="modified">2026-04-22T14:28:23.054Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2a183254-0ae5-4eef-828b-d976ccd83a5f" n="marischka-brueder">
+  <desc type="filename">Marischka_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/403_B391897T4650507.jpg" width="580" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="50" uly="116" lrx="526" lry="591" cx="288" cy="354" r="238" rotate="0"/>
+  <desc type="modified">2026-04-22T13:12:46.670Z</desc>
+</surface>

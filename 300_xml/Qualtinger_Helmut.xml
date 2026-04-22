@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf58662d-dc08-4640-802f-884ba8b5e16b" n="qualtinger-helmut">
+  <desc type="filename">Qualtinger_Helmut.xml</desc>
+  <graphic url="bildarchivaustria/BA_901_B9818321T9995497.jpg" width="571" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="35" lrx="571" lry="606" cx="286" cy="321" r="286" rotate="0"/>
+  <desc type="modified">2026-04-22T13:37:00.202Z</desc>
+</surface>

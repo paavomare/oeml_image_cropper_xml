@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_24451ba3-a350-4a3c-814b-6a2cf0fb3c7b" n="kraus-gertrude">
+  <desc type="filename">Kraus_Gertrude.xml</desc>
+  <graphic url="bildarchivaustria/BA_966_B14629837T14629842.jpg" width="800" height="428">
+  </graphic>
+  <zone type="medallionCrop" ulx="178" uly="35" lrx="554" lry="410" cx="366" cy="223" r="188" rotate="0"/>
+  <desc type="modified">2026-04-22T13:06:50.121Z</desc>
+</surface>

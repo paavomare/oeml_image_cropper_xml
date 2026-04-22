@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90268d9c-7535-4352-bde3-cc6faff3ae59" n="dietz-ludmilla">
+  <desc type="filename">Dietz_Ludmilla.xml</desc>
+  <graphic url="Dietz_1896.jpg" width="1171" height="1667">
+  </graphic>
+  <zone type="medallionCrop" ulx="115" uly="262" lrx="1001" lry="1148" cx="558" cy="705" r="443" rotate="0"/>
+  <desc type="modified">2026-04-22T12:41:18.092Z</desc>
+</surface>

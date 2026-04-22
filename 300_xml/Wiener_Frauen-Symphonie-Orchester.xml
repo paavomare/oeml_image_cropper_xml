@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ea94b9d7-97c3-43c7-b13b-2b2c56b909aa" n="wiener-frauen-symphonie-orchester">
+  <desc type="filename">Wiener_Frauen-Symphonie-Orchester.xml</desc>
+  <graphic url="Wiener_Frauen-Symphonie-Orchester.jpg" width="510" height="280">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="280" lry="280" cx="140" cy="140" r="140" rotate="0"/>
+  <desc type="modified">2026-04-22T13:06:14.295Z</desc>
+</surface>

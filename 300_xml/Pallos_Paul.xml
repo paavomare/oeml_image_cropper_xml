@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b0fbbbe0-4099-4acf-9418-49b25f612722" n="pallos-paul">
+  <desc type="filename">Pallos_Paul.xml</desc>
+  <graphic url="Pallos_Paul_1913.jpg" width="281" height="411">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="281" lry="299" cx="141" cy="159" r="141" rotate="0"/>
+  <desc type="modified">2026-04-22T13:04:01.066Z</desc>
+</surface>

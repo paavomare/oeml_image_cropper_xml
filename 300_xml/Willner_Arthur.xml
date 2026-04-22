@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9c8aa938-222b-4966-8353-45c5fec96f58" n="willner-arthur">
+  <desc type="filename">Willner_Arthur.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10453810T10453815.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="49" uly="88" lrx="500" lry="540" cx="275" cy="314" r="226" rotate="0"/>
+  <desc type="modified">2026-04-22T13:26:16.444Z</desc>
+</surface>

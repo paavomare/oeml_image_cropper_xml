@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4d451d28-f35a-447f-942a-af467aa4b2b5" n="jellinek-fritz">
+  <desc type="filename">Jellinek_Fritz.xml</desc>
+  <graphic url="Jellinek_Fritz.jpg" width="383" height="567">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="0" lrx="358" lry="332" cx="192" cy="167" r="167" rotate="0"/>
+  <desc type="modified">2026-04-22T13:14:35.998Z</desc>
+</surface>

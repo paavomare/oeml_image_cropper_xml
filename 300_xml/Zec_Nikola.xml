@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9c20ceb8-615d-4cee-bb47-f78028c9ae77" n="zec-nikola">
+  <desc type="filename">Zec_Nikola.xml</desc>
+  <graphic url="bildarchivaustria/179_B3834397T3834401.jpg" width="674" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="37" uly="82" lrx="644" lry="689" cx="341" cy="386" r="304" rotate="0"/>
+  <desc type="modified">2026-04-22T13:39:21.070Z</desc>
+</surface>

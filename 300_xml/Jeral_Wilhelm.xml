@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c7bbfd55-8c85-4d4f-bd2d-36f330468fe3" n="jeral-wilhelm">
+  <desc type="filename">Jeral_Wilhelm.xml</desc>
+  <graphic url="Jeral_Wilhelm.jpg" width="96" height="145">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="96" lry="115" cx="48" cy="67" r="48" rotate="0"/>
+  <desc type="modified">2026-04-22T14:07:19.683Z</desc>
+</surface>

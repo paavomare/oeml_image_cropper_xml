@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_84d71ca3-b74f-4192-a62a-e2b9c4b81540" n="zanella-renato">
+  <desc type="filename">Zanella_Renato.xml</desc>
+  <graphic url="Zanella_Renato.jpg" width="425" height="640">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="66" lrx="425" lry="491" cx="213" cy="279" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T14:05:05.348Z</desc>
+</surface>

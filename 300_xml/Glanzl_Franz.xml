@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7c0ba8ca-965d-4f2e-8603-8882c23cc81a" n="glanzl-franz">
+  <desc type="filename">Glanzl_Franz.xml</desc>
+  <graphic url="Glanzl_Franz.jpg" width="397" height="570">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="397" lry="429" cx="199" cy="231" r="199" rotate="0"/>
+  <desc type="modified">2026-04-22T12:57:11.969Z</desc>
+</surface>

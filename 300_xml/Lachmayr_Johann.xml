@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_67af5664-8fbc-4c07-b1c5-957b6a403938" n="lachmayr-johann">
+  <desc type="filename">Lachmayr_Johann.xml</desc>
+  <graphic url="Neuer_Dom_Lachmayr.jpg" width="992" height="975">
+  </graphic>
+  <zone type="medallionCrop" ulx="9" uly="0" lrx="984" lry="975" cx="497" cy="488" r="488" rotate="0"/>
+  <desc type="modified">2026-04-22T13:11:18.846Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_df5c570c-5929-4591-9416-37b5ade22c24" n="brandl-rudolf">
+  <desc type="filename">Brandl_Rudolf.xml</desc>
+  <graphic url="Brandl_Rudolf.jpg" width="992" height="1134">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="992" lry="1012" cx="496" cy="516" r="496" rotate="0"/>
+  <desc type="modified">2026-04-22T13:47:52.870Z</desc>
+</surface>

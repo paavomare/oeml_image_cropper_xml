@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c9ff84eb-215e-462e-9cc3-95e38594b56a" n="pitsch-karl">
+  <desc type="filename">Pitsch_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243992T9243997.jpg" width="571" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="145" lrx="511" lry="566" cx="301" cy="355" r="210" rotate="0"/>
+  <desc type="modified">2026-04-22T13:18:07.375Z</desc>
+</surface>

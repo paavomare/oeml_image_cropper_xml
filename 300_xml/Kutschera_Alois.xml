@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fa58954b-34c4-4145-a010-64085b860b6a" n="kutschera-alois">
+  <desc type="filename">Kutschera_Alois.xml</desc>
+  <graphic url="kutschera_alois.jpg" width="395" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="79" lrx="371" lry="422" cx="199" cy="251" r="172" rotate="0"/>
+  <desc type="modified">2026-04-22T12:28:35.501Z</desc>
+</surface>

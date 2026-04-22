@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0f537497-bb97-4dc4-b19d-9ad859fba349" n="orgeni-aglaja">
+  <desc type="filename">Orgeni_Aglaja.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9268078T9268083.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="93" uly="182" lrx="473" lry="561" cx="283" cy="372" r="190" rotate="0"/>
+  <desc type="modified">2026-04-22T13:43:45.432Z</desc>
+</surface>

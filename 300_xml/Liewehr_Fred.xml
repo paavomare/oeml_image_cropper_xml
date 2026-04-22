@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_51b6bd47-8f94-4d59-8c33-4c9a21150d11" n="liewehr-fred">
+  <desc type="filename">Liewehr_Fred.xml</desc>
+  <graphic url="bildarchivaustria/403_B391765T4650476.jpg" width="562" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="131" lrx="562" lry="693" cx="281" cy="412" r="281" rotate="0"/>
+  <desc type="modified">2026-04-22T12:40:12.279Z</desc>
+</surface>

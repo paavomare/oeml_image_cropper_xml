@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_37404a9b-79e2-4dee-b8ee-25274829e5c9" n="hirsch-familie-2">
+  <desc type="filename">Hirsch_Familie_2.xml</desc>
+  <graphic url="Hirsch-Gesellschaft_1896.jpg" width="1124" height="782">
+  </graphic>
+  <zone type="medallionCrop" ulx="171" uly="0" lrx="953" lry="782" cx="562" cy="391" r="391" rotate="0"/>
+  <desc type="modified">2026-04-22T14:10:30.145Z</desc>
+</surface>

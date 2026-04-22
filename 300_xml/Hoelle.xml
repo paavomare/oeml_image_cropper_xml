@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e16e0b9e-0f08-4bfe-a938-c9ba1406b102" n="hoelle">
+  <desc type="filename">Hoelle.xml</desc>
+  <graphic url="Hoelle_1924.jpg" width="1174" height="1700">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="65" lrx="1120" lry="1151" cx="578" cy="608" r="543" rotate="0"/>
+  <desc type="modified">2026-04-22T12:44:07.499Z</desc>
+</surface>

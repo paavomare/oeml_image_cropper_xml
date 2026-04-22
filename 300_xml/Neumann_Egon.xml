@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c362a79d-b51d-425c-80eb-f1c1d35d72de" n="neumann-egon">
+  <desc type="filename">Neumann_Egon.xml</desc>
+  <graphic url="Neumann_Egon.jpg" width="280" height="410">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="41" lrx="248" lry="254" cx="142" cy="148" r="107" rotate="0"/>
+  <desc type="modified">2026-04-22T13:12:56.142Z</desc>
+</surface>

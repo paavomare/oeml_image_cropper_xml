@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a17c6029-6096-45dc-b82c-23e326c41211" n="lasner-familie">
+  <desc type="filename">Lasner_Familie.xml</desc>
+  <graphic url="Lasner_Karl_1926.jpg" width="156" height="227">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="47" lrx="156" lry="203" cx="78" cy="125" r="78" rotate="0"/>
+  <desc type="modified">2026-04-22T14:07:35.954Z</desc>
+</surface>

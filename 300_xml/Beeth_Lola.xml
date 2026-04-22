@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e959de2-9cd6-4c48-bffb-552d521e51f3" n="beeth-lola">
+  <desc type="filename">Beeth_Lola.xml</desc>
+  <graphic url="bildarchivaustria/BA_966_B14629166T14629171.jpg" width="492" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="68" lrx="492" lry="560" cx="246" cy="314" r="246" rotate="0"/>
+  <desc type="modified">2026-04-22T12:43:38.362Z</desc>
+</surface>

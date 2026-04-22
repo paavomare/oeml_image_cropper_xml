@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1e21d999-0582-49a7-ac97-4843faf761da" n="piccinni-niccolo">
+  <desc type="filename">Piccinni_Niccolo.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9236419T9236424.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="91" lrx="539" lry="607" cx="281" cy="349" r="258" rotate="0"/>
+  <desc type="modified">2026-04-22T13:38:16.829Z</desc>
+</surface>

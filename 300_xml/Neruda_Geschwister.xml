@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4c593495-4ef3-4504-a0d1-448ac781ee87" n="neruda-geschwister">
+  <desc type="filename">Neruda_Geschwister.xml</desc>
+  <graphic url="bildarchivaustria/168_B3780682T3780686.jpg" width="582" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="106" uly="139" lrx="474" lry="507" cx="290" cy="323" r="184" rotate="0"/>
+  <desc type="modified">2026-04-22T14:09:40.180Z</desc>
+</surface>

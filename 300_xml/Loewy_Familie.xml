@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fabda7ed-2011-4a0c-afb1-9417d609147a" n="loewy-familie">
+  <desc type="filename">Loewy_Familie.xml</desc>
+  <graphic url="Loewy_Antonie.jpg" width="743" height="1123">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="53" lrx="743" lry="796" cx="372" cy="425" r="372" rotate="0"/>
+  <desc type="modified">2026-04-22T13:09:17.058Z</desc>
+</surface>

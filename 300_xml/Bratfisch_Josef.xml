@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_556f0fb2-e8fe-4ce2-be9a-6fe460968edf" n="bratfisch-josef">
+  <desc type="filename">Bratfisch_Josef.xml</desc>
+  <graphic url="Alt-Wien-1892_wrb1933.jpg" width="1568" height="1207">
+  </graphic>
+  <zone type="medallionCrop" ulx="165" uly="502" lrx="412" lry="749" cx="289" cy="626" r="124" rotate="0"/>
+  <desc type="modified">2026-04-22T13:47:41.706Z</desc>
+</surface>

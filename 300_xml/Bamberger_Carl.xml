@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ac9666b6-6c2f-4b96-8714-d51e80d8e670" n="bamberger-carl">
+  <desc type="filename">Bamberger_Carl.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9801729T9801734.jpg" width="467" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="9" uly="191" lrx="452" lry="634" cx="231" cy="413" r="222" rotate="0"/>
+  <desc type="modified">2026-04-22T13:53:58.067Z</desc>
+</surface>

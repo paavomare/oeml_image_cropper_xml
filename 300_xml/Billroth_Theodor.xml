@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c6f6bf25-4ee3-438e-9956-4c987d48c3e0" n="billroth-theodor">
+  <desc type="filename">Billroth_Theodor.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12993333T12993338.jpg" width="509" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="13" uly="121" lrx="462" lry="570" cx="238" cy="346" r="225" rotate="0"/>
+  <desc type="modified">2026-04-22T13:07:32.903Z</desc>
+</surface>

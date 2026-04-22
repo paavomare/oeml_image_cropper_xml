@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_472cdd12-3011-45c5-86cb-64ba0358466f" n="dtoe">
+  <desc type="filename">DTOE.xml</desc>
+  <graphic url="Dtoe2.jpg" width="612" height="842">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="612" lry="612" cx="306" cy="306" r="306" rotate="0"/>
+  <desc type="modified">2026-04-22T13:54:39.826Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2aa7faad-45c2-4d2b-a9dc-fe0b8cd09dfa" n="waldner-hubert">
+  <desc type="filename">Waldner_Hubert.xml</desc>
+  <graphic url="Waldner_Hubert_2022.jpg" width="427" height="640">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="74" lrx="427" lry="501" cx="214" cy="288" r="214" rotate="0"/>
+  <desc type="modified">2026-04-22T13:39:36.733Z</desc>
+</surface>

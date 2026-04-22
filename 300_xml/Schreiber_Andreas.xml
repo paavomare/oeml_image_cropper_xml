@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d2117018-8e25-4fe5-9de4-f9bb7606555c" n="schreiber-andreas">
+  <desc type="filename">Schreiber_Andreas.xml</desc>
+  <graphic url="Schreiber_Andreas_2024.jpg" width="675" height="773">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="675" lry="675" cx="338" cy="338" r="338" rotate="0"/>
+  <desc type="modified">2026-04-22T12:46:26.990Z</desc>
+</surface>

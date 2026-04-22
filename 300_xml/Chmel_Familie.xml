@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_73b00749-504f-4ce5-b5f8-fedca26b100e" n="chmel-familie">
+  <desc type="filename">Chmel_Familie.xml</desc>
+  <graphic url="Chmel_Ludwig_Roman1907.jpg" width="780" height="845">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="780" lry="795" cx="390" cy="405" r="390" rotate="0"/>
+  <desc type="modified">2026-04-22T13:54:07.870Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_19b0b3b7-377a-4275-b05f-e921df997a7d" n="danberg-raimund">
+  <desc type="filename">Danberg_Raimund.xml</desc>
+  <graphic url="Danberg_Raimund.jpg" width="283" height="338">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="283" lry="296" cx="142" cy="155" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T14:08:33.765Z</desc>
+</surface>

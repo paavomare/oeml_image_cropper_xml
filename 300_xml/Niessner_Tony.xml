@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4523587a-b4c5-48b6-9652-8862d3147213" n="niessner-tony">
+  <desc type="filename">Niessner_Tony.xml</desc>
+  <graphic url="bildarchivaustria/88_B307305T1830974.jpg" width="570" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="66" lrx="570" lry="636" cx="285" cy="351" r="285" rotate="0"/>
+  <desc type="modified">2026-04-22T13:03:22.687Z</desc>
+</surface>

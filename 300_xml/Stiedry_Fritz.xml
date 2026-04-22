@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f016ab60-6ddc-4b6c-b587-379863351478" n="stiedry-fritz">
+  <desc type="filename">Stiedry_Fritz.xml</desc>
+  <graphic url="bildarchivaustria/BA_1106_B9801228T20030683.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="148" lrx="545" lry="628" cx="305" cy="388" r="240" rotate="0"/>
+  <desc type="modified">2026-04-22T14:05:00.894Z</desc>
+</surface>

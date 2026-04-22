@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1b4bee53-ec0d-4419-971c-ff79e304a08a" n="schieder-silvester">
+  <desc type="filename">Schieder_Silvester.xml</desc>
+  <graphic url="Schieder_Silvester.jpg" width="340" height="485">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="340" lry="360" cx="170" cy="190" r="170" rotate="0"/>
+  <desc type="modified">2026-04-22T12:16:28.996Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e4862ffb-2fb7-4a4f-89b1-f73f0cc3182e" n="frank-caecilie">
+  <desc type="filename">Frank_Caecilie.xml</desc>
+  <graphic url="Frank_Caecilie.jpg" width="255" height="393">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="62" lrx="255" lry="317" cx="128" cy="190" r="128" rotate="0"/>
+  <desc type="modified">2026-04-22T13:45:32.673Z</desc>
+</surface>

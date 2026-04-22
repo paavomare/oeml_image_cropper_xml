@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7f2551c6-0653-49e8-8012-458d3e5cd9db" n="wiener-symphoniker">
+  <desc type="filename">Wiener_Symphoniker.xml</desc>
+  <graphic url="Loewe_Ferdinand.jpg" width="1117" height="823">
+  </graphic>
+  <zone type="medallionCrop" ulx="147" uly="0" lrx="970" lry="823" cx="559" cy="412" r="412" rotate="0"/>
+  <desc type="modified">2026-04-22T12:58:57.736Z</desc>
+</surface>

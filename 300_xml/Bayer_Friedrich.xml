@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_633e5b4e-f2b6-4829-8100-4d04bcbb9a9c" n="bayer-friedrich">
+  <desc type="filename">Bayer_Friedrich.xml</desc>
+  <graphic url="Bayer_Friedrich.jpg" width="197" height="305">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="52" lrx="197" lry="249" cx="99" cy="151" r="99" rotate="0"/>
+  <desc type="modified">2026-04-22T13:04:29.130Z</desc>
+</surface>

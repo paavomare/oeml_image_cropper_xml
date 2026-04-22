@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_67ca8b7b-f69c-4313-983e-a1d4342dd9ea" n="komzak-familie">
+  <desc type="filename">Komzak_Familie.xml</desc>
+  <graphic url="bildarchivaustria/766_B8154776T8154780.jpg" width="499" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="107" lrx="499" lry="606" cx="250" cy="357" r="250" rotate="0"/>
+  <desc type="modified">2026-04-22T13:53:40.768Z</desc>
+</surface>

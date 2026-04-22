@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_33f419fe-67c9-4f4b-8a9a-f0260635856c" n="kral-johann-nepomuk">
+  <desc type="filename">Kral_Johann_Nepomuk.xml</desc>
+  <graphic url="kral_johann_nepomuk.jpg" width="300" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="55" lrx="286" lry="323" cx="152" cy="189" r="134" rotate="0"/>
+  <desc type="modified">2026-04-22T13:44:47.630Z</desc>
+</surface>

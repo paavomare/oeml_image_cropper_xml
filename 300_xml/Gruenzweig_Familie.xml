@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_78f2d7cc-c57a-4732-a620-77ef2335e46a" n="gruenzweig-familie">
+  <desc type="filename">Gruenzweig_Familie.xml</desc>
+  <graphic url="Gruenzweig_Marie.jpg" width="313" height="313">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="313" lry="313" cx="157" cy="157" r="157" rotate="0"/>
+  <desc type="modified">2026-04-22T12:39:40.029Z</desc>
+</surface>

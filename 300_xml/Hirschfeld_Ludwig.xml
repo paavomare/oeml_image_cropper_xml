@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7b53c399-5a35-453d-a506-38f759fb8b21" n="hirschfeld-ludwig">
+  <desc type="filename">Hirschfeld_Ludwig.xml</desc>
+  <graphic url="Hirschfeld_Ludwig.jpg" width="567" height="890">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="567" lry="597" cx="284" cy="314" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T13:24:23.993Z</desc>
+</surface>

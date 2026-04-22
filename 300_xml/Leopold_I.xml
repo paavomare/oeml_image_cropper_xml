@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c02caf6a-02fa-42e4-b442-1cea9cc69be0" n="leopold-i">
+  <desc type="filename">Leopold_I.xml</desc>
+  <graphic url="bildarchivaustria/432_B4829242T4829246.jpg" width="598" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="70" uly="210" lrx="493" lry="633" cx="282" cy="422" r="212" rotate="0"/>
+  <desc type="modified">2026-04-22T13:32:50.860Z</desc>
+</surface>

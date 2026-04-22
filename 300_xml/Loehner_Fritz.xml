@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_57d87292-6913-4aa5-943e-66119c929ba1" n="loehner-fritz">
+  <desc type="filename">Loehner_Fritz.xml</desc>
+  <graphic url="bildarchivaustria/BA_901_B9802039T9997084.jpg" width="615" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="615" lry="641" cx="308" cy="334" r="308" rotate="0"/>
+  <desc type="modified">2026-04-22T14:05:55.425Z</desc>
+</surface>

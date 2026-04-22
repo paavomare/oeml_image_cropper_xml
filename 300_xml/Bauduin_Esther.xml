@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_26a8e114-5c60-4750-93f3-b64bc4fbd3eb" n="bauduin-esther">
+  <desc type="filename">Bauduin_Esther.xml</desc>
+  <graphic url="Bauduin_Ernestine_1886.jpg" width="824" height="1088">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="37" lrx="824" lry="861" cx="412" cy="449" r="412" rotate="0"/>
+  <desc type="modified">2026-04-22T13:16:13.024Z</desc>
+</surface>

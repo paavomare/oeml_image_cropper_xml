@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6a30e8e5-93d7-452f-8f23-5c55bc84c59b" n="uffmann-otto">
+  <desc type="filename">Uffmann_Otto.xml</desc>
+  <graphic url="Uffmann_Otto.jpg" width="536" height="839">
+  </graphic>
+  <zone type="medallionCrop" ulx="22" uly="182" lrx="467" lry="627" cx="245" cy="405" r="223" rotate="0"/>
+  <desc type="modified">2026-04-22T13:32:09.722Z</desc>
+</surface>

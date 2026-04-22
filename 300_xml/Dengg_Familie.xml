@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_61f462f9-2ae2-4bc4-86fb-9ede32931086" n="dengg-familie">
+  <desc type="filename">Dengg_Familie.xml</desc>
+  <graphic url="Dengg_Reinfried_Dreigesang.jpg" width="1225" height="933">
+  </graphic>
+  <zone type="medallionCrop" ulx="165" uly="0" lrx="1098" lry="933" cx="632" cy="467" r="467" rotate="0"/>
+  <desc type="modified">2026-04-22T13:33:08.156Z</desc>
+</surface>

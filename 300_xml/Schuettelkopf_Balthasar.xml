@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a66ae302-d81d-486c-884c-1d56774a2918" n="schuettelkopf-balthasar">
+  <desc type="filename">Schuettelkopf_Balthasar.xml</desc>
+  <graphic url="Schuettelkopf_Balthasar.jpg" width="668" height="774">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="668" lry="683" cx="334" cy="349" r="334" rotate="0"/>
+  <desc type="modified">2026-04-22T12:41:47.870Z</desc>
+</surface>

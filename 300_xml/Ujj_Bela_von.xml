@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_40f1e5c7-0af2-46d3-ac69-07cd7830611f" n="ujj-bela-von">
+  <desc type="filename">Ujj_Bela_von.xml</desc>
+  <graphic url="Ujj_Bela.jpg" width="292" height="367">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="292" lry="310" cx="146" cy="164" r="146" rotate="0"/>
+  <desc type="modified">2026-04-22T13:59:50.527Z</desc>
+</surface>

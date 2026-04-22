@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_573a5889-2c20-4dc4-abd6-5f5e76341d51" n="granichstaedten-bruno">
+  <desc type="filename">Granichstaedten_Bruno.xml</desc>
+  <graphic url="Granichstaedten_Bruno.jpg" width="287" height="437">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="42" lrx="287" lry="329" cx="144" cy="186" r="144" rotate="0"/>
+  <desc type="modified">2026-04-22T13:18:49.193Z</desc>
+</surface>

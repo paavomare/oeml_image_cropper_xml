@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_67ef6915-a9b8-47af-a41d-1aa71c46128d" n="flunger-elisabeth">
+  <desc type="filename">Flunger_Elisabeth.xml</desc>
+  <graphic url="Flunger_Elisabeth2.jpg" width="384" height="603">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="384" lry="384" cx="192" cy="192" r="192" rotate="0"/>
+  <desc type="modified">2026-04-22T13:37:39.517Z</desc>
+</surface>

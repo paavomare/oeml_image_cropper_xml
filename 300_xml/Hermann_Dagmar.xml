@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a6c50325-fea3-4a17-8333-76057ff98996" n="hermann-dagmar">
+  <desc type="filename">Hermann_Dagmar.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10505451T10505456.jpg" width="601" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="73" lrx="601" lry="674" cx="301" cy="374" r="301" rotate="0"/>
+  <desc type="modified">2026-04-22T13:41:53.391Z</desc>
+</surface>

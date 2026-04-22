@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_57c1146a-f916-4bc3-b15f-dbaa0545a0bf" n="hampl-haupolter-emma">
+  <desc type="filename">Hampl-Haupolter_Emma.xml</desc>
+  <graphic url="hampl.jpg" width="436" height="619">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="56" lrx="432" lry="476" cx="222" cy="267" r="211" rotate="0"/>
+  <desc type="modified">2026-04-22T13:08:17.352Z</desc>
+</surface>

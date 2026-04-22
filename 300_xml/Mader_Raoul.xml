@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d0f4d75a-cded-4dd7-b601-f63019442b1f" n="mader-raoul">
+  <desc type="filename">Mader_Raoul.xml</desc>
+  <graphic url="Mader_Raoul.jpg" width="795" height="943">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="63" lrx="795" lry="858" cx="398" cy="461" r="398" rotate="0"/>
+  <desc type="modified">2026-04-22T13:06:21.517Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_134c135c-de09-4023-95e8-96d58a3113be" n="sachs-benno">
+  <desc type="filename">Sachs_Benno.xml</desc>
+  <graphic url="Sachs_Benno.jpg" width="369" height="486">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="111" lrx="369" lry="480" cx="185" cy="296" r="185" rotate="0"/>
+  <desc type="modified">2026-04-22T12:28:02.082Z</desc>
+</surface>

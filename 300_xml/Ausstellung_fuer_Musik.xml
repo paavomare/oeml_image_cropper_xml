@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a0ac872b-e3cc-4bd7-a31c-30decb3bd99e" n="ausstellung-fuer-musik">
+  <desc type="filename">Ausstellung_fuer_Musik.xml</desc>
+  <graphic url="Ausstellung_Musik.jpg" width="592" height="850">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="162" lrx="592" lry="754" cx="296" cy="458" r="296" rotate="0"/>
+  <desc type="modified">2026-04-22T12:45:11.466Z</desc>
+</surface>

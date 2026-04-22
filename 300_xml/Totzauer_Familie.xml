@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b27f449f-266c-4376-a1c4-54862e634dbc" n="totzauer-familie">
+  <desc type="filename">Totzauer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9252743T9252748.jpg" width="589" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="105" uly="154" lrx="476" lry="525" cx="291" cy="340" r="186" rotate="0"/>
+  <desc type="modified">2026-04-22T13:10:39.789Z</desc>
+</surface>

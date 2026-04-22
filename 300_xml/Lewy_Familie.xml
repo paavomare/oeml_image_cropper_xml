@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_63b2e74f-13ec-4c02-bf0f-8f8539f3cd93" n="lewy-familie">
+  <desc type="filename">Lewy_Familie.xml</desc>
+  <graphic url="Lewy_Eduard.jpg" width="640" height="752">
+  </graphic>
+  <zone type="medallionCrop" ulx="10" uly="34" lrx="582" lry="606" cx="296" cy="320" r="286" rotate="0"/>
+  <desc type="modified">2026-04-22T13:34:42.470Z</desc>
+</surface>

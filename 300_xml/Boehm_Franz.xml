@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2b766c23-0d5a-41cc-aa1b-4d2bd27cb21d" n="boehm-franz">
+  <desc type="filename">Boehm_Franz.xml</desc>
+  <graphic url="Boehm_Franz.jpg" width="283" height="375">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="283" lry="297" cx="142" cy="156" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T13:01:50.844Z</desc>
+</surface>

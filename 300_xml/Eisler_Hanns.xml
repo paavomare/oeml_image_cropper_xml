@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e696173c-088b-4fd1-8e21-8f48ab7dc804" n="eisler-hanns">
+  <desc type="filename">Eisler_Hanns.xml</desc>
+  <graphic url="bildarchivaustria/746_B8080307T8080311.jpg" width="603" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="107" lrx="548" lry="629" cx="287" cy="368" r="261" rotate="0"/>
+  <desc type="modified">2026-04-22T13:04:50.920Z</desc>
+</surface>

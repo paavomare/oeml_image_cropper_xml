@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_317aecec-e0c2-4ffc-87fa-e142e948ea2a" n="faltl-familie">
+  <desc type="filename">Faltl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10002716T10002721.jpg" width="800" height="600">
+  </graphic>
+  <zone type="medallionCrop" ulx="530" uly="166" lrx="793" lry="429" cx="662" cy="298" r="132" rotate="0"/>
+  <desc type="modified">2026-04-22T13:01:15.788Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_08de068c-11c4-4dff-b9b3-993becb6f7e7" n="bluesbreakers">
+  <desc type="filename">Bluesbreakers.xml</desc>
+  <graphic url="Bluesbreakers.jpg" width="1063" height="798">
+  </graphic>
+  <zone type="medallionCrop" ulx="133" uly="0" lrx="931" lry="798" cx="532" cy="399" r="399" rotate="0"/>
+  <desc type="modified">2026-04-22T13:09:25.247Z</desc>
+</surface>

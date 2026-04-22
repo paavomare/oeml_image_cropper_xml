@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f18566e7-65cb-477f-bc1f-026354dfc545" n="pahlen-familie">
+  <desc type="filename">Pahlen_Familie.xml</desc>
+  <graphic url="Pahlen_Richard.jpg" width="425" height="523">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="45" lrx="394" lry="439" cx="197" cy="242" r="197" rotate="0"/>
+  <desc type="modified">2026-04-22T13:13:09.792Z</desc>
+</surface>

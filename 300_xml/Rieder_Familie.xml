@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90b95e06-a656-4d7a-973f-37a3080c5ee8" n="rieder-familie">
+  <desc type="filename">Rieder_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257111T9257116.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="88" uly="111" lrx="528" lry="551" cx="308" cy="331" r="220" rotate="0"/>
+  <desc type="modified">2026-04-22T14:04:40.882Z</desc>
+</surface>

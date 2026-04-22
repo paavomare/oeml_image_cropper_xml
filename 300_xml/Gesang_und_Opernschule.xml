@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_37cc27b0-bede-4eb1-99f0-79c7e4637c50" n="gesang-und-opernschule">
+  <desc type="filename">Gesang_und_Opernschule.xml</desc>
+  <graphic url="Gesang_und_Opernschule.jpg" width="326" height="341">
+  </graphic>
+  <zone type="medallionCrop" ulx="160" uly="0" lrx="323" lry="163" cx="242" cy="82" r="82" rotate="0"/>
+  <desc type="modified">2026-04-22T13:38:00.920Z</desc>
+</surface>

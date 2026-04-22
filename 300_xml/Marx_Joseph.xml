@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3014a558-b1e7-4c45-a982-3bb2fce369e8" n="marx-joseph">
+  <desc type="filename">Marx_Joseph.xml</desc>
+  <graphic url="Marx_Porträt.jpg" width="693" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="78" uly="37" lrx="650" lry="610" cx="364" cy="323" r="286" rotate="0"/>
+  <desc type="modified">2026-04-22T12:59:25.319Z</desc>
+</surface>

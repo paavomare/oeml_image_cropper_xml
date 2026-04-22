@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_38ed288a-2ff8-4afe-86d1-6e85f5ce42dc" n="gerber-ernst-ludwig">
+  <desc type="filename">Gerber_Ernst_Ludwig.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9244684T9244689.jpg" width="630" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="184" uly="225" lrx="416" lry="457" cx="300" cy="341" r="116" rotate="0"/>
+  <desc type="modified">2026-04-22T13:05:50.010Z</desc>
+</surface>

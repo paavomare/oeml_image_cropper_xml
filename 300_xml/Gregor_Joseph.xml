@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c32ac507-3321-4bbe-892f-ef63c0ba9dfb" n="gregor-joseph">
+  <desc type="filename">Gregor_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449769T10449774.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="97" lrx="509" lry="582" cx="267" cy="340" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T14:04:04.601Z</desc>
+</surface>

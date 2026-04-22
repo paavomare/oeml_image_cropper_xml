@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c4ce83db-a409-455b-8052-b00a2fa3fbb9" n="langthaler-uli">
+  <desc type="filename">Langthaler_Uli.xml</desc>
+  <graphic url="Langthaler_Uli.jpg" width="1100" height="733">
+  </graphic>
+  <zone type="medallionCrop" ulx="88" uly="0" lrx="821" lry="733" cx="455" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-22T13:26:03.243Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2f751731-86b9-4820-89ea-26d15d1fb8b5" n="stainer-jacob">
+  <desc type="filename">Stainer_Jacob.xml</desc>
+  <graphic url="Stainer_wrb1933.jpg" width="827" height="875">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="827" lry="827" cx="414" cy="414" r="414" rotate="0"/>
+  <desc type="modified">2026-04-22T14:01:59.329Z</desc>
+</surface>

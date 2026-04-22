@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ac272734-5684-4473-a03b-d5bfa211b162" n="kircher-athanasius">
+  <desc type="filename">Kircher_Athanasius.xml</desc>
+  <graphic url="bildarchivaustria/BA_843_B8969518T8969523.jpg" width="553" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="56" uly="104" lrx="481" lry="528" cx="269" cy="317" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T13:40:44.232Z</desc>
+</surface>

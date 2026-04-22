@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90cfd027-8043-4b4c-871d-4e280e140e21" n="gruenfeld-brueder">
+  <desc type="filename">Gruenfeld_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_901_B9992241T9992246.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="159" lrx="568" lry="688" cx="304" cy="423" r="264" rotate="0"/>
+  <desc type="modified">2026-04-22T13:25:49.263Z</desc>
+</surface>

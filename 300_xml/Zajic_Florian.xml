@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_426bf23a-cff8-4f31-b12a-0420499823da" n="zajic-florian">
+  <desc type="filename">Zajic_Florian.xml</desc>
+  <graphic url="Zajic_Florian.jpg" width="677" height="773">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="3" lrx="677" lry="680" cx="339" cy="342" r="339" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:52.527Z</desc>
+</surface>

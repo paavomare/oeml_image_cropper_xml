@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8d8b0574-83c4-4b18-a0f6-6ca0bbcfb524" n="sioly-johann">
+  <desc type="filename">Sioly_Johann.xml</desc>
+  <graphic url="Sioly_Johann.jpg" width="653" height="1019">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="51" lrx="653" lry="704" cx="327" cy="378" r="327" rotate="0"/>
+  <desc type="modified">2026-04-22T14:11:37.669Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b68bd05c-41a7-43ae-8234-d089e882426e" n="bibl-familie">
+  <desc type="filename">Bibl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9232518T9232523.jpg" width="591" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="109" uly="178" lrx="489" lry="559" cx="299" cy="368" r="190" rotate="0"/>
+  <desc type="modified">2026-04-22T13:29:21.518Z</desc>
+</surface>

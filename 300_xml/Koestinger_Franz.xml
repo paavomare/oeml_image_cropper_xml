@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_58ee9c8c-8c4a-486f-969b-8bac6a69d093" n="koestinger-franz">
+  <desc type="filename">Koestinger_Franz.xml</desc>
+  <graphic url="Koestinger_Franz.jpg" width="284" height="398">
+  </graphic>
+  <zone type="medallionCrop" ulx="37" uly="59" lrx="252" lry="274" cx="145" cy="167" r="108" rotate="0"/>
+  <desc type="modified">2026-04-22T14:20:50.890Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f4ef45df-592a-4b35-a94c-e625b0525946" n="rothstein-lena">
+  <desc type="filename">Rothstein_Lena.xml</desc>
+  <graphic url="Rothstein_Lena.jpg" width="768" height="1152">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="54" lrx="768" lry="822" cx="384" cy="438" r="384" rotate="0"/>
+  <desc type="modified">2026-04-22T13:25:17.437Z</desc>
+</surface>

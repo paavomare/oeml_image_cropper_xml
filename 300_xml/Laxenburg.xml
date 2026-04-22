@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e5faa6da-577e-4cb1-94cb-d311a581a9ef" n="laxenburg">
+  <desc type="filename">Laxenburg.xml</desc>
+  <graphic url="Laxenburg_Schlosstheater.jpg" width="1134" height="653">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="38" lrx="636" lry="631" cx="339" cy="335" r="297" rotate="0"/>
+  <desc type="modified">2026-04-22T12:33:12.787Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0a445c1b-6c64-49d9-a9c2-eb5482d468c3" n="bregenz">
+  <desc type="filename">Bregenz.xml</desc>
+  <graphic url="Bregenz_Orgel.jpg" width="2268" height="1701">
+  </graphic>
+  <zone type="medallionCrop" ulx="296" uly="0" lrx="1997" lry="1701" cx="1147" cy="851" r="851" rotate="0"/>
+  <desc type="modified">2026-04-22T12:59:44.362Z</desc>
+</surface>

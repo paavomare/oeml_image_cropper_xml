@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_080b7f41-fcda-4adb-a484-b5c8a1425b69" n="drapal-julia">
+  <desc type="filename">Drapal_Julia.xml</desc>
+  <graphic url="bildarchivaustria/743_B8064616T8064620.jpg" width="714" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="48" uly="97" lrx="682" lry="732" cx="365" cy="414" r="317" rotate="0"/>
+  <desc type="modified">2026-04-22T12:35:45.049Z</desc>
+</surface>

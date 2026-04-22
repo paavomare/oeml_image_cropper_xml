@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_77544ce9-9fa9-4db9-9d94-c349aba5f638" n="horn-eduard">
+  <desc type="filename">Horn_Eduard.xml</desc>
+  <graphic url="Horn_Eduard.jpg" width="563" height="657">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="563" lry="576" cx="282" cy="295" r="282" rotate="0"/>
+  <desc type="modified">2026-04-22T12:43:07.457Z</desc>
+</surface>

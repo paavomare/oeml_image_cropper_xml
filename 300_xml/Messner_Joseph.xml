@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb7eb4b5-79ce-4e70-92ce-5e199d79b214" n="messner-joseph">
+  <desc type="filename">Messner_Joseph.xml</desc>
+  <graphic url="Messner_Joseph.jpg" width="369" height="580">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="142" lrx="369" lry="511" cx="185" cy="327" r="185" rotate="0"/>
+  <desc type="modified">2026-04-22T12:29:07.300Z</desc>
+</surface>

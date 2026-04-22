@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a3c26284-9e62-4191-a4b9-61854f9ae4e7" n="wolf-ernst">
+  <desc type="filename">Wolf_Ernst.xml</desc>
+  <graphic url="wolf_ernst.jpg" width="285" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="285" lry="315" cx="143" cy="173" r="143" rotate="0"/>
+  <desc type="modified">2026-04-22T12:36:29.510Z</desc>
+</surface>

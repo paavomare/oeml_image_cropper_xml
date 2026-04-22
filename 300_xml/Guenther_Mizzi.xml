@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_510a0bf8-26f9-4af6-9e0f-60f028c4d5ef" n="guenther-mizzi">
+  <desc type="filename">Guenther_Mizzi.xml</desc>
+  <graphic url="bildarchivaustria/523_B5600088T5600094.jpg" width="549" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="83" uly="78" lrx="509" lry="504" cx="296" cy="291" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T13:01:33.324Z</desc>
+</surface>

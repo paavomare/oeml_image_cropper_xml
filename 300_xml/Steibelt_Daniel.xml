@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c5e9f6f2-066e-4ffa-bc0b-29b0e6e43b88" n="steibelt-daniel">
+  <desc type="filename">Steibelt_Daniel.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245847T9245852.jpg" width="615" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="171" uly="194" lrx="444" lry="467" cx="308" cy="331" r="137" rotate="0"/>
+  <desc type="modified">2026-04-22T12:46:47.965Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_140b6d8b-c6b0-4c95-a20a-73ce713e5db4" n="cobenzl-familie">
+  <desc type="filename">Cobenzl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_901_B9988189T9988194.jpg" width="610" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="104" lrx="610" lry="714" cx="305" cy="409" r="305" rotate="0"/>
+  <desc type="modified">2026-04-22T14:09:48.134Z</desc>
+</surface>

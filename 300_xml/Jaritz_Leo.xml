@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_16c010cf-8bf5-4653-800c-96ca98637f4e" n="jaritz-leo">
+  <desc type="filename">Jaritz_Leo.xml</desc>
+  <graphic url="Jaritz_Foto.jpg" width="561" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="9" uly="100" lrx="522" lry="613" cx="266" cy="357" r="257" rotate="0"/>
+  <desc type="modified">2026-04-22T13:41:06.379Z</desc>
+</surface>

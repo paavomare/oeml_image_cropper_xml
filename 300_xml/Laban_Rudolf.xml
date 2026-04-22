@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0aa0c279-8cf3-4bdf-96da-7992671f2e49" n="laban-rudolf">
+  <desc type="filename">Laban_Rudolf.xml</desc>
+  <graphic url="bildarchivaustria/BA_951_B13723427T13723432.jpg" width="800" height="749">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="0" lrx="775" lry="749" cx="401" cy="375" r="375" rotate="0"/>
+  <desc type="modified">2026-04-22T13:38:04.737Z</desc>
+</surface>

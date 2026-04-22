@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1f330ff6-00a9-42e9-b603-a926c8b02275" n="ferrara-patrizia">
+  <desc type="filename">Ferrara_Patrizia.xml</desc>
+  <graphic url="Ferrara_Patrizia_2025.jpg" width="378" height="630">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="378" lry="391" cx="189" cy="202" r="189" rotate="0"/>
+  <desc type="modified">2026-04-22T13:18:41.577Z</desc>
+</surface>

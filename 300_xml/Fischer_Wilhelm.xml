@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1344fe59-a216-43c4-adc9-6827574db0c9" n="fischer-wilhelm">
+  <desc type="filename">Fischer_Wilhelm.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449719T10449724.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="44" uly="120" lrx="491" lry="567" cx="268" cy="344" r="224" rotate="0"/>
+  <desc type="modified">2026-04-22T12:56:57.761Z</desc>
+</surface>

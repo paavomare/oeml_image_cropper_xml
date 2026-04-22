@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dca5101a-75c8-4fa2-80d9-9e274af18783" n="schmedes-familie">
+  <desc type="filename">Schmedes_Familie.xml</desc>
+  <graphic url="bildarchivaustria/190_B3883963T3883967.jpg" width="729" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="74" lrx="707" lry="717" cx="386" cy="396" r="322" rotate="0"/>
+  <desc type="modified">2026-04-22T13:23:55.576Z</desc>
+</surface>

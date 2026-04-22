@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_091bb723-aed2-4cda-a8b2-68f014b0641b" n="bruckner-familie">
+  <desc type="filename">Bruckner_Familie.xml</desc>
+  <graphic url="Bruckner_Anton.jpg" width="423" height="507">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="55" lrx="382" lry="420" cx="200" cy="238" r="183" rotate="0"/>
+  <desc type="modified">2026-04-22T12:26:55.580Z</desc>
+</surface>

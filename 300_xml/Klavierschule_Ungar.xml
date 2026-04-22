@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_33f0aee6-f849-4356-b4e6-7bd8b9254f43" n="klavierschule-ungar">
+  <desc type="filename">Klavierschule_Ungar.xml</desc>
+  <graphic url="Klavierschule_Ungar_1885.jpg" width="567" height="667">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="567" lry="581" cx="284" cy="298" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T12:41:01.786Z</desc>
+</surface>

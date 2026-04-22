@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_48c8c7be-d363-4217-b12d-a78d725d2ffc" n="klingenbeck-fritz">
+  <desc type="filename">Klingenbeck_Fritz.xml</desc>
+  <graphic url="bildarchivaustria/184_B3859057T3859061.jpg" width="703" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="703" lry="704" cx="352" cy="353" r="352" rotate="0"/>
+  <desc type="modified">2026-04-22T13:55:00.770Z</desc>
+</surface>

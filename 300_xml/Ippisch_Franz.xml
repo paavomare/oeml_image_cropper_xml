@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a9353a9c-9bce-4cdb-ac02-4104e930808f" n="ippisch-franz">
+  <desc type="filename">Ippisch_Franz.xml</desc>
+  <graphic url="Ippisch_Franz.jpg" width="365" height="592">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="57" lrx="365" lry="422" cx="183" cy="240" r="183" rotate="0"/>
+  <desc type="modified">2026-04-22T13:41:32.304Z</desc>
+</surface>

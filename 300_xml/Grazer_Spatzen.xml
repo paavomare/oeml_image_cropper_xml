@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b9115917-c5b0-441a-be16-eec96e643cb0" n="grazer-spatzen">
+  <desc type="filename">Grazer_Spatzen.xml</desc>
+  <graphic url="Grazer_Spatzen_2016.jpg" width="1052" height="842">
+  </graphic>
+  <zone type="medallionCrop" ulx="108" uly="0" lrx="950" lry="842" cx="529" cy="421" r="421" rotate="0"/>
+  <desc type="modified">2026-04-22T12:28:45.065Z</desc>
+</surface>

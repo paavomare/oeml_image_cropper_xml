@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_78eca36d-bfa1-4bea-90ce-ce1b6a16e330" n="jaques-dalcroze-emile">
+  <desc type="filename">Jaques-Dalcroze_Emile.xml</desc>
+  <graphic url="Jaques-Dalcroze_Emile.jpg" width="850" height="989">
+  </graphic>
+  <zone type="medallionCrop" ulx="356" uly="307" lrx="728" lry="679" cx="542" cy="493" r="186" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:31.544Z</desc>
+</surface>

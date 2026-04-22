@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4f340c04-c9fc-4d2d-867f-e96bd7352202" n="schroedter-fritz">
+  <desc type="filename">Schroedter_Fritz.xml</desc>
+  <graphic url="Schroedter_1896.jpg" width="1170" height="1688">
+  </graphic>
+  <zone type="medallionCrop" ulx="151" uly="476" lrx="1054" lry="1379" cx="603" cy="928" r="452" rotate="0"/>
+  <desc type="modified">2026-04-22T12:27:13.019Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_08fdfe4c-28ee-4589-b5d9-e803b3fbca8e" n="lickl-familie">
+  <desc type="filename">Lickl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/128_B3594879T3594883.jpg" width="550" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="171" lrx="463" lry="530" cx="284" cy="351" r="180" rotate="0"/>
+  <desc type="modified">2026-04-22T14:04:46.809Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a838bab8-b708-498f-8604-15129ee1a7de" n="schuecker-familie">
+  <desc type="filename">Schuecker_Familie.xml</desc>
+  <graphic url="Schuecker_Familie_Edmund_Portrait.jpg" width="412" height="419">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="412" lry="413" cx="206" cy="207" r="206" rotate="0"/>
+  <desc type="modified">2026-04-22T13:08:54.465Z</desc>
+</surface>

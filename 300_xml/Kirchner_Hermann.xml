@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f5b7ac49-5f39-4a68-a0aa-e503e10cc2aa" n="kirchner-hermann">
+  <desc type="filename">Kirchner_Hermann.xml</desc>
+  <graphic url="Kirchner_Hermann.jpg" width="578" height="822">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="84" lrx="578" lry="662" cx="289" cy="373" r="289" rotate="0"/>
+  <desc type="modified">2026-04-22T13:29:13.789Z</desc>
+</surface>

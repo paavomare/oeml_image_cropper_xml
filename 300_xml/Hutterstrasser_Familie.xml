@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_00a1fe07-301c-43f2-8143-e0910393932c" n="hutterstrasser-familie">
+  <desc type="filename">Hutterstrasser_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10027409T10450591.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="13" uly="66" lrx="500" lry="553" cx="257" cy="310" r="244" rotate="0"/>
+  <desc type="modified">2026-04-22T13:31:50.504Z</desc>
+</surface>

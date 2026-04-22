@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e3fc3b7c-632f-471b-8201-8f18675655fe" n="jerger-alfred">
+  <desc type="filename">Jerger_Alfred.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10452855T10452860.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="60" lrx="483" lry="505" cx="261" cy="282" r="222" rotate="0"/>
+  <desc type="modified">2026-04-22T13:21:23.579Z</desc>
+</surface>

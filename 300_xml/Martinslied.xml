@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9c3237e8-2223-4821-a9f6-6769bd0fa9a4" n="martinslied">
+  <desc type="filename">Martinslied.xml</desc>
+  <graphic url="Martinslied.jpg" width="2126" height="1594">
+  </graphic>
+  <zone type="medallionCrop" ulx="266" uly="0" lrx="1860" lry="1594" cx="1063" cy="797" r="797" rotate="0"/>
+  <desc type="modified">2026-04-22T13:02:25.025Z</desc>
+</surface>

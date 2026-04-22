@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a20f15b0-8624-4105-a4e8-dc08cfef26e3" n="katschthaler-johann">
+  <desc type="filename">Katschthaler_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_1073_B18741440T18741445.jpg" width="801" height="617">
+  </graphic>
+  <zone type="medallionCrop" ulx="385" uly="142" lrx="723" lry="480" cx="554" cy="311" r="169" rotate="0"/>
+  <desc type="modified">2026-04-22T13:08:35.183Z</desc>
+</surface>

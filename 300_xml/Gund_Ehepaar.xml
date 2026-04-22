@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb11c75a-9dc5-4376-b017-67e5e853aa75" n="gund-ehepaar">
+  <desc type="filename">Gund_Ehepaar.xml</desc>
+  <graphic url="Gund_Robert.jpg" width="365" height="589">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="68" lrx="338" lry="387" cx="178" cy="228" r="160" rotate="0"/>
+  <desc type="modified">2026-04-22T13:55:42.097Z</desc>
+</surface>

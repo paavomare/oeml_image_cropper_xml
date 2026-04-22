@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_45f3fae8-fb76-44a6-8392-72f57b498b0b" n="haas-georg-friedrich">
+  <desc type="filename">Haas_Georg_Friedrich.xml</desc>
+  <graphic url="Haas.jpg" width="355" height="496">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="355" lry="387" cx="178" cy="210" r="178" rotate="0"/>
+  <desc type="modified">2026-04-22T14:01:47.466Z</desc>
+</surface>

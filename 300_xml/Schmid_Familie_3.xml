@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_13dd6613-da24-440e-bcc6-aa3bf7b94f2f" n="schmid-familie-3">
+  <desc type="filename">Schmid_Familie_3.xml</desc>
+  <graphic url="Schmid_Karl.jpg" width="640" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="49" lrx="640" lry="689" cx="320" cy="369" r="320" rotate="0"/>
+  <desc type="modified">2026-04-22T14:03:24.395Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_04bb67d5-fc51-4045-8531-20c6f9e88313" n="reisfeld-bert">
+  <desc type="filename">Reisfeld_Bert.xml</desc>
+  <graphic url="Reisfeld_Bert.jpg" width="433" height="612">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="8" lrx="433" lry="441" cx="217" cy="225" r="217" rotate="0"/>
+  <desc type="modified">2026-04-22T13:03:13.758Z</desc>
+</surface>

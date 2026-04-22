@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b3128726-c52f-4a72-9ce5-54570f3974bb" n="norini-emil">
+  <desc type="filename">Norini_Emil.xml</desc>
+  <graphic url="bildarchivaustria/248_B4098002T4098006.jpg" width="531" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="56" uly="133" lrx="469" lry="546" cx="263" cy="340" r="207" rotate="0"/>
+  <desc type="modified">2026-04-22T14:03:17.197Z</desc>
+</surface>

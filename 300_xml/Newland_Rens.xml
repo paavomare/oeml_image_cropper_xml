@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5b230984-212b-45cc-8def-c9208e369f74" n="newland-rens">
+  <desc type="filename">Newland_Rens.xml</desc>
+  <graphic url="Newland_Rens.jpg" width="650" height="949">
+  </graphic>
+  <zone type="medallionCrop" ulx="87" uly="50" lrx="650" lry="613" cx="369" cy="332" r="282" rotate="0"/>
+  <desc type="modified">2026-04-22T12:33:00.678Z</desc>
+</surface>

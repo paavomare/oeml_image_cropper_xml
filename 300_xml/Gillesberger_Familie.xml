@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6f8383b3-e804-41bc-bfea-e96ac61d7881" n="gillesberger-familie">
+  <desc type="filename">Gillesberger_Familie.xml</desc>
+  <graphic url="bildarchivaustria/56_B660236T1526038.jpg" width="801" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="801" lry="801" cx="401" cy="401" r="401" rotate="0"/>
+  <desc type="modified">2026-04-22T13:19:25.561Z</desc>
+</surface>

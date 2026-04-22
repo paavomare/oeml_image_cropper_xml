@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a92ea76a-8048-406d-bc3c-1124f627fcde" n="film">
+  <desc type="filename">Film.xml</desc>
+  <graphic url="Peschka_wrb1933.jpg" width="1082" height="776">
+  </graphic>
+  <zone type="medallionCrop" ulx="140" uly="0" lrx="916" lry="776" cx="528" cy="388" r="388" rotate="0"/>
+  <desc type="modified">2026-04-22T12:32:38.829Z</desc>
+</surface>

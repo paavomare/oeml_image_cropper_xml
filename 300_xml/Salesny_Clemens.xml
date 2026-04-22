@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_41be5564-c8ab-43c5-be4b-210f1d4a3c87" n="salesny-clemens">
+  <desc type="filename">Salesny_Clemens.xml</desc>
+  <graphic url="Salesny_Clemens.jpg" width="1100" height="729">
+  </graphic>
+  <zone type="medallionCrop" ulx="233" uly="0" lrx="962" lry="729" cx="598" cy="365" r="365" rotate="0"/>
+  <desc type="modified">2026-04-22T13:41:56.682Z</desc>
+</surface>

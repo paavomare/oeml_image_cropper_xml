@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_702a8a99-1438-4f4d-8ec0-a6887c02f1e5" n="rolla-alessandro">
+  <desc type="filename">Rolla_Alessandro.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257076T9257081.jpg" width="607" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="98" uly="144" lrx="516" lry="562" cx="307" cy="353" r="209" rotate="0"/>
+  <desc type="modified">2026-04-22T14:07:11.379Z</desc>
+</surface>

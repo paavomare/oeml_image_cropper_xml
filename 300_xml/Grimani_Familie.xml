@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4fad14ba-3811-42c5-9622-e8c39be94ce3" n="grimani-familie">
+  <desc type="filename">Grimani_Familie.xml</desc>
+  <graphic url="bildarchivaustria/654_B7668030T7668034.jpg" width="604" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="101" uly="74" lrx="509" lry="482" cx="305" cy="278" r="204" rotate="0"/>
+  <desc type="modified">2026-04-22T14:10:03.571Z</desc>
+</surface>

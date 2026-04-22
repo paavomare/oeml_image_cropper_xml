@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ed21e134-e3f7-464d-8189-5b224da65718" n="stubenberg-anna">
+  <desc type="filename">Stubenberg_Anna.xml</desc>
+  <graphic url="Stubenberg_Anna.JPG" width="792" height="860">
+  </graphic>
+  <zone type="medallionCrop" ulx="90" uly="87" lrx="631" lry="629" cx="361" cy="358" r="271" rotate="0"/>
+  <desc type="modified">2026-04-22T13:30:34.138Z</desc>
+</surface>

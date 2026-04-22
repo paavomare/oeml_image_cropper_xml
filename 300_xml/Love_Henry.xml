@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5f4ea07c-da68-4564-af8d-8da9f7989b71" n="love-henry">
+  <desc type="filename">Love_Henry.xml</desc>
+  <graphic url="Loewe_Hilde.jpg" width="283" height="477">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="27" lrx="283" lry="310" cx="142" cy="169" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T12:49:30.221Z</desc>
+</surface>

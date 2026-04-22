@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ab29bb23-e52d-4050-ba31-8b10aa0206bf" n="esterhazy-familie">
+  <desc type="filename">Esterhazy_Familie.xml</desc>
+  <graphic url="bildarchivaustria/105_B3502952T3502956.jpg" width="608" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="114" uly="155" lrx="485" lry="525" cx="300" cy="341" r="186" rotate="0"/>
+  <desc type="modified">2026-04-22T13:05:11.990Z</desc>
+</surface>

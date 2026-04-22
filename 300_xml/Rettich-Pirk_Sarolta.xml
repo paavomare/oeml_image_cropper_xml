@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_93629982-6d31-4d71-a223-066aab860a20" n="rettich-pirk-sarolta">
+  <desc type="filename">Rettich-Pirk_Sarolta.xml</desc>
+  <graphic url="Rettich-Pirk_1896.jpg" width="761" height="1571">
+  </graphic>
+  <zone type="medallionCrop" ulx="2" uly="151" lrx="739" lry="888" cx="371" cy="520" r="369" rotate="0"/>
+  <desc type="modified">2026-04-22T13:24:34.733Z</desc>
+</surface>

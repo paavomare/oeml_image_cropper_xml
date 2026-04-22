@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_93332cdf-9344-4dd2-9ede-035660b666a2" n="wertheim-eduard">
+  <desc type="filename">Wertheim_Eduard.xml</desc>
+  <graphic url="Wertheim_Eduard.jpg" width="485" height="709">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="485" lry="515" cx="243" cy="273" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T13:20:54.345Z</desc>
+</surface>

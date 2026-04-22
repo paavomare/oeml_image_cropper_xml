@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0a8e5146-62fa-405f-a5b6-2e73e10e3796" n="krauss-familie">
+  <desc type="filename">Krauss_Familie.xml</desc>
+  <graphic url="Krauss_Clemy.jpg" width="711" height="1099">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="108" lrx="711" lry="819" cx="356" cy="464" r="356" rotate="0"/>
+  <desc type="modified">2026-04-22T13:43:36.099Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1ac7ad39-697e-4de3-bbc2-8d47381fea47" n="pellegrini-giulio">
+  <desc type="filename">Pellegrini_Giulio.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9256556T9256561.jpg" width="570" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="69" lrx="570" lry="639" cx="285" cy="354" r="285" rotate="0"/>
+  <desc type="modified">2026-04-22T13:58:45.494Z</desc>
+</surface>

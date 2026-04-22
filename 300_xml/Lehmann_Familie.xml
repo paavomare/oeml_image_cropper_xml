@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dbaae05d-4e1c-40e1-9ecc-7c9ca340d5a8" n="lehmann-familie">
+  <desc type="filename">Lehmann_Familie.xml</desc>
+  <graphic url="bildarchivaustria/340_B307755T4438800.jpg" width="595" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="545" lry="579" cx="273" cy="307" r="273" rotate="0"/>
+  <desc type="modified">2026-04-22T13:02:16.412Z</desc>
+</surface>

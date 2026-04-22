@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b4aff1ef-bf9d-4b08-a4a6-370b5869e018" n="ulke-anna">
+  <desc type="filename">Ulke_Anna.xml</desc>
+  <graphic url="Ulke_Anna_3.jpg" width="502" height="709">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="64" lrx="391" lry="455" cx="196" cy="260" r="196" rotate="0"/>
+  <desc type="modified">2026-04-22T13:40:35.032Z</desc>
+</surface>

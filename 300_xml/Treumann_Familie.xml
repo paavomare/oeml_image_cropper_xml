@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_72c3ee4e-d377-4f54-94b0-5fa11605be72" n="treumann-familie">
+  <desc type="filename">Treumann_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_955_B13816203T13816208.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="30" uly="95" lrx="544" lry="610" cx="287" cy="352" r="257" rotate="0"/>
+  <desc type="modified">2026-04-22T13:20:49.912Z</desc>
+</surface>

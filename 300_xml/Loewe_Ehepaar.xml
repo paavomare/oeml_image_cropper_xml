@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_36106060-ccc5-4b3b-b3fb-bec2f14c694b" n="loewe-ehepaar">
+  <desc type="filename">Loewe_Ehepaar.xml</desc>
+  <graphic url="Loewe_Marie.jpg" width="357" height="496">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="357" lry="376" cx="179" cy="198" r="179" rotate="0"/>
+  <desc type="modified">2026-04-22T13:01:39.667Z</desc>
+</surface>

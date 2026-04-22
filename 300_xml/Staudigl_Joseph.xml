@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_78ba8b33-151f-46ae-988b-4784a04cf5be" n="staudigl-joseph">
+  <desc type="filename">Staudigl_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9244265T9244270.jpg" width="643" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="32" uly="74" lrx="603" lry="646" cx="318" cy="360" r="286" rotate="0"/>
+  <desc type="modified">2026-04-22T13:03:05.952Z</desc>
+</surface>

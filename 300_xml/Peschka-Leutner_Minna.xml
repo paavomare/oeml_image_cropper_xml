@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_24155da1-225e-4702-a966-f4ca359fe812" n="peschka-leutner-minna">
+  <desc type="filename">Peschka-Leutner_Minna.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9268373T9268378.jpg" width="653" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="30" uly="96" lrx="623" lry="689" cx="327" cy="393" r="297" rotate="0"/>
+  <desc type="modified">2026-04-22T14:06:31.200Z</desc>
+</surface>

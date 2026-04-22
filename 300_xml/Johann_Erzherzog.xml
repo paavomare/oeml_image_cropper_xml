@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a8cbe5d5-1a1d-4705-9134-8aaa125ac0e6" n="johann-erzherzog">
+  <desc type="filename">Johann_Erzherzog.xml</desc>
+  <graphic url="bildarchivaustria/437_B4847991T4847995.jpg" width="560" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="88" uly="117" lrx="481" lry="510" cx="285" cy="314" r="197" rotate="0"/>
+  <desc type="modified">2026-04-22T12:41:41.258Z</desc>
+</surface>

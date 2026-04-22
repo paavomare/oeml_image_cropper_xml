@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8446df67-9e62-4b76-81d4-1f6dcb60e785" n="emmer-leopold">
+  <desc type="filename">Emmer_Leopold.xml</desc>
+  <graphic url="emmer_leopold.jpg" width="365" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="126" lrx="350" lry="449" cx="188" cy="288" r="162" rotate="0"/>
+  <desc type="modified">2026-04-22T13:57:45.226Z</desc>
+</surface>

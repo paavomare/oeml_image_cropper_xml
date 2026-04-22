@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1c221907-7658-4138-b3c3-b0677b59430c" n="sonnenfels-josef-von">
+  <desc type="filename">Sonnenfels_Josef_von.xml</desc>
+  <graphic url="bildarchivaustria/BA_1088_B8996916T19414308.jpg" width="548" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="51" uly="72" lrx="533" lry="553" cx="292" cy="313" r="241" rotate="0"/>
+  <desc type="modified">2026-04-22T12:27:58.709Z</desc>
+</surface>

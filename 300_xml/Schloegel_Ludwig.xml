@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6c75bd5c-7fa9-4822-93d2-7a8d46b4dcac" n="schloegel-ludwig">
+  <desc type="filename">Schloegel_Ludwig.xml</desc>
+  <graphic url="Schloegel_Ludwig.jpg" width="328" height="414">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="328" lry="356" cx="164" cy="192" r="164" rotate="0"/>
+  <desc type="modified">2026-04-22T13:44:37.148Z</desc>
+</surface>

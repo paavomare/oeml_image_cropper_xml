@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ed7455fb-99f5-4938-be63-8027c4aa464d" n="vorau">
+  <desc type="filename">Vorau.xml</desc>
+  <graphic url="Vorau_Orgel.jpg" width="1134" height="850">
+  </graphic>
+  <zone type="medallionCrop" ulx="81" uly="0" lrx="931" lry="850" cx="506" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T13:40:56.811Z</desc>
+</surface>

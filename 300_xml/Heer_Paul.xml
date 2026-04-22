@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_495b5a63-6121-40fb-8c77-c8d4c6454b15" n="heer-paul">
+  <desc type="filename">Heer_Paul.xml</desc>
+  <graphic url="Heer_Paul.jpg" width="294" height="410">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="52" lrx="294" lry="346" cx="147" cy="199" r="147" rotate="0"/>
+  <desc type="modified">2026-04-22T13:57:26.318Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9e247d1d-15cd-408a-8c73-753e66a2b79b" n="schumann-ehepaar">
+  <desc type="filename">Schumann_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/112_B3523009T3523013.jpg" width="595" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="74" lrx="564" lry="619" cx="292" cy="347" r="273" rotate="0"/>
+  <desc type="modified">2026-04-22T14:06:18.656Z</desc>
+</surface>

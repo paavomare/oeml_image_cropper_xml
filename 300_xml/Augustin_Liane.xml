@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c34475e0-8441-4d33-8089-a2c00d9d9946" n="augustin-liane">
+  <desc type="filename">Augustin_Liane.xml</desc>
+  <graphic url="Augustin_Liane.jpg" width="582" height="810">
+  </graphic>
+  <zone type="medallionCrop" ulx="127" uly="148" lrx="508" lry="530" cx="318" cy="339" r="191" rotate="0"/>
+  <desc type="modified">2026-04-22T14:02:59.212Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_977d13e4-03de-4913-9b54-695dc32149e3" n="heger-mauriz">
+  <desc type="filename">Heger_Mauriz.xml</desc>
+  <graphic url="Heger_Mauriz.jpg" width="425" height="433">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="48" lrx="351" lry="400" cx="176" cy="224" r="176" rotate="0"/>
+  <desc type="modified">2026-04-22T13:53:30.556Z</desc>
+</surface>

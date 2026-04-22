@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3679a2f4-4dce-49ae-bae6-a40b5fa80800" n="collin-brueder">
+  <desc type="filename">Collin_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/660_B7687439T7687443.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="86" uly="164" lrx="455" lry="533" cx="271" cy="349" r="185" rotate="0"/>
+  <desc type="modified">2026-04-22T13:21:06.670Z</desc>
+</surface>

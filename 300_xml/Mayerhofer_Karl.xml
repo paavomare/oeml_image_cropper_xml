@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6124982e-029a-481f-bfe3-e76a42f81226" n="mayerhofer-karl">
+  <desc type="filename">Mayerhofer_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243179T9243184.jpg" width="592" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="61" uly="142" lrx="503" lry="584" cx="282" cy="363" r="221" rotate="0"/>
+  <desc type="modified">2026-04-22T13:05:59.354Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a7ac8ea4-2682-4480-833c-3b143dc9f609" n="deutsch-walter">
+  <desc type="filename">Deutsch_Walter.xml</desc>
+  <graphic url="Deutsch_Walter.jpg" width="777" height="584">
+  </graphic>
+  <zone type="medallionCrop" ulx="79" uly="0" lrx="663" lry="584" cx="371" cy="292" r="292" rotate="0"/>
+  <desc type="modified">2026-04-22T13:56:18.626Z</desc>
+</surface>

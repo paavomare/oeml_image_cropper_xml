@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_26d92fad-ef80-47d8-af14-8fd6fd3c6e5f" n="korntheuer-friedrich">
+  <desc type="filename">Korntheuer_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/149_B3698307T3698311.jpg" width="600" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="127" uly="176" lrx="466" lry="516" cx="297" cy="346" r="170" rotate="0"/>
+  <desc type="modified">2026-04-22T12:49:40.126Z</desc>
+</surface>

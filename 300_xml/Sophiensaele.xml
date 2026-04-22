@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c880face-1586-4d15-9621-2829d82131de" n="sophiensaele">
+  <desc type="filename">Sophiensaele.xml</desc>
+  <graphic url="Sophiensaal_1896.jpg" width="2423" height="1559">
+  </graphic>
+  <zone type="medallionCrop" ulx="262" uly="0" lrx="1821" lry="1559" cx="1042" cy="780" r="780" rotate="0"/>
+  <desc type="modified">2026-04-22T12:58:50.745Z</desc>
+</surface>

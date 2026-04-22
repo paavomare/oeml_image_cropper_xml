@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f247fcc4-6f56-4136-9a5c-0fe5ed36718e" n="kopmajer-simone">
+  <desc type="filename">Kopmajer_Simone.xml</desc>
+  <graphic url="Kopmajer_Simone.jpg" width="1100" height="729">
+  </graphic>
+  <zone type="medallionCrop" ulx="302" uly="0" lrx="1031" lry="729" cx="667" cy="365" r="365" rotate="0"/>
+  <desc type="modified">2026-04-22T13:03:29.568Z</desc>
+</surface>

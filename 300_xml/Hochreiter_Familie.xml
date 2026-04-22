@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8cebd21c-78e2-4d77-b3a4-eb52ba2dc694" n="hochreiter-familie">
+  <desc type="filename">Hochreiter_Familie.xml</desc>
+  <graphic url="Hochreiter_Emil_Foto.jpg" width="302" height="414">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="89" lrx="302" lry="391" cx="151" cy="240" r="151" rotate="0"/>
+  <desc type="modified">2026-04-22T13:31:07.050Z</desc>
+</surface>

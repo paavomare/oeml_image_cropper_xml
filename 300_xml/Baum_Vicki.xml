@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ec279dc2-1ee3-42a0-8fcd-f16715d95203" n="baum-vicki">
+  <desc type="filename">Baum_Vicki.xml</desc>
+  <graphic url="Baum_Vicki.jpg" width="366" height="509">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="33" lrx="341" lry="363" cx="176" cy="198" r="165" rotate="0"/>
+  <desc type="modified">2026-04-22T14:20:33.834Z</desc>
+</surface>
