@@ -1,0 +1,6 @@
+<surface xml:id="img_8538566b-8c7d-4639-8746-e3ef120b6eec" n="schladming">
+  <desc type="filename">Schladming.xml</desc>
+  <graphic url="Schladming_1930.jpg" height="512" width="800"/>
+  <zone type="medallionCrop" ulx="162" uly="19" lrx="648" lry="506" cx="405" cy="262" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T09:37:54.629Z</desc>
+</surface>

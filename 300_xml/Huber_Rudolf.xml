@@ -1,0 +1,6 @@
+<surface xml:id="img_999f6944-8618-4b3f-8edb-6e0b0b51a4eb" n="huber-rudolf">
+  <desc type="filename">Huber_Rudolf.xml</desc>
+  <graphic url="Huber_Rudolf.jpg" height="584" width="397"/>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="397" lry="423" cx="199" cy="225" r="199" rotate="0"/>
+  <desc type="modified">2026-04-22T10:56:37.426Z</desc>
+</surface>

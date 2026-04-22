@@ -1,0 +1,6 @@
+<surface xml:id="img_a71c2ed3-4956-480f-a345-a40e307d6b4b" n="pruckner-caroline">
+  <desc type="filename">Pruckner_Caroline.xml</desc>
+  <graphic url="Pruckner_Caroline.jpg" height="530" width="425"/>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="425" lry="440" cx="213" cy="228" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T10:37:36.554Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_be7df763-5c7e-452f-86ed-8408f4f8c772" n="wiener-karl-ritter-von">
+  <desc type="filename">Wiener_Karl_Ritter_von.xml</desc>
+  <graphic url="Wiener_Karl.jpg" height="761" width="556"/>
+  <zone type="medallionCrop" ulx="82" uly="103" lrx="474" lry="496" cx="278" cy="299" r="196" rotate="0"/>
+  <desc type="modified">2026-04-22T10:16:24.421Z</desc>
+</surface>

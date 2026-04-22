@@ -1,0 +1,6 @@
+<surface xml:id="img_27b31b48-d98a-4635-be20-ff04a8eb0fb1" n="voelkermarkt">
+  <desc type="filename">Voelkermarkt.xml</desc>
+  <graphic url="Voelkermarkt_Postkarte.jpg" height="511" width="800"/>
+  <zone type="medallionCrop" ulx="180" uly="40" lrx="630" lry="489" cx="405" cy="265" r="225" rotate="0"/>
+  <desc type="modified">2026-04-22T09:32:47.547Z</desc>
+</surface>

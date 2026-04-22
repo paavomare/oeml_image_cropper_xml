@@ -1,0 +1,6 @@
+<surface xml:id="img_6f377bf2-01aa-4114-b566-96e8e203b8db" n="glasharmonika">
+  <desc type="filename">Glasharmonika.xml</desc>
+  <graphic url="Glasharmonika.jpg" height="544" width="594"/>
+  <zone type="medallionCrop" ulx="24" uly="0" lrx="568" lry="544" cx="296" cy="272" r="272" rotate="0"/>
+  <desc type="modified">2026-04-22T09:44:08.231Z</desc>
+</surface>

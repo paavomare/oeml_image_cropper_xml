@@ -1,0 +1,6 @@
+<surface xml:id="img_e58ce5b3-32a2-4ce1-8c66-31ed4b50e2c3" n="fiori-anna">
+  <desc type="filename">Fiori_Anna.xml</desc>
+  <graphic url="Fiori_Anna_1889.jpg" height="764" width="536"/>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="536" lry="568" cx="268" cy="300" r="268" rotate="0"/>
+  <desc type="modified">2026-04-21T15:01:22.333Z</desc>
+</surface>

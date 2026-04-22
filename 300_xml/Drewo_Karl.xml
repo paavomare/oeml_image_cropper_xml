@@ -1,0 +1,6 @@
+<surface xml:id="img_4f74894a-fa23-48ae-a219-bf67dbed5c4f" n="drewo-karl">
+  <desc type="filename">Drewo_Karl.xml</desc>
+  <graphic url="Drewo_Karl.jpg" height="513" width="369"/>
+  <zone type="medallionCrop" ulx="79" uly="83" lrx="448" lry="452" cx="264" cy="268" r="185" rotate="-35"/>
+  <desc type="modified">2026-04-22T10:24:03.081Z</desc>
+</surface>

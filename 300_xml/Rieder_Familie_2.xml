@@ -1,0 +1,6 @@
+<surface xml:id="img_3b853239-0db8-44cc-8049-f95704a3066d" n="rieder-familie-2">
+  <desc type="filename">Rieder_Familie_2.xml</desc>
+  <graphic url="Rieder_Schwestern.jpg" height="585" width="422"/>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="422" lry="445" cx="211" cy="234" r="211" rotate="0"/>
+  <desc type="modified">2026-04-21T15:11:00.727Z</desc>
+</surface>

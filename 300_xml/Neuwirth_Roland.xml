@@ -1,0 +1,6 @@
+<surface xml:id="img_b16ade3f-708f-4f41-aa17-7286c66dc471" n="neuwirth-roland">
+  <desc type="filename">Neuwirth_Roland.xml</desc>
+  <graphic url="Neuwirth_Roland.jpg" height="992" width="1028"/>
+  <zone type="medallionCrop" ulx="163" uly="10" lrx="961" lry="808" cx="562" cy="409" r="399" rotate="0"/>
+  <desc type="modified">2026-04-22T10:55:27.585Z</desc>
+</surface>

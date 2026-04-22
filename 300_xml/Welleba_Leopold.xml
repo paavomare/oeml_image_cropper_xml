@@ -1,0 +1,6 @@
+<surface xml:id="img_40f83c37-72fa-46e3-971e-0f9d55b605a9" n="welleba-leopold">
+  <desc type="filename">Welleba_Leopold.xml</desc>
+  <graphic url="Welleba_Leopold_2.jpg" height="563" width="400"/>
+  <zone type="medallionCrop" ulx="0" uly="76" lrx="400" lry="476" cx="200" cy="276" r="200" rotate="0"/>
+  <desc type="modified">2026-04-22T09:14:07.711Z</desc>
+</surface>

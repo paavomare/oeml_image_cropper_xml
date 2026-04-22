@@ -1,0 +1,6 @@
+<surface xml:id="img_409fa044-283e-45b9-9bf8-6e7786a3cf5d" n="grienauer-alois">
+  <desc type="filename">Grienauer_Alois.xml</desc>
+  <graphic url="grienauer_aloys.jpg" height="500" width="366"/>
+  <zone type="medallionCrop" ulx="27" uly="37" lrx="347" lry="357" cx="187" cy="197" r="160" rotate="0"/>
+  <desc type="modified">2026-04-22T10:25:08.718Z</desc>
+</surface>

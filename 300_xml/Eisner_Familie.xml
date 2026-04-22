@@ -1,0 +1,6 @@
+<surface xml:id="img_662e6f08-fee3-477b-9353-cb8461de167c" n="eisner-familie">
+  <desc type="filename">Eisner_Familie.xml</desc>
+  <graphic url="Eisner_Bruno.jpg" height="865" width="602"/>
+  <zone type="medallionCrop" ulx="0" uly="111" lrx="602" lry="713" cx="301" cy="412" r="301" rotate="0"/>
+  <desc type="modified">2026-04-22T09:22:15.228Z</desc>
+</surface>

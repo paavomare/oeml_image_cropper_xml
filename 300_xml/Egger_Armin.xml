@@ -1,0 +1,6 @@
+<surface xml:id="img_32c1ae37-7987-4018-9b75-4032d07001f1" n="egger-armin">
+  <desc type="filename">Egger_Armin.xml</desc>
+  <graphic url="Egger_Armin.jpg" height="894" width="598"/>
+  <zone type="medallionCrop" ulx="0" uly="163" lrx="598" lry="761" cx="299" cy="462" r="299" rotate="0"/>
+  <desc type="modified">2026-04-21T15:26:39.149Z</desc>
+</surface>

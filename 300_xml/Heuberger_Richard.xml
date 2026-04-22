@@ -1,0 +1,6 @@
+<surface xml:id="img_01baa86e-72fb-4458-8622-be39896e4c61" n="heuberger-richard">
+  <desc type="filename">Heuberger_Richard.xml</desc>
+  <graphic url="Heuberger_Richard.jpg" height="412" width="333"/>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="333" lry="367" cx="167" cy="201" r="167" rotate="0"/>
+  <desc type="modified">2026-04-22T10:20:31.692Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_7b45ccf1-23d9-4e02-adce-074f0c071e34" n="pfliegler-anton">
+  <desc type="filename">Pfliegler_Anton.xml</desc>
+  <graphic url="Pfliegler_Orgel.jpg" height="869" width="992"/>
+  <zone type="medallionCrop" ulx="51" uly="0" lrx="920" lry="869" cx="486" cy="435" r="435" rotate="0"/>
+  <desc type="modified">2026-04-22T09:24:02.936Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_16deaaf6-c8b9-42ce-b6c1-8a1316bcf9de" n="jurmann-walter">
+  <desc type="filename">Jurmann_Walter.xml</desc>
+  <graphic url="Jurmann.jpg" height="502" width="377"/>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="354" lry="379" cx="177" cy="203" r="177" rotate="0"/>
+  <desc type="modified">2026-04-22T09:13:37.161Z</desc>
+</surface>

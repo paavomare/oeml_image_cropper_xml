@@ -1,0 +1,6 @@
+<surface xml:id="img_4e14ab61-56de-4899-9454-6e1a5062cb8a" n="amarcord-wien">
+  <desc type="filename">Amarcord_Wien.xml</desc>
+  <graphic url="Amarcord.jpg" height="638" width="977"/>
+  <zone type="medallionCrop" ulx="170" uly="0" lrx="808" lry="638" cx="489" cy="319" r="319" rotate="0"/>
+  <desc type="modified">2026-04-22T10:59:55.583Z</desc>
+</surface>

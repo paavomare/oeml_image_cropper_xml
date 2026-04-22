@@ -1,0 +1,6 @@
+<surface xml:id="img_ff5ea6e9-fbcd-4282-b44c-0ee94c557e8d" n="hussiten">
+  <desc type="filename">Hussiten.xml</desc>
+  <graphic url="Graduale-Tschaslau.jpg" height="10060" width="6319"/>
+  <zone type="medallionCrop" ulx="132" uly="1479" lrx="6187" lry="7534" cx="3160" cy="4507" r="3028" rotate="0"/>
+  <desc type="modified">2026-04-22T09:22:08.190Z</desc>
+</surface>

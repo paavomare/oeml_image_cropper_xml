@@ -1,0 +1,6 @@
+<surface xml:id="img_5338f0a1-689b-4031-bbf9-0517f48b53bd" n="nurejew-rudolf">
+  <desc type="filename">Nurejew_Rudolf.xml</desc>
+  <graphic url="Nurejew_plakat2003.jpg" height="800" width="564"/>
+  <zone type="medallionCrop" ulx="0" uly="130" lrx="564" lry="694" cx="282" cy="412" r="282" rotate="0"/>
+  <desc type="modified">2026-04-21T15:29:42.109Z</desc>
+</surface>

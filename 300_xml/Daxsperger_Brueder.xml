@@ -1,0 +1,6 @@
+<surface xml:id="img_ef5c33aa-7d5b-47f9-b8b1-9f696bb3e126" n="daxsperger-brueder">
+  <desc type="filename">Daxsperger_Brueder.xml</desc>
+  <graphic url="Daxsperger_wrb1933.jpg" height="866" width="845"/>
+  <zone type="medallionCrop" ulx="257" uly="32" lrx="845" lry="620" cx="551" cy="326" r="294" rotate="0"/>
+  <desc type="modified">2026-04-22T10:43:26.969Z</desc>
+</surface>

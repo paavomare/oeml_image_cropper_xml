@@ -1,0 +1,6 @@
+<surface xml:id="img_a7b46615-23d5-4595-8fb3-7a2844ed5cb0" n="markl-alois">
+  <desc type="filename">Markl_Alois.xml</desc>
+  <graphic url="Markl_Alois.jpg" height="697" width="481"/>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="481" lry="511" cx="241" cy="271" r="241" rotate="0"/>
+  <desc type="modified">2026-04-22T09:34:33.195Z</desc>
+</surface>

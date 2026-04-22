@@ -1,0 +1,6 @@
+<surface xml:id="img_fe08ac7e-9120-4cd6-843d-bc697e25fb36" n="loewe-ferdinand">
+  <desc type="filename">Loewe_Ferdinand.xml</desc>
+  <graphic url="Loewe_Ferdinand_2.jpg" height="706" width="481"/>
+  <zone type="medallionCrop" ulx="0" uly="45" lrx="481" lry="526" cx="241" cy="286" r="241" rotate="0"/>
+  <desc type="modified">2026-04-22T10:37:45.656Z</desc>
+</surface>

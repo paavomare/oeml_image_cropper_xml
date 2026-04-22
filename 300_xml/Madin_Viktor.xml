@@ -1,0 +1,6 @@
+<surface xml:id="img_9db22db8-8289-436e-9f4c-7c2646ff161d" n="madin-viktor">
+  <desc type="filename">Madin_Viktor.xml</desc>
+  <graphic url="Ariadne_1926a.jpg" height="1824" width="2729"/>
+  <zone type="medallionCrop" ulx="619" uly="775" lrx="1459" lry="1616" cx="1039" cy="1195" r="420" rotate="0"/>
+  <desc type="modified">2026-04-22T10:29:33.608Z</desc>
+</surface>

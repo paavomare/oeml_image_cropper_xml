@@ -1,0 +1,6 @@
+<surface xml:id="img_b1d2f095-46ce-4580-9479-880671866bd1" n="maazel-lorin">
+  <desc type="filename">Maazel_Lorin.xml</desc>
+  <graphic url="Maazel_Lorin.jpg" height="1331" width="2000"/>
+  <zone type="medallionCrop" ulx="533" uly="0" lrx="1864" lry="1331" cx="1199" cy="666" r="666" rotate="0"/>
+  <desc type="modified">2026-04-22T10:25:57.520Z</desc>
+</surface>

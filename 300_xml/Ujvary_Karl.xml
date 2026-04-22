@@ -1,0 +1,6 @@
+<surface xml:id="img_0c475113-b1bd-4562-94c9-3f244ba66e05" n="ujvary-karl">
+  <desc type="filename">Ujvary_Karl.xml</desc>
+  <graphic url="Ujvary_Karl.jpg" height="444" width="336"/>
+  <zone type="medallionCrop" ulx="50" uly="111" lrx="297" lry="357" cx="174" cy="235" r="124" rotate="0"/>
+  <desc type="modified">2026-04-22T10:20:01.345Z</desc>
+</surface>

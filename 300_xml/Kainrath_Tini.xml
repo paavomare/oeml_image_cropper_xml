@@ -1,0 +1,6 @@
+<surface xml:id="img_b5b9548f-12b2-4a78-9ee2-2a456ddb1ec4" n="kainrath-tini">
+  <desc type="filename">Kainrath_Tini.xml</desc>
+  <graphic url="Kainrath_Tini.jpg" height="734" width="1100"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="734" lry="734" cx="367" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-22T09:45:46.986Z</desc>
+</surface>

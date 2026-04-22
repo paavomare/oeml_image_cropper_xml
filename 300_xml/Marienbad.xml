@@ -1,0 +1,6 @@
+<surface xml:id="img_c1128063-f0bb-49f4-84b7-d10eecd4abfe" n="marienbad">
+  <desc type="filename">Marienbad.xml</desc>
+  <graphic url="bildarchivaustria/BA_937_B12959923T12959928.jpg" height="539" width="800"/>
+  <zone type="medallionCrop" ulx="151" uly="22" lrx="639" lry="511" cx="395" cy="266" r="244" rotate="0"/>
+  <desc type="modified">2026-04-22T10:36:51.739Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_d7a0563b-6cde-4615-ab04-34d2e261ebc7" n="tomaschek-wenzel">
+  <desc type="filename">Tomaschek_Wenzel.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243046T9243051.jpg" height="800" width="568"/>
+  <zone type="medallionCrop" ulx="92" uly="166" lrx="455" lry="530" cx="274" cy="348" r="182" rotate="0"/>
+  <desc type="modified">2026-04-22T10:42:45.533Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_49e15a3c-bca1-463c-bc93-31fdf1ddf4ce" n="schindler-anna">
+  <desc type="filename">Schindler_Anna.xml</desc>
+  <graphic url="Schindler_Anna.jpg" height="525" width="797"/>
+  <zone type="medallionCrop" ulx="166" uly="71" lrx="567" lry="472" cx="367" cy="272" r="201" rotate="0"/>
+  <desc type="modified">2026-04-22T10:04:06.074Z</desc>
+</surface>

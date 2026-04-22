@@ -1,0 +1,6 @@
+<surface xml:id="img_1de86ef0-9acb-4f2d-9ce4-6b1673b93299" n="bodanzky-geschwister">
+  <desc type="filename">Bodanzky_Geschwister.xml</desc>
+  <graphic url="Bodanzky_Artur.jpg" height="567" width="229"/>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="229" lry="230" cx="115" cy="116" r="115" rotate="0"/>
+  <desc type="modified">2026-04-22T10:42:54.391Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_ef951998-7741-4bed-8561-f855880e49a7" n="lana">
+  <desc type="filename">Lana.xml</desc>
+  <graphic url="Lana_Schnatterpeckaltar.jpg" height="980" width="709"/>
+  <zone type="medallionCrop" ulx="0" uly="271" lrx="709" lry="980" cx="355" cy="626" r="355" rotate="0"/>
+  <desc type="modified">2026-04-22T10:36:26.364Z</desc>
+</surface>

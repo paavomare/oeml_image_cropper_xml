@@ -1,0 +1,6 @@
+<surface xml:id="img_51d64d3e-eb64-4eb1-8d5b-8cc4aa5ce089" n="countrydance">
+  <desc type="filename">Countrydance.xml</desc>
+  <graphic url="Tiroloise.JPG" height="1157" width="1449"/>
+  <zone type="medallionCrop" ulx="146" uly="0" lrx="1303" lry="1157" cx="725" cy="579" r="579" rotate="0"/>
+  <desc type="modified">2026-04-22T09:42:36.505Z</desc>
+</surface>

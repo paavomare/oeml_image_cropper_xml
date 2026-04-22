@@ -1,0 +1,6 @@
+<surface xml:id="img_2ec7f867-2ce3-472f-baf4-c9b556b21fbb" n="konrath-anton">
+  <desc type="filename">Konrath_Anton.xml</desc>
+  <graphic url="Konrath.jpg" height="615" width="430"/>
+  <zone type="medallionCrop" ulx="0" uly="106" lrx="430" lry="536" cx="215" cy="321" r="215" rotate="0"/>
+  <desc type="modified">2026-04-22T10:56:44.289Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_fe2033df-7e36-4b13-966d-9a55379e5538" n="pilsen">
+  <desc type="filename">Pilsen.xml</desc>
+  <graphic url="Pilsen_St_Bartholomaeus.jpg" height="1083" width="1134"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1083" lry="1083" cx="542" cy="542" r="542" rotate="0"/>
+  <desc type="modified">2026-04-22T09:31:47.339Z</desc>
+</surface>

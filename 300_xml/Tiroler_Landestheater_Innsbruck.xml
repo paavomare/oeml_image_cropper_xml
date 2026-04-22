@@ -1,0 +1,6 @@
+<surface xml:id="img_c280ef91-a32e-4857-80ba-41e459b8d43d" n="tiroler-landestheater-innsbruck">
+  <desc type="filename">Tiroler_Landestheater_Innsbruck.xml</desc>
+  <graphic url="Tiroler_Landestheater.jpg" height="1327" width="2205"/>
+  <zone type="medallionCrop" ulx="640" uly="0" lrx="1967" lry="1327" cx="1304" cy="664" r="664" rotate="0"/>
+  <desc type="modified">2026-04-21T15:13:59.918Z</desc>
+</surface>

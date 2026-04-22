@@ -1,0 +1,6 @@
+<surface xml:id="img_d102e9a9-522c-4e38-8303-aad0e1647a01" n="wunder-wierer-natalie">
+  <desc type="filename">Wunder-Wierer_Natalie.xml</desc>
+  <graphic url="Wunder-Wierer_Natalie.jpg" height="653" width="338"/>
+  <zone type="medallionCrop" ulx="22" uly="37" lrx="285" lry="299" cx="154" cy="169" r="132" rotate="0"/>
+  <desc type="modified">2026-04-21T15:00:59.125Z</desc>
+</surface>

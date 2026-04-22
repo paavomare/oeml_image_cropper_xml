@@ -1,0 +1,6 @@
+<surface xml:id="img_c2d65434-e0af-449a-9ce7-877160a5d3cc" n="tausig-karl">
+  <desc type="filename">Tausig_Karl.xml</desc>
+  <graphic url="Tausig_Karl_1870.jpg" height="569" width="454"/>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="454" lry="470" cx="227" cy="243" r="227" rotate="0"/>
+  <desc type="modified">2026-04-21T15:39:41.228Z</desc>
+</surface>

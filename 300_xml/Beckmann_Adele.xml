@@ -1,0 +1,6 @@
+<surface xml:id="img_1f4e6824-09b9-4c4f-955e-64689ce8e385" n="beckmann-adele">
+  <desc type="filename">Beckmann_Adele.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9267696T9267701.jpg" height="800" width="667"/>
+  <zone type="medallionCrop" ulx="17" uly="63" lrx="653" lry="699" cx="335" cy="381" r="318" rotate="0"/>
+  <desc type="modified">2026-04-22T09:37:29.268Z</desc>
+</surface>

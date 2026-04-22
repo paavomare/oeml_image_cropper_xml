@@ -1,0 +1,6 @@
+<surface xml:id="img_31258426-58c4-4e7b-8646-f79d4afb53fe" n="linz">
+  <desc type="filename">Linz.xml</desc>
+  <graphic url="Linz_Neuer_Dom_Rudigierorgel.jpg" height="850" width="647"/>
+  <zone type="medallionCrop" ulx="0" uly="181" lrx="647" lry="828" cx="324" cy="505" r="324" rotate="0"/>
+  <desc type="modified">2026-04-22T10:42:17.518Z</desc>
+</surface>

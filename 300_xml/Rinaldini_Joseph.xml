@@ -1,0 +1,6 @@
+<surface xml:id="img_e781921f-3719-4261-aff2-e6a004965954" n="rinaldini-joseph">
+  <desc type="filename">Rinaldini_Joseph.xml</desc>
+  <graphic url="Rinaldini_Joseph.jpg" height="500" width="425"/>
+  <zone type="medallionCrop" ulx="0" uly="75" lrx="425" lry="500" cx="213" cy="288" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T09:48:05.115Z</desc>
+</surface>

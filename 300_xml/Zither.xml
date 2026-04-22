@@ -1,0 +1,6 @@
+<surface xml:id="img_851a2472-2148-4bae-a3d5-d96446d9e975" n="zither">
+  <desc type="filename">Zither.xml</desc>
+  <graphic url="Zither.jpg" height="349" width="359"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="349" lry="349" cx="175" cy="175" r="175" rotate="0"/>
+  <desc type="modified">2026-04-21T14:55:34.607Z</desc>
+</surface>

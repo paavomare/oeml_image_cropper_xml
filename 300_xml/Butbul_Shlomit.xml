@@ -1,0 +1,6 @@
+<surface xml:id="img_bf8570e1-6b53-4afc-b6e1-4d97c1f33d7f" n="butbul-shlomit">
+  <desc type="filename">Butbul_Shlomit.xml</desc>
+  <graphic url="Butbul_Shlomit_Porgy_140623.jpg" height="685" width="811"/>
+  <zone type="medallionCrop" ulx="63" uly="0" lrx="748" lry="685" cx="406" cy="343" r="343" rotate="0"/>
+  <desc type="modified">2026-04-21T15:31:44.576Z</desc>
+</surface>

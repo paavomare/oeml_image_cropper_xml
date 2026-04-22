@@ -1,0 +1,6 @@
+<surface xml:id="img_b65cc4af-f948-496b-be87-bcfdc60c6935" n="benedikt-walter">
+  <desc type="filename">Benedikt_Walter.xml</desc>
+  <graphic url="Benedikt_Walter.jpg" height="358" width="298"/>
+  <zone type="medallionCrop" ulx="13" uly="61" lrx="250" lry="298" cx="132" cy="180" r="119" rotate="0"/>
+  <desc type="modified">2026-04-21T14:57:43.187Z</desc>
+</surface>

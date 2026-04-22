@@ -1,0 +1,6 @@
+<surface xml:id="img_e8f4e53c-666a-4e4c-b88b-c478b38770e6" n="trapp-familie">
+  <desc type="filename">Trapp-Familie.xml</desc>
+  <graphic url="Trapp-Familie_1952.jpg" height="533" width="800"/>
+  <zone type="medallionCrop" ulx="134" uly="0" lrx="667" lry="533" cx="401" cy="267" r="267" rotate="0"/>
+  <desc type="modified">2026-04-22T09:29:58.157Z</desc>
+</surface>

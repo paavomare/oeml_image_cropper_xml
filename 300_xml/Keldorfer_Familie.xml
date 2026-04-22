@@ -1,0 +1,6 @@
+<surface xml:id="img_bc30ef79-2cc3-4333-8a7f-633a7655d684" n="keldorfer-familie">
+  <desc type="filename">Keldorfer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10451371T10451376.jpg" height="800" width="533"/>
+  <zone type="medallionCrop" ulx="39" uly="129" lrx="508" lry="599" cx="274" cy="364" r="235" rotate="0"/>
+  <desc type="modified">2026-04-22T09:14:26.414Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_1fe6b5f7-b1dd-491c-be21-2b211ca28244" n="st-georgenberg">
+  <desc type="filename">St_Georgenberg.xml</desc>
+  <graphic url="Georgenberg_Ansicht.jpg" height="768" width="512"/>
+  <zone type="medallionCrop" ulx="0" uly="141" lrx="512" lry="653" cx="256" cy="397" r="256" rotate="0"/>
+  <desc type="modified">2026-04-21T14:54:47.048Z</desc>
+</surface>

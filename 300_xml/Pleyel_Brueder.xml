@@ -1,0 +1,6 @@
+<surface xml:id="img_97add308-d99c-4768-8680-a392670d89cc" n="pleyel-brueder">
+  <desc type="filename">Pleyel_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9232812T9232817.jpg" height="800" width="602"/>
+  <zone type="medallionCrop" ulx="65" uly="126" lrx="526" lry="587" cx="296" cy="357" r="231" rotate="0"/>
+  <desc type="modified">2026-04-22T09:25:11.072Z</desc>
+</surface>

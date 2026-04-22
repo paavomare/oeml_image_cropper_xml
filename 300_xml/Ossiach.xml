@@ -1,0 +1,6 @@
+<surface xml:id="img_d99268fb-ea28-4e73-9552-b3a5ddd7691d" n="ossiach">
+  <desc type="filename">Ossiach.xml</desc>
+  <graphic url="Ossiach_Stiftskirche.jpeg" height="850" width="1134"/>
+  <zone type="medallionCrop" ulx="142" uly="0" lrx="992" lry="850" cx="567" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T09:29:18.181Z</desc>
+</surface>

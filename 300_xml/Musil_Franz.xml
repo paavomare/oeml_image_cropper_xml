@@ -1,0 +1,6 @@
+<surface xml:id="img_969ba13f-7952-4272-bac0-e18c1e26c435" n="musil-franz">
+  <desc type="filename">Musil_Franz.xml</desc>
+  <graphic url="Musil_Franz.jpg" height="548" width="475"/>
+  <zone type="medallionCrop" ulx="19" uly="48" lrx="451" lry="481" cx="235" cy="264" r="216" rotate="0"/>
+  <desc type="modified">2026-04-22T10:16:06.363Z</desc>
+</surface>

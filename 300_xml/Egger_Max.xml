@@ -1,0 +1,6 @@
+<surface xml:id="img_ebe045aa-3782-4afa-bae7-53f675778b6d" n="egger-max">
+  <desc type="filename">Egger_Max.xml</desc>
+  <graphic url="Egger_Max.jpg" height="388" width="305"/>
+  <zone type="medallionCrop" ulx="0" uly="12" lrx="305" lry="317" cx="153" cy="165" r="153" rotate="0"/>
+  <desc type="modified">2026-04-22T09:50:35.305Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_e1c4ace1-f7d3-4de6-976a-09cfec1c8ce1" n="werber-mia">
+  <desc type="filename">Werber_Mia.xml</desc>
+  <graphic url="Werber_Mia_1910.jpg" height="907" width="850"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="850" lry="850" cx="425" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T10:06:29.322Z</desc>
+</surface>

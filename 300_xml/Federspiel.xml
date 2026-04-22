@@ -1,0 +1,6 @@
+<surface xml:id="img_422b4089-d811-4af9-95f9-705fd7e02c6f" n="federspiel">
+  <desc type="filename">Federspiel.xml</desc>
+  <graphic url="Federspiel_2024.jpg" height="854" width="1120"/>
+  <zone type="medallionCrop" ulx="131" uly="0" lrx="985" lry="854" cx="558" cy="427" r="427" rotate="0"/>
+  <desc type="modified">2026-04-22T10:14:06.610Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_74010faf-a01b-4a75-b49c-86f0943be84a" n="aichinger-oskar">
+  <desc type="filename">Aichinger_Oskar.xml</desc>
+  <graphic url="Aichinger_Oskar.jpg" height="729" width="1100"/>
+  <zone type="medallionCrop" ulx="342" uly="0" lrx="1071" lry="729" cx="707" cy="365" r="365" rotate="0"/>
+  <desc type="modified">2026-04-22T09:44:18.040Z</desc>
+</surface>

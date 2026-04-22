@@ -1,0 +1,6 @@
+<surface xml:id="img_62e0a987-5b9f-4c61-afb3-ac69066535d6" n="bundeshymne">
+  <desc type="filename">Bundeshymne.xml</desc>
+  <graphic url="Bundeshymne_1947.jpg" height="1408" width="1072"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1072" lry="1072" cx="536" cy="536" r="536" rotate="0"/>
+  <desc type="modified">2026-04-22T10:26:47.226Z</desc>
+</surface>

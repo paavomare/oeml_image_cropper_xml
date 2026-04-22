@@ -1,0 +1,6 @@
+<surface xml:id="img_81ea9887-9d0d-42c5-a68d-0e1eaba663f0" n="wiener-boheme-verlag">
+  <desc type="filename">Wiener_Boheme_Verlag.xml</desc>
+  <graphic url="Wiener_Boheme_Verlag_2.jpg" height="915" width="709"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="709" lry="709" cx="355" cy="355" r="355" rotate="0"/>
+  <desc type="modified">2026-04-22T10:59:51.276Z</desc>
+</surface>

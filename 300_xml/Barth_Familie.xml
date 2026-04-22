@@ -1,0 +1,6 @@
+<surface xml:id="img_df127210-687f-44d6-ad1c-cf5686b8ddd5" n="barth-familie">
+  <desc type="filename">Barth_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9246239T9246244.jpg" height="800" width="568"/>
+  <zone type="medallionCrop" ulx="50" uly="111" lrx="518" lry="579" cx="284" cy="345" r="234" rotate="0"/>
+  <desc type="modified">2026-04-22T09:38:31.752Z</desc>
+</surface>

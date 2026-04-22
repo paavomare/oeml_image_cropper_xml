@@ -1,0 +1,6 @@
+<surface xml:id="img_e8e12903-0dbb-4691-a140-d0674c44490f" n="vogl-familie">
+  <desc type="filename">Vogl_Familie.xml</desc>
+  <graphic url="Erwin_Ralph_Foto.jpg" height="596" width="567"/>
+  <zone type="medallionCrop" ulx="0" uly="4" lrx="567" lry="571" cx="284" cy="288" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T09:52:56.363Z</desc>
+</surface>

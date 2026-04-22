@@ -1,0 +1,6 @@
+<surface xml:id="img_88934f5f-4e55-4bd5-b695-c42ec80c1b21" n="eroed-familie">
+  <desc type="filename">Eroed_Familie.xml</desc>
+  <graphic url="Eroed_Adrian.jpg" height="600" width="400"/>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="400" lry="428" cx="200" cy="228" r="200" rotate="0"/>
+  <desc type="modified">2026-04-21T15:00:14.387Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_b82c2033-2a6f-4bbc-a12b-44f0cb44ed95" n="schenk-erich">
+  <desc type="filename">Schenk_Erich.xml</desc>
+  <graphic url="Schenk_Erich_1950.jpg" height="296" width="255"/>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="255" lry="261" cx="128" cy="134" r="128" rotate="0"/>
+  <desc type="modified">2026-04-22T09:24:28.060Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_0922041d-4ee2-43b2-928e-ec8b8dbd7a16" n="pauscher-adolf">
+  <desc type="filename">Pauscher_Adolf.xml</desc>
+  <graphic url="Pauscher_Adolf.jpg" height="897" width="689"/>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="689" lry="718" cx="345" cy="374" r="345" rotate="0"/>
+  <desc type="modified">2026-04-22T08:52:00.603Z</desc>
+</surface>

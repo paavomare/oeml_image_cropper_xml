@@ -1,0 +1,6 @@
+<surface xml:id="img_6cf3f176-f46e-4145-b389-dab8c202e373" n="czernowitz">
+  <desc type="filename">Czernowitz.xml</desc>
+  <graphic url="bildarchivaustria/KAR_4_B4687141T13727597.jpg" height="760" width="801"/>
+  <zone type="medallionCrop" ulx="195" uly="24" lrx="594" lry="424" cx="395" cy="224" r="200" rotate="0"/>
+  <desc type="modified">2026-04-22T09:43:26.106Z</desc>
+</surface>

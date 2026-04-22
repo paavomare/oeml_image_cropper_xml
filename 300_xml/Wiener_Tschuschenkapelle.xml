@@ -1,0 +1,6 @@
+<surface xml:id="img_b1cda5e4-575b-40f2-ad2b-c08d3082eb6b" n="wiener-tschuschenkapelle">
+  <desc type="filename">Wiener_Tschuschenkapelle.xml</desc>
+  <graphic url="Tschuschenkapelle.jpg" height="1571" width="2362"/>
+  <zone type="medallionCrop" ulx="557" uly="0" lrx="2128" lry="1571" cx="1343" cy="786" r="786" rotate="0"/>
+  <desc type="modified">2026-04-22T10:35:49.056Z</desc>
+</surface>

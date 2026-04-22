@@ -1,0 +1,6 @@
+<surface xml:id="img_a194dc7d-63b6-4e72-89aa-cacaa1348c8c" n="sulzer-familie">
+  <desc type="filename">Sulzer_Familie.xml</desc>
+  <graphic url="Sulzer_Julius.jpg" height="504" width="425"/>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="425" lry="436" cx="213" cy="224" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T10:30:23.101Z</desc>
+</surface>

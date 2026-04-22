@@ -1,0 +1,6 @@
+<surface xml:id="img_a227dfcc-5e76-4cc6-8c04-24262258efb4" n="koerber-marie-von">
+  <desc type="filename">Koerber_Marie_von.xml</desc>
+  <graphic url="Koerber_Marie.jpg" height="955" width="633"/>
+  <zone type="medallionCrop" ulx="0" uly="45" lrx="633" lry="678" cx="317" cy="362" r="317" rotate="0"/>
+  <desc type="modified">2026-04-22T09:10:03.373Z</desc>
+</surface>

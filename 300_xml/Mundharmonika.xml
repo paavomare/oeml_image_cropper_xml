@@ -1,0 +1,6 @@
+<surface xml:id="img_98ce4361-9969-48c9-8c41-84c1bd25b6e9" n="mundharmonika">
+  <desc type="filename">Mundharmonika.xml</desc>
+  <graphic url="Mundharmonika_Ketzergasse.jpg" height="1094" width="1459"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1094" lry="1094" cx="547" cy="547" r="547" rotate="0"/>
+  <desc type="modified">2026-04-22T09:25:01.840Z</desc>
+</surface>

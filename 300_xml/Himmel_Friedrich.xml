@@ -1,0 +1,6 @@
+<surface xml:id="img_de778737-85f7-46c5-93a3-6b92f13595dd" n="himmel-friedrich">
+  <desc type="filename">Himmel_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9254358T9254363.jpg" height="800" width="584"/>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="584" lry="614" cx="292" cy="322" r="292" rotate="0"/>
+  <desc type="modified">2026-04-22T09:33:34.796Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_8226b8f5-23eb-4c6d-a1de-13a1d172abbe" n="bergmannslied-bergmusik">
+  <desc type="filename">Bergmannslied_Bergmusik.xml</desc>
+  <graphic url="Bergmannslied.jpg" height="590" width="457"/>
+  <zone type="medallionCrop" ulx="16" uly="43" lrx="431" lry="459" cx="224" cy="251" r="208" rotate="0"/>
+  <desc type="modified">2026-04-22T09:25:58.846Z</desc>
+</surface>

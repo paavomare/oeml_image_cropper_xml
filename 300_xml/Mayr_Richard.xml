@@ -1,0 +1,6 @@
+<surface xml:id="img_1afbd2ec-1399-4443-9018-33b809d46bea" n="mayr-richard">
+  <desc type="filename">Mayr_Richard.xml</desc>
+  <graphic url="Mayr_Richard.jpg" height="647" width="472"/>
+  <zone type="medallionCrop" ulx="0" uly="25" lrx="472" lry="497" cx="236" cy="261" r="236" rotate="0"/>
+  <desc type="modified">2026-04-21T15:37:51.056Z</desc>
+</surface>

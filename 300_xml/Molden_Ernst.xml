@@ -1,0 +1,6 @@
+<surface xml:id="img_ee3f2532-eec2-4045-afdf-1265f4d20fee" n="molden-ernst">
+  <desc type="filename">Molden_Ernst.xml</desc>
+  <graphic url="Molden_Ernst_2015.jpg" height="850" width="1134"/>
+  <zone type="medallionCrop" ulx="142" uly="0" lrx="992" lry="850" cx="567" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T09:13:45.261Z</desc>
+</surface>

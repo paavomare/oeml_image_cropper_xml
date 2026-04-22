@@ -1,0 +1,6 @@
+<surface xml:id="img_fbbfa0f9-1f7f-425e-90b2-4e409a3200a7" n="stickney-pamelia">
+  <desc type="filename">Stickney_Pamelia.xml</desc>
+  <graphic url="Stickney_Pamelia_071223.jpg" height="782" width="1173"/>
+  <zone type="medallionCrop" ulx="336" uly="0" lrx="1118" lry="782" cx="727" cy="391" r="391" rotate="0"/>
+  <desc type="modified">2026-04-22T10:21:24.721Z</desc>
+</surface>

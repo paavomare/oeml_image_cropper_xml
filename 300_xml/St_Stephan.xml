@@ -1,0 +1,6 @@
+<surface xml:id="img_abb146fc-6c99-41ec-b0a2-520603bfa1aa" n="st-stephan">
+  <desc type="filename">St_Stephan.xml</desc>
+  <graphic url="St_Stephan_Modell.jpg" height="1499" width="1120"/>
+  <zone type="medallionCrop" ulx="0" uly="154" lrx="1120" lry="1274" cx="560" cy="714" r="560" rotate="0"/>
+  <desc type="modified">2026-04-21T15:38:49.200Z</desc>
+</surface>

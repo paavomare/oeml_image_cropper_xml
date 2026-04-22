@@ -1,0 +1,6 @@
+<surface xml:id="img_c64d8217-66d6-4cc1-b826-66bfdd35b4fd" n="moissl-franz">
+  <desc type="filename">Moissl_Franz.xml</desc>
+  <graphic url="Moissl_Franz.jpg" height="409" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="283" lry="301" cx="142" cy="160" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T09:45:51.416Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_c6ed7f33-1909-4121-b085-994c2cdc42b1" n="mayerhausen-schwestern">
+  <desc type="filename">Mayerhausen_Schwestern.xml</desc>
+  <graphic url="Mayerhausen_Margot.jpg" height="153" width="124"/>
+  <zone type="medallionCrop" ulx="10" uly="15" lrx="122" lry="127" cx="66" cy="71" r="56" rotate="0"/>
+  <desc type="modified">2026-04-22T09:52:51.896Z</desc>
+</surface>

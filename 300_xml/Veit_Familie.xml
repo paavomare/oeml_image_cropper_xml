@@ -1,0 +1,6 @@
+<surface xml:id="img_6bb8f9de-1ae3-42c0-bcea-51ed2e05ee29" n="veit-familie">
+  <desc type="filename">Veit_Familie.xml</desc>
+  <graphic url="Veit_Familie_W_H.jpg" height="992" width="632"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="632" lry="632" cx="316" cy="316" r="316" rotate="0"/>
+  <desc type="modified">2026-04-21T15:13:35.355Z</desc>
+</surface>

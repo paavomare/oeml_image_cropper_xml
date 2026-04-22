@@ -1,0 +1,6 @@
+<surface xml:id="img_ebb9910e-33d3-4c2f-8f32-e71fdbb1da50" n="brand-geza">
+  <desc type="filename">Brand_Geza.xml</desc>
+  <graphic url="/Brand_Geza_1913.jpg" height="1323" width="971"/>
+  <zone type="medallionCrop" ulx="0" uly="54" lrx="971" lry="1025" cx="486" cy="540" r="486" rotate="0"/>
+  <desc type="modified">2026-04-22T10:17:23.022Z</desc>
+</surface>

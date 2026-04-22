@@ -1,0 +1,6 @@
+<surface xml:id="img_bd4c9050-e5ce-4c82-b2ed-de3f36dcfe71" n="hummer-andre">
+  <desc type="filename">Hummer_Andre.xml</desc>
+  <graphic url="Hummer_Andre_1927.jpg" height="507" width="307"/>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="307" lry="335" cx="154" cy="182" r="154" rotate="0"/>
+  <desc type="modified">2026-04-22T10:55:32.652Z</desc>
+</surface>

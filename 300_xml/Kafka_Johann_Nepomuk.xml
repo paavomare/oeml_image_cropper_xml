@@ -1,0 +1,6 @@
+<surface xml:id="img_6a3b1586-7a5f-4849-8461-4aa000efd40c" n="kafka-johann-nepomuk">
+  <desc type="filename">Kafka_Johann_Nepomuk.xml</desc>
+  <graphic url="Kafka.jpg" height="842" width="594"/>
+  <zone type="medallionCrop" ulx="0" uly="248" lrx="594" lry="842" cx="297" cy="545" r="297" rotate="0"/>
+  <desc type="modified">2026-04-22T09:48:58.473Z</desc>
+</surface>

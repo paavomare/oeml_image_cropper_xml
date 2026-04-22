@@ -1,0 +1,6 @@
+<surface xml:id="img_589b2b71-0b59-4dee-a92a-face36a7bebe" n="graff-franz">
+  <desc type="filename">Graff_Franz.xml</desc>
+  <graphic url="Graff.jpg" height="728" width="612"/>
+  <zone type="medallionCrop" ulx="0" uly="82" lrx="612" lry="694" cx="306" cy="388" r="306" rotate="0"/>
+  <desc type="modified">2026-04-22T10:48:33.804Z</desc>
+</surface>

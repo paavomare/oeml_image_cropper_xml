@@ -1,0 +1,6 @@
+<surface xml:id="img_9327d05f-aa6c-4f7f-9882-f9eb08f58b99" n="rueckauf-anton">
+  <desc type="filename">Rueckauf_Anton.xml</desc>
+  <graphic url="Rueckauf_Zentralfriedhof.jpg" height="1077" width="808"/>
+  <zone type="medallionCrop" ulx="0" uly="38" lrx="808" lry="846" cx="404" cy="442" r="404" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:58.268Z</desc>
+</surface>

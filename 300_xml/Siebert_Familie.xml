@@ -1,0 +1,6 @@
+<surface xml:id="img_b33f7c89-7cbb-4163-81b5-f7b9372bddc2" n="siebert-familie">
+  <desc type="filename">Siebert_Familie.xml</desc>
+  <graphic url="Siebert_Familie.jpg" height="958" width="1419"/>
+  <zone type="medallionCrop" ulx="97" uly="0" lrx="1055" lry="958" cx="576" cy="479" r="479" rotate="0"/>
+  <desc type="modified">2026-04-21T15:35:02.782Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_2e99832f-7491-46fd-85a5-b9fc4093258e" n="pantzner-familie">
+  <desc type="filename">Pantzner_Familie.xml</desc>
+  <graphic url="Zwettl_Chororgel.jpg" height="850" width="365"/>
+  <zone type="medallionCrop" ulx="0" uly="249" lrx="365" lry="614" cx="183" cy="432" r="183" rotate="0"/>
+  <desc type="modified">2026-04-22T09:39:14.649Z</desc>
+</surface>

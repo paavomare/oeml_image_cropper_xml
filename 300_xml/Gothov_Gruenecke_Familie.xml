@@ -1,0 +1,6 @@
+<surface xml:id="img_c3d9b0fa-e690-4927-834c-d92afab1459a" n="gothov-gruenecke-familie">
+  <desc type="filename">Gothov_Gruenecke_Familie.xml</desc>
+  <graphic url="Gothov-Gruenecke_Ludwig.jpg" height="992" width="616"/>
+  <zone type="medallionCrop" ulx="28" uly="156" lrx="570" lry="698" cx="299" cy="427" r="271" rotate="0"/>
+  <desc type="modified">2026-04-22T09:38:56.454Z</desc>
+</surface>

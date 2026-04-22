@@ -1,0 +1,6 @@
+<surface xml:id="img_9a53a17b-8e5c-4725-89cb-d7b38c0239fb" n="andrasffy-familie">
+  <desc type="filename">Andrasffy_Familie.xml</desc>
+  <graphic url="Andrasffy_Hedwig.jpg" height="794" width="468"/>
+  <zone type="medallionCrop" ulx="25" uly="51" lrx="436" lry="463" cx="231" cy="257" r="206" rotate="0"/>
+  <desc type="modified">2026-04-22T10:52:51.759Z</desc>
+</surface>

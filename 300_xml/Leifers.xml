@@ -1,0 +1,6 @@
+<surface xml:id="img_c0886267-0bed-4721-a194-874ebe627a2c" n="leifers">
+  <desc type="filename">Leifers.xml</desc>
+  <graphic url="Leifers_Orgel.jpg" height="602" width="567"/>
+  <zone type="medallionCrop" ulx="65" uly="33" lrx="506" lry="474" cx="286" cy="254" r="221" rotate="0"/>
+  <desc type="modified">2026-04-22T09:52:14.713Z</desc>
+</surface>

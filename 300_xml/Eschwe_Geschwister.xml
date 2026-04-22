@@ -1,0 +1,6 @@
+<surface xml:id="img_d1481ed6-8d95-472b-b1fe-24c62b42cf5f" n="eschwe-geschwister">
+  <desc type="filename">Eschwe_Geschwister.xml</desc>
+  <graphic url="eschwe_Geschwister.jpg" height="396" width="250"/>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="250" lry="276" cx="125" cy="151" r="125" rotate="0"/>
+  <desc type="modified">2026-04-21T15:30:33.613Z</desc>
+</surface>

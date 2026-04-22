@@ -1,0 +1,6 @@
+<surface xml:id="img_c7824506-e809-403f-a08d-9e9cab927315" n="falb-viola">
+  <desc type="filename">Falb_Viola.xml</desc>
+  <graphic url="Falb_Viola.jpg" height="1100" width="733"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="733" lry="733" cx="367" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-22T10:42:33.661Z</desc>
+</surface>

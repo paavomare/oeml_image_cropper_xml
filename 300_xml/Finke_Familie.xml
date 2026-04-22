@@ -1,0 +1,6 @@
+<surface xml:id="img_5fe0f9f1-83a0-4d7f-a3b2-4f5af8a6d64d" n="finke-familie">
+  <desc type="filename">Finke_Familie.xml</desc>
+  <graphic url="Finke_Fidelio_jun.jpg" height="400" width="280"/>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="280" lry="297" cx="140" cy="157" r="140" rotate="0"/>
+  <desc type="modified">2026-04-22T10:19:24.108Z</desc>
+</surface>

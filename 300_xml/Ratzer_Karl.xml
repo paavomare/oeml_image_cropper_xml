@@ -1,0 +1,6 @@
+<surface xml:id="img_376dcc68-cdbd-4a0f-8561-e358e91fdec0" n="ratzer-karl">
+  <desc type="filename">Ratzer_Karl.xml</desc>
+  <graphic url="Ratzer_Karl.jpg" height="734" width="1100"/>
+  <zone type="medallionCrop" ulx="20" uly="0" lrx="754" lry="734" cx="387" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-22T10:45:43.839Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_57a7122b-35e5-45ee-a258-b3487d9f0a21" n="zeller-carl">
+  <desc type="filename">Zeller_Carl.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10002047T10002052.jpg" height="800" width="600"/>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="600" lry="628" cx="300" cy="328" r="300" rotate="0"/>
+  <desc type="modified">2026-04-21T15:35:36.506Z</desc>
+</surface>

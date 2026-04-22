@@ -1,0 +1,6 @@
+<surface xml:id="img_99c3f31c-bbbc-43ad-8bb6-96be19b3b0db" n="payer-hieronymus">
+  <desc type="filename">Payer_Hieronymus.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9256598T9256603.jpg" height="800" width="515"/>
+  <zone type="medallionCrop" ulx="68" uly="134" lrx="432" lry="498" cx="250" cy="316" r="182" rotate="0"/>
+  <desc type="modified">2026-04-22T09:23:42.716Z</desc>
+</surface>

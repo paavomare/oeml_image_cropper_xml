@@ -1,0 +1,6 @@
+<surface xml:id="img_b74f0bfd-aa25-4a1f-b8b2-145954fc80ac" n="werginz-rosy">
+  <desc type="filename">Werginz_Rosy.xml</desc>
+  <graphic url="Werginz_Rosy_1925.jpg" height="596" width="810"/>
+  <zone type="medallionCrop" ulx="157" uly="0" lrx="753" lry="596" cx="455" cy="298" r="298" rotate="0"/>
+  <desc type="modified">2026-04-22T09:28:15.452Z</desc>
+</surface>

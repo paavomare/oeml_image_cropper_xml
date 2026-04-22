@@ -1,0 +1,6 @@
+<surface xml:id="img_0bb12b0e-17bf-4d14-8719-491433e5a7f9" n="saxofour">
+  <desc type="filename">Saxofour.xml</desc>
+  <graphic url="Saxofour_2021.jpg" height="945" width="1417"/>
+  <zone type="medallionCrop" ulx="221" uly="0" lrx="1166" lry="945" cx="694" cy="473" r="473" rotate="0"/>
+  <desc type="modified">2026-04-21T15:37:16.980Z</desc>
+</surface>

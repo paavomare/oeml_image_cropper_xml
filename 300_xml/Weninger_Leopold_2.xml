@@ -1,0 +1,6 @@
+<surface xml:id="img_cc623d5f-b61c-4b7b-900e-5643b1946876" n="weninger-leopold-2">
+  <desc type="filename">Weninger_Leopold_2.xml</desc>
+  <graphic url="Weninger_Leopold.jpg" height="250" width="436"/>
+  <zone type="medallionCrop" ulx="36" uly="65" lrx="186" lry="215" cx="111" cy="140" r="75" rotate="0"/>
+  <desc type="modified">2026-04-22T09:35:37.457Z</desc>
+</surface>

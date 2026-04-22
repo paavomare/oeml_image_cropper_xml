@@ -1,0 +1,6 @@
+<surface xml:id="img_e82e2db9-780d-4824-9c3b-63e71612ee84" n="tisch-siegfried">
+  <desc type="filename">Tisch_Siegfried.xml</desc>
+  <graphic url="Tisch_Siegfried.jpg" height="408" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="58" lrx="283" lry="341" cx="142" cy="200" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T09:51:32.379Z</desc>
+</surface>

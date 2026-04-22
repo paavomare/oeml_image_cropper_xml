@@ -1,0 +1,6 @@
+<surface xml:id="img_4d3ed2be-9bb9-4bea-b346-f94a104c4684" n="rott-familie">
+  <desc type="filename">Rott_Familie.xml</desc>
+  <graphic url="Rott_Hans.jpg" height="522" width="378"/>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="378" lry="398" cx="189" cy="209" r="189" rotate="0"/>
+  <desc type="modified">2026-04-22T10:57:32.163Z</desc>
+</surface>

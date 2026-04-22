@@ -1,0 +1,6 @@
+<surface xml:id="img_bb418e9b-c73d-4226-933a-0ca7fa9d2fef" n="bach-david">
+  <desc type="filename">Bach_David.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449585T10449590.jpg" height="800" width="533"/>
+  <zone type="medallionCrop" ulx="26" uly="61" lrx="511" lry="546" cx="269" cy="304" r="243" rotate="0"/>
+  <desc type="modified">2026-04-21T15:26:52.414Z</desc>
+</surface>

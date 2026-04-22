@@ -1,0 +1,6 @@
+<surface xml:id="img_d503dcf8-e23a-42a6-ab3a-658a12be7576" n="ehnn-bertha">
+  <desc type="filename">Ehnn_Bertha.xml</desc>
+  <graphic url="Ehnn_Bertha.jpg" height="782" width="510"/>
+  <zone type="medallionCrop" ulx="0" uly="143" lrx="510" lry="653" cx="255" cy="398" r="255" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:38.603Z</desc>
+</surface>

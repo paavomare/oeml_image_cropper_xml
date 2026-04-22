@@ -1,0 +1,6 @@
+<surface xml:id="img_0c4625b5-9bb5-4e9f-804a-1125a0fc8699" n="akademie-der-wissenschaften">
+  <desc type="filename">Akademie_der_Wissenschaften.xml</desc>
+  <graphic url="bildarchivaustria/BA_927_B12427466T12427471.jpg" height="646" width="801"/>
+  <zone type="medallionCrop" ulx="77" uly="0" lrx="723" lry="646" cx="400" cy="323" r="323" rotate="0"/>
+  <desc type="modified">2026-04-21T15:03:07.086Z</desc>
+</surface>

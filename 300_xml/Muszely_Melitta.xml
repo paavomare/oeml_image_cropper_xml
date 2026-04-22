@@ -1,0 +1,6 @@
+<surface xml:id="img_1238b0a6-4434-4dc9-8845-690095e937df" n="muszely-melitta">
+  <desc type="filename">Muszely_Melitta.xml</desc>
+  <graphic url="Muszely_Melitta.jpg" height="1027" width="706"/>
+  <zone type="medallionCrop" ulx="0" uly="186" lrx="706" lry="892" cx="353" cy="539" r="353" rotate="0"/>
+  <desc type="modified">2026-04-22T10:07:34.309Z</desc>
+</surface>

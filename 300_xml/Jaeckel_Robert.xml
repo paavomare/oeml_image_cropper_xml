@@ -1,0 +1,6 @@
+<surface xml:id="img_6a975b6f-347e-4d23-81ec-a4d357ac17c3" n="jaeckel-robert">
+  <desc type="filename">Jaeckel_Robert.xml</desc>
+  <graphic url="Jaeckel.jpg" height="619" width="432"/>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="432" lry="441" cx="216" cy="225" r="216" rotate="0"/>
+  <desc type="modified">2026-04-22T09:50:26.281Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_20ef02cc-cb97-4fbc-8050-329d023858a8" n="pauspertl-karl">
+  <desc type="filename">Pauspertl_Karl.xml</desc>
+  <graphic url="Pauspertl_Karl_Sulz.jpg" height="989" width="658"/>
+  <zone type="medallionCrop" ulx="0" uly="46" lrx="658" lry="704" cx="329" cy="375" r="329" rotate="0"/>
+  <desc type="modified">2026-04-22T09:27:03.166Z</desc>
+</surface>

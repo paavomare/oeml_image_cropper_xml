@@ -1,0 +1,6 @@
+<surface xml:id="img_95217101-f600-46b5-92b2-8c56e313721e" n="krain-stadt">
+  <desc type="filename">Krain_Stadt.xml</desc>
+  <graphic url="Kranj_Orgel.jpg" height="850" width="1134"/>
+  <zone type="medallionCrop" ulx="123" uly="0" lrx="973" lry="850" cx="548" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T09:31:07.420Z</desc>
+</surface>

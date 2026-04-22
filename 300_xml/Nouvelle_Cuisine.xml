@@ -1,0 +1,6 @@
+<surface xml:id="img_f8779723-9f4d-4c1b-b5d8-40e847367020" n="nouvelle-cuisine">
+  <desc type="filename">Nouvelle_Cuisine.xml</desc>
+  <graphic url="Nouvelle_Cuisine_2025.jpg" height="636" width="1369"/>
+  <zone type="medallionCrop" ulx="384" uly="130" lrx="875" lry="621" cx="630" cy="376" r="246" rotate="0"/>
+  <desc type="modified">2026-04-22T09:22:39.164Z</desc>
+</surface>

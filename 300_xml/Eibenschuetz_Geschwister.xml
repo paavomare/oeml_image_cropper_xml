@@ -1,0 +1,6 @@
+<surface xml:id="img_127c6d8a-5615-4217-921b-247e633dc405" n="eibenschuetz-geschwister">
+  <desc type="filename">Eibenschuetz_Geschwister.xml</desc>
+  <graphic url="Eibenschuetz_Riza.jpg" height="494" width="425"/>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="425" lry="431" cx="213" cy="219" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T10:54:40.977Z</desc>
+</surface>

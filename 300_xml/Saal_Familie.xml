@@ -1,0 +1,6 @@
+<surface xml:id="img_e0279c76-7a92-40cf-acf6-42d69e66fabb" n="saal-familie">
+  <desc type="filename">Saal_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9276122T9276127.jpg" height="800" width="616"/>
+  <zone type="medallionCrop" ulx="117" uly="135" lrx="525" lry="543" cx="321" cy="339" r="204" rotate="0"/>
+  <desc type="modified">2026-04-21T15:40:21.001Z</desc>
+</surface>

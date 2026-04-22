@@ -1,0 +1,6 @@
+<surface xml:id="img_fc0d1907-a0d6-48d3-918c-38de3112b58e" n="schlager-martha">
+  <desc type="filename">Schlager_Martha.xml</desc>
+  <graphic url="Schlager-Haustein.jpg" height="611" width="428"/>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="428" lry="454" cx="214" cy="240" r="214" rotate="0"/>
+  <desc type="modified">2026-04-22T08:53:28.682Z</desc>
+</surface>

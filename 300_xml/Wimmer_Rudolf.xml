@@ -1,0 +1,6 @@
+<surface xml:id="img_62049dc7-a85c-45fe-80c8-cbfd45ac21d9" n="wimmer-rudolf">
+  <desc type="filename">Wimmer_Rudolf.xml</desc>
+  <graphic url="Wimmer_Rudolf.jpg" height="709" width="531"/>
+  <zone type="medallionCrop" ulx="0" uly="60" lrx="531" lry="591" cx="266" cy="326" r="266" rotate="0"/>
+  <desc type="modified">2026-04-22T10:42:05.291Z</desc>
+</surface>

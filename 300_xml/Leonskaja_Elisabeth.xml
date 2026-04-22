@@ -1,0 +1,6 @@
+<surface xml:id="img_102abfc7-46e7-4826-90cd-426e0b3219b2" n="leonskaja-elisabeth">
+  <desc type="filename">Leonskaja_Elisabeth.xml</desc>
+  <graphic url="Leonskaja_Elisabeth.jpg" height="842" width="850"/>
+  <zone type="medallionCrop" ulx="8" uly="0" lrx="850" lry="842" cx="429" cy="421" r="421" rotate="0"/>
+  <desc type="modified">2026-04-22T10:02:37.285Z</desc>
+</surface>

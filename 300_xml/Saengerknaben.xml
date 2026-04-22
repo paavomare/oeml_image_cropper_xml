@@ -1,0 +1,6 @@
+<surface xml:id="img_1828ad3a-d58c-453d-933d-a9f1ed4afb77" n="saengerknaben">
+  <desc type="filename">Saengerknaben.xml</desc>
+  <graphic url="Singende_KaB.jpg" height="3264" width="2448"/>
+  <zone type="medallionCrop" ulx="0" uly="252" lrx="2448" lry="2700" cx="1224" cy="1476" r="1224" rotate="0"/>
+  <desc type="modified">2026-04-22T10:22:01.986Z</desc>
+</surface>

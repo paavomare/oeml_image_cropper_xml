@@ -1,0 +1,6 @@
+<surface xml:id="img_43ba7493-eb60-4e1d-9aea-bb0907b147b2" n="schreiber-frederick">
+  <desc type="filename">Schreiber_Frederick.xml</desc>
+  <graphic url="Schreiber_Fritz.jpg" height="447" width="366"/>
+  <zone type="medallionCrop" ulx="0" uly="68" lrx="366" lry="434" cx="183" cy="251" r="183" rotate="0"/>
+  <desc type="modified">2026-04-22T10:27:50.397Z</desc>
+</surface>

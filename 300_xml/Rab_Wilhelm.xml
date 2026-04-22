@@ -1,0 +1,6 @@
+<surface xml:id="img_3a60246c-e764-4844-a37d-16a92838bbf9" n="rab-wilhelm">
+  <desc type="filename">Rab_Wilhelm.xml</desc>
+  <graphic url="Rab_Wilhelm.jpg" height="1134" width="869"/>
+  <zone type="medallionCrop" ulx="0" uly="226" lrx="869" lry="1095" cx="435" cy="661" r="435" rotate="0"/>
+  <desc type="modified">2026-04-22T10:39:48.172Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_46f6f6ab-749f-44f8-b307-e580ecdcf32c" n="kreisler-brueder">
+  <desc type="filename">Kreisler_Brueder.xml</desc>
+  <graphic url="Kreisler_Fritz.jpg" height="715" width="591"/>
+  <zone type="medallionCrop" ulx="45" uly="115" lrx="528" lry="598" cx="287" cy="357" r="242" rotate="0"/>
+  <desc type="modified">2026-04-22T09:12:14.993Z</desc>
+</surface>

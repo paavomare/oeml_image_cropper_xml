@@ -1,0 +1,6 @@
+<surface xml:id="img_132f8ab9-7b69-4414-9c5b-972394945450" n="schneeberger-familie">
+  <desc type="filename">Schneeberger_Familie.xml</desc>
+  <graphic url="Schneeberger_Diknu.jpg" height="733" width="1100"/>
+  <zone type="medallionCrop" ulx="86" uly="0" lrx="819" lry="733" cx="453" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-22T10:06:45.947Z</desc>
+</surface>

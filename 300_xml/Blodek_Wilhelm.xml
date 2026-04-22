@@ -1,0 +1,6 @@
+<surface xml:id="img_3ffbc71f-4a4d-4997-b6d8-81295ad9c9ec" n="blodek-wilhelm">
+  <desc type="filename">Blodek_Wilhelm.xml</desc>
+  <graphic url="Blodek_Vilem.jpg" height="702" width="560"/>
+  <zone type="medallionCrop" ulx="0" uly="2" lrx="560" lry="562" cx="280" cy="282" r="280" rotate="0"/>
+  <desc type="modified">2026-04-22T10:25:47.576Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_b6127b02-1f5a-4e5d-8ce3-fd05b9e8dcc2" n="wally-brueder">
+  <desc type="filename">Wally_Brueder.xml</desc>
+  <graphic url="Wally_Thomas.jpg" height="3840" width="5760"/>
+  <zone type="medallionCrop" ulx="939" uly="396" lrx="2951" lry="2409" cx="1945" cy="1402" r="1006" rotate="0"/>
+  <desc type="modified">2026-04-21T14:55:01.937Z</desc>
+</surface>

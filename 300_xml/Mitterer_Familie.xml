@@ -1,0 +1,6 @@
+<surface xml:id="img_3ec69838-d754-4de8-9ca3-842ecddd8028" n="mitterer-familie">
+  <desc type="filename">Mitterer_Familie.xml</desc>
+  <graphic url="Mitterer_Wolfgang.jpg" height="731" width="1100"/>
+  <zone type="medallionCrop" ulx="418" uly="260" lrx="865" lry="707" cx="642" cy="484" r="224" rotate="0"/>
+  <desc type="modified">2026-04-22T10:15:12.494Z</desc>
+</surface>

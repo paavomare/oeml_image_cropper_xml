@@ -1,0 +1,6 @@
+<surface xml:id="img_6d1c7144-07f5-4d29-a387-987704d147aa" n="auspitzer-sigmund">
+  <desc type="filename">Auspitzer_Sigmund.xml</desc>
+  <graphic url="Auspitzer_Sigmund.jpg" height="354" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="283" lry="293" cx="142" cy="152" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T09:39:19.721Z</desc>
+</surface>

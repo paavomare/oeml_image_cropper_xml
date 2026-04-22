@@ -1,0 +1,6 @@
+<surface xml:id="img_06f7b34c-862e-4150-9045-209927ae2c7a" n="bolte-theodor">
+  <desc type="filename">Bolte_Theodor.xml</desc>
+  <graphic url="Bolte_Theodor.jpg" height="358" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="283" lry="303" cx="142" cy="162" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T10:06:33.633Z</desc>
+</surface>

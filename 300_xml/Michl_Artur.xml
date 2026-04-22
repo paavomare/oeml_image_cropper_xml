@@ -1,0 +1,6 @@
+<surface xml:id="img_c39afd04-6a81-46cd-867d-2fbc9039a538" n="michl-artur">
+  <desc type="filename">Michl_Artur.xml</desc>
+  <graphic url="michl_artur.jpg" height="602" width="439"/>
+  <zone type="medallionCrop" ulx="0" uly="139" lrx="439" lry="578" cx="220" cy="359" r="220" rotate="0"/>
+  <desc type="modified">2026-04-21T15:23:07.778Z</desc>
+</surface>

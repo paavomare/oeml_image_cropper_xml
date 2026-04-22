@@ -1,0 +1,6 @@
+<surface xml:id="img_1a123bb4-92e0-4c32-a88b-5735132e57e1" n="duettisten">
+  <desc type="filename">Duettisten.xml</desc>
+  <graphic url="Duettisten.jpg" height="486" width="751"/>
+  <zone type="medallionCrop" ulx="366" uly="0" lrx="751" lry="385" cx="559" cy="193" r="193" rotate="0"/>
+  <desc type="modified">2026-04-22T10:18:15.393Z</desc>
+</surface>

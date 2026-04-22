@@ -1,0 +1,6 @@
+<surface xml:id="img_0b90aa3e-f661-472e-bc92-78a9e735ebe6" n="drescher-familie">
+  <desc type="filename">Drescher_Familie.xml</desc>
+  <graphic url="kapelle_drescher.jpg" height="500" width="742"/>
+  <zone type="medallionCrop" ulx="140" uly="19" lrx="572" lry="451" cx="356" cy="235" r="216" rotate="0"/>
+  <desc type="modified">2026-04-22T10:25:37.418Z</desc>
+</surface>

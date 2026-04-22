@@ -1,0 +1,6 @@
+<surface xml:id="img_9571baa0-6f52-4e19-9a9f-c4dc1deffc76" n="wiener-maennergesangverein">
+  <desc type="filename">Wiener_Maennergesangverein.xml</desc>
+  <graphic url="Wiener_MGV_Gedenktafel.jpg" height="1012" width="709"/>
+  <zone type="medallionCrop" ulx="0" uly="100" lrx="709" lry="809" cx="355" cy="455" r="355" rotate="0"/>
+  <desc type="modified">2026-04-22T10:30:12.154Z</desc>
+</surface>

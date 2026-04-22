@@ -1,0 +1,6 @@
+<surface xml:id="img_fc9b55a0-8589-4f7f-aa01-98d3fed9137b" n="prasch-familie">
+  <desc type="filename">Prasch_Familie.xml</desc>
+  <graphic url="Prasch-Passy_Anna.jpg" height="448" width="340"/>
+  <zone type="medallionCrop" ulx="1" uly="13" lrx="318" lry="329" cx="160" cy="172" r="159" rotate="0"/>
+  <desc type="modified">2026-04-22T10:13:47.232Z</desc>
+</surface>

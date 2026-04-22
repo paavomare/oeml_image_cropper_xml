@@ -1,0 +1,6 @@
+<surface xml:id="img_55bfa53c-fb52-4656-8bab-db9cb94c29ee" n="hodina-karl">
+  <desc type="filename">Hodina_Karl.xml</desc>
+  <graphic url="Hodina_Plakette.jpg" height="2759" width="3115"/>
+  <zone type="medallionCrop" ulx="54" uly="0" lrx="2813" lry="2759" cx="1434" cy="1380" r="1380" rotate="0"/>
+  <desc type="modified">2026-04-21T15:21:54.864Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_99365056-f183-4bc7-ba0b-16bf2c7d421c" n="doctor-ferdinand">
+  <desc type="filename">Doctor_Ferdinand.xml</desc>
+  <graphic url="bildarchivaustria/118_B3561340T3561344.jpg" height="800" width="588"/>
+  <zone type="medallionCrop" ulx="33" uly="88" lrx="576" lry="632" cx="305" cy="360" r="272" rotate="0"/>
+  <desc type="modified">2026-04-22T10:53:41.325Z</desc>
+</surface>

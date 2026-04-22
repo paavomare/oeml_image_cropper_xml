@@ -1,0 +1,6 @@
+<surface xml:id="img_2a1da452-1228-42d4-b0bc-eb49371a26b6" n="schorr-familie">
+  <desc type="filename">Schorr_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10002744T10002749.jpg" height="800" width="590"/>
+  <zone type="medallionCrop" ulx="0" uly="45" lrx="590" lry="635" cx="295" cy="340" r="295" rotate="0"/>
+  <desc type="modified">2026-04-21T15:00:04.946Z</desc>
+</surface>

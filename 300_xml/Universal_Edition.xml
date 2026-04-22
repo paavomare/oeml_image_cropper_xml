@@ -1,0 +1,6 @@
+<surface xml:id="img_b172d56b-802f-4da8-92dc-1295fc12ee51" n="universal-edition">
+  <desc type="filename">Universal_Edition.xml</desc>
+  <graphic url="Universal_Edition.jpg" height="442" width="630"/>
+  <zone type="medallionCrop" ulx="88" uly="0" lrx="530" lry="442" cx="309" cy="221" r="221" rotate="0"/>
+  <desc type="modified">2026-04-22T10:47:04.160Z</desc>
+</surface>

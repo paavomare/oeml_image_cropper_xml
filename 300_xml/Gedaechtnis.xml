@@ -1,0 +1,6 @@
+<surface xml:id="img_805f1f32-dde5-4a3e-a4c3-74a2da97a130" n="gedaechtnis">
+  <desc type="filename">Gedaechtnis.xml</desc>
+  <graphic url="Mozartdenkmal-Enthuellung_1896.jpg" height="1793" width="2369"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1793" lry="1793" cx="897" cy="897" r="897" rotate="0"/>
+  <desc type="modified">2026-04-21T15:40:50.813Z</desc>
+</surface>

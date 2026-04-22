@@ -1,0 +1,6 @@
+<surface xml:id="img_825fef9e-8f3a-489f-abf0-ff2538032420" n="damenkapelle">
+  <desc type="filename">Damenkapelle.xml</desc>
+  <graphic url="Hirschstetten_wrb1933.jpg" height="1015" width="1682"/>
+  <zone type="medallionCrop" ulx="500" uly="0" lrx="1515" lry="1015" cx="1008" cy="508" r="508" rotate="0"/>
+  <desc type="modified">2026-04-22T10:47:39.785Z</desc>
+</surface>

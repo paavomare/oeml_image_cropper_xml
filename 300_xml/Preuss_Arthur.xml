@@ -1,0 +1,6 @@
+<surface xml:id="img_ea0c91b7-6bfc-4b76-85f3-67b425b2692b" n="preuss-arthur">
+  <desc type="filename">Preuss_Arthur.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257147T9257152.jpg" height="800" width="558"/>
+  <zone type="medallionCrop" ulx="63" uly="124" lrx="510" lry="571" cx="287" cy="348" r="224" rotate="0"/>
+  <desc type="modified">2026-04-22T10:45:14.985Z</desc>
+</surface>

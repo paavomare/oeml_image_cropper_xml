@@ -1,0 +1,6 @@
+<surface xml:id="img_a1eee231-3e7e-4fe5-8d1d-2704f973adaa" n="hackbrett">
+  <desc type="filename">Hackbrett.xml</desc>
+  <graphic url="Hausmusik-Luby_KaB.jpg" height="1593" width="3156"/>
+  <zone type="medallionCrop" ulx="26" uly="353" lrx="1100" lry="1428" cx="563" cy="890" r="537" rotate="0"/>
+  <desc type="modified">2026-04-22T09:42:54.634Z</desc>
+</surface>

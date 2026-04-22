@@ -1,0 +1,6 @@
+<surface xml:id="img_ddf77dfd-590b-4164-8b9b-fc794ce00c55" n="publikum">
+  <desc type="filename">Publikum.xml</desc>
+  <graphic url="Humperdinck_1896.jpg" height="2806" width="2413"/>
+  <zone type="medallionCrop" ulx="0" uly="393" lrx="2413" lry="2806" cx="1207" cy="1600" r="1207" rotate="0"/>
+  <desc type="modified">2026-04-22T09:27:58.962Z</desc>
+</surface>

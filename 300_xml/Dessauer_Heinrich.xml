@@ -1,0 +1,6 @@
+<surface xml:id="img_861d48f7-29ad-4575-9794-555aca65471d" n="dessauer-heinrich">
+  <desc type="filename">Dessauer_Heinrich.xml</desc>
+  <graphic url="Dessauer_Heinrich.jpg" height="433" width="777"/>
+  <zone type="medallionCrop" ulx="172" uly="0" lrx="605" lry="433" cx="389" cy="217" r="217" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:46.667Z</desc>
+</surface>

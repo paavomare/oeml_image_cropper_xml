@@ -1,0 +1,6 @@
+<surface xml:id="img_9be92b5f-1b87-41e2-9052-6d70d5d69ecb" n="floetenuhr">
+  <desc type="filename">Floetenuhr.xml</desc>
+  <graphic url="Floetenuhr1_MAK.jpg" height="800" width="532"/>
+  <zone type="medallionCrop" ulx="0" uly="149" lrx="532" lry="681" cx="266" cy="415" r="266" rotate="0"/>
+  <desc type="modified">2026-04-22T08:51:52.714Z</desc>
+</surface>

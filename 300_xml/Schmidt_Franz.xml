@@ -1,0 +1,6 @@
+<surface xml:id="img_fde3c0d5-e39a-4c4f-8d39-7780abaf2bfd" n="schmidt-franz">
+  <desc type="filename">Schmidt_Franz.xml</desc>
+  <graphic url="Schmidt-Franz_wrb1933.jpg" height="1214" width="875"/>
+  <zone type="medallionCrop" ulx="0" uly="85" lrx="875" lry="960" cx="438" cy="523" r="438" rotate="0"/>
+  <desc type="modified">2026-04-21T15:34:33.517Z</desc>
+</surface>

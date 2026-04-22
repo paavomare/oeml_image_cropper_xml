@@ -1,0 +1,6 @@
+<surface xml:id="img_c1e5b0e0-20be-4c1c-99f4-78de85f12f05" n="metzger-johann">
+  <desc type="filename">Metzger_Johann.xml</desc>
+  <graphic url="Metzger_1880.jpg" height="2067" width="1798"/>
+  <zone type="medallionCrop" ulx="180" uly="294" lrx="1612" lry="1727" cx="896" cy="1010" r="716" rotate="0"/>
+  <desc type="modified">2026-04-22T09:45:01.959Z</desc>
+</surface>

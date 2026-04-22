@@ -1,0 +1,6 @@
+<surface xml:id="img_180c346d-6edd-43fc-80e3-3dec0810b266" n="kaiser-friedrich">
+  <desc type="filename">Kaiser_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/665_B7709209T7709213.jpg" height="800" width="615"/>
+  <zone type="medallionCrop" ulx="56" uly="59" lrx="568" lry="571" cx="312" cy="315" r="256" rotate="0"/>
+  <desc type="modified">2026-04-22T10:13:37.472Z</desc>
+</surface>

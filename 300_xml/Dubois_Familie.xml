@@ -1,0 +1,6 @@
+<surface xml:id="img_d4169509-658d-4aad-b579-34bcf19a2c5a" n="dubois-familie">
+  <desc type="filename">Dubois_Familie.xml</desc>
+  <graphic url="Dubois_Leo_1926.jpg" height="386" width="293"/>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="293" lry="306" cx="147" cy="160" r="147" rotate="0"/>
+  <desc type="modified">2026-04-21T15:11:35.677Z</desc>
+</surface>

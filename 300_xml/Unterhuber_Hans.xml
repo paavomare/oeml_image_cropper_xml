@@ -1,0 +1,6 @@
+<surface xml:id="img_a3571723-2040-4c60-a9ab-0c067fb274e0" n="unterhuber-hans">
+  <desc type="filename">Unterhuber_Hans.xml</desc>
+  <graphic url="Unterhuber.jpg" height="354" width="531"/>
+  <zone type="medallionCrop" ulx="80" uly="0" lrx="291" lry="211" cx="186" cy="106" r="106" rotate="0"/>
+  <desc type="modified">2026-04-21T14:58:13.891Z</desc>
+</surface>

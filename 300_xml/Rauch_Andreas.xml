@@ -1,0 +1,6 @@
+<surface xml:id="img_ed2f0558-47a0-4b87-b4cc-69815e475e8f" n="rauch-andreas">
+  <desc type="filename">Rauch_Andreas.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257238T9257243.jpg" height="800" width="504"/>
+  <zone type="medallionCrop" ulx="0" uly="103" lrx="504" lry="607" cx="252" cy="355" r="252" rotate="0"/>
+  <desc type="modified">2026-04-22T08:51:38.266Z</desc>
+</surface>

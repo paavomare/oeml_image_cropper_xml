@@ -1,0 +1,6 @@
+<surface xml:id="img_c8c1f2fd-e34d-4e30-950d-97e891a065ad" n="brandl-johann">
+  <desc type="filename">Brandl_Johann.xml</desc>
+  <graphic url="Brandl_Johann.jpg" height="411" width="346"/>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="346" lry="355" cx="173" cy="182" r="173" rotate="0"/>
+  <desc type="modified">2026-04-22T08:54:18.824Z</desc>
+</surface>

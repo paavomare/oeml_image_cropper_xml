@@ -1,0 +1,6 @@
+<surface xml:id="img_187c8dcb-f956-44e1-8df4-f3f2c20352be" n="deutsch-werner">
+  <desc type="filename">Deutsch_Werner.xml</desc>
+  <graphic url="Deutsch_Werner.jpg" height="558" width="438"/>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="438" lry="455" cx="219" cy="236" r="219" rotate="0"/>
+  <desc type="modified">2026-04-22T09:48:22.696Z</desc>
+</surface>

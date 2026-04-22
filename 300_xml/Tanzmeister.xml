@@ -1,0 +1,6 @@
+<surface xml:id="img_66d37255-e454-4790-883b-790c86bff5bc" n="tanzmeister">
+  <desc type="filename">Tanzmeister.xml</desc>
+  <graphic url="Wolschek_1896.jpg" height="932" width="688"/>
+  <zone type="medallionCrop" ulx="98" uly="169" lrx="585" lry="655" cx="342" cy="413" r="244" rotate="0"/>
+  <desc type="modified">2026-04-21T15:41:48.496Z</desc>
+</surface>

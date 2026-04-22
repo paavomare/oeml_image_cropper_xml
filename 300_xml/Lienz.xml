@@ -1,0 +1,6 @@
+<surface xml:id="img_3eae077b-e3ba-4068-8764-c5e885f50548" n="lienz">
+  <desc type="filename">Lienz.xml</desc>
+  <graphic url="Lienz_Orgel.jpg" height="768" width="569"/>
+  <zone type="medallionCrop" ulx="0" uly="167" lrx="569" lry="736" cx="285" cy="452" r="285" rotate="0"/>
+  <desc type="modified">2026-04-22T10:59:04.141Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_495d2951-e7a7-44d0-be07-18b028e69d7d" n="pehm-familie">
+  <desc type="filename">Pehm_Familie.xml</desc>
+  <graphic url="Pehm_Heinrich.jpg" height="414" width="332"/>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="332" lry="343" cx="166" cy="177" r="166" rotate="0"/>
+  <desc type="modified">2026-04-22T10:26:01.512Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_f0925b24-e1a1-4e69-991d-cdb31062ae2a" n="wettbewerb">
+  <desc type="filename">Wettbewerb.xml</desc>
+  <graphic url="Faerber_wrb1933.jpg" height="1314" width="887"/>
+  <zone type="medallionCrop" ulx="0" uly="53" lrx="887" lry="940" cx="444" cy="497" r="444" rotate="0"/>
+  <desc type="modified">2026-04-21T15:42:09.916Z</desc>
+</surface>

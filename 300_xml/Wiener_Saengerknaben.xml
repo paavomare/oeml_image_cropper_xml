@@ -1,0 +1,6 @@
+<surface xml:id="img_d31ea7bf-a0d9-484e-8558-71ff14eca23d" n="wiener-saengerknaben">
+  <desc type="filename">Wiener_Saengerknaben.xml</desc>
+  <graphic url="bildarchivaustria/BA_905_B1963663T10278958.jpg" height="583" width="800"/>
+  <zone type="medallionCrop" ulx="109" uly="0" lrx="692" lry="583" cx="401" cy="292" r="292" rotate="0"/>
+  <desc type="modified">2026-04-22T10:40:48.062Z</desc>
+</surface>

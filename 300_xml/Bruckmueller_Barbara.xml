@@ -1,0 +1,6 @@
+<surface xml:id="img_bd60bb9d-251e-47a6-a76e-3008649934c6" n="bruckmueller-barbara">
+  <desc type="filename">Bruckmueller_Barbara.xml</desc>
+  <graphic url="Bruckmueller_Barbara.jpg" height="882" width="591"/>
+  <zone type="medallionCrop" ulx="0" uly="126" lrx="591" lry="717" cx="296" cy="422" r="296" rotate="0"/>
+  <desc type="modified">2026-04-22T10:42:26.409Z</desc>
+</surface>

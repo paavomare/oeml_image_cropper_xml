@@ -1,0 +1,6 @@
+<surface xml:id="img_cf2b832c-742c-45cb-ba89-61f589ac9816" n="robinson-familie-2">
+  <desc type="filename">Robinson_Familie_2.xml</desc>
+  <graphic url="Robinson_Regine.jpg" height="426" width="397"/>
+  <zone type="medallionCrop" ulx="0" uly="4" lrx="397" lry="401" cx="199" cy="203" r="199" rotate="0"/>
+  <desc type="modified">2026-04-22T10:16:42.207Z</desc>
+</surface>

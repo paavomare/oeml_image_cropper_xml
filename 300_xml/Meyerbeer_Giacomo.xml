@@ -1,0 +1,6 @@
+<surface xml:id="img_ea8e0fc1-ec4e-46bf-95cf-6ef2e5a76d98" n="meyerbeer-giacomo">
+  <desc type="filename">Meyerbeer_Giacomo.xml</desc>
+  <graphic url="bildarchivaustria/97_B3482057T3482061.jpg" height="800" width="595"/>
+  <zone type="medallionCrop" ulx="43" uly="50" lrx="552" lry="558" cx="298" cy="305" r="255" rotate="0"/>
+  <desc type="modified">2026-04-21T15:30:51.679Z</desc>
+</surface>

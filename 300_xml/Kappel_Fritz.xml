@@ -1,0 +1,6 @@
+<surface xml:id="img_312c4c66-cdbe-4524-a8f3-5747fa295a24" n="kappel-fritz">
+  <desc type="filename">Kappel_Fritz.xml</desc>
+  <graphic url="Kappel.jpg" height="612" width="428"/>
+  <zone type="medallionCrop" ulx="0" uly="81" lrx="428" lry="509" cx="214" cy="295" r="214" rotate="0"/>
+  <desc type="modified">2026-04-21T15:22:37.181Z</desc>
+</surface>

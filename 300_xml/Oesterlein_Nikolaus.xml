@@ -1,0 +1,6 @@
+<surface xml:id="img_50bdc258-f55b-4bd7-8c0f-59ead589e17f" n="oesterlein-nikolaus">
+  <desc type="filename">Oesterlein_Nikolaus.xml</desc>
+  <graphic url="Oesterlein_Nikolaus.jpg" height="999" width="850"/>
+  <zone type="medallionCrop" ulx="25" uly="59" lrx="843" lry="877" cx="434" cy="468" r="409" rotate="0"/>
+  <desc type="modified">2026-04-22T10:40:24.143Z</desc>
+</surface>

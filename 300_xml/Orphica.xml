@@ -1,0 +1,6 @@
+<surface xml:id="img_1222f499-4c90-4fb0-bd2c-6067e5702d35" n="orphica">
+  <desc type="filename">Orphica.xml</desc>
+  <graphic url="Orphica_KHM.jpg" height="893" width="1816"/>
+  <zone type="medallionCrop" ulx="1008" uly="88" lrx="1805" lry="885" cx="1407" cy="487" r="399" rotate="0"/>
+  <desc type="modified">2026-04-22T09:21:51.086Z</desc>
+</surface>

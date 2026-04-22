@@ -1,0 +1,6 @@
+<surface xml:id="img_47e2142e-694b-42ab-a149-28c5bb5e3dec" n="landauer-walter">
+  <desc type="filename">Landauer_Walter.xml</desc>
+  <graphic url="Landauer_Walter_1932.jpg" height="378" width="224"/>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="224" lry="263" cx="112" cy="151" r="112" rotate="0"/>
+  <desc type="modified">2026-04-22T10:35:04.953Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_8c5fa7db-0825-4942-b83f-0004922ac49d" n="drehorgel">
+  <desc type="filename">Drehorgel.xml</desc>
+  <graphic url="Drehorgel.jpg" height="631" width="850"/>
+  <zone type="medallionCrop" ulx="127" uly="0" lrx="758" lry="631" cx="443" cy="316" r="316" rotate="0"/>
+  <desc type="modified">2026-04-22T10:36:42.006Z</desc>
+</surface>

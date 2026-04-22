@@ -1,0 +1,6 @@
+<surface xml:id="img_7c744707-2f0a-47b1-a6ee-ef8a2aa36860" n="labatt-leonhard">
+  <desc type="filename">Labatt_Leonhard.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10506237T10506242.jpg" height="800" width="544"/>
+  <zone type="medallionCrop" ulx="25" uly="97" lrx="488" lry="561" cx="257" cy="329" r="232" rotate="0"/>
+  <desc type="modified">2026-04-22T09:09:28.891Z</desc>
+</surface>

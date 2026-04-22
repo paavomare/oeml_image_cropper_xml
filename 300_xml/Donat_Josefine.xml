@@ -1,0 +1,6 @@
+<surface xml:id="img_62b4a8d6-3c91-4424-bf70-1e8d382ba67a" n="donat-josefine">
+  <desc type="filename">Donat_Josefine.xml</desc>
+  <graphic url="Donat_Josefine.jpg" height="570" width="480"/>
+  <zone type="medallionCrop" ulx="0" uly="62" lrx="480" lry="542" cx="240" cy="302" r="240" rotate="0"/>
+  <desc type="modified">2026-04-21T14:56:19.733Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_8036b922-03dc-4e2d-991d-9c2ea2f1c425" n="winterberg-robert">
+  <desc type="filename">Winterberg_Robert.xml</desc>
+  <graphic url="Winterberg_Robert.jpg" height="945" width="884"/>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="884" lry="893" cx="442" cy="451" r="442" rotate="0"/>
+  <desc type="modified">2026-04-22T09:28:18.796Z</desc>
+</surface>

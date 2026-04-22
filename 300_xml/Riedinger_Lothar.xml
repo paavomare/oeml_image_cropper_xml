@@ -1,0 +1,6 @@
+<surface xml:id="img_1aa43725-b6b2-4c5a-8b25-644b96bae06d" n="riedinger-lothar">
+  <desc type="filename">Riedinger_Lothar.xml</desc>
+  <graphic url="Riedinger_wrb1933.jpg" height="1143" width="810"/>
+  <zone type="medallionCrop" ulx="228" uly="171" lrx="810" lry="753" cx="519" cy="462" r="291" rotate="0"/>
+  <desc type="modified">2026-04-22T10:34:23.742Z</desc>
+</surface>

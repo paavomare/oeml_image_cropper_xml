@@ -1,0 +1,6 @@
+<surface xml:id="img_40c8d760-0377-4a0f-8497-b94ebabdcdf0" n="hofhaimer-paul">
+  <desc type="filename">Hofhaimer_Paul.xml</desc>
+  <graphic url="Hofhaimer_Triumphzug_Graz.jpg" height="663" width="888"/>
+  <zone type="medallionCrop" ulx="113" uly="0" lrx="776" lry="663" cx="445" cy="332" r="332" rotate="0"/>
+  <desc type="modified">2026-04-21T15:03:30.794Z</desc>
+</surface>

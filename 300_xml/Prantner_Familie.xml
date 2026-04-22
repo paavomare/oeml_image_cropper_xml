@@ -1,0 +1,6 @@
+<surface xml:id="img_1ff68abd-2980-48cf-a2c0-a8e0b6716ac8" n="prantner-familie">
+  <desc type="filename">Prantner_Familie.xml</desc>
+  <graphic url="Prantner_Wilhelm.jpg" height="456" width="291"/>
+  <zone type="medallionCrop" ulx="11" uly="43" lrx="275" lry="307" cx="143" cy="175" r="132" rotate="0"/>
+  <desc type="modified">2026-04-22T08:57:00.123Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_822545b4-e99e-42b1-b857-79af91920f77" n="soyka-familie">
+  <desc type="filename">Soyka_Familie.xml</desc>
+  <graphic url="Soyka_Walther_2021.jpg" height="1134" width="850"/>
+  <zone type="medallionCrop" ulx="0" uly="40" lrx="850" lry="890" cx="425" cy="465" r="425" rotate="0"/>
+  <desc type="modified">2026-04-21T14:58:29.763Z</desc>
+</surface>

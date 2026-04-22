@@ -1,0 +1,6 @@
+<surface xml:id="img_76ebc5e9-bbdf-43f3-8328-17ec3d02f9ef" n="prochazka-rudolf">
+  <desc type="filename">Prochazka_Rudolf.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257343T9257348.jpg" height="800" width="603"/>
+  <zone type="medallionCrop" ulx="68" uly="97" lrx="451" lry="481" cx="260" cy="289" r="192" rotate="0"/>
+  <desc type="modified">2026-04-21T14:56:43.172Z</desc>
+</surface>

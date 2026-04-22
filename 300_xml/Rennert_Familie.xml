@@ -1,0 +1,6 @@
+<surface xml:id="img_d0eaca5a-e397-4cb1-9715-3f4d2b797b54" n="rennert-familie">
+  <desc type="filename">Rennert_Familie.xml</desc>
+  <graphic url="Rennert_Uli.jpg" height="551" width="827"/>
+  <zone type="medallionCrop" ulx="91" uly="0" lrx="642" lry="551" cx="367" cy="276" r="276" rotate="0"/>
+  <desc type="modified">2026-04-21T15:22:21.947Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_d4218380-28d2-4b82-b01e-7b359634e3ad" n="kapelle-walter-kager">
+  <desc type="filename">Kapelle_Walter_Kager.xml</desc>
+  <graphic url="Kager_Kapelle.jpg" height="707" width="992"/>
+  <zone type="medallionCrop" ulx="149" uly="0" lrx="856" lry="707" cx="503" cy="354" r="354" rotate="0"/>
+  <desc type="modified">2026-04-21T15:39:30.621Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_feb84541-ef7a-4db9-bb92-e9b2fe9c6dfd" n="monetarius-stephan">
+  <desc type="filename">Monetarius_Stephan.xml</desc>
+  <graphic url="Monetarius.jpg" height="584" width="400"/>
+  <zone type="medallionCrop" ulx="0" uly="182" lrx="400" lry="582" cx="200" cy="382" r="200" rotate="0"/>
+  <desc type="modified">2026-04-22T09:10:50.925Z</desc>
+</surface>

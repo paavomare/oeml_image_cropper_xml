@@ -1,0 +1,6 @@
+<surface xml:id="img_1609e159-f0f5-4fa6-a4f9-6cf90c3959f7" n="dietrich-rudolf">
+  <desc type="filename">Dietrich_Rudolf.xml</desc>
+  <graphic url="dietrich_rudolf_hans.jpg" height="500" width="350"/>
+  <zone type="medallionCrop" ulx="13" uly="23" lrx="322" lry="333" cx="168" cy="178" r="155" rotate="0"/>
+  <desc type="modified">2026-04-22T09:34:18.749Z</desc>
+</surface>

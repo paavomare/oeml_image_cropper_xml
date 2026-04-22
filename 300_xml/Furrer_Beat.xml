@@ -1,0 +1,6 @@
+<surface xml:id="img_d6c8d417-fd61-408d-80b8-845be6565fe6" n="furrer-beat">
+  <desc type="filename">Furrer_Beat.xml</desc>
+  <graphic url="Furrer_Beat.jpg" height="1063" width="709"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="709" lry="709" cx="355" cy="355" r="355" rotate="0"/>
+  <desc type="modified">2026-04-22T10:44:56.988Z</desc>
+</surface>

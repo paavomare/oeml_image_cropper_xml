@@ -1,0 +1,6 @@
+<surface xml:id="img_88e1f939-21a1-44c2-b8a2-f7527b2e84ba" n="koschelu-rudi">
+  <desc type="filename">Koschelu_Rudi.xml</desc>
+  <graphic url="Girk_Kurt.jpg" height="891" width="1134"/>
+  <zone type="medallionCrop" ulx="649" uly="444" lrx="1096" lry="891" cx="873" cy="668" r="224" rotate="0"/>
+  <desc type="modified">2026-04-21T14:53:39.313Z</desc>
+</surface>

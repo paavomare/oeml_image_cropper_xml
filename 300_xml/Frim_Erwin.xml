@@ -1,0 +1,6 @@
+<surface xml:id="img_a5f3a856-848f-493c-a64c-ff76204f7cd2" n="frim-erwin">
+  <desc type="filename">Frim_Erwin.xml</desc>
+  <graphic url="Frim_Erwin.jpg" height="432" width="255"/>
+  <zone type="medallionCrop" ulx="0" uly="48" lrx="255" lry="303" cx="128" cy="176" r="128" rotate="0"/>
+  <desc type="modified">2026-04-22T10:06:37.351Z</desc>
+</surface>

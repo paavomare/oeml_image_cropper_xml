@@ -1,0 +1,6 @@
+<surface xml:id="img_ec543acb-dcd0-471d-b493-cd799e749d7b" n="salter-hans-julius">
+  <desc type="filename">Salter_Hans_Julius.xml</desc>
+  <graphic url="Salter_Hans_Julius.jpg" height="400" width="306"/>
+  <zone type="medallionCrop" ulx="0" uly="94" lrx="306" lry="400" cx="153" cy="247" r="153" rotate="0"/>
+  <desc type="modified">2026-04-22T09:10:37.887Z</desc>
+</surface>

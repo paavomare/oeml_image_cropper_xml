@@ -1,0 +1,6 @@
+<surface xml:id="img_b2261bab-479f-4051-9ba4-4ba95e52f639" n="hornischer-fanny">
+  <desc type="filename">Hornischer_Fanny.xml</desc>
+  <graphic url="Hornischer_Fanny_1.jpg" height="705" width="472"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="472" lry="472" cx="236" cy="236" r="236" rotate="0"/>
+  <desc type="modified">2026-04-21T15:03:53.438Z</desc>
+</surface>

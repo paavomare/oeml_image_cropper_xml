@@ -1,0 +1,6 @@
+<surface xml:id="img_b09eb55a-82e1-42f9-a223-4d6758a32d32" n="mayrhofner-die">
+  <desc type="filename">Mayrhofner_Die.xml</desc>
+  <graphic url="Mayrhofner_2018.jpg" height="1484" width="1843"/>
+  <zone type="medallionCrop" ulx="182" uly="0" lrx="1666" lry="1484" cx="924" cy="742" r="742" rotate="0"/>
+  <desc type="modified">2026-04-22T10:50:45.304Z</desc>
+</surface>

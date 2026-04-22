@@ -1,0 +1,6 @@
+<surface xml:id="img_a7b8f506-e2c9-4607-96d1-a14e94875304" n="neidhart-von-reuental">
+  <desc type="filename">Neidhart_von_Reuental.xml</desc>
+  <graphic url="Neidhart_von_Reuental.jpg" height="768" width="561"/>
+  <zone type="medallionCrop" ulx="0" uly="159" lrx="561" lry="720" cx="281" cy="440" r="281" rotate="0"/>
+  <desc type="modified">2026-04-22T10:27:27.231Z</desc>
+</surface>

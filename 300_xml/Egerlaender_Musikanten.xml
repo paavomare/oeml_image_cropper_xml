@@ -1,0 +1,6 @@
+<surface xml:id="img_00503089-1a0e-4a0f-bf96-6078c3bae7e4" n="egerlaender-musikanten">
+  <desc type="filename">Egerlaender_Musikanten.xml</desc>
+  <graphic url="Egerlaender.jpg" height="196" width="339"/>
+  <zone type="medallionCrop" ulx="118" uly="0" lrx="314" lry="196" cx="216" cy="98" r="98" rotate="0"/>
+  <desc type="modified">2026-04-22T09:30:53.647Z</desc>
+</surface>

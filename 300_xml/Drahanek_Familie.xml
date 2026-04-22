@@ -1,0 +1,6 @@
+<surface xml:id="img_f14d8eb6-7876-42fc-a746-ad9f3513935e" n="drahanek-familie">
+  <desc type="filename">Drahanek_Familie.xml</desc>
+  <graphic url="Drahanek.jpg" height="709" width="510"/>
+  <zone type="medallionCrop" ulx="0" uly="155" lrx="510" lry="665" cx="255" cy="410" r="255" rotate="0"/>
+  <desc type="modified">2026-04-21T15:00:30.563Z</desc>
+</surface>

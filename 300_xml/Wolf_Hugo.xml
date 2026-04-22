@@ -1,0 +1,6 @@
+<surface xml:id="img_ac17fcbf-176f-4422-a0fb-12a8040f5845" n="wolf-hugo">
+  <desc type="filename">Wolf_Hugo.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10506047T10506052.jpg" height="800" width="569"/>
+  <zone type="medallionCrop" ulx="39" uly="53" lrx="521" lry="536" cx="280" cy="294" r="241" rotate="0"/>
+  <desc type="modified">2026-04-21T15:33:44.335Z</desc>
+</surface>

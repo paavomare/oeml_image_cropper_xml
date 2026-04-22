@@ -1,0 +1,6 @@
+<surface xml:id="img_8d110e53-5dfe-4c53-bbe5-948139ab8f12" n="maria-theresia-ii">
+  <desc type="filename">Maria_Theresia_II.xml</desc>
+  <graphic url="bildarchivaustria/299_B4283274T4283278.jpg" height="800" width="654"/>
+  <zone type="medallionCrop" ulx="72" uly="30" lrx="601" lry="559" cx="337" cy="295" r="265" rotate="0"/>
+  <desc type="modified">2026-04-22T09:49:06.537Z</desc>
+</surface>

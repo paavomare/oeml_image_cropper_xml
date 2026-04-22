@@ -1,0 +1,6 @@
+<surface xml:id="img_ba0c997d-9d42-4f69-896f-e00271b7dbab" n="zierer-franz-joseph">
+  <desc type="filename">Zierer_Franz_Joseph.xml</desc>
+  <graphic url="zierer_franz_josef.jpg" height="500" width="383"/>
+  <zone type="medallionCrop" ulx="36" uly="35" lrx="348" lry="347" cx="192" cy="191" r="156" rotate="0"/>
+  <desc type="modified">2026-04-22T10:21:11.819Z</desc>
+</surface>

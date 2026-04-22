@@ -1,0 +1,6 @@
+<surface xml:id="img_1613ffdb-b6a0-4cea-b97b-22817d339a19" n="jacobson-leopold">
+  <desc type="filename">Jacobson_Leopold.xml</desc>
+  <graphic url="Jacobson_Leopold.jpg" height="736" width="541"/>
+  <zone type="medallionCrop" ulx="0" uly="27" lrx="541" lry="568" cx="271" cy="298" r="271" rotate="0"/>
+  <desc type="modified">2026-04-21T15:32:07.905Z</desc>
+</surface>

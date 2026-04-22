@@ -1,0 +1,6 @@
+<surface xml:id="img_c4765db7-f370-4804-ae5f-f13ade97d7f2" n="zirner-ludwig">
+  <desc type="filename">Zirner_Ludwig.xml</desc>
+  <graphic url="Zirner_und_Sohn.jpg" height="595" width="850"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="595" lry="595" cx="298" cy="298" r="298" rotate="0"/>
+  <desc type="modified">2026-04-22T09:29:06.860Z</desc>
+</surface>

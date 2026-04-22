@@ -1,0 +1,6 @@
+<surface xml:id="img_3c884731-1107-4284-8b6e-13f7a23bfda8" n="doss-thomas">
+  <desc type="filename">Doss_Thomas.xml</desc>
+  <graphic url="Doss_Thomas.jpg" height="992" width="661"/>
+  <zone type="medallionCrop" ulx="0" uly="140" lrx="661" lry="801" cx="331" cy="471" r="331" rotate="0"/>
+  <desc type="modified">2026-04-22T09:48:18.265Z</desc>
+</surface>

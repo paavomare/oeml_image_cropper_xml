@@ -1,0 +1,6 @@
+<surface xml:id="img_d190a0b5-ed8f-4bf9-9109-b28091aa204d" n="leichtfried-joerg">
+  <desc type="filename">Leichtfried_Joerg.xml</desc>
+  <graphic url="Leichtfried_Joerg.jpg" height="600" width="450"/>
+  <zone type="medallionCrop" ulx="0" uly="65" lrx="450" lry="515" cx="225" cy="290" r="225" rotate="0"/>
+  <desc type="modified">2026-04-22T10:51:53.729Z</desc>
+</surface>

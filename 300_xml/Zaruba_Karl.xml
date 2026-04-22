@@ -1,0 +1,6 @@
+<surface xml:id="img_2d41beeb-86ee-4cdc-a9c2-be6754431351" n="zaruba-karl">
+  <desc type="filename">Zaruba_Karl.xml</desc>
+  <graphic url="Zaruba.jpg" height="619" width="437"/>
+  <zone type="medallionCrop" ulx="0" uly="106" lrx="437" lry="543" cx="219" cy="325" r="219" rotate="0"/>
+  <desc type="modified">2026-04-22T10:57:40.638Z</desc>
+</surface>

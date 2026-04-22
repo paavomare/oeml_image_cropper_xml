@@ -1,0 +1,6 @@
+<surface xml:id="img_7f1e97cd-80a4-4a90-a3de-ad60f9423e7a" n="palme-jeff">
+  <desc type="filename">Palme_Jeff.xml</desc>
+  <graphic url="Palme_Jeff.jpg" height="361" width="255"/>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="255" lry="270" cx="128" cy="143" r="128" rotate="0"/>
+  <desc type="modified">2026-04-21T15:29:14.602Z</desc>
+</surface>

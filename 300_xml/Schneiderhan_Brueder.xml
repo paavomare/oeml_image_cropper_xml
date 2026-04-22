@@ -1,0 +1,6 @@
+<surface xml:id="img_c12ec78e-de55-4b3f-a3ba-a6d741603ed8" n="schneiderhan-brueder">
+  <desc type="filename">Schneiderhan_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/344_B306873T4451631.jpg" height="800" width="590"/>
+  <zone type="medallionCrop" ulx="18" uly="88" lrx="579" lry="650" cx="299" cy="369" r="281" rotate="0"/>
+  <desc type="modified">2026-04-22T10:52:40.416Z</desc>
+</surface>

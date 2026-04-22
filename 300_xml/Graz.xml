@@ -1,0 +1,6 @@
+<surface xml:id="img_47635380-48a5-4198-ba33-c2c8218a740d" n="graz">
+  <desc type="filename">Graz.xml</desc>
+  <graphic url="Graz_Mariatrost_Orgel.jpg" height="750" width="1134"/>
+  <zone type="medallionCrop" ulx="202" uly="0" lrx="952" lry="750" cx="577" cy="375" r="375" rotate="0"/>
+  <desc type="modified">2026-04-22T10:57:01.053Z</desc>
+</surface>

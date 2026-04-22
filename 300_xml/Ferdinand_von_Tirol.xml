@@ -1,0 +1,6 @@
+<surface xml:id="img_b84973a6-f81a-4329-86c1-445e02afdb21" n="ferdinand-von-tirol">
+  <desc type="filename">Ferdinand_von_Tirol.xml</desc>
+  <graphic url="bildarchivaustria/397_B4620122T4620126.jpg" height="800" width="615"/>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="615" lry="641" cx="308" cy="334" r="308" rotate="0"/>
+  <desc type="modified">2026-04-21T14:54:36.372Z</desc>
+</surface>

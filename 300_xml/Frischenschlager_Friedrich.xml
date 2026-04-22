@@ -1,0 +1,6 @@
+<surface xml:id="img_f72f9605-26f2-4600-bccd-054756aaafb8" n="frischenschlager-friedrich">
+  <desc type="filename">Frischenschlager_Friedrich.xml</desc>
+  <graphic url="Frischenschlager.jpg" height="611" width="442"/>
+  <zone type="medallionCrop" ulx="0" uly="73" lrx="442" lry="515" cx="221" cy="294" r="221" rotate="0"/>
+  <desc type="modified">2026-04-22T10:59:19.747Z</desc>
+</surface>

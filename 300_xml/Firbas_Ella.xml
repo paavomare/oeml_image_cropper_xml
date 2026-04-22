@@ -1,0 +1,6 @@
+<surface xml:id="img_08be6189-b5d0-4294-9eee-cdd483deaadd" n="firbas-ella">
+  <desc type="filename">Firbas_Ella.xml</desc>
+  <graphic url="Firbas_Ella.jpg" height="456" width="317"/>
+  <zone type="medallionCrop" ulx="17" uly="28" lrx="307" lry="319" cx="162" cy="173" r="145" rotate="0"/>
+  <desc type="modified">2026-04-22T10:03:07.096Z</desc>
+</surface>

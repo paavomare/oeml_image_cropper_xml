@@ -1,0 +1,6 @@
+<surface xml:id="img_4f064231-27a2-4bc4-8d79-7061bfd96286" n="rubinstein-anton">
+  <desc type="filename">Rubinstein_Anton.xml</desc>
+  <graphic url="Rubinstein_Anton_1870.jpg" height="590" width="470"/>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="470" lry="487" cx="235" cy="252" r="235" rotate="0"/>
+  <desc type="modified">2026-04-22T09:47:46.154Z</desc>
+</surface>

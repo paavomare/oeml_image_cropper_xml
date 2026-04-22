@@ -1,0 +1,6 @@
+<surface xml:id="img_7b41659e-5786-41e4-aefc-2dc164ab667a" n="fuehrer-hansi">
+  <desc type="filename">Fuehrer_Hansi.xml</desc>
+  <graphic url="bildarchivaustria/BA_955_B13833993T13833998.jpg" height="800" width="448"/>
+  <zone type="medallionCrop" ulx="0" uly="49" lrx="448" lry="497" cx="224" cy="273" r="224" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:50.075Z</desc>
+</surface>

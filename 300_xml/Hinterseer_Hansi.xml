@@ -1,0 +1,6 @@
+<surface xml:id="img_0b216835-9d63-45bd-b4f4-4de0f960f4d6" n="hinterseer-hansi">
+  <desc type="filename">Hinterseer_Hansi.xml</desc>
+  <graphic url="Hinterseer_Plakette.jpg" height="2703" width="2898"/>
+  <zone type="medallionCrop" ulx="76" uly="0" lrx="2779" lry="2703" cx="1428" cy="1352" r="1352" rotate="0"/>
+  <desc type="modified">2026-04-21T15:28:58.187Z</desc>
+</surface>

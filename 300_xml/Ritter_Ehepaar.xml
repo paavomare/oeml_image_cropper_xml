@@ -1,0 +1,6 @@
+<surface xml:id="img_ed4f3bba-36d4-4138-a7f4-0f8eebf9f948" n="ritter-ehepaar">
+  <desc type="filename">Ritter_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/168_B3768379T3768383.jpg" height="800" width="703"/>
+  <zone type="medallionCrop" ulx="54" uly="26" lrx="639" lry="611" cx="347" cy="319" r="293" rotate="0"/>
+  <desc type="modified">2026-04-21T15:30:17.499Z</desc>
+</surface>

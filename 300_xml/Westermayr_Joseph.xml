@@ -1,0 +1,6 @@
+<surface xml:id="img_3a7aae13-31c4-4f9b-931e-ad2572207757" n="westermayr-joseph">
+  <desc type="filename">Westermayr_Joseph.xml</desc>
+  <graphic url="Westermayr_Neder.jpg" height="800" width="577"/>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="577" lry="608" cx="289" cy="320" r="289" rotate="0"/>
+  <desc type="modified">2026-04-22T09:50:39.832Z</desc>
+</surface>

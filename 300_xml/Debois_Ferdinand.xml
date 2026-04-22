@@ -1,0 +1,6 @@
+<surface xml:id="img_acd16f56-755d-4e7c-bc19-b81ecdb52c57" n="debois-ferdinand">
+  <desc type="filename">Debois_Ferdinand.xml</desc>
+  <graphic url="Debois_Ferdinand.jpg" height="542" width="516"/>
+  <zone type="medallionCrop" ulx="21" uly="25" lrx="465" lry="469" cx="243" cy="247" r="222" rotate="0"/>
+  <desc type="modified">2026-04-21T14:54:18.880Z</desc>
+</surface>

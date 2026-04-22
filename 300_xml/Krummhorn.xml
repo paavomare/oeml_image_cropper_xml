@@ -1,0 +1,6 @@
+<surface xml:id="img_f8a3a057-1d13-490a-97ff-5d4d0981d00c" n="krummhorn">
+  <desc type="filename">Krummhorn.xml</desc>
+  <graphic url="TR_ALB_Krummhoerner.png" height="584" width="888"/>
+  <zone type="medallionCrop" ulx="179" uly="14" lrx="532" lry="367" cx="356" cy="191" r="177" rotate="0"/>
+  <desc type="modified">2026-04-22T09:41:44.015Z</desc>
+</surface>

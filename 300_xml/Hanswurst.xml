@@ -1,0 +1,6 @@
+<surface xml:id="img_e56c7c87-4add-4fbc-9993-0836e91c1add" n="hanswurst">
+  <desc type="filename">Hanswurst.xml</desc>
+  <graphic url="Hanswurst-Tilgner_1896.jpg" height="2842" width="1496"/>
+  <zone type="medallionCrop" ulx="0" uly="188" lrx="1496" lry="1684" cx="748" cy="936" r="748" rotate="0"/>
+  <desc type="modified">2026-04-22T10:53:52.763Z</desc>
+</surface>

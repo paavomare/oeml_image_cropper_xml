@@ -1,0 +1,6 @@
+<surface xml:id="img_976bd3ae-d363-4f4c-b256-2ac2bf59ed92" n="puschnig-wolfgang">
+  <desc type="filename">Puschnig_Wolfgang.xml</desc>
+  <graphic url="Puschnig_Wolfgang.jpg" height="729" width="1100"/>
+  <zone type="medallionCrop" ulx="371" uly="0" lrx="1100" lry="729" cx="736" cy="365" r="365" rotate="0"/>
+  <desc type="modified">2026-04-22T09:24:23.689Z</desc>
+</surface>

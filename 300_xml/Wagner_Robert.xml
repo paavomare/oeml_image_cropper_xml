@@ -1,0 +1,6 @@
+<surface xml:id="img_7754c719-0a31-4c46-9647-d4f2787b70d8" n="wagner-robert">
+  <desc type="filename">Wagner_Robert.xml</desc>
+  <graphic url="Wagner_Robert.jpg" height="375" width="258"/>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="258" lry="274" cx="129" cy="145" r="129" rotate="0"/>
+  <desc type="modified">2026-04-21T15:42:14.780Z</desc>
+</surface>

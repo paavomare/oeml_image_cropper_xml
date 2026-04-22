@@ -1,0 +1,6 @@
+<surface xml:id="img_431a0100-8f37-4105-8e27-2ee8d145557f" n="sauer-emil-von">
+  <desc type="filename">Sauer_Emil_von.xml</desc>
+  <graphic url="Sauer_Emil.jpg" height="465" width="346"/>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="346" lry="363" cx="173" cy="190" r="173" rotate="0"/>
+  <desc type="modified">2026-04-22T09:25:40.380Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_4b16b14e-6746-4afe-9452-46c9a9583e35" n="berg-alban">
+  <desc type="filename">Berg_Alban.xml</desc>
+  <graphic url="Berg2.jpg" height="627" width="449"/>
+  <zone type="medallionCrop" ulx="0" uly="74" lrx="449" lry="523" cx="225" cy="299" r="225" rotate="0"/>
+  <desc type="modified">2026-04-22T10:18:50.366Z</desc>
+</surface>

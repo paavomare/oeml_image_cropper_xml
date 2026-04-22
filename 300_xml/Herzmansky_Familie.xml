@@ -1,0 +1,6 @@
+<surface xml:id="img_6cfb7866-ea8d-409b-a4bc-129e4a555695" n="herzmansky-familie">
+  <desc type="filename">Herzmansky_Familie.xml</desc>
+  <graphic url="Herzmansky_Bernhard.jpg" height="498" width="340"/>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="340" lry="362" cx="170" cy="192" r="170" rotate="0"/>
+  <desc type="modified">2026-04-21T14:59:37.203Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_3833c69c-1bd8-4996-9da5-2328a42c97e3" n="knapek-laura">
+  <desc type="filename">Knapek_Laura.xml</desc>
+  <graphic url="Knapek_Laura.jpg" height="369" width="279"/>
+  <zone type="medallionCrop" ulx="0" uly="24" lrx="279" lry="303" cx="140" cy="164" r="140" rotate="0"/>
+  <desc type="modified">2026-04-22T10:55:41.581Z</desc>
+</surface>

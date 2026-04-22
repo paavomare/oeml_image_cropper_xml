@@ -1,0 +1,6 @@
+<surface xml:id="img_071a6cae-ff12-45f8-a6fc-4e00887a3708" n="gitarre">
+  <desc type="filename">Gitarre.xml</desc>
+  <graphic url="Kontragitarre_Frankowski.jpg" height="1650" width="960"/>
+  <zone type="medallionCrop" ulx="0" uly="601" lrx="960" lry="1561" cx="480" cy="1081" r="480" rotate="0"/>
+  <desc type="modified">2026-04-22T10:18:37.643Z</desc>
+</surface>

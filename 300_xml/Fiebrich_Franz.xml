@@ -1,0 +1,6 @@
+<surface xml:id="img_5319dd23-950c-4d7c-b009-c770c87b3734" n="fiebrich-franz">
+  <desc type="filename">Fiebrich_Franz.xml</desc>
+  <graphic url="fiebich_franz_paul.jpg" height="500" width="346"/>
+  <zone type="medallionCrop" ulx="23" uly="23" lrx="329" lry="330" cx="176" cy="176" r="153" rotate="0"/>
+  <desc type="modified">2026-04-22T08:54:05.824Z</desc>
+</surface>

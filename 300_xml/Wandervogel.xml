@@ -1,0 +1,6 @@
+<surface xml:id="img_dccebaf7-e79a-4814-8490-9a593ca72556" n="wandervogel">
+  <desc type="filename">Wandervogel.xml</desc>
+  <graphic url="Wandervogel.jpg" height="946" width="542"/>
+  <zone type="medallionCrop" ulx="0" uly="252" lrx="542" lry="794" cx="271" cy="523" r="271" rotate="0"/>
+  <desc type="modified">2026-04-22T10:44:50.252Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_744f8685-7544-4816-91c4-e85af18011d6" n="damberger-max">
+  <desc type="filename">Damberger_Max.xml</desc>
+  <graphic url="Damberger_Max.jpg" height="641" width="506"/>
+  <zone type="medallionCrop" ulx="0" uly="111" lrx="506" lry="617" cx="253" cy="364" r="253" rotate="0"/>
+  <desc type="modified">2026-04-22T10:40:57.195Z</desc>
+</surface>

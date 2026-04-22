@@ -1,0 +1,6 @@
+<surface xml:id="img_d432ddc9-914d-499a-8f15-f871f7095685" n="metzler-loewy-pauline">
+  <desc type="filename">Metzler-Loewy_Pauline.xml</desc>
+  <graphic url="Metzler-Loewy_Pauline.jpg" height="496" width="424"/>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="424" lry="434" cx="212" cy="222" r="212" rotate="0"/>
+  <desc type="modified">2026-04-21T14:56:14.115Z</desc>
+</surface>

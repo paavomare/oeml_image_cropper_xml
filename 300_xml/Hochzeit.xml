@@ -1,0 +1,6 @@
+<surface xml:id="img_5251f6bd-a865-4f58-9486-021380258c19" n="hochzeit">
+  <desc type="filename">Hochzeit.xml</desc>
+  <graphic url="Hochzeitsreise_1896.jpg" height="817" width="1555"/>
+  <zone type="medallionCrop" ulx="493" uly="0" lrx="1310" lry="817" cx="902" cy="409" r="409" rotate="0"/>
+  <desc type="modified">2026-04-22T09:51:04.349Z</desc>
+</surface>

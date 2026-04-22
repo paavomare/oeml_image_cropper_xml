@@ -1,0 +1,6 @@
+<surface xml:id="img_3c2f5905-170e-46d6-8af8-49b458a7c117" n="martens-dionys">
+  <desc type="filename">Martens_Dionys.xml</desc>
+  <graphic url="Martens_Dionys.jpg" height="432" width="276"/>
+  <zone type="medallionCrop" ulx="0" uly="77" lrx="276" lry="353" cx="138" cy="215" r="138" rotate="0"/>
+  <desc type="modified">2026-04-22T10:25:19.579Z</desc>
+</surface>

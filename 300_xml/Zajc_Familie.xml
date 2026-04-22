@@ -1,0 +1,6 @@
+<surface xml:id="img_b7f81a7f-fabd-4e6f-8abe-b73057fdc52c" n="zajc-familie">
+  <desc type="filename">Zajc_Familie.xml</desc>
+  <graphic url="Zajc_Ivan.jpg" height="992" width="709"/>
+  <zone type="medallionCrop" ulx="45" uly="92" lrx="676" lry="723" cx="361" cy="408" r="316" rotate="0"/>
+  <desc type="modified">2026-04-21T15:40:36.300Z</desc>
+</surface>

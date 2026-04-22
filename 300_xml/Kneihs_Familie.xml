@@ -1,0 +1,6 @@
+<surface xml:id="img_bb51a4ba-1462-432f-a0a2-78464aa45a83" n="kneihs-familie">
+  <desc type="filename">Kneihs_Familie.xml</desc>
+  <graphic url="Kneihs_Michael.jpg" height="850" width="979"/>
+  <zone type="medallionCrop" ulx="65" uly="0" lrx="915" lry="850" cx="490" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T09:33:48.717Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_a0e6380c-1d35-4424-8cc1-e7b9dc0f3b6e" n="schlierbach">
+  <desc type="filename">Schlierbach.xml</desc>
+  <graphic url="Schlierbach_Ansicht.jpg" height="501" width="762"/>
+  <zone type="medallionCrop" ulx="274" uly="174" lrx="591" lry="491" cx="433" cy="333" r="159" rotate="0"/>
+  <desc type="modified">2026-04-21T15:28:22.810Z</desc>
+</surface>

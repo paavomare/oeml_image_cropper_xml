@@ -1,0 +1,6 @@
+<surface xml:id="img_9cf083ea-f963-4b97-8929-0368c9cec40b" n="hammerschlag-lotte">
+  <desc type="filename">Hammerschlag_Lotte.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10452813T10452818.jpg" height="800" width="533"/>
+  <zone type="medallionCrop" ulx="33" uly="43" lrx="510" lry="520" cx="272" cy="282" r="239" rotate="0"/>
+  <desc type="modified">2026-04-22T10:08:29.563Z</desc>
+</surface>

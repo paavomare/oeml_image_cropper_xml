@@ -1,0 +1,6 @@
+<surface xml:id="img_59471361-ebdd-4ca5-8c79-fa9024202fb1" n="seckau">
+  <desc type="filename">Seckau.xml</desc>
+  <graphic url="Seckau.jpg" height="600" width="400"/>
+  <zone type="medallionCrop" ulx="0" uly="140" lrx="400" lry="540" cx="200" cy="340" r="200" rotate="0"/>
+  <desc type="modified">2026-04-22T10:17:14.704Z</desc>
+</surface>

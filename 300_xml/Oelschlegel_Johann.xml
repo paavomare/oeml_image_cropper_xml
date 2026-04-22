@@ -1,0 +1,6 @@
+<surface xml:id="img_a70f62bc-687a-4d60-8c51-f866728e2e31" n="oelschlegel-johann">
+  <desc type="filename">Oelschlegel_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9256710T9256715.jpg" height="800" width="532"/>
+  <zone type="medallionCrop" ulx="86" uly="154" lrx="432" lry="500" cx="259" cy="327" r="173" rotate="0"/>
+  <desc type="modified">2026-04-22T10:22:38.889Z</desc>
+</surface>

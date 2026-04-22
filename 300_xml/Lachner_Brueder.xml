@@ -1,0 +1,6 @@
+<surface xml:id="img_b45b3085-ab6e-4674-b719-4b2347e9f13e" n="lachner-brueder">
+  <desc type="filename">Lachner_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_925_B12362017T12362022.jpg" height="800" width="560"/>
+  <zone type="medallionCrop" ulx="13" uly="85" lrx="544" lry="616" cx="279" cy="351" r="266" rotate="0"/>
+  <desc type="modified">2026-04-22T10:51:31.567Z</desc>
+</surface>

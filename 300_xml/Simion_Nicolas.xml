@@ -1,0 +1,6 @@
+<surface xml:id="img_cc476037-dd98-4dad-a6c3-30f02c0aaaec" n="simion-nicolas">
+  <desc type="filename">Simion_Nicolas.xml</desc>
+  <graphic url="Simion_Nicolas.jpg" height="1100" width="729"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="729" lry="729" cx="365" cy="365" r="365" rotate="0"/>
+  <desc type="modified">2026-04-21T14:56:57.392Z</desc>
+</surface>

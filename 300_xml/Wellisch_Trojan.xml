@@ -1,0 +1,6 @@
+<surface xml:id="img_d59ffe38-0c7a-478b-b285-181109f0521a" n="wellisch-trojan">
+  <desc type="filename">Wellisch_Trojan.xml</desc>
+  <graphic url="Wellisch_Waldow.jpg" height="197" width="283"/>
+  <zone type="medallionCrop" ulx="60" uly="0" lrx="257" lry="197" cx="159" cy="99" r="99" rotate="0"/>
+  <desc type="modified">2026-04-22T10:54:47.007Z</desc>
+</surface>

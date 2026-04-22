@@ -1,0 +1,6 @@
+<surface xml:id="img_86d355a5-fafa-4f97-8180-3902796df9c8" n="orleth-johann">
+  <desc type="filename">Orleth_Johann.xml</desc>
+  <graphic url="Orleth_Johann.jpg" height="427" width="610"/>
+  <zone type="medallionCrop" ulx="225" uly="134" lrx="396" lry="305" cx="311" cy="220" r="86" rotate="0"/>
+  <desc type="modified">2026-04-22T09:40:32.176Z</desc>
+</surface>

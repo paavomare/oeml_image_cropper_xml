@@ -1,0 +1,6 @@
+<surface xml:id="img_397976cd-d25f-4ee9-99c0-098a1d7ecf64" n="hirtenruf">
+  <desc type="filename">Hirtenruf.xml</desc>
+  <graphic url="Siebenhirten_KaB.jpg" height="2736" width="3648"/>
+  <zone type="medallionCrop" ulx="830" uly="572" lrx="2780" lry="2521" cx="1805" cy="1547" r="975" rotate="0"/>
+  <desc type="modified">2026-04-22T10:50:09.661Z</desc>
+</surface>

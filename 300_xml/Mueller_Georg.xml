@@ -1,0 +1,6 @@
+<surface xml:id="img_7f5dbf96-5d3b-4606-b682-cf8a0b1705da" n="mueller-georg">
+  <desc type="filename">Mueller_Georg.xml</desc>
+  <graphic url="Mueller_Georg.jpg" height="407" width="344"/>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="344" lry="353" cx="172" cy="181" r="172" rotate="0"/>
+  <desc type="modified">2026-04-22T10:34:28.988Z</desc>
+</surface>

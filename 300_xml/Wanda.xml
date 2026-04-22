@@ -1,0 +1,6 @@
+<surface xml:id="img_593979a6-4bc3-4a6e-94ba-763596757ce1" n="wanda">
+  <desc type="filename">Wanda.xml</desc>
+  <graphic url="Wanda_Austrian_Music_Awards_2016.jpg" height="992" width="1488"/>
+  <zone type="medallionCrop" ulx="139" uly="0" lrx="1125" lry="987" cx="632" cy="493" r="493" rotate="0"/>
+  <desc type="modified">2026-04-21T14:48:20.382Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_b3b20182-418b-4042-9e12-9604f9532de6" n="prihoda-vasa">
+  <desc type="filename">Prihoda_Vasa.xml</desc>
+  <graphic url="Prihoda_Vasa.jpg" height="425" width="538"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="425" lry="425" cx="213" cy="213" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T10:45:20.746Z</desc>
+</surface>

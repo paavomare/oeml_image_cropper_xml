@@ -1,0 +1,6 @@
+<surface xml:id="img_abeb129d-2e96-4fda-b991-953a51a8894e" n="cornelius-peter-2">
+  <desc type="filename">Cornelius_Peter_2.xml</desc>
+  <graphic url="Cornelius_Peter.jpg" height="600" width="900"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="600" lry="600" cx="300" cy="300" r="300" rotate="0"/>
+  <desc type="modified">2026-04-22T09:28:34.832Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_9ce458bc-9acc-43d8-8ae6-6e39d9f58264" n="sym-alfred">
+  <desc type="filename">Sym_Alfred.xml</desc>
+  <graphic url="Sym_Alfred.jpg" height="938" width="591"/>
+  <zone type="medallionCrop" ulx="0" uly="130" lrx="591" lry="721" cx="296" cy="426" r="296" rotate="0"/>
+  <desc type="modified">2026-04-22T10:13:55.134Z</desc>
+</surface>

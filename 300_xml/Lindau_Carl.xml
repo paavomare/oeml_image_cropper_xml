@@ -1,0 +1,6 @@
+<surface xml:id="img_41f41973-dd2d-43c6-b59a-5aee0558f392" n="lindau-carl">
+  <desc type="filename">Lindau_Carl.xml</desc>
+  <graphic url="Lindau_Carl_AKM.jpg" height="818" width="594"/>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="594" lry="625" cx="297" cy="328" r="297" rotate="0"/>
+  <desc type="modified">2026-04-22T09:44:42.680Z</desc>
+</surface>

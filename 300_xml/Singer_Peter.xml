@@ -1,0 +1,6 @@
+<surface xml:id="img_13ebaed9-7e78-46e1-889e-6e3627db5920" n="singer-peter">
+  <desc type="filename">Singer_Peter.xml</desc>
+  <graphic url="Singer_Peter.jpg" height="603" width="663"/>
+  <zone type="medallionCrop" ulx="30" uly="0" lrx="633" lry="603" cx="332" cy="302" r="302" rotate="0"/>
+  <desc type="modified">2026-04-21T14:59:39.025Z</desc>
+</surface>

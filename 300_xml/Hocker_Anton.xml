@@ -1,0 +1,6 @@
+<surface xml:id="img_795159e3-0d0b-4ad1-825d-b7f32bf0ae20" n="hocker-anton">
+  <desc type="filename">Hocker_Anton.xml</desc>
+  <graphic url="Hocker_Anton.jpg" height="833" width="1111"/>
+  <zone type="medallionCrop" ulx="581" uly="55" lrx="1111" lry="586" cx="846" cy="320" r="265" rotate="0"/>
+  <desc type="modified">2026-04-22T10:18:00.091Z</desc>
+</surface>

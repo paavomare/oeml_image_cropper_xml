@@ -1,0 +1,6 @@
+<surface xml:id="img_64b71991-41cb-4941-ae21-153ba60d973e" n="petzl-schwestern">
+  <desc type="filename">Petzl_Schwestern.xml</desc>
+  <graphic url="Petzl_Marie.jpg" height="951" width="865"/>
+  <zone type="medallionCrop" ulx="0" uly="12" lrx="865" lry="877" cx="433" cy="445" r="433" rotate="0"/>
+  <desc type="modified">2026-04-22T08:54:58.312Z</desc>
+</surface>

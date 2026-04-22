@@ -1,0 +1,6 @@
+<surface xml:id="img_25c627c8-201d-490c-98b4-16009dc5fc5f" n="hausmusik">
+  <desc type="filename">Hausmusik.xml</desc>
+  <graphic url="Hausmusik-Schmid_KaB.jpg" height="1677" width="1644"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1644" lry="1644" cx="822" cy="822" r="822" rotate="0"/>
+  <desc type="modified">2026-04-22T10:32:09.496Z</desc>
+</surface>

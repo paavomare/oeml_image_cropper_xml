@@ -1,0 +1,6 @@
+<surface xml:id="img_7a37db60-5bdc-421e-90c7-00f94a5c3586" n="foltermayer-ehepaar">
+  <desc type="filename">Foltermayer_Ehepaar.xml</desc>
+  <graphic url="Foltermayer_Ehepaar.jpg" height="679" width="428"/>
+  <zone type="medallionCrop" ulx="40" uly="29" lrx="396" lry="385" cx="218" cy="207" r="178" rotate="0"/>
+  <desc type="modified">2026-04-22T10:43:36.803Z</desc>
+</surface>

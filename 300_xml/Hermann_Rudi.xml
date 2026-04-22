@@ -1,0 +1,6 @@
+<surface xml:id="img_58389c26-c1fd-4ae2-9ccb-4d692412524c" n="hermann-rudi">
+  <desc type="filename">Hermann_Rudi.xml</desc>
+  <graphic url="Hermann_Rudi.jpg" height="356" width="223"/>
+  <zone type="medallionCrop" ulx="0" uly="53" lrx="223" lry="276" cx="112" cy="165" r="112" rotate="0"/>
+  <desc type="modified">2026-04-21T15:01:13.869Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_586be10d-47bd-4114-aee3-faf8ac1a75e5" n="kortschak-familie">
+  <desc type="filename">Kortschak_Familie.xml</desc>
+  <graphic url="Kortschak.jpg" height="622" width="406"/>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="406" lry="436" cx="203" cy="233" r="203" rotate="0"/>
+  <desc type="modified">2026-04-21T15:26:21.464Z</desc>
+</surface>

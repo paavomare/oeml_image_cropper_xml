@@ -1,0 +1,6 @@
+<surface xml:id="img_8e3e8a9e-fb95-40f5-a94f-47f6ec1aa6e1" n="kaulich-familie">
+  <desc type="filename">Kaulich_Familie.xml</desc>
+  <graphic url="Kaulich_Porträt.jpg" height="800" width="787"/>
+  <zone type="medallionCrop" ulx="58" uly="47" lrx="691" lry="680" cx="375" cy="364" r="317" rotate="0"/>
+  <desc type="modified">2026-04-22T10:30:42.047Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_f8f6fd67-534d-4665-b160-ae68ad8dc47b" n="apostel-hans-erich">
+  <desc type="filename">Apostel_Hans_Erich.xml</desc>
+  <graphic url="Apostel_Zentralfriedhof.jpg" height="1134" width="628"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="628" lry="628" cx="314" cy="314" r="314" rotate="0"/>
+  <desc type="modified">2026-04-21T14:55:22.414Z</desc>
+</surface>

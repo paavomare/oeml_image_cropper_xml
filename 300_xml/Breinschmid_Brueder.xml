@@ -1,0 +1,6 @@
+<surface xml:id="img_f9e5f173-2f79-4b09-9cc1-496ad473e80f" n="breinschmid-brueder">
+  <desc type="filename">Breinschmid_Brueder.xml</desc>
+  <graphic url="Breinschmid_Georg.jpg" height="1004" width="669"/>
+  <zone type="medallionCrop" ulx="0" uly="238" lrx="669" lry="907" cx="335" cy="573" r="335" rotate="0"/>
+  <desc type="modified">2026-04-22T10:24:57.967Z</desc>
+</surface>

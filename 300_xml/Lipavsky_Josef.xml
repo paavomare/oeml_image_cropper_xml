@@ -1,0 +1,6 @@
+<surface xml:id="img_4f056e0d-6c79-40f5-a3f6-44d589c82123" n="lipavsky-josef">
+  <desc type="filename">Lipavsky_Josef.xml</desc>
+  <graphic url="Lipavsky.jpg" height="602" width="817"/>
+  <zone type="medallionCrop" ulx="96" uly="0" lrx="698" lry="602" cx="397" cy="301" r="301" rotate="0"/>
+  <desc type="modified">2026-04-22T10:46:57.008Z</desc>
+</surface>

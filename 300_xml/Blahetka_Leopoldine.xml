@@ -1,0 +1,6 @@
+<surface xml:id="img_08ad732b-fc04-4d32-b88d-48fa52cd57a0" n="blahetka-leopoldine">
+  <desc type="filename">Blahetka_Leopoldine.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9265534T9265539.jpg" height="800" width="620"/>
+  <zone type="medallionCrop" ulx="20" uly="80" lrx="593" lry="653" cx="307" cy="367" r="287" rotate="0"/>
+  <desc type="modified">2026-04-22T10:36:18.412Z</desc>
+</surface>

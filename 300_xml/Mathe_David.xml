@@ -1,0 +1,6 @@
+<surface xml:id="img_1a871b1a-de57-4e6b-9d1d-23e5b8b2eb7d" n="mathe-david">
+  <desc type="filename">Mathe_David.xml</desc>
+  <graphic url="Mathe_David.jpg" height="633" width="425"/>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="425" lry="454" cx="213" cy="242" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T10:53:27.774Z</desc>
+</surface>

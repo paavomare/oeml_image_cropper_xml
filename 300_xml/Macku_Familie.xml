@@ -1,0 +1,6 @@
+<surface xml:id="img_749b31eb-ee42-4114-9ea8-9d1770921520" n="macku-familie">
+  <desc type="filename">Macku_Familie.xml</desc>
+  <graphic url="Macku_Eduard_jun.jpg" height="865" width="579"/>
+  <zone type="medallionCrop" ulx="0" uly="40" lrx="579" lry="619" cx="290" cy="330" r="290" rotate="0"/>
+  <desc type="modified">2026-04-21T14:57:28.436Z</desc>
+</surface>

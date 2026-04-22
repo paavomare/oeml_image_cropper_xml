@@ -1,0 +1,6 @@
+<surface xml:id="img_af271bc1-6b87-45b9-bfc9-bf817023ddef" n="spoerk-christof">
+  <desc type="filename">Spoerk_Christof.xml</desc>
+  <graphic url="Spoerk_Christof.jpg" height="378" width="435"/>
+  <zone type="medallionCrop" ulx="29" uly="0" lrx="407" lry="378" cx="218" cy="189" r="189" rotate="0"/>
+  <desc type="modified">2026-04-21T15:39:05.531Z</desc>
+</surface>

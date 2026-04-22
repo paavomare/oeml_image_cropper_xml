@@ -1,0 +1,6 @@
+<surface xml:id="img_22b35ddd-6d7d-42b1-8ed3-ccd78c3b22f0" n="paldauer">
+  <desc type="filename">Paldauer.xml</desc>
+  <graphic url="Paldauer.jpg" height="341" width="395"/>
+  <zone type="medallionCrop" ulx="27" uly="0" lrx="368" lry="341" cx="198" cy="171" r="171" rotate="0"/>
+  <desc type="modified">2026-04-22T09:52:03.529Z</desc>
+</surface>

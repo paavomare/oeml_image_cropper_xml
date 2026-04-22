@@ -1,0 +1,6 @@
+<surface xml:id="img_8b641123-2c23-42c1-a84e-87b90b42da7d" n="lier-jacques">
+  <desc type="filename">Lier_Jacques.xml</desc>
+  <graphic url="Lier_Jacques_1928.jpg" height="490" width="369"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="369" lry="369" cx="185" cy="185" r="185" rotate="0"/>
+  <desc type="modified">2026-04-22T10:43:02.391Z</desc>
+</surface>

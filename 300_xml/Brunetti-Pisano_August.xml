@@ -1,0 +1,6 @@
+<surface xml:id="img_9cb54bde-6d66-449e-b14e-d8c6fe5ce168" n="brunetti-pisano-august">
+  <desc type="filename">Brunetti-Pisano_August.xml</desc>
+  <graphic url="Brunetti-Pisano_August.jpg" height="800" width="568"/>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="568" lry="600" cx="284" cy="316" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T09:08:31.340Z</desc>
+</surface>

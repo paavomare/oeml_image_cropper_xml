@@ -1,0 +1,6 @@
+<surface xml:id="img_3d5fc37a-e675-47b1-bb42-3dcd7d6211ac" n="raimund-familie">
+  <desc type="filename">Raimund_Familie.xml</desc>
+  <graphic url="raimund_carl_sen.jpg" height="615" width="431"/>
+  <zone type="medallionCrop" ulx="0" uly="52" lrx="431" lry="483" cx="216" cy="268" r="216" rotate="0"/>
+  <desc type="modified">2026-04-22T09:45:36.727Z</desc>
+</surface>

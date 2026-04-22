@@ -1,0 +1,6 @@
+<surface xml:id="img_3c9f2d7a-efa8-4dcf-b613-dd6152df336d" n="leibenfrost-marianne">
+  <desc type="filename">Leibenfrost_Marianne.xml</desc>
+  <graphic url="Schneiderhan_Wolfgang_1940.jpg" height="877" width="660"/>
+  <zone type="medallionCrop" ulx="0" uly="8" lrx="385" lry="393" cx="193" cy="201" r="193" rotate="0"/>
+  <desc type="modified">2026-04-22T09:25:33.432Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_94af9296-5bed-4c28-ac87-cf9fd11a1e26" n="jirecek-hermenegild">
+  <desc type="filename">Jirecek_Hermenegild.xml</desc>
+  <graphic url="Jirecek_Brustbild.jpg" height="800" width="556"/>
+  <zone type="medallionCrop" ulx="44" uly="91" lrx="517" lry="564" cx="281" cy="328" r="237" rotate="0"/>
+  <desc type="modified">2026-04-22T10:59:28.845Z</desc>
+</surface>

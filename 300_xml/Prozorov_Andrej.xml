@@ -1,0 +1,6 @@
+<surface xml:id="img_e3cda55a-014c-4bfb-a487-7504d60c90b5" n="prozorov-andrej">
+  <desc type="filename">Prozorov_Andrej.xml</desc>
+  <graphic url="Prozorov_Andrej.jpg" height="827" width="333"/>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="333" lry="347" cx="167" cy="181" r="167" rotate="0"/>
+  <desc type="modified">2026-04-21T14:56:30.316Z</desc>
+</surface>

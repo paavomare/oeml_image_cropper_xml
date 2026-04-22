@@ -1,0 +1,6 @@
+<surface xml:id="img_6c49f91a-c44b-4ada-af01-05f9f81ec4bf" n="ghisas-eurysthenes">
+  <desc type="filename">Ghisas_Eurysthenes.xml</desc>
+  <graphic url="Ghisas_Eurysthenes.jpg" height="696" width="592"/>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="592" lry="615" cx="296" cy="319" r="296" rotate="0"/>
+  <desc type="modified">2026-04-22T10:58:27.324Z</desc>
+</surface>

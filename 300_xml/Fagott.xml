@@ -1,0 +1,6 @@
+<surface xml:id="img_f5f8be05-ae41-430e-bd6f-fa2f3b61784b" n="fagott">
+  <desc type="filename">Fagott.xml</desc>
+  <graphic url="Fagott.jpg" height="842" width="612"/>
+  <zone type="medallionCrop" ulx="0" uly="76" lrx="612" lry="688" cx="306" cy="382" r="306" rotate="0"/>
+  <desc type="modified">2026-04-22T10:53:35.787Z</desc>
+</surface>

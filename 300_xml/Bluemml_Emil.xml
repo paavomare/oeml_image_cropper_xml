@@ -1,0 +1,6 @@
+<surface xml:id="img_ce505414-c121-4dc7-a81d-d91862081b90" n="bluemml-emil">
+  <desc type="filename">Bluemml_Emil.xml</desc>
+  <graphic url="Bluemml_Emil.jpg" height="950" width="850"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="850" lry="850" cx="425" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-21T15:02:42.304Z</desc>
+</surface>

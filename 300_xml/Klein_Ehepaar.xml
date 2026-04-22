@@ -1,0 +1,6 @@
+<surface xml:id="img_b13a9265-81c7-483e-b0d2-0076b422e69c" n="klein-ehepaar">
+  <desc type="filename">Klein_Ehepaar.xml</desc>
+  <graphic url="Klein_Max_1913.jpg" height="491" width="329"/>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="329" lry="352" cx="165" cy="188" r="165" rotate="0"/>
+  <desc type="modified">2026-04-21T15:31:03.544Z</desc>
+</surface>

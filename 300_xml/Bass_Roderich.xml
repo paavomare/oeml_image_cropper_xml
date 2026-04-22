@@ -1,0 +1,6 @@
+<surface xml:id="img_a5a1e03c-840b-4391-8897-316d5413488f" n="bass-roderich">
+  <desc type="filename">Bass_Roderich.xml</desc>
+  <graphic url="Bass_wrb1933.jpg" height="1152" width="868"/>
+  <zone type="medallionCrop" ulx="0" uly="40" lrx="868" lry="908" cx="434" cy="474" r="434" rotate="0"/>
+  <desc type="modified">2026-04-22T09:46:37.911Z</desc>
+</surface>

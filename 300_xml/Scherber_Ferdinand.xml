@@ -1,0 +1,6 @@
+<surface xml:id="img_ee38021c-eb4d-4ce0-ab2a-b39bf6380df5" n="scherber-ferdinand">
+  <desc type="filename">Scherber_Ferdinand.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450119T10450124.jpg" height="800" width="533"/>
+  <zone type="medallionCrop" ulx="21" uly="63" lrx="501" lry="542" cx="261" cy="303" r="240" rotate="0"/>
+  <desc type="modified">2026-04-22T09:29:44.700Z</desc>
+</surface>

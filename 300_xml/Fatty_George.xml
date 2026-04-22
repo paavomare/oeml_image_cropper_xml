@@ -1,0 +1,6 @@
+<surface xml:id="img_f164a0bc-f04f-4f07-9a6a-ca7168fbcd6a" n="fatty-george">
+  <desc type="filename">Fatty_George.xml</desc>
+  <graphic url="Fatty_George_1958.jpg" height="580" width="800"/>
+  <zone type="medallionCrop" ulx="179" uly="17" lrx="536" lry="374" cx="358" cy="196" r="179" rotate="0"/>
+  <desc type="modified">2026-04-22T10:01:15.208Z</desc>
+</surface>

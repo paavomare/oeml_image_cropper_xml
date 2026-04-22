@@ -1,0 +1,6 @@
+<surface xml:id="img_9005cd27-b11a-4bbb-96be-08002b8770f3" n="reiter-familie-1">
+  <desc type="filename">Reiter_Familie_1.xml</desc>
+  <graphic url="Reiter_Josef.jpg" height="454" width="336"/>
+  <zone type="medallionCrop" ulx="0" uly="37" lrx="336" lry="373" cx="168" cy="205" r="168" rotate="0"/>
+  <desc type="modified">2026-04-22T10:44:29.230Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_53471529-9e3a-48ba-9d10-80b0c5482d5b" n="carltheater">
+  <desc type="filename">Carltheater.xml</desc>
+  <graphic url="bildarchivaustria/BA_913_B10828103T10828108.jpg" height="541" width="800"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="541" lry="541" cx="271" cy="271" r="271" rotate="0"/>
+  <desc type="modified">2026-04-22T09:58:16.407Z</desc>
+</surface>

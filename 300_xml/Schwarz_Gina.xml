@@ -1,0 +1,6 @@
+<surface xml:id="img_ac85b835-dff1-45a4-a3c8-60c2b7451179" n="schwarz-gina">
+  <desc type="filename">Schwarz_Gina.xml</desc>
+  <graphic url="Schwarz_Gina.jpg" height="733" width="1100"/>
+  <zone type="medallionCrop" ulx="184" uly="0" lrx="917" lry="733" cx="551" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-21T15:25:05.162Z</desc>
+</surface>

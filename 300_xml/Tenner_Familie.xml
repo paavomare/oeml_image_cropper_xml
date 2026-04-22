@@ -1,0 +1,6 @@
+<surface xml:id="img_8b0f0a05-b0f2-4c9f-98e8-eb9c71e7dfca" n="tenner-familie">
+  <desc type="filename">Tenner_Familie.xml</desc>
+  <graphic url="Tenner.jpg" height="624" width="435"/>
+  <zone type="medallionCrop" ulx="0" uly="169" lrx="435" lry="604" cx="218" cy="387" r="218" rotate="0"/>
+  <desc type="modified">2026-04-22T10:34:35.167Z</desc>
+</surface>

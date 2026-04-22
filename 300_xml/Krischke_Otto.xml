@@ -1,0 +1,6 @@
+<surface xml:id="img_875db391-cc70-4686-94f0-2effea37fafe" n="krischke-otto">
+  <desc type="filename">Krischke_Otto.xml</desc>
+  <graphic url="Krischke.jpg" height="616" width="450"/>
+  <zone type="medallionCrop" ulx="0" uly="139" lrx="450" lry="589" cx="225" cy="364" r="225" rotate="0"/>
+  <desc type="modified">2026-04-21T15:38:03.196Z</desc>
+</surface>

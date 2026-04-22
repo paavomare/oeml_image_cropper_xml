@@ -1,0 +1,6 @@
+<surface xml:id="img_1fdde32d-83ee-4a33-811f-bdf486f7ab30" n="prandau-karl">
+  <desc type="filename">Prandau_Karl.xml</desc>
+  <graphic url="Prandau_Karl_von.jpg" height="1099" width="850"/>
+  <zone type="medallionCrop" ulx="129" uly="163" lrx="729" lry="762" cx="429" cy="463" r="300" rotate="0"/>
+  <desc type="modified">2026-04-21T15:03:00.232Z</desc>
+</surface>

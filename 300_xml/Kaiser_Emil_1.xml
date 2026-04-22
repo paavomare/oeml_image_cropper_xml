@@ -1,0 +1,6 @@
+<surface xml:id="img_c0bcf0a3-0b6c-4859-9464-7b305c54ab6b" n="kaiser-emil-1">
+  <desc type="filename">Kaiser_Emil_1.xml</desc>
+  <graphic url="Kaiser_Emil.jpg" height="415" width="341"/>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="341" lry="351" cx="171" cy="181" r="171" rotate="0"/>
+  <desc type="modified">2026-04-22T09:09:52.957Z</desc>
+</surface>

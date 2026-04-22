@@ -1,0 +1,6 @@
+<surface xml:id="img_3216f47c-5a8f-4033-ac22-28abc971e9ee" n="triangi-beatrix">
+  <desc type="filename">Triangi_Beatrix.xml</desc>
+  <graphic url="Triangi_wrb1933.jpg" height="1042" width="1257"/>
+  <zone type="medallionCrop" ulx="376" uly="156" lrx="979" lry="760" cx="678" cy="458" r="302" rotate="0"/>
+  <desc type="modified">2026-04-22T09:10:17.996Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_0fcb00ce-3283-4d6f-b579-0395da376ac0" n="shahyar-golnar">
+  <desc type="filename">Shahyar_Golnar.xml</desc>
+  <graphic url="Shahyar_Golnar.jpg" height="1134" width="756"/>
+  <zone type="medallionCrop" ulx="0" uly="278" lrx="756" lry="1034" cx="378" cy="656" r="378" rotate="0"/>
+  <desc type="modified">2026-04-22T09:27:52.991Z</desc>
+</surface>

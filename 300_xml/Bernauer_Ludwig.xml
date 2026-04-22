@@ -1,0 +1,6 @@
+<surface xml:id="img_eb603eae-ef57-47ab-ae28-39d0a56598a8" n="bernauer-ludwig">
+  <desc type="filename">Bernauer_Ludwig.xml</desc>
+  <graphic url="Bernauer_Luigi.jpg" height="618" width="461"/>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="461" lry="483" cx="231" cy="253" r="231" rotate="0"/>
+  <desc type="modified">2026-04-22T09:38:09.590Z</desc>
+</surface>

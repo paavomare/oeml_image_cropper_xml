@@ -1,0 +1,6 @@
+<surface xml:id="img_f77ecaf0-0957-4b2c-9b8b-7aa906f25c2d" n="rudolph-ii">
+  <desc type="filename">Rudolph_II.xml</desc>
+  <graphic url="bildarchivaustria/408_B4670602T4670606.jpg" height="800" width="585"/>
+  <zone type="medallionCrop" ulx="88" uly="124" lrx="478" lry="514" cx="283" cy="319" r="195" rotate="0"/>
+  <desc type="modified">2026-04-21T15:35:29.999Z</desc>
+</surface>

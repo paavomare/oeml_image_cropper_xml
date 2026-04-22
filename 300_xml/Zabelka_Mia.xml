@@ -1,0 +1,6 @@
+<surface xml:id="img_7c2079bf-dee1-4c17-b007-9c3fa3524b9d" n="zabelka-mia">
+  <desc type="filename">Zabelka_Mia.xml</desc>
+  <graphic url="Zabelka_Mia_2025.jpg" height="906" width="630"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="630" lry="630" cx="315" cy="315" r="315" rotate="0"/>
+  <desc type="modified">2026-04-21T15:04:00.270Z</desc>
+</surface>

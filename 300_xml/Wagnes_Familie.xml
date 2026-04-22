@@ -1,0 +1,6 @@
+<surface xml:id="img_115bdd88-1ef5-4c27-aaae-5b7940b26fc4" n="wagnes-familie">
+  <desc type="filename">Wagnes_Familie.xml</desc>
+  <graphic url="Wagnes_Joseph.jpg" height="613" width="430"/>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="430" lry="456" cx="215" cy="241" r="215" rotate="0"/>
+  <desc type="modified">2026-04-22T09:45:55.227Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_da290b94-977f-4c6f-9598-9cc1aef516c0" n="wiener-st-ambrosius-verein">
+  <desc type="filename">Wiener_St_Ambrosius-Verein.xml</desc>
+  <graphic url="St_Ambrosius-Verein.jpg" height="1001" width="850"/>
+  <zone type="medallionCrop" ulx="0" uly="72" lrx="850" lry="922" cx="425" cy="497" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T10:50:58.361Z</desc>
+</surface>

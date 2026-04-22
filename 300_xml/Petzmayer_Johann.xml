@@ -1,0 +1,6 @@
+<surface xml:id="img_e3354cb4-bc61-4699-b98a-cad4af3e2353" n="petzmayer-johann">
+  <desc type="filename">Petzmayer_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9238582T9238587.jpg" height="800" width="570"/>
+  <zone type="medallionCrop" ulx="117" uly="165" lrx="448" lry="496" cx="283" cy="331" r="166" rotate="0"/>
+  <desc type="modified">2026-04-21T15:11:25.009Z</desc>
+</surface>

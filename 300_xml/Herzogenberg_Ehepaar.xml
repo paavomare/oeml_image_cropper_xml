@@ -1,0 +1,6 @@
+<surface xml:id="img_f8846589-658a-4e77-a4bd-a29f0cff3a73" n="herzogenberg-ehepaar">
+  <desc type="filename">Herzogenberg_Ehepaar.xml</desc>
+  <graphic url="Herzogenberg_Elisabeth.jpg" height="798" width="567"/>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="567" lry="599" cx="284" cy="316" r="284" rotate="0"/>
+  <desc type="modified">2026-04-22T10:22:11.006Z</desc>
+</surface>

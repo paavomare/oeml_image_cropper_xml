@@ -1,0 +1,6 @@
+<surface xml:id="img_83411605-2bd7-42f1-824c-33a6c60c4994" n="eisel-guenther">
+  <desc type="filename">Eisel_Guenther.xml</desc>
+  <graphic url="eisel_guenther.jpg" height="500" width="356"/>
+  <zone type="medallionCrop" ulx="19" uly="100" lrx="351" lry="432" cx="185" cy="266" r="166" rotate="0"/>
+  <desc type="modified">2026-04-22T10:38:01.130Z</desc>
+</surface>

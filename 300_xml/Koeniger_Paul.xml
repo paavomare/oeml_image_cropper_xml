@@ -1,0 +1,6 @@
+<surface xml:id="img_c69aacd6-dd15-46f2-a5e7-a053c7149aae" n="koeniger-paul">
+  <desc type="filename">Koeniger_Paul.xml</desc>
+  <graphic url="Koeniger_Paul.jpg" height="262" width="354"/>
+  <zone type="medallionCrop" ulx="92" uly="0" lrx="354" lry="262" cx="223" cy="131" r="131" rotate="0"/>
+  <desc type="modified">2026-04-22T09:08:38.409Z</desc>
+</surface>

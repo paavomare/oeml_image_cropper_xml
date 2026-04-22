@@ -1,0 +1,6 @@
+<surface xml:id="img_5d0d2bff-8e5b-40f5-8ec8-56fb463121a7" n="hassfurther-sophie">
+  <desc type="filename">Hassfurther_Sophie.xml</desc>
+  <graphic url="Hassfurther_Sophie.jpg" height="733" width="489"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="489" lry="489" cx="245" cy="245" r="245" rotate="0"/>
+  <desc type="modified">2026-04-22T10:25:01.836Z</desc>
+</surface>

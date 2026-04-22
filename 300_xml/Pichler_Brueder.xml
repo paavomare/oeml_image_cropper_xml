@@ -1,0 +1,6 @@
+<surface xml:id="img_bfa18141-11ee-41de-b73a-4329dfe7b1b7" n="pichler-brueder">
+  <desc type="filename">Pichler_Brueder.xml</desc>
+  <graphic url="Pichler_Andreas_2.jpg" height="514" width="800"/>
+  <zone type="medallionCrop" ulx="92" uly="0" lrx="606" lry="514" cx="349" cy="257" r="257" rotate="0"/>
+  <desc type="modified">2026-04-22T10:23:31.548Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_b5c25465-dfee-4fd7-b624-622fd7e7d43a" n="binkau-guido">
+  <desc type="filename">Binkau_Guido.xml</desc>
+  <graphic url="Binkau_Guido.jpg" height="581" width="417"/>
+  <zone type="medallionCrop" ulx="0" uly="160" lrx="417" lry="577" cx="209" cy="369" r="209" rotate="0"/>
+  <desc type="modified">2026-04-22T10:53:30.701Z</desc>
+</surface>

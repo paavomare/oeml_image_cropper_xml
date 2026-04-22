@@ -1,0 +1,6 @@
+<surface xml:id="img_0ffc965a-0875-4d2f-ad34-ee3dc462b1e6" n="kolleritsch-familie">
+  <desc type="filename">Kolleritsch_Familie.xml</desc>
+  <graphic url="Kolleritsch.jpg" height="625" width="430"/>
+  <zone type="medallionCrop" ulx="0" uly="195" lrx="430" lry="625" cx="215" cy="410" r="215" rotate="0"/>
+  <desc type="modified">2026-04-21T15:34:26.846Z</desc>
+</surface>

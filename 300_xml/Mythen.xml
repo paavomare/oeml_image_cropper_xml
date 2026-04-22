@@ -1,0 +1,6 @@
+<surface xml:id="img_dc228a83-8bdb-4481-8834-9891d60f9b5a" n="mythen">
+  <desc type="filename">Mythen.xml</desc>
+  <graphic url="Rattenfaenger_Korneuburg.jpg" height="1200" width="1600"/>
+  <zone type="medallionCrop" ulx="193" uly="0" lrx="1393" lry="1200" cx="793" cy="600" r="600" rotate="0"/>
+  <desc type="modified">2026-04-22T10:34:53.227Z</desc>
+</surface>

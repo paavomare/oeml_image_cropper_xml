@@ -1,0 +1,6 @@
+<surface xml:id="img_9d61d22a-0cb1-490c-b827-97d8b1c2ce31" n="kabarett">
+  <desc type="filename">Kabarett.xml</desc>
+  <graphic url="Chabarowsk_1920.jpg" height="1108" width="828"/>
+  <zone type="medallionCrop" ulx="0" uly="115" lrx="828" lry="943" cx="414" cy="529" r="414" rotate="0"/>
+  <desc type="modified">2026-04-22T10:52:30.191Z</desc>
+</surface>

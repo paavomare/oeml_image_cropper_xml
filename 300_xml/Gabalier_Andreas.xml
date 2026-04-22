@@ -1,0 +1,6 @@
+<surface xml:id="img_a3a9f338-9623-43b9-b758-96ae34407acf" n="gabalier-andreas">
+  <desc type="filename">Gabalier_Andreas.xml</desc>
+  <graphic url="Gabalier_Andreas.jpg" height="425" width="466"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="425" lry="425" cx="213" cy="213" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T09:26:54.878Z</desc>
+</surface>

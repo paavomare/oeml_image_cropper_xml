@@ -1,0 +1,6 @@
+<surface xml:id="img_b78d8cca-61b8-43f4-bd75-eaf71326e4c0" n="buergertheater-wien">
+  <desc type="filename">Buergertheater_Wien.xml</desc>
+  <graphic url="Buergertheater_Aussenansicht_1906.jpg" height="940" width="1276"/>
+  <zone type="medallionCrop" ulx="154" uly="0" lrx="1094" lry="940" cx="624" cy="470" r="470" rotate="0"/>
+  <desc type="modified">2026-04-22T10:57:27.038Z</desc>
+</surface>

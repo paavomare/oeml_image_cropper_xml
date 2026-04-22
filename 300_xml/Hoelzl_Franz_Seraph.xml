@@ -1,0 +1,6 @@
+<surface xml:id="img_c576b734-164d-4d71-9430-d8318902f74b" n="hoelzl-franz-seraph">
+  <desc type="filename">Hoelzl_Franz_Seraph.xml</desc>
+  <graphic url="Hoelzl_Franz_Seraph.jpg" height="780" width="646"/>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="646" lry="665" cx="323" cy="342" r="323" rotate="0"/>
+  <desc type="modified">2026-04-22T10:34:26.542Z</desc>
+</surface>

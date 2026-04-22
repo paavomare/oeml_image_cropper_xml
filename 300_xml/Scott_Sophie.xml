@@ -1,0 +1,6 @@
+<surface xml:id="img_88373dba-34d6-4fd4-a394-7493a8d71771" n="scott-sophie">
+  <desc type="filename">Scott_Sophie.xml</desc>
+  <graphic url="Scott_1.jpg" height="908" width="1488"/>
+  <zone type="medallionCrop" ulx="266" uly="0" lrx="1174" lry="908" cx="720" cy="454" r="454" rotate="0"/>
+  <desc type="modified">2026-04-22T10:48:29.947Z</desc>
+</surface>

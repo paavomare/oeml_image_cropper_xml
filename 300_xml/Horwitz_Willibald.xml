@@ -1,0 +1,6 @@
+<surface xml:id="img_8de66671-eb35-4d01-8c31-a74e1af0d438" n="horwitz-willibald">
+  <desc type="filename">Horwitz_Willibald.xml</desc>
+  <graphic url="Horwitz_Willibald.jpg" height="404" width="337"/>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="337" lry="346" cx="169" cy="178" r="169" rotate="0"/>
+  <desc type="modified">2026-04-21T15:37:58.783Z</desc>
+</surface>

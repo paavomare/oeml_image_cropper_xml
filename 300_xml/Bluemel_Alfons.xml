@@ -1,0 +1,6 @@
+<surface xml:id="img_3af10ea5-99f7-4877-9a85-735e913ebf85" n="bluemel-alfons">
+  <desc type="filename">Bluemel_Alfons.xml</desc>
+  <graphic url="Bluemel_Alfons.jpg" height="600" width="404"/>
+  <zone type="medallionCrop" ulx="0" uly="77" lrx="404" lry="481" cx="202" cy="279" r="202" rotate="0"/>
+  <desc type="modified">2026-04-22T10:40:32.681Z</desc>
+</surface>

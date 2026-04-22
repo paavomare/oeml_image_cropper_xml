@@ -1,0 +1,6 @@
+<surface xml:id="img_b37d4ea9-ad40-416a-b93c-dce863f12d67" n="harnik-elisabeth">
+  <desc type="filename">Harnik_Elisabeth.xml</desc>
+  <graphic url="Harnik_Elisabeth.jpg" height="1100" width="734"/>
+  <zone type="medallionCrop" ulx="0" uly="51" lrx="734" lry="785" cx="367" cy="418" r="367" rotate="0"/>
+  <desc type="modified">2026-04-21T15:32:04.591Z</desc>
+</surface>

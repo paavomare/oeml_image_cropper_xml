@@ -1,0 +1,6 @@
+<surface xml:id="img_060297f0-f416-48d9-87d8-b042c1bbb795" n="rabensteiner-familie">
+  <desc type="filename">Rabensteiner_Familie.xml</desc>
+  <graphic url="Rabensteiner_1896.jpg" height="737" width="591"/>
+  <zone type="medallionCrop" ulx="158" uly="149" lrx="646" lry="638" cx="402" cy="393" r="244" rotate="-20"/>
+  <desc type="modified">2026-04-22T09:46:09.831Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_15ab327a-b98a-4e36-8e78-0c612c481b63" n="schallinger-musikschule">
+  <desc type="filename">Schallinger_Musikschule.xml</desc>
+  <graphic url="Schallinger_Musikschule_Konzertsaal.jpg" height="850" width="1285"/>
+  <zone type="medallionCrop" ulx="316" uly="146" lrx="981" lry="812" cx="649" cy="479" r="333" rotate="0"/>
+  <desc type="modified">2026-04-22T10:07:19.832Z</desc>
+</surface>

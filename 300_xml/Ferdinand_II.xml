@@ -1,0 +1,6 @@
+<surface xml:id="img_f5b9211e-5fa4-43e2-a3b9-9ecec0de64c8" n="ferdinand-ii">
+  <desc type="filename">Ferdinand_II.xml</desc>
+  <graphic url="bildarchivaustria/429_B4819323T4819327.jpg" height="800" width="576"/>
+  <zone type="medallionCrop" ulx="143" uly="212" lrx="425" lry="494" cx="284" cy="353" r="141" rotate="0"/>
+  <desc type="modified">2026-04-21T15:36:27.373Z</desc>
+</surface>

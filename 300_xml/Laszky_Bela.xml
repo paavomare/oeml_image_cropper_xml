@@ -1,0 +1,6 @@
+<surface xml:id="img_bcde99c6-1b32-41b2-8105-df8d957c121f" n="laszky-bela">
+  <desc type="filename">Laszky_Bela.xml</desc>
+  <graphic url="Laszky_Bela.jpg" height="785" width="567"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="567" lry="567" cx="284" cy="284" r="284" rotate="0"/>
+  <desc type="modified">2026-04-21T15:24:39.402Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_f9da99a6-459f-4ddc-a25f-b6ab0d2d7809" n="suchsland-leopold">
+  <desc type="filename">Suchsland_Leopold.xml</desc>
+  <graphic url="Suchsland.jpg" height="620" width="434"/>
+  <zone type="medallionCrop" ulx="0" uly="70" lrx="434" lry="504" cx="217" cy="287" r="217" rotate="0"/>
+  <desc type="modified">2026-04-21T15:10:45.144Z</desc>
+</surface>

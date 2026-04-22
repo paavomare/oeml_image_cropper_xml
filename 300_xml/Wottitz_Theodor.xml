@@ -1,0 +1,6 @@
+<surface xml:id="img_3d7d808d-f131-4856-89aa-8ae0d582c2db" n="wottitz-theodor">
+  <desc type="filename">Wottitz_Theodor.xml</desc>
+  <graphic url="Wottitz_Theodor_WBiR.jpg" height="564" width="359"/>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="359" lry="388" cx="180" cy="209" r="180" rotate="0"/>
+  <desc type="modified">2026-04-21T15:02:47.347Z</desc>
+</surface>

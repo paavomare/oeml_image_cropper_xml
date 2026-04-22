@@ -1,0 +1,6 @@
+<surface xml:id="img_5329723a-2591-4c67-8eb3-81989ba4ba16" n="schiemer-georg">
+  <desc type="filename">Schiemer_Georg.xml</desc>
+  <graphic url="schiemer_georg.jpg" height="500" width="355"/>
+  <zone type="medallionCrop" ulx="19" uly="48" lrx="334" lry="363" cx="177" cy="206" r="158" rotate="0"/>
+  <desc type="modified">2026-04-22T09:52:38.069Z</desc>
+</surface>

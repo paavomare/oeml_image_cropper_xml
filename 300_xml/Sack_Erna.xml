@@ -1,0 +1,6 @@
+<surface xml:id="img_69666923-b9cc-47f3-9c2a-7c40d3b58bb0" n="sack-erna">
+  <desc type="filename">Sack_Erna.xml</desc>
+  <graphic url="bildarchivaustria/BA_948_B13580012T13580017.jpg" height="800" width="538"/>
+  <zone type="medallionCrop" ulx="23" uly="65" lrx="521" lry="563" cx="272" cy="314" r="249" rotate="0"/>
+  <desc type="modified">2026-04-22T09:43:36.505Z</desc>
+</surface>

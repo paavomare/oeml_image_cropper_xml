@@ -1,0 +1,6 @@
+<surface xml:id="img_32e0790c-76de-43b0-88d5-b37f6fd025db" n="weirich-familie">
+  <desc type="filename">Weirich_Familie.xml</desc>
+  <graphic url="Weirich_Rudolf.jpg" height="432" width="289"/>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="289" lry="321" cx="145" cy="177" r="145" rotate="0"/>
+  <desc type="modified">2026-04-22T10:57:46.013Z</desc>
+</surface>

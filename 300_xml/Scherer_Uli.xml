@@ -1,0 +1,6 @@
+<surface xml:id="img_3b35952a-4bbd-4a7b-9534-53be0f4c91dd" n="scherer-uli">
+  <desc type="filename">Scherer_Uli.xml</desc>
+  <graphic url="Scherer_Uli.jpg" height="753" width="1080"/>
+  <zone type="medallionCrop" ulx="164" uly="0" lrx="917" lry="753" cx="541" cy="377" r="377" rotate="0"/>
+  <desc type="modified">2026-04-21T14:54:41.926Z</desc>
+</surface>

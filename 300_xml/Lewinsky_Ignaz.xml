@@ -1,0 +1,6 @@
+<surface xml:id="img_f538eb35-2b5c-4b1d-b1eb-752c7a7ae504" n="lewinsky-ignaz">
+  <desc type="filename">Lewinsky_Ignaz.xml</desc>
+  <graphic url="Lewinsky.jpg" height="576" width="425"/>
+  <zone type="medallionCrop" ulx="0" uly="126" lrx="425" lry="551" cx="213" cy="339" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T10:27:46.362Z</desc>
+</surface>

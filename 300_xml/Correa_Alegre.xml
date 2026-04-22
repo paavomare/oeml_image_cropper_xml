@@ -1,0 +1,6 @@
+<surface xml:id="img_cbdc3d66-3d25-4080-a540-9b68b34067f8" n="correa-alegre">
+  <desc type="filename">Correa_Alegre.xml</desc>
+  <graphic url="Correa_Alegre.jpg" height="939" width="650"/>
+  <zone type="medallionCrop" ulx="0" uly="40" lrx="650" lry="690" cx="325" cy="365" r="325" rotate="0"/>
+  <desc type="modified">2026-04-21T15:40:41.011Z</desc>
+</surface>

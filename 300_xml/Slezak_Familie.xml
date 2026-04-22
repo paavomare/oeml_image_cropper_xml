@@ -1,0 +1,6 @@
+<surface xml:id="img_f92a361b-fe05-4571-b832-d184f42090c9" n="slezak-familie">
+  <desc type="filename">Slezak_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450175T10450180.jpg" height="800" width="533"/>
+  <zone type="medallionCrop" ulx="40" uly="41" lrx="492" lry="494" cx="266" cy="267" r="226" rotate="0"/>
+  <desc type="modified">2026-04-21T15:30:07.120Z</desc>
+</surface>

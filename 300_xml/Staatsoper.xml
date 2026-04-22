@@ -1,0 +1,6 @@
+<surface xml:id="img_4ae362f0-f4c9-42a4-bb4d-7d227ba78902" n="staatsoper">
+  <desc type="filename">Staatsoper.xml</desc>
+  <graphic url="Staatsoper_1955.jpg" height="427" width="800"/>
+  <zone type="medallionCrop" ulx="8" uly="9" lrx="369" lry="370" cx="189" cy="190" r="181" rotate="0"/>
+  <desc type="modified">2026-04-22T10:16:59.673Z</desc>
+</surface>

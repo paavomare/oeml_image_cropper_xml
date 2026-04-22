@@ -1,0 +1,6 @@
+<surface xml:id="img_28b52707-a5fc-44c1-9668-2754c0bb4ea9" n="wildgans-ehepaar">
+  <desc type="filename">Wildgans_Ehepaar.xml</desc>
+  <graphic url="Wildgans_1932.jpg" height="571" width="800"/>
+  <zone type="medallionCrop" ulx="115" uly="0" lrx="686" lry="571" cx="401" cy="286" r="286" rotate="0"/>
+  <desc type="modified">2026-04-21T15:26:25.256Z</desc>
+</surface>

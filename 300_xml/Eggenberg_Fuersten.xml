@@ -1,0 +1,6 @@
+<surface xml:id="img_e5c89142-507a-4673-90a1-43b8017b399e" n="eggenberg-fuersten">
+  <desc type="filename">Eggenberg_Fuersten.xml</desc>
+  <graphic url="Eggenberg_Hans-Ulrich.jpg" height="800" width="558"/>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="558" lry="580" cx="279" cy="301" r="279" rotate="0"/>
+  <desc type="modified">2026-04-22T09:47:56.552Z</desc>
+</surface>

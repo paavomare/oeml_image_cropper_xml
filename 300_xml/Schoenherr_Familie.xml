@@ -1,0 +1,6 @@
+<surface xml:id="img_c31c2d89-dd47-492e-9853-7a05e0d54700" n="schoenherr-familie">
+  <desc type="filename">Schoenherr_Familie.xml</desc>
+  <graphic url="Schoenherr_Max.jpg" height="504" width="377"/>
+  <zone type="medallionCrop" ulx="0" uly="127" lrx="377" lry="504" cx="189" cy="316" r="189" rotate="0"/>
+  <desc type="modified">2026-04-22T10:25:16.475Z</desc>
+</surface>

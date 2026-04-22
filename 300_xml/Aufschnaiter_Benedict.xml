@@ -1,0 +1,6 @@
+<surface xml:id="img_7a59a544-137a-462e-9c0b-81685995e3bc" n="aufschnaiter-benedict">
+  <desc type="filename">Aufschnaiter_Benedict.xml</desc>
+  <graphic url="Aufschnaiter.JPG" height="751" width="530"/>
+  <zone type="medallionCrop" ulx="49" uly="97" lrx="475" lry="523" cx="262" cy="310" r="213" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:23.788Z</desc>
+</surface>

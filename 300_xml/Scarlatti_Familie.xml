@@ -1,0 +1,6 @@
+<surface xml:id="img_e5b13b96-dc1e-43b7-8345-8ccb95acf54a" n="scarlatti-familie">
+  <desc type="filename">Scarlatti_Familie.xml</desc>
+  <graphic url="bildarchivaustria/3_B1209453T1209457.jpg" height="801" width="528"/>
+  <zone type="medallionCrop" ulx="90" uly="127" lrx="444" lry="481" cx="267" cy="304" r="177" rotate="0"/>
+  <desc type="modified">2026-04-21T15:12:38.372Z</desc>
+</surface>

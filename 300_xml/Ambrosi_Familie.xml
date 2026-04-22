@@ -1,0 +1,6 @@
+<surface xml:id="img_0863e69c-60d1-458f-abbc-d0ab5874be34" n="ambrosi-familie">
+  <desc type="filename">Ambrosi_Familie.xml</desc>
+  <graphic url="Zois_Bueste.jpg" height="552" width="356"/>
+  <zone type="medallionCrop" ulx="0" uly="27" lrx="356" lry="383" cx="178" cy="205" r="178" rotate="0"/>
+  <desc type="modified">2026-04-22T09:48:09.770Z</desc>
+</surface>

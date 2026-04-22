@@ -1,0 +1,6 @@
+<surface xml:id="img_3a4b24d7-d8b7-4352-afa6-a3a1925e2e96" n="bazant-karl-von">
+  <desc type="filename">Bazant_Karl_von.xml</desc>
+  <graphic url="bazant_karl.jpg" height="500" width="363"/>
+  <zone type="medallionCrop" ulx="20" uly="130" lrx="338" lry="448" cx="179" cy="289" r="159" rotate="0"/>
+  <desc type="modified">2026-04-22T09:38:17.543Z</desc>
+</surface>

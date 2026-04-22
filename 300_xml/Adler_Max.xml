@@ -1,0 +1,6 @@
+<surface xml:id="img_862644c9-6d64-4bc8-a23c-ae19a633429b" n="adler-max">
+  <desc type="filename">Adler_Max.xml</desc>
+  <graphic url="Adler_Max.jpg" height="421" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="283" lry="302" cx="142" cy="161" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T09:44:47.289Z</desc>
+</surface>

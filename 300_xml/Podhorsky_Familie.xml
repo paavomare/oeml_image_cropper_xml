@@ -1,0 +1,6 @@
+<surface xml:id="img_0ee3b43c-3ce0-459e-89a7-569f3c659a6a" n="podhorsky-familie">
+  <desc type="filename">Podhorsky_Familie.xml</desc>
+  <graphic url="Podhorsky_Katharina.jpg" height="800" width="600"/>
+  <zone type="medallionCrop" ulx="69" uly="64" lrx="564" lry="559" cx="317" cy="312" r="248" rotate="0"/>
+  <desc type="modified">2026-04-22T10:08:58.939Z</desc>
+</surface>

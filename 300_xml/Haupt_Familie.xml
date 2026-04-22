@@ -1,0 +1,6 @@
+<surface xml:id="img_166e5c3a-672c-473d-8241-b89f8b16d911" n="haupt-familie">
+  <desc type="filename">Haupt_Familie.xml</desc>
+  <graphic url="kapelle_haupt.jpg" height="500" width="734"/>
+  <zone type="medallionCrop" ulx="150" uly="21" lrx="570" lry="441" cx="360" cy="231" r="210" rotate="0"/>
+  <desc type="modified">2026-04-21T15:37:44.264Z</desc>
+</surface>

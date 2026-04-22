@@ -1,0 +1,6 @@
+<surface xml:id="img_22dfcb1e-cc38-45f3-835f-e38ba6d7cbe0" n="goerner-familie">
+  <desc type="filename">Goerner_Familie.xml</desc>
+  <graphic url="Goerner_Theodor.jpg" height="567" width="446"/>
+  <zone type="medallionCrop" ulx="0" uly="95" lrx="446" lry="541" cx="223" cy="318" r="223" rotate="0"/>
+  <desc type="modified">2026-04-22T10:42:49.293Z</desc>
+</surface>

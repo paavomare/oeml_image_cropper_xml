@@ -1,0 +1,6 @@
+<surface xml:id="img_cbf1509c-4a65-4a54-ace6-2329031f3d7e" n="pepoeck-august">
+  <desc type="filename">Pepoeck_August.xml</desc>
+  <graphic url="Pepoeck_August.jpg" height="351" width="254"/>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="254" lry="285" cx="127" cy="158" r="127" rotate="0"/>
+  <desc type="modified">2026-04-22T09:22:22.236Z</desc>
+</surface>

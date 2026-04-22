@@ -1,0 +1,6 @@
+<surface xml:id="img_4a52c4c9-4277-4c12-a1b8-e4735f236db1" n="middleton-andy">
+  <desc type="filename">Middleton_Andy.xml</desc>
+  <graphic url="Middleton_Andy_2023.jpg" height="1069" width="747"/>
+  <zone type="medallionCrop" ulx="0" uly="36" lrx="747" lry="783" cx="374" cy="410" r="374" rotate="0"/>
+  <desc type="modified">2026-04-21T14:57:09.169Z</desc>
+</surface>

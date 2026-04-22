@@ -1,0 +1,6 @@
+<surface xml:id="img_0cfbbf6f-435a-4418-a4f1-62b74d4328f8" n="hesch-wilhelm">
+  <desc type="filename">Hesch_Wilhelm.xml</desc>
+  <graphic url="Hesch_1896.jpg" height="781" width="1244"/>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="715" lry="755" cx="358" cy="397" r="358" rotate="0"/>
+  <desc type="modified">2026-04-22T10:03:33.483Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_8476d384-07f6-4a6c-9cb7-aa49e758e4af" n="lucca-pauline">
+  <desc type="filename">Lucca_Pauline.xml</desc>
+  <graphic url="Lucca_Pauline_1875.jpg" height="915" width="766"/>
+  <zone type="medallionCrop" ulx="0" uly="94" lrx="766" lry="860" cx="383" cy="477" r="383" rotate="0"/>
+  <desc type="modified">2026-04-22T10:22:27.479Z</desc>
+</surface>

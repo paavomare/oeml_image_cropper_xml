@@ -1,0 +1,6 @@
+<surface xml:id="img_b80f3686-11e8-49c9-83cf-ac8e991943b5" n="frappart-vettern">
+  <desc type="filename">Frappart_Vettern.xml</desc>
+  <graphic url="Frappart_1896.jpg" height="1035" width="692"/>
+  <zone type="medallionCrop" ulx="38" uly="85" lrx="640" lry="687" cx="339" cy="386" r="301" rotate="0"/>
+  <desc type="modified">2026-04-22T10:23:39.564Z</desc>
+</surface>

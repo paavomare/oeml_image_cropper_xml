@@ -1,0 +1,6 @@
+<surface xml:id="img_3ea955f0-9dda-4bea-b9b6-891cf53fa0a9" n="zirinn-josef">
+  <desc type="filename">Zirinn_Josef.xml</desc>
+  <graphic url="Zirinn_Josef.jpg" height="359" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="283" lry="294" cx="142" cy="153" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:01.496Z</desc>
+</surface>

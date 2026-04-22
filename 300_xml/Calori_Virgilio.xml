@@ -1,0 +1,6 @@
+<surface xml:id="img_9c68d0b8-236d-4fa5-84c9-180edabf5b4a" n="calori-virgilio">
+  <desc type="filename">Calori_Virgilio.xml</desc>
+  <graphic url="Calori_Virgilio.jpg" height="1117" width="707"/>
+  <zone type="medallionCrop" ulx="53" uly="213" lrx="646" lry="806" cx="350" cy="510" r="297" rotate="0"/>
+  <desc type="modified">2026-04-22T09:31:24.524Z</desc>
+</surface>

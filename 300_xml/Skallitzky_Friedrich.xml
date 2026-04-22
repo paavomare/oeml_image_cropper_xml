@@ -1,0 +1,6 @@
+<surface xml:id="img_9b5b15fe-5df8-4c81-b203-95fb81ceb727" n="skallitzky-friedrich">
+  <desc type="filename">Skallitzky_Friedrich.xml</desc>
+  <graphic url="Skallitzky_Friedrich.JPG" height="685" width="580"/>
+  <zone type="medallionCrop" ulx="0" uly="78" lrx="436" lry="513" cx="218" cy="296" r="218" rotate="0"/>
+  <desc type="modified">2026-04-22T09:44:31.193Z</desc>
+</surface>

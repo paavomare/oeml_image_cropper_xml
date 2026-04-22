@@ -1,0 +1,6 @@
+<surface xml:id="img_0eb04730-d0dd-4220-8fc0-52240781db82" n="stelzhammer-familie">
+  <desc type="filename">Stelzhammer_Familie.xml</desc>
+  <graphic url="Stelzhammer_Rudolf1.jpg" height="850" width="1134"/>
+  <zone type="medallionCrop" ulx="142" uly="0" lrx="992" lry="850" cx="567" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-22T10:11:21.670Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_dbe25acf-a678-47fa-9e36-a30925c878a0" n="fischer-betty">
+  <desc type="filename">Fischer_Betty.xml</desc>
+  <graphic url="Fischer_Betty_1919.jpg" height="772" width="581"/>
+  <zone type="medallionCrop" ulx="64" uly="26" lrx="553" lry="516" cx="309" cy="271" r="245" rotate="0"/>
+  <desc type="modified">2026-04-22T10:50:27.216Z</desc>
+</surface>

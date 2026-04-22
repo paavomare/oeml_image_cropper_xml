@@ -1,0 +1,6 @@
+<surface xml:id="img_bd9ea855-14fc-42b2-b36d-d656509782f9" n="richter-familie-1">
+  <desc type="filename">Richter_Familie_1.xml</desc>
+  <graphic url="Richter_Josefine.jpg" height="782" width="709"/>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="709" lry="719" cx="355" cy="365" r="355" rotate="0"/>
+  <desc type="modified">2026-04-22T09:35:53.094Z</desc>
+</surface>

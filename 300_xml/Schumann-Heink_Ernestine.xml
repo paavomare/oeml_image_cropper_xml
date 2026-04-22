@@ -1,0 +1,6 @@
+<surface xml:id="img_c4877b9e-d59e-4c16-b27a-4190534f99d3" n="schumann-heink-ernestine">
+  <desc type="filename">Schumann-Heink_Ernestine.xml</desc>
+  <graphic url="Schumann-Heink_1896.jpg" height="1564" width="1319"/>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="1319" lry="1353" cx="660" cy="694" r="660" rotate="0"/>
+  <desc type="modified">2026-04-21T14:55:31.731Z</desc>
+</surface>

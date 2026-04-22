@@ -1,0 +1,6 @@
+<surface xml:id="img_fd589554-452d-41f5-8d43-f797608a9b87" n="bludenz">
+  <desc type="filename">Bludenz.xml</desc>
+  <graphic url="Bludenz_Orgel.jpg" height="794" width="1134"/>
+  <zone type="medallionCrop" ulx="150" uly="0" lrx="944" lry="794" cx="547" cy="397" r="397" rotate="0"/>
+  <desc type="modified">2026-04-22T08:52:21.174Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_65fc2082-9d82-40c0-912c-3645626b2ba2" n="kammspielwerke">
+  <desc type="filename">Kammspielwerke.xml</desc>
+  <graphic url="Kammspielwerk_MAK.jpg" height="537" width="800"/>
+  <zone type="medallionCrop" ulx="132" uly="0" lrx="669" lry="537" cx="401" cy="269" r="269" rotate="0"/>
+  <desc type="modified">2026-04-21T15:01:03.392Z</desc>
+</surface>

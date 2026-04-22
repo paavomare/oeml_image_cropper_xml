@@ -1,0 +1,6 @@
+<surface xml:id="img_5aced3b9-7872-4968-ae32-53d5492efea0" n="ressel-franzi">
+  <desc type="filename">Ressel_Franzi.xml</desc>
+  <graphic url="Ressel_Franzi_2.jpg" height="795" width="547"/>
+  <zone type="medallionCrop" ulx="0" uly="44" lrx="547" lry="591" cx="274" cy="318" r="274" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:13.163Z</desc>
+</surface>

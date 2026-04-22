@@ -1,0 +1,6 @@
+<surface xml:id="img_f46a5f39-acef-437a-80eb-ca07ef9a5ae4" n="graf-josef">
+  <desc type="filename">Graf_Josef.xml</desc>
+  <graphic url="Graf_Josef.jpg" height="402" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="283" lry="300" cx="142" cy="159" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T09:30:25.337Z</desc>
+</surface>

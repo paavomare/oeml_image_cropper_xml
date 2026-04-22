@@ -1,0 +1,6 @@
+<surface xml:id="img_d83da6b7-7d05-4751-a4e1-2e2993b1a08c" n="allmeder-franz">
+  <desc type="filename">Allmeder_Franz.xml</desc>
+  <graphic url="allmeder_franz.jpg" height="500" width="312"/>
+  <zone type="medallionCrop" ulx="24" uly="33" lrx="286" lry="295" cx="155" cy="164" r="131" rotate="0"/>
+  <desc type="modified">2026-04-22T09:23:21.711Z</desc>
+</surface>

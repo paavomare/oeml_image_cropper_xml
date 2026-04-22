@@ -1,0 +1,6 @@
+<surface xml:id="img_967037b4-eed4-471e-8c4d-0e436bf103cf" n="schmidt-joseph">
+  <desc type="filename">Schmidt_Joseph.xml</desc>
+  <graphic url="Schmidt_Joseph.jpg" height="619" width="472"/>
+  <zone type="medallionCrop" ulx="0" uly="111" lrx="472" lry="583" cx="236" cy="347" r="236" rotate="0"/>
+  <desc type="modified">2026-04-21T15:31:53.870Z</desc>
+</surface>

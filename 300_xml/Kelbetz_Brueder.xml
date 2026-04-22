@@ -1,0 +1,6 @@
+<surface xml:id="img_4056f76f-5a75-4eb5-ab21-fd7790b95b5d" n="kelbetz-brueder">
+  <desc type="filename">Kelbetz_Brueder.xml</desc>
+  <graphic url="Kelbetz.jpg" height="613" width="452"/>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="452" lry="475" cx="226" cy="249" r="226" rotate="0"/>
+  <desc type="modified">2026-04-21T15:01:28.689Z</desc>
+</surface>

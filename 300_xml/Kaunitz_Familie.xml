@@ -1,0 +1,6 @@
+<surface xml:id="img_a2d207cb-6e1b-4de3-9c82-bdd4111d2e74" n="kaunitz-familie">
+  <desc type="filename">Kaunitz_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9824839T9824844.jpg" height="800" width="578"/>
+  <zone type="medallionCrop" ulx="87" uly="151" lrx="540" lry="604" cx="314" cy="378" r="227" rotate="0"/>
+  <desc type="modified">2026-04-22T10:15:58.690Z</desc>
+</surface>

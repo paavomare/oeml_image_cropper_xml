@@ -1,0 +1,6 @@
+<surface xml:id="img_acb48093-2697-4e80-915a-80541b61b793" n="krotschak-richard">
+  <desc type="filename">Krotschak_Richard.xml</desc>
+  <graphic url="Krotschak_Richard.jpeg" height="275" width="358"/>
+  <zone type="medallionCrop" ulx="42" uly="0" lrx="317" lry="275" cx="180" cy="138" r="138" rotate="0"/>
+  <desc type="modified">2026-04-21T15:22:40.781Z</desc>
+</surface>

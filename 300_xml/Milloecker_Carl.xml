@@ -1,0 +1,6 @@
+<surface xml:id="img_4cb68584-dc9a-41d6-9bf9-104dfe6990c0" n="milloecker-carl">
+  <desc type="filename">Milloecker_Carl.xml</desc>
+  <graphic url="bildarchivaustria/BA_1106_B20046869T20046874.jpg" height="800" width="533"/>
+  <zone type="medallionCrop" ulx="97" uly="113" lrx="501" lry="517" cx="299" cy="315" r="202" rotate="0"/>
+  <desc type="modified">2026-04-22T10:21:45.837Z</desc>
+</surface>

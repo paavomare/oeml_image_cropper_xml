@@ -1,0 +1,6 @@
+<surface xml:id="img_e9ae2407-fb26-4b06-878c-303aa91c224e" n="horak-franz">
+  <desc type="filename">Horak_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10002716T10002721.jpg" height="600" width="800"/>
+  <zone type="medallionCrop" ulx="60" uly="187" lrx="346" lry="472" cx="203" cy="330" r="143" rotate="0"/>
+  <desc type="modified">2026-04-22T10:53:24.365Z</desc>
+</surface>

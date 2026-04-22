@@ -1,0 +1,6 @@
+<surface xml:id="img_e26fbc2b-ebfe-4ca6-a38c-553ac1118931" n="oesterle-rudolf">
+  <desc type="filename">Oesterle_Rudolf.xml</desc>
+  <graphic url="Oesterle1.jpg" height="529" width="373"/>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="373" lry="373" cx="187" cy="187" r="187" rotate="0"/>
+  <desc type="modified">2026-04-21T15:31:08.224Z</desc>
+</surface>

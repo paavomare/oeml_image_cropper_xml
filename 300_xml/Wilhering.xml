@@ -1,0 +1,6 @@
+<surface xml:id="img_73e83b6b-5c85-451e-94b6-598af446febb" n="wilhering">
+  <desc type="filename">Wilhering.xml</desc>
+  <graphic url="Wilhering.jpg" height="768" width="632"/>
+  <zone type="medallionCrop" ulx="0" uly="136" lrx="632" lry="768" cx="316" cy="452" r="316" rotate="0"/>
+  <desc type="modified">2026-04-22T10:27:33.423Z</desc>
+</surface>

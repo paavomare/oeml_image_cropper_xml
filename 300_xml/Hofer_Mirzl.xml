@@ -1,0 +1,6 @@
+<surface xml:id="img_7194b4b0-8d0b-4554-8778-356780f8feba" n="hofer-mirzl">
+  <desc type="filename">Hofer_Mirzl.xml</desc>
+  <graphic url="Hofer_Mirzl_2.jpg" height="851" width="1134"/>
+  <zone type="medallionCrop" ulx="210" uly="42" lrx="899" lry="732" cx="555" cy="387" r="345" rotate="0"/>
+  <desc type="modified">2026-04-22T10:08:14.523Z</desc>
+</surface>

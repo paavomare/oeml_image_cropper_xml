@@ -1,0 +1,6 @@
+<surface xml:id="img_6c804ded-ab2e-436d-9b2f-67e348a00d2d" n="schellenbaum">
+  <desc type="filename">Schellenbaum.xml</desc>
+  <graphic url="Schellenbaum_Leipzig.jpg" height="800" width="485"/>
+  <zone type="medallionCrop" ulx="0" uly="12" lrx="485" lry="497" cx="243" cy="255" r="243" rotate="0"/>
+  <desc type="modified">2026-04-22T10:02:46.216Z</desc>
+</surface>

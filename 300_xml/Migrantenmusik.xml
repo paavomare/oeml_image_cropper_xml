@@ -1,0 +1,6 @@
+<surface xml:id="img_a3a621b0-4879-489a-a410-65cf43695df2" n="migrantenmusik">
+  <desc type="filename">Migrantenmusik.xml</desc>
+  <graphic url="Migrantenmusik3.jpg" height="418" width="281"/>
+  <zone type="medallionCrop" ulx="0" uly="49" lrx="281" lry="330" cx="141" cy="190" r="141" rotate="0"/>
+  <desc type="modified">2026-04-21T15:27:12.704Z</desc>
+</surface>

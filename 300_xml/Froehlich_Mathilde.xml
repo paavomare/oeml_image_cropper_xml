@@ -1,0 +1,6 @@
+<surface xml:id="img_04794994-6b44-410a-b403-50ec0cab9695" n="froehlich-mathilde">
+  <desc type="filename">Froehlich_Mathilde.xml</desc>
+  <graphic url="Froehlich_Mathilde.jpg" height="622" width="433"/>
+  <zone type="medallionCrop" ulx="21" uly="34" lrx="422" lry="435" cx="222" cy="235" r="201" rotate="0"/>
+  <desc type="modified">2026-04-22T10:54:58.253Z</desc>
+</surface>

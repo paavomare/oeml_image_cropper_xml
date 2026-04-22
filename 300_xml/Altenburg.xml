@@ -1,0 +1,6 @@
+<surface xml:id="img_b7e54050-647b-42ed-ae18-d651c5832169" n="altenburg">
+  <desc type="filename">Altenburg.xml</desc>
+  <graphic url="Altenburg_Orgel.jpg" height="695" width="1134"/>
+  <zone type="medallionCrop" ulx="209" uly="0" lrx="904" lry="695" cx="557" cy="348" r="348" rotate="0"/>
+  <desc type="modified">2026-04-22T09:28:31.901Z</desc>
+</surface>

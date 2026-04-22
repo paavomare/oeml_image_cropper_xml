@@ -1,0 +1,6 @@
+<surface xml:id="img_f6b0a7b3-b8d5-4bd5-b1dd-8d4c9e29c992" n="raunig-arno">
+  <desc type="filename">Raunig_Arno.xml</desc>
+  <graphic url="Raunig_Arno.jpg" height="992" width="826"/>
+  <zone type="medallionCrop" ulx="30" uly="45" lrx="654" lry="669" cx="342" cy="357" r="312" rotate="0"/>
+  <desc type="modified">2026-04-22T10:08:45.080Z</desc>
+</surface>

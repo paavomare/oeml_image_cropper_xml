@@ -1,0 +1,6 @@
+<surface xml:id="img_db8a1cb2-2901-4ca4-8185-b7115b309736" n="franz-ii">
+  <desc type="filename">Franz_II.xml</desc>
+  <graphic url="bildarchivaustria/447_B4886321T4886325.jpg" height="800" width="549"/>
+  <zone type="medallionCrop" ulx="0" uly="78" lrx="549" lry="627" cx="275" cy="353" r="275" rotate="0"/>
+  <desc type="modified">2026-04-22T08:52:44.591Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_75197f24-bc53-47cd-8689-552b7f405106" n="kobald-karl">
+  <desc type="filename">Kobald_Karl.xml</desc>
+  <graphic url="Kobald_Karl_1927.jpg" height="763" width="533"/>
+  <zone type="medallionCrop" ulx="23" uly="58" lrx="494" lry="529" cx="259" cy="294" r="236" rotate="0"/>
+  <desc type="modified">2026-04-22T10:52:23.070Z</desc>
+</surface>

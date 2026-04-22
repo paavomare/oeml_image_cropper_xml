@@ -1,0 +1,6 @@
+<surface xml:id="img_ad5d6c86-9e7d-4855-822d-c49dbdd49e94" n="blech-leo">
+  <desc type="filename">Blech_Leo.xml</desc>
+  <graphic url="Blech_Leo.jpg" height="810" width="555"/>
+  <zone type="medallionCrop" ulx="0" uly="36" lrx="555" lry="591" cx="278" cy="314" r="278" rotate="0"/>
+  <desc type="modified">2026-04-21T15:25:12.448Z</desc>
+</surface>

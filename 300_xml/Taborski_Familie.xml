@@ -1,0 +1,6 @@
+<surface xml:id="img_bac7d5bc-d869-4ab1-b1a9-e1a2e11a631c" n="taborski-familie">
+  <desc type="filename">Taborski_Familie.xml</desc>
+  <graphic url="Taborsky_Franz_2.jpg" height="426" width="340"/>
+  <zone type="medallionCrop" ulx="0" uly="12" lrx="340" lry="352" cx="170" cy="182" r="170" rotate="0"/>
+  <desc type="modified">2026-04-21T15:22:44.590Z</desc>
+</surface>

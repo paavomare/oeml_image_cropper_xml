@@ -1,0 +1,6 @@
+<surface xml:id="img_bfbd2c7d-01c8-494c-91fa-919b8bee26b3" n="ritter-karl">
+  <desc type="filename">Ritter_Karl.xml</desc>
+  <graphic url="Ritter_Karl_151223.jpg" height="650" width="621"/>
+  <zone type="medallionCrop" ulx="0" uly="4" lrx="621" lry="625" cx="311" cy="315" r="311" rotate="0"/>
+  <desc type="modified">2026-04-22T10:16:11.262Z</desc>
+</surface>

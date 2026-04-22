@@ -1,0 +1,6 @@
+<surface xml:id="img_d4fd45fc-87a7-4250-b9f6-2c2ec0f397de" n="doderer-johanna">
+  <desc type="filename">Doderer_Johanna.xml</desc>
+  <graphic url="Doderer_Johanna.jpg" height="756" width="822"/>
+  <zone type="medallionCrop" ulx="33" uly="0" lrx="789" lry="756" cx="411" cy="378" r="378" rotate="0"/>
+  <desc type="modified">2026-04-22T09:30:01.724Z</desc>
+</surface>

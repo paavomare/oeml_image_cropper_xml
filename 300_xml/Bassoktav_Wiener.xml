@@ -1,0 +1,6 @@
+<surface xml:id="img_27fb20e8-47b9-402b-9a72-7cf309565eb0" n="bassoktav-wiener">
+  <desc type="filename">Bassoktav_Wiener.xml</desc>
+  <graphic url="Bassoktav2.jpg" height="156" width="199"/>
+  <zone type="medallionCrop" ulx="43" uly="0" lrx="199" lry="156" cx="121" cy="78" r="78" rotate="0"/>
+  <desc type="modified">2026-04-21T15:24:51.504Z</desc>
+</surface>

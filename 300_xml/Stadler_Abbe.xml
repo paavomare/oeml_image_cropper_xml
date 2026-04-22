@@ -1,0 +1,6 @@
+<surface xml:id="img_077ebd5a-e5e2-42ac-ae63-f856d226b0d4" n="stadler-abbe">
+  <desc type="filename">Stadler_Abbe.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9262548T9262553.jpg" height="800" width="549"/>
+  <zone type="medallionCrop" ulx="90" uly="114" lrx="461" lry="486" cx="276" cy="300" r="186" rotate="0"/>
+  <desc type="modified">2026-04-22T10:09:04.913Z</desc>
+</surface>

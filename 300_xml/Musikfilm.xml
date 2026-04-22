@@ -1,0 +1,6 @@
+<surface xml:id="img_e47c2f29-d683-4fb2-b623-83e008c0e0b0" n="musikfilm">
+  <desc type="filename">Musikfilm.xml</desc>
+  <graphic url="Leise-flehen_wrb1933e.jpg" height="1401" width="1824"/>
+  <zone type="medallionCrop" ulx="220" uly="0" lrx="1621" lry="1401" cx="921" cy="701" r="701" rotate="0"/>
+  <desc type="modified">2026-04-22T10:31:11.758Z</desc>
+</surface>

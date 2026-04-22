@@ -1,0 +1,6 @@
+<surface xml:id="img_a50ce395-7aac-4833-93e4-3cbd9b824547" n="muehlbacher-christian">
+  <desc type="filename">Muehlbacher_Christian.xml</desc>
+  <graphic url="Muehlbacher_Christian_2025.jpg" height="821" width="780"/>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="780" lry="786" cx="390" cy="396" r="390" rotate="0"/>
+  <desc type="modified">2026-04-21T15:32:00.800Z</desc>
+</surface>

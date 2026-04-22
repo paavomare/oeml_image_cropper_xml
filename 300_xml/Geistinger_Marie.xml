@@ -1,0 +1,6 @@
+<surface xml:id="img_ac62586d-386b-450e-b101-5394054aaf6b" n="geistinger-marie">
+  <desc type="filename">Geistinger_Marie.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B13002030T13002035.jpg" height="800" width="523"/>
+  <zone type="medallionCrop" ulx="0" uly="169" lrx="523" lry="692" cx="262" cy="431" r="262" rotate="0"/>
+  <desc type="modified">2026-04-21T15:28:32.846Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_e6ef4eb4-0c18-4349-b973-56d37c8ac29a" n="abado-marwan">
+  <desc type="filename">Abado_Marwan.xml</desc>
+  <graphic url="Abado_Marwan_2024.jpg" height="630" width="819"/>
+  <zone type="medallionCrop" ulx="69" uly="0" lrx="699" lry="630" cx="384" cy="315" r="315" rotate="0"/>
+  <desc type="modified">2026-04-22T09:31:01.157Z</desc>
+</surface>

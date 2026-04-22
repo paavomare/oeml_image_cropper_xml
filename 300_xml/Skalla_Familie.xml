@@ -1,0 +1,6 @@
+<surface xml:id="img_8dbe765d-35d6-4fa3-a85c-ae52fdc53702" n="skalla-familie">
+  <desc type="filename">Skalla_Familie.xml</desc>
+  <graphic url="Skalla_Franz_jun.jpg" height="597" width="430"/>
+  <zone type="medallionCrop" ulx="16" uly="85" lrx="398" lry="467" cx="207" cy="276" r="191" rotate="0"/>
+  <desc type="modified">2026-04-21T15:29:08.508Z</desc>
+</surface>

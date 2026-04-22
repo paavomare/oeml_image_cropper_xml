@@ -1,0 +1,6 @@
+<surface xml:id="img_698de8e0-e1d2-431c-a205-1809f690be43" n="zeisner-hans">
+  <desc type="filename">Zeisner_Hans.xml</desc>
+  <graphic url="Zeisner_Hans.jpg" height="539" width="388"/>
+  <zone type="medallionCrop" ulx="0" uly="92" lrx="388" lry="480" cx="194" cy="286" r="194" rotate="0"/>
+  <desc type="modified">2026-04-22T10:55:37.580Z</desc>
+</surface>

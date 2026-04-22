@@ -1,0 +1,6 @@
+<surface xml:id="img_37943591-a8c2-4fc3-8f08-53a2774283b9" n="pacher-anton">
+  <desc type="filename">Pacher_Anton.xml</desc>
+  <graphic url="Pacher.jpg" height="603" width="438"/>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="438" lry="461" cx="219" cy="242" r="219" rotate="0"/>
+  <desc type="modified">2026-04-22T10:02:56.414Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_fbe5a8d2-df8c-4ebb-aecc-af8404859493" n="humoreskimos">
+  <desc type="filename">Humoreskimos.xml</desc>
+  <graphic url="Humoreskimos_1932.jpg" height="346" width="285"/>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="285" lry="316" cx="143" cy="174" r="143" rotate="0"/>
+  <desc type="modified">2026-04-22T10:01:37.752Z</desc>
+</surface>

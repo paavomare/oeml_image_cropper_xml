@@ -1,0 +1,6 @@
+<surface xml:id="img_09ac15be-53e6-4112-b170-02503165a1f6" n="bauernfeld-eduard">
+  <desc type="filename">Bauernfeld_Eduard.xml</desc>
+  <graphic url="Bauernfeld_Eduard.jpg" height="419" width="343"/>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="343" lry="354" cx="172" cy="183" r="172" rotate="0"/>
+  <desc type="modified">2026-04-22T09:46:29.925Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_98868cb7-e211-443b-9661-82529e361996" n="stoiber-familie">
+  <desc type="filename">Stoiber_Familie.xml</desc>
+  <graphic url="Stoiber_Ernst_2.jpg" height="939" width="992"/>
+  <zone type="medallionCrop" ulx="77" uly="0" lrx="927" lry="850" cx="502" cy="425" r="425" rotate="0"/>
+  <desc type="modified">2026-04-21T15:33:03.311Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_9302cefc-677d-429f-820c-1ceef1bc5831" n="st-georgen-ob-judenburg">
+  <desc type="filename">St_Georgen_ob_Judenburg.xml</desc>
+  <graphic url="Musikverein_Scheiben-St_Georgen.jpg" height="635" width="960"/>
+  <zone type="medallionCrop" ulx="209" uly="0" lrx="844" lry="635" cx="527" cy="318" r="318" rotate="0"/>
+  <desc type="modified">2026-04-22T10:48:53.390Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_934947d4-942f-44ce-ab63-f1063bf5bcc9" n="benedini-erich">
+  <desc type="filename">Benedini_Erich.xml</desc>
+  <graphic url="Benedini_Erich.jpg" height="447" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="86" lrx="283" lry="369" cx="142" cy="228" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T09:43:00.374Z</desc>
+</surface>

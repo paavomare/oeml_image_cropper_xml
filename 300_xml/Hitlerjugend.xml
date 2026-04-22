@@ -1,0 +1,6 @@
+<surface xml:id="img_9ce207b7-a454-4c6d-87ce-dcb26376d56d" n="hitlerjugend">
+  <desc type="filename">Hitlerjugend.xml</desc>
+  <graphic url="Pfadfinder_wrb1933.jpg" height="3299" width="2847"/>
+  <zone type="medallionCrop" ulx="0" uly="452" lrx="2847" lry="3299" cx="1424" cy="1876" r="1424" rotate="0"/>
+  <desc type="modified">2026-04-22T10:43:41.551Z</desc>
+</surface>

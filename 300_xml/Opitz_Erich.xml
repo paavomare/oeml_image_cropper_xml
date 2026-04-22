@@ -1,0 +1,6 @@
+<surface xml:id="img_04907b20-5967-4510-bc10-25d46c22ec8b" n="opitz-erich">
+  <desc type="filename">Opitz_Erich.xml</desc>
+  <graphic url="Opitz.jpg" height="622" width="417"/>
+  <zone type="medallionCrop" ulx="0" uly="144" lrx="417" lry="561" cx="209" cy="353" r="209" rotate="0"/>
+  <desc type="modified">2026-04-22T10:41:06.826Z</desc>
+</surface>

@@ -1,0 +1,6 @@
+<surface xml:id="img_26d5a897-3c8a-4bea-bc7c-6550bbe83e70" n="ruzitska-anton">
+  <desc type="filename">Ruzitska_Anton.xml</desc>
+  <graphic url="Ruzitska_Anton.jpg" height="409" width="283"/>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="283" lry="301" cx="142" cy="160" r="142" rotate="0"/>
+  <desc type="modified">2026-04-22T10:31:34.395Z</desc>
+</surface>

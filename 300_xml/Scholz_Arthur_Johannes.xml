@@ -1,0 +1,6 @@
+<surface xml:id="img_a4dc9463-faba-4c5e-9ae8-907018107c2f" n="scholz-arthur-johannes">
+  <desc type="filename">Scholz_Arthur_Johannes.xml</desc>
+  <graphic url="Scholz_Arthur_1.jpg" height="373" width="300"/>
+  <zone type="medallionCrop" ulx="0" uly="57" lrx="300" lry="357" cx="150" cy="207" r="150" rotate="0"/>
+  <desc type="modified">2026-04-22T10:28:03.309Z</desc>
+</surface>

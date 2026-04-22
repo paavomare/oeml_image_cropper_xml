@@ -1,0 +1,6 @@
+<surface xml:id="img_ae048e51-4521-472b-8a36-d8a699d08165" n="st-florian">
+  <desc type="filename">St_Florian.xml</desc>
+  <graphic url="St_Florian_Stiftsbibliothek.jpg" height="583" width="800"/>
+  <zone type="medallionCrop" ulx="152" uly="0" lrx="649" lry="496" cx="401" cy="249" r="249" rotate="0"/>
+  <desc type="modified">2026-04-22T10:38:15.357Z</desc>
+</surface>

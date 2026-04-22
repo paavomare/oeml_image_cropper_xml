@@ -1,0 +1,6 @@
+<surface xml:id="img_7f200b4d-689f-4931-a41e-628f75cdeb91" n="eckert-karl">
+  <desc type="filename">Eckert_Karl.xml</desc>
+  <graphic url="Eckert_Karl.jpg" height="348" width="267"/>
+  <zone type="medallionCrop" ulx="16" uly="43" lrx="247" lry="274" cx="132" cy="159" r="116" rotate="0"/>
+  <desc type="modified">2026-04-22T09:12:35.197Z</desc>
+</surface>

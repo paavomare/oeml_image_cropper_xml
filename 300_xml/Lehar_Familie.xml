@@ -1,0 +1,6 @@
+<surface xml:id="img_aff78831-9db9-46c7-9562-b37fcc93c15d" n="lehar-familie">
+  <desc type="filename">Lehar_Familie.xml</desc>
+  <graphic url="lehar_franz.jpg" height="500" width="371"/>
+  <zone type="medallionCrop" ulx="25" uly="67" lrx="346" lry="388" cx="186" cy="228" r="161" rotate="0"/>
+  <desc type="modified">2026-04-22T10:26:58.000Z</desc>
+</surface>
