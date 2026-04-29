@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_83aa02a6-35b5-4aa1-8914-0438cecc6387" n="wacek-familie">
+  <desc type="filename">Wacek_Familie.xml</desc>
+  <graphic url="Wacek-Wilhelm_1896.jpg" width="330" height="457">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="44" lrx="330" lry="374" cx="165" cy="209" r="165" rotate="0"/>
+  <desc type="modified">2026-04-29T18:09:05.118Z</desc>
+</surface>

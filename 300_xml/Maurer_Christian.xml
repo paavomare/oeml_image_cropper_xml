@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f19199b5-4879-49ee-bd4e-d1a797310547" n="maurer-christian">
+  <desc type="filename">Maurer_Christian.xml</desc>
+  <graphic url="Maurer_Christian_2017.jpg" width="584" height="875">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="584" lry="584" cx="292" cy="292" r="292" rotate="0"/>
+  <desc type="modified">2026-04-29T19:40:44.964Z</desc>
+</surface>

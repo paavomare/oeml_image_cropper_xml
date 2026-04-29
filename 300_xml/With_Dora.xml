@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_007fa7a1-4ee6-4652-b8c6-8bc295d2c6f6" n="with-dora">
+  <desc type="filename">With_Dora.xml</desc>
+  <graphic url="With_Dora.jpg" width="934" height="1276">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="86" lrx="934" lry="1020" cx="467" cy="553" r="467" rotate="0"/>
+  <desc type="modified">2026-04-29T19:00:25.482Z</desc>
+</surface>

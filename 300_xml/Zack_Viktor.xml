@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e525ea1c-fa36-4c13-b6a1-b6e002c05fa5" n="zack-viktor">
+  <desc type="filename">Zack_Viktor.xml</desc>
+  <graphic url="Zack_Viktor_2.jpg" width="647" height="841">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="44" lrx="647" lry="691" cx="324" cy="368" r="324" rotate="0"/>
+  <desc type="modified">2026-04-29T18:47:09.075Z</desc>
+</surface>

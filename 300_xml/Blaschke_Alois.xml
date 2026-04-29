@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ee435af7-75cb-4fe0-a1eb-8d92df9f20f7" n="blaschke-alois">
+  <desc type="filename">Blaschke_Alois.xml</desc>
+  <graphic url="Blaschke_Alois.jpg" width="283" height="349">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="283" lry="303" cx="142" cy="162" r="142" rotate="0"/>
+  <desc type="modified">2026-04-29T19:06:14.539Z</desc>
+</surface>

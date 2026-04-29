@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6581dc12-8db6-41c9-9eb0-5c02c24df6be" n="strampfer-friedrich">
+  <desc type="filename">Strampfer_Friedrich.xml</desc>
+  <graphic url="Strampfer_Friedrich.jpg" width="343" height="408">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="343" lry="352" cx="172" cy="181" r="172" rotate="0"/>
+  <desc type="modified">2026-04-29T19:36:45.630Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_da9faa68-b56e-4008-8f69-426f2a0cbced" n="odnoposoff-ricardo">
+  <desc type="filename">Odnoposoff_Ricardo.xml</desc>
+  <graphic url="Odnoposoff_Ricardo.jpg" width="422" height="428">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="422" lry="423" cx="211" cy="212" r="211" rotate="0"/>
+  <desc type="modified">2026-04-29T19:41:57.285Z</desc>
+</surface>

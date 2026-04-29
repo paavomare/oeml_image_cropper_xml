@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8f1e67bf-1a8b-4793-a5b5-225914bc8661" n="tafelklavier">
+  <desc type="filename">Tafelklavier.xml</desc>
+  <graphic url="Tafelklavier.jpg" width="728" height="532">
+  </graphic>
+  <zone type="medallionCrop" ulx="49" uly="0" lrx="581" lry="532" cx="315" cy="266" r="266" rotate="0"/>
+  <desc type="modified">2026-04-29T20:05:14.544Z</desc>
+</surface>

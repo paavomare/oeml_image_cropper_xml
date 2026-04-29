@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6243c24f-4e1a-41ce-8075-f40315833d49" n="kraus-karl">
+  <desc type="filename">Kraus_Karl.xml</desc>
+  <graphic url="bildarchivaustria/62_B1556057T1556061.jpg" width="573" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="226" lrx="573" lry="735" cx="319" cy="481" r="255" rotate="0"/>
+  <desc type="modified">2026-04-29T20:10:40.090Z</desc>
+</surface>

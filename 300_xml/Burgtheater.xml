@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8a57ea76-e1a8-4a5d-acbb-c46ca9037627" n="burgtheater">
+  <desc type="filename">Burgtheater.xml</desc>
+  <graphic url="bildarchivaustria/53_B658216T1518245.jpg" width="800" height="614">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="0" lrx="718" lry="614" cx="411" cy="307" r="307" rotate="0"/>
+  <desc type="modified">2026-04-29T19:10:46.141Z</desc>
+</surface>

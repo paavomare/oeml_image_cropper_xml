@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90a0b39e-5fb5-40ae-9098-c000bd782066" n="klein-martin">
+  <desc type="filename">Klein_Martin.xml</desc>
+  <graphic url="Klein-Martin_1896.jpg" width="720" height="1452">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="53" lrx="720" lry="773" cx="360" cy="413" r="360" rotate="0"/>
+  <desc type="modified">2026-04-29T18:19:19.034Z</desc>
+</surface>

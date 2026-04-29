@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1a6a7f92-9d9a-4752-b997-79f795c59381" n="lehner-fritz">
+  <desc type="filename">Lehner_Fritz.xml</desc>
+  <graphic url="Lehner.jpg" width="437" height="623">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="86" lrx="437" lry="523" cx="219" cy="305" r="219" rotate="0"/>
+  <desc type="modified">2026-04-29T17:45:26.693Z</desc>
+</surface>

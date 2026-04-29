@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a790084c-7ca8-443f-acf4-efa59753b13b" n="lannoy-eduard">
+  <desc type="filename">Lannoy_Eduard.xml</desc>
+  <graphic url="Lannoy_Eduard.jpg" width="740" height="812">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="36" lrx="672" lry="643" cx="369" cy="340" r="304" rotate="0"/>
+  <desc type="modified">2026-04-29T18:48:06.399Z</desc>
+</surface>

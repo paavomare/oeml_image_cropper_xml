@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_88808027-540d-45d1-b067-35cbff6a6a49" n="weingarten-paul">
+  <desc type="filename">Weingarten_Paul.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10453075T10453080.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="20" lrx="507" lry="484" cx="275" cy="252" r="232" rotate="0"/>
+  <desc type="modified">2026-04-29T17:44:05.762Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_38ab436e-c1f1-485c-a15b-02ae0dc0a51d" n="schalk-brueder">
+  <desc type="filename">Schalk_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_934_B10030081T12884266.jpg" width="800" height="533">
+  </graphic>
+  <zone type="medallionCrop" ulx="316" uly="14" lrx="769" lry="467" cx="543" cy="241" r="227" rotate="0"/>
+  <desc type="modified">2026-04-29T18:33:47.551Z</desc>
+</surface>

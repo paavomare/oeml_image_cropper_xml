@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c3fce170-f3e8-43ec-843f-d214747fd222" n="soeser-ferdinand">
+  <desc type="filename">Soeser_Ferdinand.xml</desc>
+  <graphic url="Soeser_Ferdinand.jpg" width="285" height="341">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="43" lrx="260" lry="278" cx="143" cy="161" r="118" rotate="0"/>
+  <desc type="modified">2026-04-29T18:16:30.727Z</desc>
+</surface>

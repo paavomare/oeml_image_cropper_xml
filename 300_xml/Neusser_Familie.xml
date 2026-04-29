@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5ea1ad7e-c6d6-4ff2-8651-508846eff07e" n="neusser-familie">
+  <desc type="filename">Neusser_Familie.xml</desc>
+  <graphic url="Neusser_Gabriele_2.jpg" width="476" height="718">
+  </graphic>
+  <zone type="medallionCrop" ulx="53" uly="39" lrx="423" lry="410" cx="238" cy="224" r="185" rotate="0"/>
+  <desc type="modified">2026-04-29T19:19:45.962Z</desc>
+</surface>

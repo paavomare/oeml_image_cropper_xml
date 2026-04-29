@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_00253ccc-6c88-4af9-bf25-974ce8fc5ddb" n="draxler-josef">
+  <desc type="filename">Draxler_Josef.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10506173T10506178.jpg" width="463" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="48" uly="36" lrx="427" lry="415" cx="238" cy="226" r="190" rotate="0"/>
+  <desc type="modified">2026-04-29T18:11:06.285Z</desc>
+</surface>

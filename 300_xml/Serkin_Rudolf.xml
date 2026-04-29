@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3d61988c-aae2-4d39-992c-6c046b7d32f0" n="serkin-rudolf">
+  <desc type="filename">Serkin_Rudolf.xml</desc>
+  <graphic url="bildarchivaustria/746_B8080031T8080035.jpg" width="550" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="178" lrx="510" lry="661" cx="269" cy="420" r="242" rotate="0"/>
+  <desc type="modified">2026-04-29T19:03:53.638Z</desc>
+</surface>

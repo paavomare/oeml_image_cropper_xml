@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2e10f01a-bb44-4356-b801-3ffdeea64eb3" n="strohmayer-familie">
+  <desc type="filename">Strohmayer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/740_B8041738T8041741.jpg" width="552" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="40" lrx="536" lry="516" cx="298" cy="279" r="239" rotate="0"/>
+  <desc type="modified">2026-04-29T18:34:20.290Z</desc>
+</surface>

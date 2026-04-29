@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7e555890-bc40-459a-ac2e-aa7129bd955c" n="halban-familie">
+  <desc type="filename">Halban_Familie.xml</desc>
+  <graphic url="bildarchivaustria/342_B306378T4446895.jpg" width="598" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="79" uly="29" lrx="582" lry="532" cx="331" cy="281" r="252" rotate="0"/>
+  <desc type="modified">2026-04-29T18:14:49.275Z</desc>
+</surface>

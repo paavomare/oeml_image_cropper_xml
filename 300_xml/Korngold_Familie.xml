@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6b52b133-b8df-4d63-8f3c-b320f963299f" n="korngold-familie">
+  <desc type="filename">Korngold_Familie.xml</desc>
+  <graphic url="bildarchivaustria/410_B308009T4679538.jpg" width="634" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="9" uly="54" lrx="454" lry="500" cx="232" cy="277" r="223" rotate="0"/>
+  <desc type="modified">2026-04-29T18:47:44.842Z</desc>
+</surface>

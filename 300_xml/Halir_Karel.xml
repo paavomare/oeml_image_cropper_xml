@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7d5670c4-e1c7-4d7a-8001-ad5183a83007" n="halir-karel">
+  <desc type="filename">Halir_Karel.xml</desc>
+  <graphic url="bildarchivaustria/474_B5103541T5103545.jpg" width="576" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="76" uly="12" lrx="556" lry="491" cx="316" cy="252" r="240" rotate="0"/>
+  <desc type="modified">2026-04-29T18:07:58.511Z</desc>
+</surface>

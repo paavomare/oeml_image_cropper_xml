@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fe7b959-abfe-4efd-b377-4479c81e1b6b" n="weissgaerber-familie">
+  <desc type="filename">Weissgaerber_Familie.xml</desc>
+  <graphic url="Weissgaerber-Quartett.jpg" width="709" height="616">
+  </graphic>
+  <zone type="medallionCrop" ulx="76" uly="10" lrx="595" lry="528" cx="336" cy="270" r="260" rotate="0"/>
+  <desc type="modified">2026-04-29T19:08:20.901Z</desc>
+</surface>

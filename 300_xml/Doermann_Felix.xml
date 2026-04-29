@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0cc6f7cf-f62a-4cf2-9432-93e980de2124" n="doermann-felix">
+  <desc type="filename">Doermann_Felix.xml</desc>
+  <graphic url="bildarchivaustria/BA_967_B14645641T14645646.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="116" lrx="483" lry="564" cx="259" cy="340" r="224" rotate="0"/>
+  <desc type="modified">2026-04-29T18:02:58.515Z</desc>
+</surface>

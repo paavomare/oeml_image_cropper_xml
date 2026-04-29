@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5133e47a-90ef-42ff-b147-5402f8d9612e" n="weigl-familie">
+  <desc type="filename">Weigl_Familie.xml</desc>
+  <graphic url="Weigl_Joseph_Radio-Wien.jpg" width="699" height="902">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="28" lrx="699" lry="727" cx="350" cy="378" r="350" rotate="0"/>
+  <desc type="modified">2026-04-29T18:46:23.240Z</desc>
+</surface>

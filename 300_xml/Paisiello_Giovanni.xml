@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5a0df199-2f8b-4a58-b457-033a8dfb869c" n="paisiello-giovanni">
+  <desc type="filename">Paisiello_Giovanni.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9236216T9236221.jpg" width="596" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="53" uly="116" lrx="543" lry="606" cx="298" cy="361" r="245" rotate="0"/>
+  <desc type="modified">2026-04-29T19:03:24.015Z</desc>
+</surface>

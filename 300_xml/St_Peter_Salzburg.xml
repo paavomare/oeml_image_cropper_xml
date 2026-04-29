@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e9642e83-dc85-40dc-b037-3089affa7e24" n="st-peter-salzburg">
+  <desc type="filename">St_Peter_Salzburg.xml</desc>
+  <graphic url="St_Peter_Turm.jpg" width="709" height="945">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="70" lrx="709" lry="779" cx="355" cy="425" r="355" rotate="0"/>
+  <desc type="modified">2026-04-29T18:11:42.601Z</desc>
+</surface>

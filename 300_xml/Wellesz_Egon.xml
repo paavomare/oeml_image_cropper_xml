@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8d95292b-9fa5-4fad-a171-829831d049c7" n="wellesz-egon">
+  <desc type="filename">Wellesz_Egon.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450332T10450337.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="56" lrx="506" lry="535" cx="267" cy="296" r="240" rotate="0"/>
+  <desc type="modified">2026-04-29T19:43:06.607Z</desc>
+</surface>

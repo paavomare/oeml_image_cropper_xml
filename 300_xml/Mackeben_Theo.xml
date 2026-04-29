@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bd713ca9-8d21-43a9-bb89-77797493baf8" n="mackeben-theo">
+  <desc type="filename">Mackeben_Theo.xml</desc>
+  <graphic url="Mackeben_Theo.jpg" width="424" height="567">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="323" lry="352" cx="162" cy="191" r="162" rotate="0"/>
+  <desc type="modified">2026-04-29T18:11:16.318Z</desc>
+</surface>

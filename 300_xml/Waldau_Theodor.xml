@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_99ed53c5-9a03-44bf-b805-e32715ffd01f" n="waldau-theodor">
+  <desc type="filename">Waldau_Theodor.xml</desc>
+  <graphic url="Waldau_Theodor_1929.jpg" width="401" height="369">
+  </graphic>
+  <zone type="medallionCrop" ulx="5" uly="0" lrx="186" lry="181" cx="96" cy="91" r="91" rotate="0"/>
+  <desc type="modified">2026-04-29T19:13:50.726Z</desc>
+</surface>

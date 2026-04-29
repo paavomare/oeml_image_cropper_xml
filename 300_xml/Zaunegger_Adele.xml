@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f9d6e92e-cf37-4a7e-af64-1eacb267a868" n="zaunegger-adele">
+  <desc type="filename">Zaunegger_Adele.xml</desc>
+  <graphic url="Zaunegger_Adele.jpg" width="301" height="377">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="13" lrx="298" lry="287" cx="161" cy="150" r="137" rotate="0"/>
+  <desc type="modified">2026-04-29T18:26:12.349Z</desc>
+</surface>

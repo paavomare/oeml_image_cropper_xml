@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_077c0bbf-dd20-462d-8e2b-904a2fed0c34" n="steiner-siegmund">
+  <desc type="filename">Steiner_Siegmund.xml</desc>
+  <graphic url="Steiner_Sigmund.jpg" width="703" height="814">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="703" lry="703" cx="352" cy="352" r="352" rotate="0"/>
+  <desc type="modified">2026-04-29T20:05:20.441Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8abb15d0-cb70-49c6-871f-f544921751d2" n="blaschke-julius">
+  <desc type="filename">Blaschke_Julius.xml</desc>
+  <graphic url="Blaschke_Julius_Glogau.jpg" width="283" height="345">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="283" lry="292" cx="142" cy="151" r="142" rotate="0"/>
+  <desc type="modified">2026-04-29T19:35:04.996Z</desc>
+</surface>

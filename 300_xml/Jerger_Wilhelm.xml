@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2b9cf329-3755-4c32-b9bb-d00381dc10af" n="jerger-wilhelm">
+  <desc type="filename">Jerger_Wilhelm.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10002582T10002587.jpg" width="552" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="138" lrx="552" lry="690" cx="276" cy="414" r="276" rotate="0"/>
+  <desc type="modified">2026-04-29T20:02:39.940Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c2ac669c-17eb-4bd4-815a-6ccca4f93baf" n="hoendl-ferry">
+  <desc type="filename">Hoendl_Ferry.xml</desc>
+  <graphic url="Hoendl_1933.jpg" width="809" height="652">
+  </graphic>
+  <zone type="medallionCrop" ulx="126" uly="29" lrx="690" lry="593" cx="408" cy="311" r="282" rotate="0"/>
+  <desc type="modified">2026-04-29T19:38:36.510Z</desc>
+</surface>

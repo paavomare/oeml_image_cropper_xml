@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_59bed428-1fab-4032-9cc0-aaffc43a1396" n="pfitzner-hans">
+  <desc type="filename">Pfitzner_Hans.xml</desc>
+  <graphic url="bildarchivaustria/745_B8077799T8077803.jpg" width="526" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="51" uly="63" lrx="507" lry="519" cx="279" cy="291" r="228" rotate="0"/>
+  <desc type="modified">2026-04-29T19:13:28.115Z</desc>
+</surface>

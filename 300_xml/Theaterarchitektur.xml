@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f26bbdf7-b1de-4a12-a440-f7b575ce26f3" n="theaterarchitektur">
+  <desc type="filename">Theaterarchitektur.xml</desc>
+  <graphic url="Burgtheater_1888.jpg" width="698" height="547">
+  </graphic>
+  <zone type="medallionCrop" ulx="44" uly="0" lrx="591" lry="547" cx="318" cy="274" r="274" rotate="0"/>
+  <desc type="modified">2026-04-29T17:55:58.667Z</desc>
+</surface>

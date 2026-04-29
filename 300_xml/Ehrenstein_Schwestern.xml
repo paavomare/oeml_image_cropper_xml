@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5cca72a7-a4bf-43d6-8521-c054f8b45a07" n="ehrenstein-schwestern">
+  <desc type="filename">Ehrenstein_Schwestern.xml</desc>
+  <graphic url="Ehrenstein_Louise_von_2.jpg" width="454" height="614">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="454" lry="454" cx="227" cy="227" r="227" rotate="0"/>
+  <desc type="modified">2026-04-29T20:01:53.504Z</desc>
+</surface>

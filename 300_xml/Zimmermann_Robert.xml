@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b0baf754-06b2-4c99-ba60-35bc80ed14e4" n="zimmermann-robert">
+  <desc type="filename">Zimmermann_Robert.xml</desc>
+  <graphic url="bildarchivaustria/BA_842_B8933829T8933834.jpg" width="506" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="179" lrx="431" lry="558" cx="242" cy="369" r="190" rotate="0"/>
+  <desc type="modified">2026-04-29T19:18:01.805Z</desc>
+</surface>

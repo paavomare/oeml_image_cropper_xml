@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ffa9f827-bb22-42a5-bfb0-175407d1b792" n="wiesenthal-schwestern">
+  <desc type="filename">Wiesenthal_Schwestern.xml</desc>
+  <graphic url="bildarchivaustria/340_B308013T4440900.jpg" width="587" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="1" uly="98" lrx="413" lry="510" cx="207" cy="304" r="206" rotate="0"/>
+  <desc type="modified">2026-04-29T18:31:43.361Z</desc>
+</surface>

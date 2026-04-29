@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_29948f0b-bf98-43af-94e8-5d5bfdc2c2ec" n="auer-christoph">
+  <desc type="filename">Auer_Christoph.xml</desc>
+  <graphic url="Auer_Pepe.jpg" width="712" height="1068">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="712" lry="712" cx="356" cy="356" r="356" rotate="0"/>
+  <desc type="modified">2026-04-29T19:39:05.412Z</desc>
+</surface>

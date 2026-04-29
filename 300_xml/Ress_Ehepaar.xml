@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a2d3d770-dfb2-4c30-ab27-503e1ef9a03b" n="ress-ehepaar">
+  <desc type="filename">Ress_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/170_B3784454T3784458.jpg" width="559" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="146" uly="226" lrx="434" lry="513" cx="290" cy="370" r="144" rotate="0"/>
+  <desc type="modified">2026-04-29T18:15:41.050Z</desc>
+</surface>

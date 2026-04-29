@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2dce1fcb-234c-4a54-bf71-a6a1d23f258b" n="scaramella-giuseppe">
+  <desc type="filename">Scaramella_Giuseppe.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9258072T9258077.jpg" width="570" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="50" uly="92" lrx="546" lry="587" cx="298" cy="340" r="248" rotate="0"/>
+  <desc type="modified">2026-04-29T18:44:02.821Z</desc>
+</surface>

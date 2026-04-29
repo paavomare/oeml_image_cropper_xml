@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_27a285c0-16f6-47a3-91f1-a2979ba0bf60" n="pollak-robert">
+  <desc type="filename">Pollak_Robert.xml</desc>
+  <graphic url="Pollak_wrb1933.jpg" width="1002" height="1360">
+  </graphic>
+  <zone type="medallionCrop" ulx="617" uly="386" lrx="1002" lry="771" cx="810" cy="579" r="193" rotate="0"/>
+  <desc type="modified">2026-04-29T18:24:26.216Z</desc>
+</surface>

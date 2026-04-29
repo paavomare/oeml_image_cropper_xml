@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_14e09f57-8894-4689-9801-0a1020e86e8a" n="billino-adolf">
+  <desc type="filename">Billino_Adolf.xml</desc>
+  <graphic url="Billino_Adolf.jpg" width="142" height="142">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="142" lry="142" cx="71" cy="71" r="71" rotate="0"/>
+  <desc type="modified">2026-04-29T19:24:22.986Z</desc>
+</surface>

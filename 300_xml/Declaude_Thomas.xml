@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_43027d08-ef4c-4654-b256-2e3debc25f07" n="declaude-thomas">
+  <desc type="filename">Declaude_Thomas.xml</desc>
+  <graphic url="Declaude_Thomas_2025.jpg" width="962" height="814">
+  </graphic>
+  <zone type="medallionCrop" ulx="48" uly="0" lrx="862" lry="814" cx="455" cy="407" r="407" rotate="0"/>
+  <desc type="modified">2026-04-29T18:08:42.312Z</desc>
+</surface>

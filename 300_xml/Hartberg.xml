@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90052353-7202-4f3f-adcd-ae1b143a0f94" n="hartberg">
+  <desc type="filename">Hartberg.xml</desc>
+  <graphic url="bildarchivaustria/KAR_4_B7838557T13828701.jpg" width="800" height="602">
+  </graphic>
+  <zone type="medallionCrop" ulx="163" uly="97" lrx="626" lry="560" cx="395" cy="329" r="232" rotate="0"/>
+  <desc type="modified">2026-04-29T20:01:00.194Z</desc>
+</surface>

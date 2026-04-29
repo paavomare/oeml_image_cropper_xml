@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bb4acb1d-6794-4e13-bde4-8e994013a36b" n="haydn-brueder-michael">
+  <desc type="filename">Haydn_Brueder_MICHAEL.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9234880T9234885.jpg" width="537" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="120" uly="201" lrx="394" lry="475" cx="257" cy="338" r="137" rotate="0"/>
+  <desc type="modified">2026-04-29T19:32:17.259Z</desc>
+</surface>

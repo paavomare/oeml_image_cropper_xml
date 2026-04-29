@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_07ece714-acc1-4a80-94c9-30971f6f3b63" n="furtwaengler-wilhelm">
+  <desc type="filename">Furtwaengler_Wilhelm.xml</desc>
+  <graphic url="bildarchivaustria/747_B8081345T8081349.jpg" width="553" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="209" lrx="553" lry="762" cx="277" cy="486" r="277" rotate="0"/>
+  <desc type="modified">2026-04-29T19:14:02.288Z</desc>
+</surface>

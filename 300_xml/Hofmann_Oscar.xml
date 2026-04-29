@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c5f94483-a25e-4f47-9df0-9d9a7759141d" n="hofmann-oscar">
+  <desc type="filename">Hofmann_Oscar.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245082T9245087.jpg" width="558" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="79" lrx="513" lry="547" cx="279" cy="313" r="234" rotate="0"/>
+  <desc type="modified">2026-04-29T19:33:39.886Z</desc>
+</surface>

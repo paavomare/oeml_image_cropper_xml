@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_745fe875-92fd-4f72-ad8b-f82b7183258d" n="offenbach-jacques">
+  <desc type="filename">Offenbach_Jacques.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9235914T9235919.jpg" width="537" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="99" uly="224" lrx="401" lry="526" cx="250" cy="375" r="151" rotate="0"/>
+  <desc type="modified">2026-04-29T18:59:40.423Z</desc>
+</surface>

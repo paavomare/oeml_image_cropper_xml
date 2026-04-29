@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b784cf1c-5812-4439-8091-ce7772e3d463" n="palm-spazzer-antonia">
+  <desc type="filename">Palm-Spazzer_Antonia.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9268134T9268139.jpg" width="593" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="54" lrx="570" lry="605" cx="295" cy="330" r="276" rotate="0"/>
+  <desc type="modified">2026-04-29T18:00:57.071Z</desc>
+</surface>

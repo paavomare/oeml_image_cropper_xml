@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_798d19bf-a7c3-4f5c-b20a-723ab637b8d7" n="gibisch-waldemar">
+  <desc type="filename">Gibisch_Waldemar.xml</desc>
+  <graphic url="Gibisch_Waldemar.jpg" width="278" height="368">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="278" lry="278" cx="139" cy="139" r="139" rotate="0"/>
+  <desc type="modified">2026-04-29T17:38:30.353Z</desc>
+</surface>

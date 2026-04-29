@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a3d1bf83-df37-4046-a250-09124ef958ad" n="botstiber-hugo">
+  <desc type="filename">Botstiber_Hugo.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449642T10449647.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="118" lrx="476" lry="554" cx="258" cy="336" r="218" rotate="0"/>
+  <desc type="modified">2026-04-29T17:41:48.740Z</desc>
+</surface>

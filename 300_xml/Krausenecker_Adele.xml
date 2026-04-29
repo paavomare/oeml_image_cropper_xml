@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d082fe56-1721-49b6-ad6e-424013f2f803" n="krausenecker-adele">
+  <desc type="filename">Krausenecker_Adele.xml</desc>
+  <graphic url="Krausenecker_wrb1933.jpg" width="893" height="1381">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="59" lrx="893" lry="952" cx="447" cy="506" r="447" rotate="0"/>
+  <desc type="modified">2026-04-29T19:35:44.501Z</desc>
+</surface>

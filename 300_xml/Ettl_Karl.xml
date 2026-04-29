@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ab2914b0-3f19-4e66-8631-0ea0605d4a7b" n="ettl-karl">
+  <desc type="filename">Ettl_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10452777T10452782.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="37" lrx="473" lry="471" cx="256" cy="254" r="217" rotate="0"/>
+  <desc type="modified">2026-04-29T19:58:03.702Z</desc>
+</surface>

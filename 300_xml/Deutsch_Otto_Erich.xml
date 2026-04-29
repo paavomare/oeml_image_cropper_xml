@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_837fa2cf-e9cd-4100-a1cb-df27251dd740" n="deutsch-otto-erich">
+  <desc type="filename">Deutsch_Otto_Erich.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449677T10449682.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="41" lrx="508" lry="522" cx="268" cy="281" r="240" rotate="0"/>
+  <desc type="modified">2026-04-29T18:00:38.929Z</desc>
+</surface>

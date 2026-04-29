@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cbb8a891-858d-4cc8-a199-949dc0628735" n="koechert-familie">
+  <desc type="filename">Koechert_Familie.xml</desc>
+  <graphic url="Huberman-Feier_wrb1933.jpg" width="1735" height="1166">
+  </graphic>
+  <zone type="medallionCrop" ulx="774" uly="92" lrx="1497" lry="815" cx="1136" cy="454" r="362" rotate="0"/>
+  <desc type="modified">2026-04-29T19:04:55.483Z</desc>
+</surface>

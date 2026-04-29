@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c317ccae-80c1-431c-b531-0b168f948755" n="wamlek-familie">
+  <desc type="filename">Wamlek_Familie.xml</desc>
+  <graphic url="wamlek_hans.jpg" width="437" height="609">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="99" lrx="437" lry="536" cx="219" cy="318" r="219" rotate="0"/>
+  <desc type="modified">2026-04-29T19:36:53.841Z</desc>
+</surface>

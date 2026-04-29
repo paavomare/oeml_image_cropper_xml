@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e3f77ed2-6323-471f-8afa-e1461768674f" n="jaksch-josef">
+  <desc type="filename">Jaksch_Josef.xml</desc>
+  <graphic url="Jaksch_Josef.jpg" width="304" height="446">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="11" lrx="284" lry="278" cx="151" cy="145" r="134" rotate="0"/>
+  <desc type="modified">2026-04-29T19:22:41.465Z</desc>
+</surface>

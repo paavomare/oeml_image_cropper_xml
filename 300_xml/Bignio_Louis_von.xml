@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9658ae6a-e4fe-497e-98b7-f1b42b72f27e" n="bignio-louis-von">
+  <desc type="filename">Bignio_Louis_von.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9244153T9244158.jpg" width="575" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="63" uly="82" lrx="527" lry="546" cx="295" cy="314" r="232" rotate="0"/>
+  <desc type="modified">2026-04-29T17:48:43.147Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ee47a591-6a48-4412-b755-0164af522cce" n="dussek-familie">
+  <desc type="filename">Dussek_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9238505T9238510.jpg" width="605" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="164" uly="200" lrx="432" lry="468" cx="298" cy="334" r="134" rotate="0"/>
+  <desc type="modified">2026-04-29T17:53:35.811Z</desc>
+</surface>

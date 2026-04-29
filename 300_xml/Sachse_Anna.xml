@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2403c392-af36-431b-b36c-05c9f903650d" n="sachse-anna">
+  <desc type="filename">Sachse_Anna.xml</desc>
+  <graphic url="Sachse_Hofmeister_Anna.jpg" width="471" height="524">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="23" lrx="456" lry="463" cx="236" cy="244" r="221" rotate="0"/>
+  <desc type="modified">2026-04-29T19:58:36.652Z</desc>
+</surface>

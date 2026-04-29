@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ee93d909-4215-49fa-b237-b4cd4a2f331e" n="tauber-richard">
+  <desc type="filename">Tauber_Richard.xml</desc>
+  <graphic url="Tauber_Richard.jpg" width="433" height="577">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="10" lrx="423" lry="405" cx="226" cy="207" r="197" rotate="0"/>
+  <desc type="modified">2026-04-29T19:42:29.015Z</desc>
+</surface>

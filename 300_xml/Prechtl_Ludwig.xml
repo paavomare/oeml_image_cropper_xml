@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_80e48748-a320-486c-8c01-04869c5d5141" n="prechtl-ludwig">
+  <desc type="filename">Prechtl_Ludwig.xml</desc>
+  <graphic url="prechtl_ludwig.jpg" width="365" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="52" lrx="344" lry="375" cx="183" cy="214" r="162" rotate="0"/>
+  <desc type="modified">2026-04-29T19:10:02.219Z</desc>
+</surface>

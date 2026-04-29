@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c4207ece-6768-4c99-b841-c5ece7d0424d" n="tyroler-armin">
+  <desc type="filename">Tyroler_Armin.xml</desc>
+  <graphic url="bildarchivaustria/BA_1018_B17002109T17002114.jpg" width="528" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="7" uly="72" lrx="511" lry="576" cx="259" cy="324" r="252" rotate="0"/>
+  <desc type="modified">2026-04-29T20:02:32.256Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d098a6ed-0a81-46ab-bac7-7237b07ae2be" n="zuth-josef">
+  <desc type="filename">Zuth_Josef.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450360T10450365.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="144" lrx="507" lry="619" cx="269" cy="382" r="238" rotate="0"/>
+  <desc type="modified">2026-04-29T18:02:48.085Z</desc>
+</surface>

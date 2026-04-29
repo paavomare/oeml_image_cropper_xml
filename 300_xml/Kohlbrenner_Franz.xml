@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_95781d7a-c7c4-42a1-b95b-9aec9426e854" n="kohlbrenner-franz">
+  <desc type="filename">Kohlbrenner_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_845_B9016569T9016574.jpg" width="539" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="115" uly="184" lrx="416" lry="485" cx="266" cy="335" r="151" rotate="0"/>
+  <desc type="modified">2026-04-29T17:51:01.765Z</desc>
+</surface>

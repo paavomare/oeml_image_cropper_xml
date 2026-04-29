@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_052979d2-6108-4046-9993-f6661f416bfe" n="fehring-johannes">
+  <desc type="filename">Fehring_Johannes.xml</desc>
+  <graphic url="Fehring_Johannes.jpg" width="421" height="556">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="61" lrx="421" lry="482" cx="211" cy="272" r="211" rotate="0"/>
+  <desc type="modified">2026-04-29T20:08:58.976Z</desc>
+</surface>

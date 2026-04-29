@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_39db0175-b9e9-40be-9a49-beddf1bd479d" n="kleiber-familie">
+  <desc type="filename">Kleiber_Familie.xml</desc>
+  <graphic url="bildarchivaustria/736_B8017576T8017580.jpg" width="524" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="524" lry="534" cx="262" cy="272" r="262" rotate="0"/>
+  <desc type="modified">2026-04-29T18:04:21.888Z</desc>
+</surface>

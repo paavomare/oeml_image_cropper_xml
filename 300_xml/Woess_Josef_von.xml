@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_852b1aa4-105f-43a6-9a51-cf1647cbff88" n="woess-josef-von">
+  <desc type="filename">Woess_Josef_von.xml</desc>
+  <graphic url="Woess_Josef_von_1894.jpg" width="454" height="693">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="54" lrx="425" lry="452" cx="226" cy="253" r="199" rotate="0"/>
+  <desc type="modified">2026-04-29T18:56:34.965Z</desc>
+</surface>

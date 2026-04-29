@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f57bc779-8ff9-405d-9bb1-9e30dc738486" n="wallnoefer-adolf">
+  <desc type="filename">Wallnoefer_Adolf.xml</desc>
+  <graphic url="Wallnoefer_Adolf_1876.jpg" width="830" height="948">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="830" lry="847" cx="415" cy="432" r="415" rotate="0"/>
+  <desc type="modified">2026-04-29T19:15:26.888Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_75485582-6c72-458e-8554-ca93dad7afff" n="fischer-jenny">
+  <desc type="filename">Fischer_Jenny.xml</desc>
+  <graphic url="Fischer_Jenny.jpg" width="647" height="859">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="42" lrx="647" lry="689" cx="324" cy="366" r="324" rotate="0"/>
+  <desc type="modified">2026-04-29T17:58:19.846Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d0adcfb9-74b0-4d4b-a5ab-6daea81ee418" n="kaiser-eva-maria">
+  <desc type="filename">Kaiser_Eva_Maria.xml</desc>
+  <graphic url="Kaiser_Eva_Maria.jpg" width="513" height="764">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="134" lrx="513" lry="647" cx="257" cy="391" r="257" rotate="0"/>
+  <desc type="modified">2026-04-29T19:37:14.763Z</desc>
+</surface>

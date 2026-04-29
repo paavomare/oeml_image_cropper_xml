@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3538450d-8785-4a3b-a7e4-1aa5968217b2" n="breuer-hugo">
+  <desc type="filename">Breuer_Hugo.xml</desc>
+  <graphic url="Breuer_Hugo_1924.jpg" width="556" height="394">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="57" lrx="291" lry="308" cx="166" cy="183" r="126" rotate="0"/>
+  <desc type="modified">2026-04-29T18:40:50.368Z</desc>
+</surface>

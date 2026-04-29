@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d17eb69a-db01-401c-bea2-ef0b20b370c0" n="hilbert-egon">
+  <desc type="filename">Hilbert_Egon.xml</desc>
+  <graphic url="Hilbert_1950.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="484" uly="53" lrx="759" lry="329" cx="622" cy="191" r="138" rotate="0"/>
+  <desc type="modified">2026-04-29T18:57:19.677Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e98cd589-69fe-4485-a6b3-ad247e811c92" n="wien-film">
+  <desc type="filename">Wien-Film.xml</desc>
+  <graphic url="Wien-Film_Logo.jpg" width="820" height="631">
+  </graphic>
+  <zone type="medallionCrop" ulx="95" uly="0" lrx="726" lry="631" cx="411" cy="316" r="316" rotate="0"/>
+  <desc type="modified">2026-04-29T19:41:34.598Z</desc>
+</surface>

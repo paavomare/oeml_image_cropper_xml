@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3fe48947-31a2-4ab8-b1e3-689add158dd2" n="thun-familie">
+  <desc type="filename">Thun_Familie.xml</desc>
+  <graphic url="bildarchivaustria/168_B3779390T3779394.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="48" uly="89" lrx="533" lry="575" cx="291" cy="332" r="243" rotate="0"/>
+  <desc type="modified">2026-04-29T19:58:20.648Z</desc>
+</surface>

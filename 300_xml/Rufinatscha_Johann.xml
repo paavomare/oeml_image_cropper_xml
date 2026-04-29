@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_601046a5-ef96-4b81-a9c5-f338fa49e4b1" n="rufinatscha-johann">
+  <desc type="filename">Rufinatscha_Johann.xml</desc>
+  <graphic url="Rufinatscha_TLM.jpg" width="353" height="525">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="37" lrx="353" lry="390" cx="177" cy="214" r="177" rotate="0"/>
+  <desc type="modified">2026-04-29T18:39:57.074Z</desc>
+</surface>

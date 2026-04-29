@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_347227fd-482a-45a8-b4e6-e02acdcf6924" n="rein">
+  <desc type="filename">Rein.xml</desc>
+  <graphic url="Rein1.jpg" width="709" height="945">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="709" lry="741" cx="355" cy="387" r="355" rotate="0"/>
+  <desc type="modified">2026-04-29T18:22:53.961Z</desc>
+</surface>

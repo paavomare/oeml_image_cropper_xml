@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b2ccb727-a76e-4768-8d4d-a7a9bb958230" n="palffy-erdoed-familie">
+  <desc type="filename">Palffy-Erdoed_Familie.xml</desc>
+  <graphic url="bildarchivaustria/800_B8281419T8281423.jpg" width="515" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="111" uly="184" lrx="401" lry="475" cx="256" cy="329" r="145" rotate="0"/>
+  <desc type="modified">2026-04-29T18:18:12.265Z</desc>
+</surface>

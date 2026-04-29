@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5f9165e7-e43a-468d-8284-878b04b0286e" n="adamberger-familie">
+  <desc type="filename">Adamberger_Familie.xml</desc>
+  <graphic url="bildarchivaustria/149_B3698529T3698533.jpg" width="584" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="100" uly="195" lrx="483" lry="578" cx="292" cy="387" r="192" rotate="0"/>
+  <desc type="modified">2026-04-29T17:50:11.090Z</desc>
+</surface>

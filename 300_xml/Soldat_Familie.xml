@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9c2ec2b8-780e-4418-bb9c-dbac22f594d4" n="soldat-familie">
+  <desc type="filename">Soldat_Familie.xml</desc>
+  <graphic url="Soldat_Marie.jpg" width="650" height="796">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="650" lry="650" cx="325" cy="325" r="325" rotate="0"/>
+  <desc type="modified">2026-04-29T18:22:07.211Z</desc>
+</surface>

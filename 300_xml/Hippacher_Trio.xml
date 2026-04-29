@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b6a7a899-5bae-4bbf-82fd-eb3743d11dc2" n="hippacher-trio">
+  <desc type="filename">Hippacher_Trio.xml</desc>
+  <graphic url="Hippacher_Trio.jpg" width="361" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="361" lry="380" cx="181" cy="200" r="181" rotate="0"/>
+  <desc type="modified">2026-04-29T19:19:53.482Z</desc>
+</surface>

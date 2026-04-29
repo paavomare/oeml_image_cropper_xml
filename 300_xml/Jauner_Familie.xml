@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_81fef68e-4ce4-4ea5-b220-61622a903e43" n="jauner-familie">
+  <desc type="filename">Jauner_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_909_B10541468T10541473.jpg" width="535" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="75" lrx="499" lry="557" cx="258" cy="317" r="242" rotate="0"/>
+  <desc type="modified">2026-04-29T17:56:13.571Z</desc>
+</surface>

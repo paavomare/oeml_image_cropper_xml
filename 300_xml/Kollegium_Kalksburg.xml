@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cdf20b6d-ed13-4faa-b465-3dd2548558ef" n="kollegium-kalksburg">
+  <desc type="filename">Kollegium_Kalksburg.xml</desc>
+  <graphic url="Kollegium_Kalksburg.jpg" width="1109" height="952">
+  </graphic>
+  <zone type="medallionCrop" ulx="166" uly="72" lrx="1038" lry="944" cx="602" cy="508" r="436" rotate="0"/>
+  <desc type="modified">2026-04-29T19:41:06.882Z</desc>
+</surface>

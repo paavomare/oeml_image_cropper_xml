@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_70361530-9150-4e55-b89e-1914b56b2f5e" n="baurose-herta">
+  <desc type="filename">Baurose_Herta.xml</desc>
+  <graphic url="Baurose_Herta.jpg" width="292" height="394">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="292" lry="306" cx="146" cy="160" r="146" rotate="0"/>
+  <desc type="modified">2026-04-29T18:58:38.126Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ad22ddc6-e330-41b9-b9ae-67a5234177c9" n="noverre-jean-georges">
+  <desc type="filename">Noverre_Jean-Georges.xml</desc>
+  <graphic url="bildarchivaustria/117_B3550468T3550472.jpg" width="543" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="85" uly="113" lrx="458" lry="485" cx="272" cy="300" r="187" rotate="0"/>
+  <desc type="modified">2026-04-29T19:59:26.476Z</desc>
+</surface>

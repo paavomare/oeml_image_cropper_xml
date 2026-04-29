@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c6834e91-d019-4eb9-8d13-3587094380ee" n="hoffmann-familie">
+  <desc type="filename">Hoffmann_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243444T9243449.jpg" width="527" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="56" uly="150" lrx="471" lry="565" cx="264" cy="358" r="208" rotate="0"/>
+  <desc type="modified">2026-04-29T17:57:28.195Z</desc>
+</surface>

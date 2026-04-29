@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7b389925-6141-4408-ac54-a653f43c30eb" n="bauernfeind-johann">
+  <desc type="filename">Bauernfeind_Johann.xml</desc>
+  <graphic url="Bauernfeind_Hans.jpg" width="252" height="292">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="190" lry="190" cx="95" cy="95" r="95" rotate="0"/>
+  <desc type="modified">2026-04-29T18:22:58.543Z</desc>
+</surface>

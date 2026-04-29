@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7dbe3633-5279-4a3c-a874-ebab33ecc110" n="mondsee">
+  <desc type="filename">Mondsee.xml</desc>
+  <graphic url="Mondsee.jpg" width="403" height="323">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="0" lrx="363" lry="323" cx="202" cy="162" r="162" rotate="0"/>
+  <desc type="modified">2026-04-29T18:12:25.999Z</desc>
+</surface>

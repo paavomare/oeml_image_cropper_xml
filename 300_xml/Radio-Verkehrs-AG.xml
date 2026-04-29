@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d44a5b8f-f184-470a-940d-929b34a1026e" n="radio-verkehrs-ag">
+  <desc type="filename">Radio-Verkehrs-AG.xml</desc>
+  <graphic url="Bisamberg_wrb1933.jpg" width="1717" height="1207">
+  </graphic>
+  <zone type="medallionCrop" ulx="233" uly="0" lrx="1440" lry="1207" cx="837" cy="604" r="604" rotate="0"/>
+  <desc type="modified">2026-04-29T18:06:18.525Z</desc>
+</surface>

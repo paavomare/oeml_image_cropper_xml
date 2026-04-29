@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_598d26a4-c10b-46a3-82ce-8bdc36882a88" n="mayer-familie-4">
+  <desc type="filename">Mayer_Familie_4.xml</desc>
+  <graphic url="Mayer_Bertl_2024.jpg" width="687" height="870">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="52" lrx="687" lry="739" cx="344" cy="396" r="344" rotate="0"/>
+  <desc type="modified">2026-04-29T17:43:46.142Z</desc>
+</surface>

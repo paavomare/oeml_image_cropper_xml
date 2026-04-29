@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_82e562f3-b278-43ec-ab38-23fb635e2a64" n="neidl-franz">
+  <desc type="filename">Neidl_Franz.xml</desc>
+  <graphic url="Neidl_1896.jpg" width="564" height="989">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="79" lrx="533" lry="597" cx="274" cy="338" r="259" rotate="0"/>
+  <desc type="modified">2026-04-29T18:54:55.166Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fa348585-88c8-401c-bd0a-352440f818d4" n="burghauser-hugo">
+  <desc type="filename">Burghauser_Hugo.xml</desc>
+  <graphic url="bildarchivaustria/BA_1018_B17002028T17002033.jpg" width="535" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="75" lrx="506" lry="563" cx="263" cy="319" r="244" rotate="0"/>
+  <desc type="modified">2026-04-29T19:03:18.630Z</desc>
+</surface>

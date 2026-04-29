@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fc430860-17c2-40a1-96b3-66799b87360e" n="herz-henri">
+  <desc type="filename">Herz_Henri.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243109T9243114.jpg" width="595" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="62" uly="62" lrx="567" lry="567" cx="315" cy="315" r="253" rotate="0"/>
+  <desc type="modified">2026-04-29T18:26:57.070Z</desc>
+</surface>

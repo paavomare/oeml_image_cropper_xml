@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a9c10b4a-f678-4ac7-8546-0c3ecba955c9" n="rieger-familie">
+  <desc type="filename">Rieger_Familie.xml</desc>
+  <graphic url="Rieger_Familie.jpg" width="992" height="942">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="0" lrx="967" lry="942" cx="496" cy="471" r="471" rotate="0"/>
+  <desc type="modified">2026-04-29T18:12:01.715Z</desc>
+</surface>

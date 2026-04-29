@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_acae1905-b08b-4a13-bd4d-47f0ef7ee08f" n="payr-robert">
+  <desc type="filename">Payr_Robert.xml</desc>
+  <graphic url="Payr_Robert.jpg" width="397" height="589">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="27" lrx="397" lry="424" cx="199" cy="226" r="199" rotate="0"/>
+  <desc type="modified">2026-04-29T18:00:06.041Z</desc>
+</surface>

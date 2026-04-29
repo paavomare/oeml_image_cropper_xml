@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7229ebdd-8562-4c23-a6e9-e2d2275e29cd" n="eleonora-i">
+  <desc type="filename">Eleonora_I.xml</desc>
+  <graphic url="bildarchivaustria/463_B4944272T4944276.jpg" width="547" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="46" uly="53" lrx="475" lry="482" cx="261" cy="268" r="215" rotate="0"/>
+  <desc type="modified">2026-04-29T18:13:29.849Z</desc>
+</surface>

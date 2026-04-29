@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b94c5b75-8de2-4402-a793-6e9a517416ca" n="werba-familie">
+  <desc type="filename">Werba_Familie.xml</desc>
+  <graphic url="bildarchivaustria/83_B691316T1821148.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="196" lrx="308" lry="477" cx="168" cy="337" r="141" rotate="0"/>
+  <desc type="modified">2026-04-29T19:36:21.806Z</desc>
+</surface>

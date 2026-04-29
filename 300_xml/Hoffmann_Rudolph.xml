@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d150684c-1bf4-4aa1-ab5b-61e08a803fe4" n="hoffmann-rudolph">
+  <desc type="filename">Hoffmann_Rudolph.xml</desc>
+  <graphic url="Hoffmann_Rudolf_Stephan.jpg" width="511" height="759">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="28" lrx="490" lry="500" cx="254" cy="264" r="236" rotate="0"/>
+  <desc type="modified">2026-04-29T19:34:07.469Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_48fc7f51-fd22-4399-a268-6bcc2569acb0" n="werkelmann">
+  <desc type="filename">Werkelmann.xml</desc>
+  <graphic url="Werkelmann_Geiger.jpg" width="1856" height="2835">
+  </graphic>
+  <zone type="medallionCrop" ulx="13" uly="74" lrx="1822" lry="1882" cx="918" cy="979" r="905" rotate="0"/>
+  <desc type="modified">2026-04-29T19:39:54.387Z</desc>
+</surface>

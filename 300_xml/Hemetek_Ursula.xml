@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d8b23265-5914-4c2b-8893-b97b202fd4d4" n="hemetek-ursula">
+  <desc type="filename">Hemetek_Ursula.xml</desc>
+  <graphic url="Hemetek_Ulrike.jpg" width="469" height="313">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="51" lrx="262" lry="313" cx="131" cy="182" r="131" rotate="0"/>
+  <desc type="modified">2026-04-29T18:26:34.777Z</desc>
+</surface>

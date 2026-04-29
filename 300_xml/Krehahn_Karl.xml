@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2f6347d4-9bce-4b31-9098-505aeaf9d615" n="krehahn-karl">
+  <desc type="filename">Krehahn_Karl.xml</desc>
+  <graphic url="Krehahn.jpg" width="428" height="611">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="65" lrx="428" lry="493" cx="214" cy="279" r="214" rotate="0"/>
+  <desc type="modified">2026-04-29T18:37:48.864Z</desc>
+</surface>

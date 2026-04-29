@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9ad98c19-58bf-47d0-aeff-fb029eb3538f" n="behrend-brandt-magdalena">
+  <desc type="filename">Behrend-Brandt_Magdalena.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9265415T9265420.jpg" width="600" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="20" lrx="529" lry="507" cx="286" cy="264" r="244" rotate="0"/>
+  <desc type="modified">2026-04-29T18:32:57.650Z</desc>
+</surface>

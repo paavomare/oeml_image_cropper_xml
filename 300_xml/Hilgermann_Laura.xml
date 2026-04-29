@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d7503b6c-5ec3-48da-abd0-84ea2255fbfa" n="hilgermann-laura">
+  <desc type="filename">Hilgermann_Laura.xml</desc>
+  <graphic url="bildarchivaustria/739_B8035883T8035886.jpg" width="523" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="40" lrx="487" lry="510" cx="253" cy="275" r="235" rotate="0"/>
+  <desc type="modified">2026-04-29T18:01:30.034Z</desc>
+</surface>

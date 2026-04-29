@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e69b52c4-2c60-4717-8775-7967aaae48a5" n="winterberger-hans">
+  <desc type="filename">Winterberger_Hans.xml</desc>
+  <graphic url="Winterberger_Hans.jpg" width="600" height="600">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="56" lrx="522" lry="531" cx="285" cy="294" r="238" rotate="0"/>
+  <desc type="modified">2026-04-29T18:53:34.954Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ffcde35c-dd49-4340-a8a2-090e6186b0fd" n="chavanne-irene-von">
+  <desc type="filename">Chavanne_Irene_von.xml</desc>
+  <graphic url="Chavanne_Irene_von.jpg" width="471" height="465">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="465" lry="465" cx="233" cy="233" r="233" rotate="0"/>
+  <desc type="modified">2026-04-29T17:55:11.222Z</desc>
+</surface>

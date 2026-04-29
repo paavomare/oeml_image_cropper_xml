@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4ca658c3-51f0-436c-8971-12c80285d83c" n="holenia-hanns">
+  <desc type="filename">Holenia_Hanns.xml</desc>
+  <graphic url="Holenia_Hanns.jpg" width="312" height="450">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="72" lrx="312" lry="384" cx="156" cy="228" r="156" rotate="0"/>
+  <desc type="modified">2026-04-29T18:32:23.050Z</desc>
+</surface>

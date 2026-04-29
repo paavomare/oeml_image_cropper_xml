@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_84386762-6e65-4824-bc72-9eb4af7ff32e" n="specht-richard">
+  <desc type="filename">Specht_Richard.xml</desc>
+  <graphic url="Specht_Richard_1927.jpg" width="340" height="437">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="46" lrx="340" lry="386" cx="170" cy="216" r="170" rotate="0"/>
+  <desc type="modified">2026-04-29T20:08:22.329Z</desc>
+</surface>

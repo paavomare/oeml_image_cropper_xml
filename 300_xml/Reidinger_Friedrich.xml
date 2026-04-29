@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3504f189-13ea-47c6-99ca-600f0bc7174c" n="reidinger-friedrich">
+  <desc type="filename">Reidinger_Friedrich.xml</desc>
+  <graphic url="Reidinger_Friedrich.jpg" width="397" height="433">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="5" lrx="397" lry="402" cx="199" cy="204" r="199" rotate="0"/>
+  <desc type="modified">2026-04-29T19:31:26.480Z</desc>
+</surface>

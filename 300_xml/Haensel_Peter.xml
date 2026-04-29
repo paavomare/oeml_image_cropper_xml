@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_33b29565-552e-4a2a-b646-ec376bb0146d" n="haensel-peter">
+  <desc type="filename">Haensel_Peter.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245271T9245276.jpg" width="593" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="185" uly="229" lrx="406" lry="451" cx="296" cy="340" r="111" rotate="0"/>
+  <desc type="modified">2026-04-29T19:37:49.724Z</desc>
+</surface>

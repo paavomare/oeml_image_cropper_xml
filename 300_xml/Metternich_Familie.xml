@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7859e81e-e2d6-49fb-a369-2f2a341b2f6e" n="metternich-familie">
+  <desc type="filename">Metternich_Familie.xml</desc>
+  <graphic url="bildarchivaustria/95_B3476703T3476707.jpg" width="477" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="71" uly="66" lrx="429" lry="424" cx="250" cy="245" r="179" rotate="0"/>
+  <desc type="modified">2026-04-29T19:31:50.758Z</desc>
+</surface>

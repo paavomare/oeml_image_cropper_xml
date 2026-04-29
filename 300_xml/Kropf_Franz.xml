@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c38ac55c-53fb-46d9-9b87-5c72a56f8a04" n="kropf-franz">
+  <desc type="filename">Kropf_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9254930T9254935.jpg" width="525" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="81" uly="175" lrx="418" lry="513" cx="250" cy="344" r="169" rotate="0"/>
+  <desc type="modified">2026-04-29T19:20:06.521Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_51b3b850-2cbc-4df2-a816-009b05e17f39" n="tuba">
+  <desc type="filename">Tuba.xml</desc>
+  <graphic url="Weinhuetereinzug-Kraupa_KaB.jpg" width="3253" height="2135">
+  </graphic>
+  <zone type="medallionCrop" ulx="752" uly="0" lrx="2138" lry="1387" cx="1445" cy="693" r="693" rotate="0"/>
+  <desc type="modified">2026-04-29T20:03:34.922Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_15ab4946-5d40-4a14-965a-3cb5fedf0118" n="oberleitner-ewald">
+  <desc type="filename">Oberleitner_Ewald.xml</desc>
+  <graphic url="Oberleitner_Ewald.jpg" width="670" height="1004">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="280" lrx="670" lry="950" cx="335" cy="615" r="335" rotate="0"/>
+  <desc type="modified">2026-04-29T20:10:27.980Z</desc>
+</surface>

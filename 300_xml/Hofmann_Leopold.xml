@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_466d3b0f-fc19-4c94-896f-9c3c2de76c99" n="hofmann-leopold">
+  <desc type="filename">Hofmann_Leopold.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247025T9247030.jpg" width="561" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="63" uly="104" lrx="498" lry="538" cx="281" cy="322" r="218" rotate="0"/>
+  <desc type="modified">2026-04-29T18:35:12.992Z</desc>
+</surface>

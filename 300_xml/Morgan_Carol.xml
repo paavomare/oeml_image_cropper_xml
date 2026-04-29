@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_674ce02b-9a7e-4e0d-b7ec-3ae37dd8ad73" n="morgan-carol">
+  <desc type="filename">Morgan_Carol.xml</desc>
+  <graphic url="Morgan_Carol.jpg" width="1181" height="817">
+  </graphic>
+  <zone type="medallionCrop" ulx="296" uly="84" lrx="877" lry="665" cx="587" cy="375" r="291" rotate="0"/>
+  <desc type="modified">2026-04-29T19:13:58.206Z</desc>
+</surface>

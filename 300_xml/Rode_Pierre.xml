@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1ed6f802-32b0-4378-b6ed-cbb412b19f5b" n="rode-pierre">
+  <desc type="filename">Rode_Pierre.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245672T9245677.jpg" width="558" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="132" uly="202" lrx="435" lry="505" cx="284" cy="354" r="152" rotate="0"/>
+  <desc type="modified">2026-04-29T19:37:09.979Z</desc>
+</surface>

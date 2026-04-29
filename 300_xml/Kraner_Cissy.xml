@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_701e1dd8-f04e-4b46-aa36-b6dba8655a45" n="kraner-cissy">
+  <desc type="filename">Kraner_Cissy.xml</desc>
+  <graphic url="bildarchivaustria/BA_933_B12844628T12844633.jpg" width="541" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="126" lrx="474" lry="571" cx="252" cy="349" r="223" rotate="0"/>
+  <desc type="modified">2026-04-29T19:25:26.983Z</desc>
+</surface>

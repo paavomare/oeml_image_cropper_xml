@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_615ba8a0-bf28-4bae-9a50-b99389b7e14f" n="knepler-familie">
+  <desc type="filename">Knepler_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449916T10449921.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="61" lrx="498" lry="520" cx="269" cy="291" r="230" rotate="0"/>
+  <desc type="modified">2026-04-29T18:30:19.114Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dea9cb5a-6ab2-4ee3-89ac-9b73153c50ec" n="steiner-fritz">
+  <desc type="filename">Steiner_Fritz.xml</desc>
+  <graphic url="Zwei-lachende-Augen_wrb1933.jpg" width="893" height="1157">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="45" lrx="468" lry="513" cx="234" cy="279" r="234" rotate="0"/>
+  <desc type="modified">2026-04-29T20:01:25.558Z</desc>
+</surface>

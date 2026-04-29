@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb9a95b4-7ae4-4e41-a73f-2774fea6b503" n="wiedemann-hermann">
+  <desc type="filename">Wiedemann_Hermann.xml</desc>
+  <graphic url="bildarchivaustria/206_B3940707T3940711.jpg" width="669" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="83" lrx="648" lry="687" cx="347" cy="385" r="302" rotate="0"/>
+  <desc type="modified">2026-04-29T18:38:36.369Z</desc>
+</surface>

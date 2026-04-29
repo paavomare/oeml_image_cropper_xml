@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_92147e92-63cb-41b6-997b-e66d44179d3f" n="concentus-musicus-wien">
+  <desc type="filename">Concentus_musicus_Wien.xml</desc>
+  <graphic url="Concentus_musicus.jpg" width="1228" height="905">
+  </graphic>
+  <zone type="medallionCrop" ulx="162" uly="0" lrx="1067" lry="905" cx="615" cy="453" r="453" rotate="0"/>
+  <desc type="modified">2026-04-29T19:59:41.577Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_967cb49e-2c0b-49cd-94b2-ba5297a402bd" n="zadek-hilde">
+  <desc type="filename">Zadek_Hilde.xml</desc>
+  <graphic url="bildarchivaustria/746_B8080637T8080641.jpg" width="588" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="79" lrx="588" lry="667" cx="294" cy="373" r="294" rotate="0"/>
+  <desc type="modified">2026-04-29T18:58:44.429Z</desc>
+</surface>

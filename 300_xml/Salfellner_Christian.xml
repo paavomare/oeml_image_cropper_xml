@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6675a058-6f96-4d08-bbf3-58ea88e4274c" n="salfellner-christian">
+  <desc type="filename">Salfellner_Christian.xml</desc>
+  <graphic url="Salfellner_Christian.jpg" width="1100" height="734">
+  </graphic>
+  <zone type="medallionCrop" ulx="384" uly="33" lrx="962" lry="611" cx="673" cy="322" r="289" rotate="0"/>
+  <desc type="modified">2026-04-29T18:02:33.854Z</desc>
+</surface>

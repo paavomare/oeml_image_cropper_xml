@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f4327208-06dd-4fbb-975c-07ad00271c89" n="wawak-milo-von">
+  <desc type="filename">Wawak_Milo_von.xml</desc>
+  <graphic url="bildarchivaustria/136_B677506T3623408.jpg" width="800" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="10" uly="215" lrx="539" lry="744" cx="275" cy="480" r="265" rotate="0"/>
+  <desc type="modified">2026-04-29T18:24:56.965Z</desc>
+</surface>

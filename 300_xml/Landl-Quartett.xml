@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fed1252a-2ada-4e28-a309-94e1de1a8b6a" n="landl-quartett">
+  <desc type="filename">Landl-Quartett.xml</desc>
+  <graphic url="Landl-Quartett.jpg" width="459" height="457">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="31" lrx="418" lry="415" cx="226" cy="223" r="192" rotate="0"/>
+  <desc type="modified">2026-04-29T18:19:56.019Z</desc>
+</surface>

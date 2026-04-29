@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8ee4e667-ef4c-4607-a80c-577e4fc3235d" n="milder-familie">
+  <desc type="filename">Milder_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9276946T9276951.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="121" lrx="529" lry="624" cx="278" cy="373" r="252" rotate="0"/>
+  <desc type="modified">2026-04-29T18:11:57.489Z</desc>
+</surface>

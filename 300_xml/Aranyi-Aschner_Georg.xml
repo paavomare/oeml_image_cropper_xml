@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9983d8b6-eebf-4ca6-ac85-f9ae281eef32" n="aranyi-aschner-georg">
+  <desc type="filename">Aranyi-Aschner_Georg.xml</desc>
+  <graphic url="Aranyi-Aschner_Georg.jpg" width="646" height="332">
+  </graphic>
+  <zone type="medallionCrop" ulx="84" uly="0" lrx="416" lry="332" cx="250" cy="166" r="166" rotate="0"/>
+  <desc type="modified">2026-04-29T19:42:58.353Z</desc>
+</surface>

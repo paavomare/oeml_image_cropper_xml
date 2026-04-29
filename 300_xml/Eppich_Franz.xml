@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3de7bbed-4350-4eee-a308-d9da1f5cb1da" n="eppich-franz">
+  <desc type="filename">Eppich_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9253252T9253257.jpg" width="526" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="134" uly="232" lrx="384" lry="483" cx="259" cy="357" r="125" rotate="0"/>
+  <desc type="modified">2026-04-29T18:12:50.199Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_20f7da32-7373-45f0-895e-ca6bddf81ea8" n="fibich-zdenko">
+  <desc type="filename">Fibich_Zdenko.xml</desc>
+  <graphic url="Fibich_Zdenko.jpg" width="499" height="626">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="499" lry="517" cx="250" cy="268" r="250" rotate="0"/>
+  <desc type="modified">2026-04-29T19:40:49.321Z</desc>
+</surface>

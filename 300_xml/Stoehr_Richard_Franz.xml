@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f8172629-ef71-4464-980b-9289752ab030" n="stoehr-richard-franz">
+  <desc type="filename">Stoehr_Richard_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_1106_B10002779T20036439.jpg" width="587" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="60" uly="50" lrx="574" lry="565" cx="317" cy="307" r="257" rotate="0"/>
+  <desc type="modified">2026-04-29T19:01:55.736Z</desc>
+</surface>

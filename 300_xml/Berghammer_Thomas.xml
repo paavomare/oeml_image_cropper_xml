@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1d80d935-c35f-4e61-b2b9-f6a2033d5995" n="berghammer-thomas">
+  <desc type="filename">Berghammer_Thomas.xml</desc>
+  <graphic url="Berghammer_Thomas_2025.jpg" width="1024" height="1000">
+  </graphic>
+  <zone type="medallionCrop" ulx="12" uly="0" lrx="1012" lry="1000" cx="512" cy="500" r="500" rotate="0"/>
+  <desc type="modified">2026-04-29T17:48:47.610Z</desc>
+</surface>

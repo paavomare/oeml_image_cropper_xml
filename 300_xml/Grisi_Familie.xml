@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_15fad02c-79f4-4cc0-b307-a10174191eca" n="grisi-familie">
+  <desc type="filename">Grisi_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9276290T9276295.jpg" width="526" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="92" lrx="496" lry="561" cx="262" cy="327" r="235" rotate="0"/>
+  <desc type="modified">2026-04-29T19:59:07.942Z</desc>
+</surface>

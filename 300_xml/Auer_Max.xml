@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c3fcea3d-cc93-4ecf-b7b9-48d80b6289b9" n="auer-max">
+  <desc type="filename">Auer_Max.xml</desc>
+  <graphic url="Auer_Max.jpg" width="413" height="631">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="71" lrx="413" lry="484" cx="207" cy="278" r="207" rotate="0"/>
+  <desc type="modified">2026-04-29T17:53:20.211Z</desc>
+</surface>

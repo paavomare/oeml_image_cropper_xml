@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9f3701e2-427a-4fe7-8c77-14afa520c4c0" n="fellwock-ottilie">
+  <desc type="filename">Fellwock_Ottilie.xml</desc>
+  <graphic url="Fellwock_Ottilie.jpg" width="843" height="856">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="843" lry="843" cx="422" cy="422" r="422" rotate="0"/>
+  <desc type="modified">2026-04-29T19:08:00.624Z</desc>
+</surface>

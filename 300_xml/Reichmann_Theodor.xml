@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_913c4583-a190-447c-a051-8fe9f4a2eedc" n="reichmann-theodor">
+  <desc type="filename">Reichmann_Theodor.xml</desc>
+  <graphic url="Reichmann_1896.jpg" width="784" height="975">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="69" lrx="724" lry="759" cx="379" cy="414" r="345" rotate="0"/>
+  <desc type="modified">2026-04-29T19:12:16.828Z</desc>
+</surface>

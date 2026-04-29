@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_389a2d1a-fac9-405d-bf21-9e3752000747" n="schoenerer-alexandrine-von">
+  <desc type="filename">Schoenerer_Alexandrine_von.xml</desc>
+  <graphic url="Schoenerer_Alexandrine_von.jpg" width="850" height="1041">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="27" lrx="850" lry="877" cx="425" cy="452" r="425" rotate="0"/>
+  <desc type="modified">2026-04-29T17:52:46.584Z</desc>
+</surface>

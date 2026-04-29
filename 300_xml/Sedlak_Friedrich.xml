@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_874387dc-7c33-449e-947f-07be82087e27" n="sedlak-friedrich">
+  <desc type="filename">Sedlak_Friedrich.xml</desc>
+  <graphic url="Sedlak-Winkler-Quartett.jpg" width="567" height="413">
+  </graphic>
+  <zone type="medallionCrop" ulx="400" uly="58" lrx="563" lry="222" cx="482" cy="140" r="82" rotate="0"/>
+  <desc type="modified">2026-04-29T19:23:08.348Z</desc>
+</surface>

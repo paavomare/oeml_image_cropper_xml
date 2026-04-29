@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d1ca9957-cd73-422a-ab1c-42f5a2f2073f" n="toelzer-familie">
+  <desc type="filename">Toelzer_Familie.xml</desc>
+  <graphic url="Toelzer_Konrad.jpg" width="227" height="277">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="7" lrx="227" lry="234" cx="114" cy="121" r="114" rotate="0"/>
+  <desc type="modified">2026-04-29T19:17:55.847Z</desc>
+</surface>

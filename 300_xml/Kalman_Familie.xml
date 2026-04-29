@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5108ad83-dced-4791-8438-f74f25f2ac59" n="kalman-familie">
+  <desc type="filename">Kalman_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10002589T10002593.jpg" width="566" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="57" uly="128" lrx="566" lry="637" cx="312" cy="383" r="255" rotate="0"/>
+  <desc type="modified">2026-04-29T20:00:16.913Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf715965-a6cd-425e-85ac-5116f5b35c86" n="seekirchen-am-wallersee">
+  <desc type="filename">Seekirchen_am_Wallersee.xml</desc>
+  <graphic url="bildarchivaustria/BA_1073_B18665954T18665959.jpg" width="800" height="576">
+  </graphic>
+  <zone type="medallionCrop" ulx="99" uly="30" lrx="621" lry="552" cx="360" cy="291" r="261" rotate="0"/>
+  <desc type="modified">2026-04-29T19:22:36.165Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_84258762-edbb-413d-95a8-20ed14809525" n="rozsavoelgyi-familie">
+  <desc type="filename">Rozsavoelgyi_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9258246T9258251.jpg" width="610" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="68" uly="129" lrx="568" lry="628" cx="318" cy="379" r="250" rotate="0"/>
+  <desc type="modified">2026-04-29T20:11:28.150Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_588838ad-06f0-4f4e-b88d-c26c64d7a823" n="taux-alois">
+  <desc type="filename">Taux_Alois.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9263632T9263637.jpg" width="611" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="125" lrx="540" lry="600" cx="303" cy="363" r="238" rotate="0"/>
+  <desc type="modified">2026-04-29T19:59:37.665Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4ca8c0d6-cad2-49a2-8df7-c7ac862ef609" n="oberlaender-helene">
+  <desc type="filename">Oberlaender_Helene.xml</desc>
+  <graphic url="Oberlaender_Helene.jpg" width="666" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="41" uly="57" lrx="625" lry="640" cx="333" cy="349" r="292" rotate="0"/>
+  <desc type="modified">2026-04-29T19:25:34.948Z</desc>
+</surface>

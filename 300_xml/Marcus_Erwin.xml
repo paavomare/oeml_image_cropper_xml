@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2bd2a7ba-2f07-457f-b354-095feaf7bd1f" n="marcus-erwin">
+  <desc type="filename">Marcus_Erwin.xml</desc>
+  <graphic url="Marcus_Erwin.jpg" width="562" height="751">
+  </graphic>
+  <zone type="medallionCrop" ulx="38" uly="103" lrx="562" lry="628" cx="300" cy="365" r="262" rotate="0"/>
+  <desc type="modified">2026-04-29T18:18:46.936Z</desc>
+</surface>

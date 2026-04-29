@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_21574366-3eb6-4506-bcdc-2247dfa88183" n="tittel-ernst">
+  <desc type="filename">Tittel_Ernst.xml</desc>
+  <graphic url="bildarchivaustria/BA_949_B13592912T13592917.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="42" lrx="506" lry="534" cx="261" cy="288" r="246" rotate="0"/>
+  <desc type="modified">2026-04-29T19:42:51.467Z</desc>
+</surface>

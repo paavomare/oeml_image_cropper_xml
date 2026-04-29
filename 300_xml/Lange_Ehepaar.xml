@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_56e1cf69-0ced-443b-9210-1427afe43230" n="lange-ehepaar">
+  <desc type="filename">Lange_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9125011T9125016.jpg" width="510" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="41" uly="89" lrx="472" lry="521" cx="257" cy="305" r="216" rotate="0"/>
+  <desc type="modified">2026-04-29T18:31:28.470Z</desc>
+</surface>

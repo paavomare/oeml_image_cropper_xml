@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a5ebef7a-0fce-4295-a15f-02aefb25ee76" n="rochelle-marie">
+  <desc type="filename">Rochelle_Marie.xml</desc>
+  <graphic url="Rochelle.jpg" width="448" height="607">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="448" lry="479" cx="224" cy="255" r="224" rotate="0"/>
+  <desc type="modified">2026-04-29T19:42:00.973Z</desc>
+</surface>

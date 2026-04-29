@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_179770fa-d40f-47cc-8b8b-f89f81865811" n="zichy-vasonykeo-familie">
+  <desc type="filename">Zichy-Vasonykeo_Familie.xml</desc>
+  <graphic url="bildarchivaustria/115_B3535451T3535455.jpg" width="525" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="92" uly="171" lrx="448" lry="527" cx="270" cy="349" r="178" rotate="0"/>
+  <desc type="modified">2026-04-29T17:52:19.583Z</desc>
+</surface>

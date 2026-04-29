@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9fc6f694-9300-4302-810a-e6e6512bf51b" n="amer-josef">
+  <desc type="filename">Amer_Josef.xml</desc>
+  <graphic url="Amer_Josef.jpg" width="454" height="734">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="84" lrx="438" lry="505" cx="227" cy="295" r="211" rotate="0"/>
+  <desc type="modified">2026-04-29T19:06:25.880Z</desc>
+</surface>

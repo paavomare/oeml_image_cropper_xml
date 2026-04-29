@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c60c7831-8e43-4773-9668-04caf37f5675" n="jeritza-maria">
+  <desc type="filename">Jeritza_Maria.xml</desc>
+  <graphic url="bildarchivaustria/523_B5619488T5619493.jpg" width="556" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="62" lrx="532" lry="553" cx="287" cy="307" r="245" rotate="0"/>
+  <desc type="modified">2026-04-29T18:59:07.828Z</desc>
+</surface>

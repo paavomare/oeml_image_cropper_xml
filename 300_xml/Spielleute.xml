@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1f799639-d347-4da7-91c7-4d3d2b869692" n="spielleute">
+  <desc type="filename">Spielleute.xml</desc>
+  <graphic url="Spielleute.jpg" width="413" height="472">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="413" lry="413" cx="207" cy="207" r="207" rotate="0"/>
+  <desc type="modified">2026-04-29T18:50:46.077Z</desc>
+</surface>

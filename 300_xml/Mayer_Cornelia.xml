@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fa3e3c55-90ac-4e52-a125-b693765952f7" n="mayer-cornelia">
+  <desc type="filename">Mayer_Cornelia.xml</desc>
+  <graphic url="Mayer_Cornelia.jpg" width="992" height="991">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="2" lrx="939" lry="895" cx="492" cy="449" r="447" rotate="0"/>
+  <desc type="modified">2026-04-29T18:52:37.264Z</desc>
+</surface>

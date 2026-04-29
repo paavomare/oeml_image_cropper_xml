@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cc8a77ee-cd91-40d3-a8e8-79a332cb3a87" n="hilbrand-familie">
+  <desc type="filename">Hilbrand_Familie.xml</desc>
+  <graphic url="Hilbrand_Familie.jpg" width="333" height="509">
+  </graphic>
+  <zone type="medallionCrop" ulx="8" uly="29" lrx="292" lry="314" cx="150" cy="171" r="142" rotate="0"/>
+  <desc type="modified">2026-04-29T18:15:17.331Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_193b117d-a188-47db-ba77-e1d22fc615a4" n="beck-karl">
+  <desc type="filename">Beck_Karl.xml</desc>
+  <graphic url="Beck_Karl.jpg" width="329" height="517">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="329" lry="329" cx="165" cy="165" r="165" rotate="0"/>
+  <desc type="modified">2026-04-29T17:47:47.008Z</desc>
+</surface>

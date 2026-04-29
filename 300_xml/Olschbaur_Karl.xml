@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a4ed37ae-aa06-4823-baab-af5bcb5810b7" n="olschbaur-karl">
+  <desc type="filename">Olschbaur_Karl.xml</desc>
+  <graphic url="Olschbaur_Carl.jpg" width="768" height="957">
+  </graphic>
+  <zone type="medallionCrop" ulx="57" uly="89" lrx="703" lry="735" cx="380" cy="412" r="323" rotate="0"/>
+  <desc type="modified">2026-04-29T19:10:55.568Z</desc>
+</surface>

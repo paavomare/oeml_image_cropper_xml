@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_789070a8-dd54-4715-aafb-ce504873b957" n="treumann-louis">
+  <desc type="filename">Treumann_Louis.xml</desc>
+  <graphic url="bildarchivaustria/BA_955_B13834112T13834117.jpg" width="800" height="579">
+  </graphic>
+  <zone type="medallionCrop" ulx="98" uly="96" lrx="400" lry="398" cx="249" cy="247" r="151" rotate="0"/>
+  <desc type="modified">2026-04-29T19:57:27.027Z</desc>
+</surface>

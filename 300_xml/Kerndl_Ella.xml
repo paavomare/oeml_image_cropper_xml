@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6a0f1c21-501e-49b2-9107-9432684edfed" n="kerndl-ella">
+  <desc type="filename">Kerndl_Ella.xml</desc>
+  <graphic url="Kerndl_Ella.jpg" width="391" height="490">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="35" lrx="346" lry="337" cx="196" cy="186" r="151" rotate="0"/>
+  <desc type="modified">2026-04-29T18:29:18.649Z</desc>
+</surface>

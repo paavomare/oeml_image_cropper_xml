@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1c8b395a-c15c-4ab2-b7fb-a6134f1b7e8f" n="waechter-eberhard">
+  <desc type="filename">Waechter_Eberhard.xml</desc>
+  <graphic url="bildarchivaustria/BA_901_B9996844T9996849.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="120" lrx="568" lry="688" cx="284" cy="404" r="284" rotate="0"/>
+  <desc type="modified">2026-04-29T18:57:39.626Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7c311196-178a-4fae-9356-49faa0b03f5d" n="krall-karl">
+  <desc type="filename">Krall_Karl.xml</desc>
+  <graphic url="Krall_Karl.jpg" width="312" height="490">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="312" lry="323" cx="156" cy="167" r="156" rotate="0"/>
+  <desc type="modified">2026-04-29T19:27:26.114Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_85595123-97a0-4f68-bd25-511bdce91562" n="laendler">
+  <desc type="filename">Laendler.xml</desc>
+  <graphic url="Laendler_Foto.jpg" width="685" height="950">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="88" lrx="685" lry="773" cx="343" cy="431" r="343" rotate="0"/>
+  <desc type="modified">2026-04-29T18:39:42.253Z</desc>
+</surface>

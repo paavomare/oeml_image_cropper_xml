@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2296f781-5906-44fe-8b46-81a1fddfd150" n="lanner-familie">
+  <desc type="filename">Lanner_Familie.xml</desc>
+  <graphic url="bildarchivaustria/3_B1209306T1209310.jpg" width="519" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="519" lry="558" cx="260" cy="299" r="260" rotate="0"/>
+  <desc type="modified">2026-04-29T19:03:04.627Z</desc>
+</surface>

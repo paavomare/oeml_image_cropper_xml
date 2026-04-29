@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6857a0a9-2955-4d3a-b195-c49351f6e103" n="kaffeehausmusik">
+  <desc type="filename">Kaffeehausmusik.xml</desc>
+  <graphic url="Kaffeehausmusik.jpg" width="735" height="572">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="572" lry="572" cx="286" cy="286" r="286" rotate="0"/>
+  <desc type="modified">2026-04-29T19:12:53.768Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b2e774a2-6bf8-461d-9a2c-c1dee719a496" n="sauer-franz">
+  <desc type="filename">Sauer_Franz.xml</desc>
+  <graphic url="sauer_franz.jpg" width="366" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="22" uly="26" lrx="348" lry="352" cx="185" cy="189" r="163" rotate="0"/>
+  <desc type="modified">2026-04-29T18:47:01.325Z</desc>
+</surface>

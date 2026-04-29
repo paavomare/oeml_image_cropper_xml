@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dd497991-4d8e-41ab-8001-704cfdd26458" n="ritzinger-josefine">
+  <desc type="filename">Ritzinger_Josefine.xml</desc>
+  <graphic url="Ritzinger_Josefine_1908.jpeg" width="442" height="958">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="4" lrx="442" lry="446" cx="221" cy="225" r="221" rotate="0"/>
+  <desc type="modified">2026-04-29T20:08:54.262Z</desc>
+</surface>

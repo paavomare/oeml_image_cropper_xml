@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6b61ea8d-b1be-45e6-8c41-562d7dd633e8" n="heller-ehepaar">
+  <desc type="filename">Heller_Ehepaar.xml</desc>
+  <graphic url="Heller_Emma.jpg" width="397" height="496">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="57" lrx="397" lry="454" cx="199" cy="256" r="199" rotate="0"/>
+  <desc type="modified">2026-04-29T18:32:17.945Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_41c15048-ecc9-4658-adfe-3ce7a5b0f5f7" n="orgelklavier">
+  <desc type="filename">Orgelklavier.xml</desc>
+  <graphic url="Orgelklavier_KHM.jpg" width="1734" height="1584">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1584" lry="1584" cx="792" cy="792" r="792" rotate="0"/>
+  <desc type="modified">2026-04-29T18:12:11.946Z</desc>
+</surface>

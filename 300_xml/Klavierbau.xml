@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f6eba62c-7eaa-46cf-b85e-4fc6ea66a4e3" n="klavierbau">
+  <desc type="filename">Klavierbau.xml</desc>
+  <graphic url="Klavierbau1.jpg" width="425" height="549">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="124" lrx="425" lry="549" cx="213" cy="337" r="213" rotate="0"/>
+  <desc type="modified">2026-04-29T19:57:53.748Z</desc>
+</surface>

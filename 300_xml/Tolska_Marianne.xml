@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1312088d-15fb-43cc-8cc1-38d3179cdabb" n="tolska-marianne">
+  <desc type="filename">Tolska_Marianne.xml</desc>
+  <graphic url="Golz_Marianne.jpg" width="2887" height="4173">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="2887" lry="2887" cx="1444" cy="1444" r="1444" rotate="0"/>
+  <desc type="modified">2026-04-29T19:00:02.305Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a1b8586f-86e5-4a94-a176-c9c9065ed917" n="hiller-ferdinand">
+  <desc type="filename">Hiller_Ferdinand.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9234026T9234031.jpg" width="615" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="130" lrx="538" lry="604" cx="301" cy="367" r="237" rotate="0"/>
+  <desc type="modified">2026-04-29T18:56:06.125Z</desc>
+</surface>

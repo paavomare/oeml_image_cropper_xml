@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_43e9fc3f-57fc-459e-8cb0-fa33491cb7ab" n="rueegg-mathias">
+  <desc type="filename">Rueegg_Mathias.xml</desc>
+  <graphic url="Rueegg_Mathias_2017.jpg" width="769" height="619">
+  </graphic>
+  <zone type="medallionCrop" ulx="177" uly="27" lrx="769" lry="619" cx="473" cy="323" r="296" rotate="0"/>
+  <desc type="modified">2026-04-29T17:53:47.533Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b143ef28-5c0b-4052-86e9-73ae56cb2c54" n="pischek-johann">
+  <desc type="filename">Pischek_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257595T9257600.jpg" width="656" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="138" uly="222" lrx="534" lry="618" cx="336" cy="420" r="198" rotate="0"/>
+  <desc type="modified">2026-04-29T18:57:48.683Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cbdb9004-6474-42ad-8e78-0b5093585f81" n="gradischnig-herwig">
+  <desc type="filename">Gradischnig_Herwig.xml</desc>
+  <graphic url="Gradischnig_Herwig.jpg" width="1100" height="734">
+  </graphic>
+  <zone type="medallionCrop" ulx="79" uly="0" lrx="813" lry="734" cx="446" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-29T19:15:44.463Z</desc>
+</surface>

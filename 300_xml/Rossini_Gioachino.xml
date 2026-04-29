@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4a5aec83-4cd5-48bd-85f1-4b1d739e7090" n="rossini-gioachino">
+  <desc type="filename">Rossini_Gioachino.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9237782T9237787.jpg" width="675" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="99" uly="183" lrx="550" lry="634" cx="325" cy="409" r="226" rotate="0"/>
+  <desc type="modified">2026-04-29T19:13:36.177Z</desc>
+</surface>

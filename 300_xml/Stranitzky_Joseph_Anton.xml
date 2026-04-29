@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c43436ae-13c6-439a-b6d3-9a478e6d428a" n="stranitzky-joseph-anton">
+  <desc type="filename">Stranitzky_Joseph_Anton.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10506096T10506101.jpg" width="519" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="79" lrx="519" lry="598" cx="260" cy="339" r="260" rotate="0"/>
+  <desc type="modified">2026-04-29T18:36:02.979Z</desc>
+</surface>

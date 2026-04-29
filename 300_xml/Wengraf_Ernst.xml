@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c8025505-a89f-4a74-921a-e654c0f13e85" n="wengraf-ernst">
+  <desc type="filename">Wengraf_Ernst.xml</desc>
+  <graphic url="Wengraf_Ernst.jpg" width="567" height="752">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="567" lry="593" cx="284" cy="310" r="284" rotate="0"/>
+  <desc type="modified">2026-04-29T19:06:07.236Z</desc>
+</surface>

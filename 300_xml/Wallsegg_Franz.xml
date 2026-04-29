@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7bcfff72-79bc-4f9d-a897-34183ee93ae1" n="wallsegg-franz">
+  <desc type="filename">Wallsegg_Franz.xml</desc>
+  <graphic url="bildarchivaustria/93_B2951783T2951787.jpg" width="593" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="83" lrx="563" lry="601" cx="304" cy="342" r="259" rotate="0"/>
+  <desc type="modified">2026-04-29T18:34:10.442Z</desc>
+</surface>

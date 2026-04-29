@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7610c624-3804-47bb-93b7-3a6f9c548d42" n="benoni-julius">
+  <desc type="filename">Benoni_Julius.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9248276T9248281.jpg" width="648" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="153" uly="175" lrx="483" lry="505" cx="318" cy="340" r="165" rotate="0"/>
+  <desc type="modified">2026-04-29T18:29:38.579Z</desc>
+</surface>

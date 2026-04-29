@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4cdb7271-d087-4371-be4f-9f1b1fa14095" n="jahn-wilhelm">
+  <desc type="filename">Jahn_Wilhelm.xml</desc>
+  <graphic url="bildarchivaustria/BA_928_B3579840T12483188.jpg" width="582" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="125" lrx="575" lry="676" cx="299" cy="401" r="276" rotate="0"/>
+  <desc type="modified">2026-04-29T20:06:16.850Z</desc>
+</surface>

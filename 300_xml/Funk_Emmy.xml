@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3ef21c33-cc5b-4552-aa92-798a47251776" n="funk-emmy">
+  <desc type="filename">Funk_Emmy.xml</desc>
+  <graphic url="Funk_Emmy.jpg" width="413" height="649">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="42" lrx="368" lry="386" cx="196" cy="214" r="172" rotate="0"/>
+  <desc type="modified">2026-04-29T20:00:31.875Z</desc>
+</surface>

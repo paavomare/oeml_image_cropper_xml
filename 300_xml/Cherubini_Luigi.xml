@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bd47d04b-e67f-44c2-931a-128b12b0d7ee" n="cherubini-luigi">
+  <desc type="filename">Cherubini_Luigi.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9232987T9232992.jpg" width="542" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="142" lrx="496" lry="587" cx="274" cy="364" r="222" rotate="0"/>
+  <desc type="modified">2026-04-29T19:16:02.099Z</desc>
+</surface>

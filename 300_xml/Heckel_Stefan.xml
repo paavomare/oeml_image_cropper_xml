@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5774f765-d358-43b7-a795-956fa8bb3659" n="heckel-stefan">
+  <desc type="filename">Heckel_Stefan.xml</desc>
+  <graphic url="Heckel_Stefan.jpg" width="426" height="284">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="0" lrx="302" lry="284" cx="160" cy="142" r="142" rotate="0"/>
+  <desc type="modified">2026-04-29T19:00:09.712Z</desc>
+</surface>

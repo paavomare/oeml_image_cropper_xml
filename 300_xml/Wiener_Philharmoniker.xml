@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bc6ee40f-d4f3-4bcf-bcc0-69f4c6c29d04" n="wiener-philharmoniker">
+  <desc type="filename">Wiener_Philharmoniker.xml</desc>
+  <graphic url="bildarchivaustria/143_B653560T3652869.jpg" width="800" height="614">
+  </graphic>
+  <zone type="medallionCrop" ulx="157" uly="116" lrx="654" lry="614" cx="406" cy="365" r="249" rotate="0"/>
+  <desc type="modified">2026-04-29T19:14:34.101Z</desc>
+</surface>

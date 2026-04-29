@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6ebc8472-b45b-44c2-8dfd-154c7175cfbf" n="forster-josef">
+  <desc type="filename">Forster_Josef.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9253028T9253033.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="102" uly="122" lrx="478" lry="499" cx="290" cy="310" r="188" rotate="0"/>
+  <desc type="modified">2026-04-29T19:39:29.282Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_446271f6-a861-4110-bcdb-6be40e1aa17a" n="liberati-antimo">
+  <desc type="filename">Liberati_Antimo.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247109T9247114.jpg" width="620" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="63" uly="86" lrx="551" lry="574" cx="307" cy="330" r="244" rotate="0"/>
+  <desc type="modified">2026-04-29T19:11:08.348Z</desc>
+</surface>

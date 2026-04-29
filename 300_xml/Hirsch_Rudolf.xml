@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_02d34127-9fb1-4487-baac-4f9889f39d59" n="hirsch-rudolf">
+  <desc type="filename">Hirsch_Rudolf.xml</desc>
+  <graphic url="bildarchivaustria/106_B3506450T3506454.jpg" width="517" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="119" lrx="432" lry="523" cx="230" cy="321" r="202" rotate="0"/>
+  <desc type="modified">2026-04-29T18:23:28.168Z</desc>
+</surface>

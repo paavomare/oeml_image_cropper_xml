@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2820308d-4751-4251-b586-82b7bf095dd9" n="oeggl-georg">
+  <desc type="filename">Oeggl_Georg.xml</desc>
+  <graphic url="Oeggl_1946.jpg" width="256" height="366">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="88" lrx="256" lry="344" cx="128" cy="216" r="128" rotate="0"/>
+  <desc type="modified">2026-04-29T19:25:09.848Z</desc>
+</surface>

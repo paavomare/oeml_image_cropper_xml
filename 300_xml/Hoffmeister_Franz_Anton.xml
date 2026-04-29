@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7833810c-8fda-4437-94cb-c65fe0e74250" n="hoffmeister-franz-anton">
+  <desc type="filename">Hoffmeister_Franz_Anton.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247444T9247449.jpg" width="581" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="137" uly="191" lrx="438" lry="492" cx="288" cy="342" r="151" rotate="0"/>
+  <desc type="modified">2026-04-29T18:43:37.309Z</desc>
+</surface>

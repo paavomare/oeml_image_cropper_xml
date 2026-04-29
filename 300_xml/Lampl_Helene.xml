@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e7f35fe8-30f3-4e95-be7e-7b6db570e73d" n="lampl-helene">
+  <desc type="filename">Lampl_Helene.xml</desc>
+  <graphic url="Lampl_Helene.jpg" width="314" height="472">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="314" lry="336" cx="157" cy="179" r="157" rotate="0"/>
+  <desc type="modified">2026-04-29T20:04:12.329Z</desc>
+</surface>

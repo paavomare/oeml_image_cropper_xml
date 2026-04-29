@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c778e1a1-72a7-4ccd-9f35-299aa7de84c7" n="gallos-familie">
+  <desc type="filename">Gallos_Familie.xml</desc>
+  <graphic url="bildarchivaustria/742_B8064556T8064560.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="154" lrx="552" lry="663" cx="298" cy="409" r="255" rotate="0"/>
+  <desc type="modified">2026-04-29T19:16:21.167Z</desc>
+</surface>

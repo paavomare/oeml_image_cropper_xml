@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_63b58caf-50af-4b4f-aebb-8f6813284be8" n="chopin-frederic">
+  <desc type="filename">Chopin_Frederic.xml</desc>
+  <graphic url="Chopin_1874.jpg" width="684" height="961">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="684" lry="714" cx="342" cy="372" r="342" rotate="0"/>
+  <desc type="modified">2026-04-29T18:42:55.334Z</desc>
+</surface>

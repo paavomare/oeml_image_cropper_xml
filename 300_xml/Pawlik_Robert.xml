@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f6714643-d0d6-41da-ae34-7e812e59c22b" n="pawlik-robert">
+  <desc type="filename">Pawlik_Robert.xml</desc>
+  <graphic url="Pawlik_Robert_2013.jpg" width="1134" height="753">
+  </graphic>
+  <zone type="medallionCrop" ulx="270" uly="0" lrx="1023" lry="753" cx="647" cy="377" r="377" rotate="0"/>
+  <desc type="modified">2026-04-29T18:34:42.379Z</desc>
+</surface>

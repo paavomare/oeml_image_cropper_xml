@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e242eb9d-d83a-4d5f-ac00-af360e13400f" n="unterhaltungsmusik">
+  <desc type="filename">Unterhaltungsmusik.xml</desc>
+  <graphic url="Geiger-Robitschko_KaB.jpg" width="1966" height="3111">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="593" lrx="1966" lry="2559" cx="983" cy="1576" r="983" rotate="0"/>
+  <desc type="modified">2026-04-29T19:28:23.611Z</desc>
+</surface>

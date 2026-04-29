@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_838f56c5-b05b-42a1-9b86-ce1a9c3afe4d" n="fuchs-familie-2">
+  <desc type="filename">Fuchs_Familie_2.xml</desc>
+  <graphic url="bildarchivaustria/BA_956_B14181589T14181594.jpg" width="526" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="112" lrx="497" lry="580" cx="263" cy="346" r="234" rotate="0"/>
+  <desc type="modified">2026-04-29T19:07:29.111Z</desc>
+</surface>

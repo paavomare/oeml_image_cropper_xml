@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_511efb8e-469b-40c3-b93c-e3abd1c02d17" n="novotna-jarmila">
+  <desc type="filename">Novotna_Jarmila.xml</desc>
+  <graphic url="Novotna_Jarmila.jpg" width="482" height="692">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="482" lry="482" cx="241" cy="241" r="241" rotate="0"/>
+  <desc type="modified">2026-04-29T18:15:46.299Z</desc>
+</surface>

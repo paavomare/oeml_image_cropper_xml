@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c116b0dd-6d14-4f7d-9e01-a8c406f86fcd" n="rieger-otto">
+  <desc type="filename">Rieger_Otto.xml</desc>
+  <graphic url="Rieger.jpg" width="404" height="616">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="68" lrx="404" lry="472" cx="202" cy="270" r="202" rotate="0"/>
+  <desc type="modified">2026-04-29T19:19:33.253Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3267cbbc-7847-4318-8d9c-c4d99f6fef97" n="forster-ellen">
+  <desc type="filename">Forster_Ellen.xml</desc>
+  <graphic url="bildarchivaustria/BA_955_B13823128T13823133.jpg" width="608" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="50" uly="105" lrx="555" lry="610" cx="303" cy="358" r="253" rotate="0"/>
+  <desc type="modified">2026-04-29T19:23:21.140Z</desc>
+</surface>

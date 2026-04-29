@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ccd13065-6ceb-4d47-8224-ead9e55e9bac" n="sporck-familie">
+  <desc type="filename">Sporck_Familie.xml</desc>
+  <graphic url="bildarchivaustria/99_B3488632T3488636.jpg" width="586" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="50" lrx="550" lry="572" cx="289" cy="311" r="261" rotate="0"/>
+  <desc type="modified">2026-04-29T18:39:13.547Z</desc>
+</surface>

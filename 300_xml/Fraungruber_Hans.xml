@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_132ca6f3-a263-4d71-99ee-34f6a5a925bf" n="fraungruber-hans">
+  <desc type="filename">Fraungruber_Hans.xml</desc>
+  <graphic url="Fraungruber_Hans_2.jpg" width="596" height="871">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="596" lry="635" cx="298" cy="337" r="298" rotate="0"/>
+  <desc type="modified">2026-04-29T17:42:49.117Z</desc>
+</surface>

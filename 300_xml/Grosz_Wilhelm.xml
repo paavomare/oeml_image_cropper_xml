@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eefec2d7-0ab2-40a5-9445-9d455ae87474" n="grosz-wilhelm">
+  <desc type="filename">Grosz_Wilhelm.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449783T10449788.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="38" uly="92" lrx="512" lry="566" cx="275" cy="329" r="237" rotate="0"/>
+  <desc type="modified">2026-04-29T19:15:16.940Z</desc>
+</surface>

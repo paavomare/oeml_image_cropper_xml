@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_82bb9582-77d9-4648-9bd9-784630c32bfd" n="jensen-adolf">
+  <desc type="filename">Jensen_Adolf.xml</desc>
+  <graphic url="Jensen_Adolf.jpg" width="404" height="580">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="20" lrx="390" lry="391" cx="204" cy="206" r="186" rotate="0"/>
+  <desc type="modified">2026-04-29T18:32:06.151Z</desc>
+</surface>

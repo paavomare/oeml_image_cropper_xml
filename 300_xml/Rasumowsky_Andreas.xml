@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_adb59992-e7a2-4300-9761-98fd0de77719" n="rasumowsky-andreas">
+  <desc type="filename">Rasumowsky_Andreas.xml</desc>
+  <graphic url="bildarchivaustria/715_B7925529T7925533.jpg" width="593" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="106" lrx="547" lry="621" cx="289" cy="364" r="258" rotate="0"/>
+  <desc type="modified">2026-04-29T18:53:49.236Z</desc>
+</surface>

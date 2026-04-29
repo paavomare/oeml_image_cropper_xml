@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1c7b16a7-bf76-46e4-854c-74d74f149da4" n="bienenfeld-elsa">
+  <desc type="filename">Bienenfeld_Elsa.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B13012975T13012980.jpg" width="605" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="445" lry="467" cx="223" cy="244" r="223" rotate="0"/>
+  <desc type="modified">2026-04-29T17:46:38.197Z</desc>
+</surface>

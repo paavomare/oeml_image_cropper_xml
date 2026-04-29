@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_93fda447-098c-43db-93c6-57c7d0ba629d" n="kienzl-wilhelm">
+  <desc type="filename">Kienzl_Wilhelm.xml</desc>
+  <graphic url="Kienzl_Wilhelm.jpg" width="550" height="759">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="550" lry="579" cx="275" cy="304" r="275" rotate="0"/>
+  <desc type="modified">2026-04-29T18:47:18.564Z</desc>
+</surface>

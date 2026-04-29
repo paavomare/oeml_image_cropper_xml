@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a0241f0a-40bd-44bd-bc7a-ad7d1917a25b" n="bayer-joseph">
+  <desc type="filename">Bayer_Joseph.xml</desc>
+  <graphic url="bayer_josef.jpg" width="321" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="40" lrx="307" lry="331" cx="161" cy="186" r="146" rotate="0"/>
+  <desc type="modified">2026-04-29T18:00:02.704Z</desc>
+</surface>

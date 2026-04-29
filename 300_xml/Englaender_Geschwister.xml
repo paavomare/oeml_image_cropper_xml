@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4ebb6614-1bf6-4638-92de-b675aae38df9" n="englaender-geschwister">
+  <desc type="filename">Englaender_Geschwister.xml</desc>
+  <graphic url="Englaender_Carla.jpg" width="796" height="912">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="796" lry="796" cx="398" cy="398" r="398" rotate="0"/>
+  <desc type="modified">2026-04-29T19:37:56.036Z</desc>
+</surface>

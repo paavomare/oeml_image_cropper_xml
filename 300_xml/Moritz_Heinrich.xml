@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0321a9a4-b53b-4d83-95bd-9f30711b16ef" n="moritz-heinrich">
+  <desc type="filename">Moritz_Heinrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9130358T9130363.jpg" width="598" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="89" lrx="544" lry="581" cx="298" cy="335" r="246" rotate="0"/>
+  <desc type="modified">2026-04-29T19:10:08.937Z</desc>
+</surface>

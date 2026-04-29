@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b59ece51-b52e-43d8-bb0e-452adf8e9597" n="bruck-an-der-leitha">
+  <desc type="filename">Bruck_an_der_Leitha.xml</desc>
+  <graphic url="bildarchivaustria/BA_1055_B18110064T18110069.jpg" width="800" height="579">
+  </graphic>
+  <zone type="medallionCrop" ulx="141" uly="19" lrx="660" lry="538" cx="401" cy="279" r="260" rotate="0"/>
+  <desc type="modified">2026-04-29T19:41:26.774Z</desc>
+</surface>

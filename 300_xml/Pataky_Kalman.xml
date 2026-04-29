@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9268f83c-f71c-436e-953b-ba906efd40c3" n="pataky-kalman">
+  <desc type="filename">Pataky_Kalman.xml</desc>
+  <graphic url="Pataky_Kalman.jpg" width="433" height="576">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="246" lry="246" cx="123" cy="123" r="123" rotate="0"/>
+  <desc type="modified">2026-04-29T17:55:04.690Z</desc>
+</surface>

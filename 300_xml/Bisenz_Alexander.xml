@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_96928e07-4c9d-4c69-a916-963779a66d07" n="bisenz-alexander">
+  <desc type="filename">Bisenz_Alexander.xml</desc>
+  <graphic url="Bisenz_Wurbala.jpg" width="2304" height="3072">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="159" lrx="1963" lry="2121" cx="982" cy="1141" r="982" rotate="0"/>
+  <desc type="modified">2026-04-29T19:35:11.903Z</desc>
+</surface>

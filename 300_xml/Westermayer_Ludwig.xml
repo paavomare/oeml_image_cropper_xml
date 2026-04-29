@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_47ed8322-608e-4698-a649-2975cc1928cf" n="westermayer-ludwig">
+  <desc type="filename">Westermayer_Ludwig.xml</desc>
+  <graphic url="Westermayer.jpg" width="363" height="553">
+  </graphic>
+  <zone type="medallionCrop" ulx="14" uly="97" lrx="344" lry="427" cx="179" cy="262" r="165" rotate="0"/>
+  <desc type="modified">2026-04-29T20:07:25.016Z</desc>
+</surface>

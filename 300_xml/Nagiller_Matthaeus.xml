@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f5c6d171-9271-4ed5-8577-b3d1ef79359e" n="nagiller-matthaeus">
+  <desc type="filename">Nagiller_Matthaeus.xml</desc>
+  <graphic url="Nagiller_Matthaeus.jpg" width="435" height="567">
+  </graphic>
+  <zone type="medallionCrop" ulx="61" uly="89" lrx="372" lry="401" cx="217" cy="245" r="156" rotate="0"/>
+  <desc type="modified">2026-04-29T19:56:22.603Z</desc>
+</surface>

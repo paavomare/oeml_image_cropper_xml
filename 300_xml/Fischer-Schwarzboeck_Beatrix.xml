@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_955a31ca-2533-46dd-a138-2344a1e2e9c2" n="fischer-schwarzboeck-beatrix">
+  <desc type="filename">Fischer-Schwarzboeck_Beatrix.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9277670T9277675.jpg" width="570" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="59" lrx="520" lry="562" cx="269" cy="310" r="251" rotate="0"/>
+  <desc type="modified">2026-04-29T18:38:59.951Z</desc>
+</surface>

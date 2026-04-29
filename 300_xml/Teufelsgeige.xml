@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9d7f9928-4178-4f5c-983e-03f4378cf466" n="teufelsgeige">
+  <desc type="filename">Teufelsgeige.xml</desc>
+  <graphic url="Teufelsgeige.jpg" width="1282" height="2489">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="374" lrx="1282" lry="1656" cx="641" cy="1015" r="641" rotate="0"/>
+  <desc type="modified">2026-04-29T19:39:16.442Z</desc>
+</surface>

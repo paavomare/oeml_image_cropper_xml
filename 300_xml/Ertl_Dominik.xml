@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6734d378-ca57-4c77-9b06-60a96062faad" n="ertl-dominik">
+  <desc type="filename">Ertl_Dominik.xml</desc>
+  <graphic url="bildarchivaustria/BA_957_B14193457T14193462.jpg" width="558" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="86" lrx="558" lry="644" cx="279" cy="365" r="279" rotate="0"/>
+  <desc type="modified">2026-04-29T19:23:53.522Z</desc>
+</surface>

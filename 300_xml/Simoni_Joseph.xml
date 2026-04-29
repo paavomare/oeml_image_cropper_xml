@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bb72fb18-dae6-484f-863e-93bb65dae75e" n="simoni-joseph">
+  <desc type="filename">Simoni_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9262772T9262777.jpg" width="612" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="180" uly="228" lrx="435" lry="482" cx="308" cy="356" r="128" rotate="0"/>
+  <desc type="modified">2026-04-29T20:10:23.132Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0be6f4ff-3abb-42b8-ba50-8a2625a8e683" n="strauss-familie-johann-sohn">
+  <desc type="filename">Strauss_Familie_JOHANN_SOHN.xml</desc>
+  <graphic url="strauss_johann_sohn.jpg" width="265" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="12" uly="50" lrx="239" lry="277" cx="126" cy="164" r="114" rotate="0"/>
+  <desc type="modified">2026-04-29T20:07:49.978Z</desc>
+</surface>

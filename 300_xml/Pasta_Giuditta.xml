@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9ac9d808-1062-4b10-85d9-ffc0c81c82f5" n="pasta-giuditta">
+  <desc type="filename">Pasta_Giuditta.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9268232T9268237.jpg" width="654" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="57" uly="37" lrx="602" lry="582" cx="330" cy="310" r="273" rotate="0"/>
+  <desc type="modified">2026-04-29T19:17:49.730Z</desc>
+</surface>

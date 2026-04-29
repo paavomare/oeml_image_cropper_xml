@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ddb4f3d-0f56-47d8-889b-e94a3e3b9249" n="fall-familie">
+  <desc type="filename">Fall_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12996369T12996373.jpg" width="800" height="506">
+  </graphic>
+  <zone type="medallionCrop" ulx="224" uly="0" lrx="730" lry="506" cx="477" cy="253" r="253" rotate="0"/>
+  <desc type="modified">2026-04-29T18:50:03.255Z</desc>
+</surface>

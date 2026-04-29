@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d1a4230f-e54c-4708-a4d6-ccc5e82d8ffe" n="lettner-edith">
+  <desc type="filename">Lettner_Edith.xml</desc>
+  <graphic url="Lettner_Edith.jpg" width="733" height="1100">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="733" lry="743" cx="367" cy="377" r="367" rotate="0"/>
+  <desc type="modified">2026-04-29T19:58:29.035Z</desc>
+</surface>

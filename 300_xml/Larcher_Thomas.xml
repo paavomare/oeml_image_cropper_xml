@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90cd7bc0-e76d-4b61-abef-a160b2a99d38" n="larcher-thomas">
+  <desc type="filename">Larcher_Thomas.xml</desc>
+  <graphic url="Larcher_Thomas.jpg" width="709" height="954">
+  </graphic>
+  <zone type="medallionCrop" ulx="55" uly="150" lrx="596" lry="691" cx="326" cy="421" r="271" rotate="0"/>
+  <desc type="modified">2026-04-29T19:06:41.700Z</desc>
+</surface>

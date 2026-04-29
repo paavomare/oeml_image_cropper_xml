@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1326891f-3209-4227-8e59-fe3bca10a06e" n="pfleger-familie">
+  <desc type="filename">Pfleger_Familie.xml</desc>
+  <graphic url="pfleger_carl.jpg" width="361" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="84" lrx="335" lry="402" cx="176" cy="243" r="159" rotate="0"/>
+  <desc type="modified">2026-04-29T17:52:05.189Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_090df7bf-e3cf-434f-badc-25cf3893705d" n="margold-carl">
+  <desc type="filename">Margold_Carl.xml</desc>
+  <graphic url="Salonkapelle_Margold.jpg" width="652" height="370">
+  </graphic>
+  <zone type="medallionCrop" ulx="279" uly="141" lrx="431" lry="293" cx="355" cy="217" r="76" rotate="0"/>
+  <desc type="modified">2026-04-29T20:10:04.494Z</desc>
+</surface>

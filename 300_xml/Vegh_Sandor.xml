@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_827bbdf2-8c17-47c3-ada1-c08f0a1a2668" n="vegh-sandor">
+  <desc type="filename">Vegh_Sandor.xml</desc>
+  <graphic url="bildarchivaustria/85_B671478T1823686.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="314" lrx="257" lry="543" cx="143" cy="429" r="115" rotate="0"/>
+  <desc type="modified">2026-04-29T19:29:53.444Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4e5a2ef2-b975-4ced-a496-6fb5f306906e" n="moegele-franz">
+  <desc type="filename">Moegele_Franz.xml</desc>
+  <graphic url="Moegele_Franz.jpg" width="331" height="415">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="36" lrx="331" lry="367" cx="166" cy="202" r="166" rotate="0"/>
+  <desc type="modified">2026-04-29T18:39:52.026Z</desc>
+</surface>

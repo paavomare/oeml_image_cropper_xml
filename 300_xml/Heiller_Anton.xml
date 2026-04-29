@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e01d8ea7-c01f-4816-8089-bd4ae201ed6e" n="heiller-anton">
+  <desc type="filename">Heiller_Anton.xml</desc>
+  <graphic url="bildarchivaustria/3_B1209025T1209029.jpg" width="532" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="38" lrx="532" lry="570" cx="266" cy="304" r="266" rotate="0"/>
+  <desc type="modified">2026-04-29T18:29:28.191Z</desc>
+</surface>

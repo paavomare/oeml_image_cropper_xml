@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8a162640-07b7-4a9b-8249-49ef549a4946" n="wladigerow-familie">
+  <desc type="filename">Wladigerow_Familie.xml</desc>
+  <graphic url="Wladigeroff_Alexander_2022.jpg" width="578" height="1170">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="27" lrx="578" lry="605" cx="289" cy="316" r="289" rotate="0"/>
+  <desc type="modified">2026-04-29T18:18:58.721Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_aaac3af3-6742-40f0-8111-78e73768f197" n="lautentabulatur">
+  <desc type="filename">Lautentabulatur.xml</desc>
+  <graphic url="Lautentabulatur.jpg" width="605" height="460">
+  </graphic>
+  <zone type="medallionCrop" ulx="92" uly="0" lrx="499" lry="407" cx="296" cy="204" r="204" rotate="0"/>
+  <desc type="modified">2026-04-29T19:15:07.006Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cb9897fc-981f-42e2-b11c-6d3eea9e97cd" n="montag-louise">
+  <desc type="filename">Montag_Louise.xml</desc>
+  <graphic url="montag_louise.jpg" width="321" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="61" lrx="295" lry="339" cx="156" cy="200" r="139" rotate="0"/>
+  <desc type="modified">2026-04-29T17:55:28.666Z</desc>
+</surface>

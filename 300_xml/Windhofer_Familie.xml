@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_34773454-5022-4631-ad10-6c271ccbc0ce" n="windhofer-familie">
+  <desc type="filename">Windhofer_Familie.xml</desc>
+  <graphic url="Pongauer_Viergesang.jpg" width="1424" height="959">
+  </graphic>
+  <zone type="medallionCrop" ulx="55" uly="0" lrx="1014" lry="959" cx="535" cy="480" r="480" rotate="0"/>
+  <desc type="modified">2026-04-29T19:57:07.601Z</desc>
+</surface>

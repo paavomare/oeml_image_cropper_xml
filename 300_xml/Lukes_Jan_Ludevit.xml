@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0d85f672-621e-430d-b59b-b1d0443f5191" n="lukes-jan-ludevit">
+  <desc type="filename">Lukes_Jan_Ludevit.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247018T9247023.jpg" width="518" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="209" lrx="388" lry="506" cx="240" cy="358" r="149" rotate="0"/>
+  <desc type="modified">2026-04-29T19:35:51.720Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1e3a4c06-9725-4856-9d49-04250da3333b" n="seitz-ludwig">
+  <desc type="filename">Seitz_Ludwig.xml</desc>
+  <graphic url="Seitz.jpg" width="434" height="625">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="434" lry="447" cx="217" cy="230" r="217" rotate="0"/>
+  <desc type="modified">2026-04-29T19:10:17.452Z</desc>
+</surface>

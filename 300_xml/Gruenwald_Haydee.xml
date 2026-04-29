@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_640fbb9f-796e-4b5f-96b1-32c7f3885cd4" n="gruenwald-haydee">
+  <desc type="filename">Gruenwald_Haydee.xml</desc>
+  <graphic url="Gruenwald_Haydee_2.jpg" width="637" height="976">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="29" lrx="581" lry="579" cx="306" cy="304" r="275" rotate="0"/>
+  <desc type="modified">2026-04-29T18:46:37.175Z</desc>
+</surface>

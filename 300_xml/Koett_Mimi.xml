@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_469d59e4-f241-4844-a98a-028db738c067" n="koett-mimi">
+  <desc type="filename">Koett_Mimi.xml</desc>
+  <graphic url="bildarchivaustria/341_B305930T4442835.jpg" width="603" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="73" uly="47" lrx="566" lry="540" cx="320" cy="294" r="247" rotate="0"/>
+  <desc type="modified">2026-04-29T19:38:57.902Z</desc>
+</surface>

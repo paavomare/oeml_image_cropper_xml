@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8b262375-724a-406d-89b5-3cca06ad45b1" n="militaermusik">
+  <desc type="filename">Militaermusik.xml</desc>
+  <graphic url="Artillerie_Bruegge_1515.jpg" width="934" height="1319">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="507" lrx="660" lry="1167" cx="330" cy="837" r="330" rotate="0"/>
+  <desc type="modified">2026-04-29T17:48:30.612Z</desc>
+</surface>

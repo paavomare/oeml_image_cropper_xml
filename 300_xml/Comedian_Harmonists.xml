@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2df826c3-11d9-406f-8507-ceb16855db13" n="comedian-harmonists">
+  <desc type="filename">Comedian_Harmonists.xml</desc>
+  <graphic url="Comedian_Harmonists.jpg" width="709" height="508">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="0" lrx="612" lry="508" cx="358" cy="254" r="254" rotate="0"/>
+  <desc type="modified">2026-04-29T18:22:25.582Z</desc>
+</surface>

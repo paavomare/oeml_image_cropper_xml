@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3ef862b2-a4e9-4ca0-81d2-87ce57b2dffe" n="kalmus-alfred">
+  <desc type="filename">Kalmus_Alfred.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10451329T10451334.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="108" lrx="501" lry="576" cx="268" cy="342" r="234" rotate="0"/>
+  <desc type="modified">2026-04-29T19:14:54.827Z</desc>
+</surface>

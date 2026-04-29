@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_27ecda0d-2cc8-4ffe-84b3-77fb61f57676" n="krenn-fritz">
+  <desc type="filename">Krenn_Fritz.xml</desc>
+  <graphic url="bildarchivaustria/183_B3854271T3854275.jpg" width="683" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="683" lry="699" cx="342" cy="358" r="342" rotate="0"/>
+  <desc type="modified">2026-04-29T20:00:36.500Z</desc>
+</surface>

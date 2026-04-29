@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e35f93f8-9d42-4d61-a8d9-6f9ba8fb5402" n="khevenhueller-familie">
+  <desc type="filename">Khevenhueller_Familie.xml</desc>
+  <graphic url="bildarchivaustria/552_B7271368T7271372.jpg" width="654" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="109" uly="137" lrx="536" lry="564" cx="323" cy="351" r="214" rotate="0"/>
+  <desc type="modified">2026-04-29T19:11:39.842Z</desc>
+</surface>

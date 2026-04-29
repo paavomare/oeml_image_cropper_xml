@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f242b8e6-967c-41de-919e-8607bc8b593e" n="harrach-familie">
+  <desc type="filename">Harrach_Familie.xml</desc>
+  <graphic url="bildarchivaustria/493_B5169418T5169422.jpg" width="611" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="105" lrx="543" lry="588" cx="301" cy="347" r="242" rotate="0"/>
+  <desc type="modified">2026-04-29T17:58:10.889Z</desc>
+</surface>

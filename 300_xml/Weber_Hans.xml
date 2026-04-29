@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fd6fe2d2-5b4f-4b1e-a72f-20d790b50c7a" n="weber-hans">
+  <desc type="filename">Weber_Hans.xml</desc>
+  <graphic url="weber_hans.jpg" width="438" height="611">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="62" lrx="438" lry="500" cx="219" cy="281" r="219" rotate="0"/>
+  <desc type="modified">2026-04-29T18:00:09.930Z</desc>
+</surface>

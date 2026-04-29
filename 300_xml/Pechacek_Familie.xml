@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_304167df-6a4b-4d94-8cb2-0e01bd264421" n="pechacek-familie">
+  <desc type="filename">Pechacek_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9256584T9256589.jpg" width="576" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="144" uly="188" lrx="423" lry="466" cx="284" cy="328" r="140" rotate="0"/>
+  <desc type="modified">2026-04-29T17:41:35.843Z</desc>
+</surface>

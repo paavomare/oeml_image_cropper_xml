@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7dd5bc51-32a7-4892-a468-ab25a8c4eadd" n="thuille-ludwig">
+  <desc type="filename">Thuille_Ludwig.xml</desc>
+  <graphic url="Thuille_Ludwig.jpg" width="358" height="496">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="358" lry="377" cx="179" cy="198" r="179" rotate="0"/>
+  <desc type="modified">2026-04-29T19:03:26.527Z</desc>
+</surface>

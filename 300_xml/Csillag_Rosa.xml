@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_170e05b9-7001-4f3b-a96e-cf7710d5bad6" n="csillag-rosa">
+  <desc type="filename">Csillag_Rosa.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9277558T9277563.jpg" width="598" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="128" uly="187" lrx="470" lry="530" cx="299" cy="358" r="171" rotate="0"/>
+  <desc type="modified">2026-04-29T19:01:41.803Z</desc>
+</surface>

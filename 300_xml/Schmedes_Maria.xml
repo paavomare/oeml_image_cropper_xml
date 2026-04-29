@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7318136a-0b31-43e4-b79e-e10c40a1151a" n="schmedes-maria">
+  <desc type="filename">Schmedes_Maria.xml</desc>
+  <graphic url="Schmedes_Maria_2.jpg" width="476" height="633">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="476" lry="498" cx="238" cy="260" r="238" rotate="0"/>
+  <desc type="modified">2026-04-29T18:18:52.913Z</desc>
+</surface>

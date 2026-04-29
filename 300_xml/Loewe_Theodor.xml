@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_67209b69-c990-4e7f-9554-77d0c465239a" n="loewe-theodor">
+  <desc type="filename">Loewe_Theodor.xml</desc>
+  <graphic url="Loewe_Theodor.jpg" width="484" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="102" uly="164" lrx="396" lry="458" cx="249" cy="311" r="147" rotate="0"/>
+  <desc type="modified">2026-04-29T17:42:00.681Z</desc>
+</surface>

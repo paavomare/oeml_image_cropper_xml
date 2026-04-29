@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c5b54beb-3a34-48f5-a2b2-93befde22005" n="flesch-familie">
+  <desc type="filename">Flesch_Familie.xml</desc>
+  <graphic url="bildarchivaustria/174_B3808368T3808372.jpg" width="637" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="20" lrx="625" lry="617" cx="327" cy="319" r="299" rotate="0"/>
+  <desc type="modified">2026-04-29T18:04:29.086Z</desc>
+</surface>

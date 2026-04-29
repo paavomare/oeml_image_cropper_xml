@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5f619608-772d-4703-b6ad-ff2124ced014" n="doepper-fischer-karoline">
+  <desc type="filename">Doepper-Fischer_Karoline.xml</desc>
+  <graphic url="Doepper-Fischer_Karoline_1905.jpg" width="524" height="557">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="52" lrx="495" lry="505" cx="269" cy="279" r="227" rotate="0"/>
+  <desc type="modified">2026-04-29T18:16:08.945Z</desc>
+</surface>

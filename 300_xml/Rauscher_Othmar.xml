@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_47b78d73-f1cf-4dca-a229-4c1dfc0c1673" n="rauscher-othmar">
+  <desc type="filename">Rauscher_Othmar.xml</desc>
+  <graphic url="Rauscher_Othmar.jpg" width="715" height="567">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="0" lrx="596" lry="567" cx="313" cy="284" r="284" rotate="0"/>
+  <desc type="modified">2026-04-29T19:59:11.612Z</desc>
+</surface>

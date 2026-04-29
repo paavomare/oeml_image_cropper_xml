@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ae7af48d-43be-4711-94ca-9defc5b64217" n="sterk-wilhelm">
+  <desc type="filename">Sterk_Wilhelm.xml</desc>
+  <graphic url="Sterk_Wilhelm.jpg" width="198" height="218">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="22" lrx="175" lry="173" cx="99" cy="98" r="76" rotate="0"/>
+  <desc type="modified">2026-04-29T18:37:15.294Z</desc>
+</surface>

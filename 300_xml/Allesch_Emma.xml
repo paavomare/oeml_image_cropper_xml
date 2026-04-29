@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_921d5039-9d75-41fa-ba31-b5ff5ba8f806" n="allesch-emma">
+  <desc type="filename">Allesch_Emma.xml</desc>
+  <graphic url="Allesch_Emma_Puppenfee.jpg" width="369" height="467">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="82" lrx="369" lry="451" cx="185" cy="267" r="185" rotate="0"/>
+  <desc type="modified">2026-04-29T18:09:38.524Z</desc>
+</surface>

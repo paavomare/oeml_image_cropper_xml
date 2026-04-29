@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3dd10e77-915b-49cb-b39f-2540f1506c10" n="reinhardt-max">
+  <desc type="filename">Reinhardt_Max.xml</desc>
+  <graphic url="bildarchivaustria/61_B1555760T1555764.jpg" width="605" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="77" uly="31" lrx="583" lry="536" cx="330" cy="284" r="253" rotate="0"/>
+  <desc type="modified">2026-04-29T18:19:33.969Z</desc>
+</surface>

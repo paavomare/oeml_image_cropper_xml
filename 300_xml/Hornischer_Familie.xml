@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ef766b16-a9e6-4461-85e3-b1bff1c52cc2" n="hornischer-familie">
+  <desc type="filename">Hornischer_Familie.xml</desc>
+  <graphic url="Damenorchester_Hornischer.jpg" width="801" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="151" uly="0" lrx="651" lry="500" cx="401" cy="250" r="250" rotate="0"/>
+  <desc type="modified">2026-04-29T19:16:53.949Z</desc>
+</surface>

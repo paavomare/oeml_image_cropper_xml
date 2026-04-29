@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fd1e3aa1-ae62-47b8-a7b1-c76188790d1b" n="hias">
+  <desc type="filename">Hias.xml</desc>
+  <graphic url="Hias.jpg" width="469" height="638">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="469" lry="498" cx="235" cy="264" r="235" rotate="0"/>
+  <desc type="modified">2026-04-29T20:02:16.447Z</desc>
+</surface>

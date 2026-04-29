@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_779387c4-9494-4c56-8aa6-2ac2931c9dcc" n="jentsch-max">
+  <desc type="filename">Jentsch_Max.xml</desc>
+  <graphic url="Jentsch_Max.jpg" width="315" height="392">
+  </graphic>
+  <zone type="medallionCrop" ulx="30" uly="11" lrx="278" lry="259" cx="154" cy="135" r="124" rotate="0"/>
+  <desc type="modified">2026-04-29T17:43:40.658Z</desc>
+</surface>

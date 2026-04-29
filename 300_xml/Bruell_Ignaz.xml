@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_63cf480f-dc65-4e73-81c3-49f21c480f60" n="bruell-ignaz">
+  <desc type="filename">Bruell_Ignaz.xml</desc>
+  <graphic url="bildarchivaustria/747_B8081543T8081547.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="70" uly="104" lrx="490" lry="524" cx="280" cy="314" r="210" rotate="0"/>
+  <desc type="modified">2026-04-29T18:55:20.482Z</desc>
+</surface>

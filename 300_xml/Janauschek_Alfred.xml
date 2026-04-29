@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8ff4a25b-cf66-48dc-bb92-d4dfa4857825" n="janauschek-alfred">
+  <desc type="filename">Janauschek_Alfred.xml</desc>
+  <graphic url="janauschek_alfred.jpg" width="370" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="20" uly="97" lrx="355" lry="432" cx="188" cy="265" r="168" rotate="0"/>
+  <desc type="modified">2026-04-29T19:30:03.449Z</desc>
+</surface>

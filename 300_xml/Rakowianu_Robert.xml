@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_215eac58-e867-4b7c-ba9c-45c02ab3ee89" n="rakowianu-robert">
+  <desc type="filename">Rakowianu_Robert.xml</desc>
+  <graphic url="Rakowianu_Robert_Bar.jpg" width="711" height="554">
+  </graphic>
+  <zone type="medallionCrop" ulx="9" uly="187" lrx="338" lry="516" cx="174" cy="352" r="165" rotate="0"/>
+  <desc type="modified">2026-04-29T20:09:17.828Z</desc>
+</surface>

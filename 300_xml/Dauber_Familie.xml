@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7801035d-052f-4274-b360-13b444c48716" n="dauber-familie">
+  <desc type="filename">Dauber_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_917_B11353446T11353450.jpg" width="800" height="640">
+  </graphic>
+  <zone type="medallionCrop" ulx="60" uly="34" lrx="571" lry="545" cx="316" cy="290" r="256" rotate="0"/>
+  <desc type="modified">2026-04-29T17:49:14.383Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9be5b266-6b8d-4722-812a-566ac2efc7fe" n="tanz">
+  <desc type="filename">Tanz.xml</desc>
+  <graphic url="Rabenhof_Tanzende.JPG" width="3892" height="2594">
+  </graphic>
+  <zone type="medallionCrop" ulx="1426" uly="1343" lrx="2677" lry="2594" cx="2052" cy="1969" r="626" rotate="0"/>
+  <desc type="modified">2026-04-29T17:57:05.645Z</desc>
+</surface>

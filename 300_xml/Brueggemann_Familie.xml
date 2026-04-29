@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_167ce67c-b473-48b1-afce-8a4092bea0aa" n="brueggemann-familie">
+  <desc type="filename">Brueggemann_Familie.xml</desc>
+  <graphic url="Brueggemann_Tanja.jpg" width="1134" height="756">
+  </graphic>
+  <zone type="medallionCrop" ulx="166" uly="0" lrx="922" lry="756" cx="544" cy="378" r="378" rotate="0"/>
+  <desc type="modified">2026-04-29T19:58:49.195Z</desc>
+</surface>

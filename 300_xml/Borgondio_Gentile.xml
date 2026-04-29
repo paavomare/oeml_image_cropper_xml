@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_897f9324-9e54-4f4a-951e-75ea2cc97b38" n="borgondio-gentile">
+  <desc type="filename">Borgondio_Gentile.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9265611T9265616.jpg" width="657" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="122" uly="185" lrx="542" lry="605" cx="332" cy="395" r="210" rotate="0"/>
+  <desc type="modified">2026-04-29T19:06:00.922Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d8f3fb25-171c-4c09-8c8a-566309fdb671" n="schuster-familie">
+  <desc type="filename">Schuster_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9133120T9133125.jpg" width="621" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="121" lrx="531" lry="547" cx="318" cy="335" r="214" rotate="0"/>
+  <desc type="modified">2026-04-29T19:23:35.125Z</desc>
+</surface>

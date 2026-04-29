@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf9dd9e8-dc00-4616-a216-2b41a0315c88" n="senders-ernestine">
+  <desc type="filename">Senders_Ernestine.xml</desc>
+  <graphic url="bildarchivaustria/340_B307750T4438352.jpg" width="594" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="41" lrx="594" lry="635" cx="297" cy="338" r="297" rotate="0"/>
+  <desc type="modified">2026-04-29T19:43:34.143Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c0cba5f7-d1f9-48af-9214-22bf44058e6c" n="elssler-familie">
+  <desc type="filename">Elssler_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_851_B9138822T9139878.jpg" width="564" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="110" lrx="549" lry="635" cx="287" cy="373" r="263" rotate="0"/>
+  <desc type="modified">2026-04-29T18:36:35.103Z</desc>
+</surface>

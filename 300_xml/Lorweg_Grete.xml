@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ceeb6c5-f133-43d6-bbe9-8e508b1b9d0e" n="lorweg-grete">
+  <desc type="filename">Lorweg_Grete.xml</desc>
+  <graphic url="Lorweg_Grete.jpg" width="540" height="480">
+  </graphic>
+  <zone type="medallionCrop" ulx="32" uly="0" lrx="512" lry="480" cx="272" cy="240" r="240" rotate="0"/>
+  <desc type="modified">2026-04-29T19:32:51.764Z</desc>
+</surface>

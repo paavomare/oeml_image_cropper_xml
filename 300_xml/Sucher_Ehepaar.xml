@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3af6d84a-29e4-4ed1-8576-e21624b727d5" n="sucher-ehepaar">
+  <desc type="filename">Sucher_Ehepaar.xml</desc>
+  <graphic url="Sucher_Ehepaar.jpg" width="537" height="594">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="8" lrx="537" lry="545" cx="269" cy="277" r="269" rotate="0"/>
+  <desc type="modified">2026-04-29T18:31:03.892Z</desc>
+</surface>

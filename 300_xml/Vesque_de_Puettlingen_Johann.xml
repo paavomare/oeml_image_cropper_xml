@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_17de6f57-ceef-4729-bd8b-e16f88ed3c99" n="vesque-de-puettlingen-johann">
+  <desc type="filename">Vesque_de_Puettlingen_Johann.xml</desc>
+  <graphic url="bildarchivaustria/178_B3825324T3825328.jpg" width="597" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="92" lrx="493" lry="546" cx="266" cy="319" r="227" rotate="0"/>
+  <desc type="modified">2026-04-29T17:46:49.600Z</desc>
+</surface>

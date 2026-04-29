@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_96a911da-3ef2-48cd-a823-80f627c2aa8f" n="summereder-roman">
+  <desc type="filename">Summereder_Roman.xml</desc>
+  <graphic url="Summereder.jpg" width="709" height="547">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="547" lry="547" cx="274" cy="274" r="274" rotate="0"/>
+  <desc type="modified">2026-04-29T18:19:08.367Z</desc>
+</surface>

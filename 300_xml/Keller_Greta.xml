@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ab321db1-72b9-4352-90d4-1b07ea191c5b" n="keller-greta">
+  <desc type="filename">Keller_Greta.xml</desc>
+  <graphic url="Keller_Greta_1919.jpg" width="255" height="594">
+  </graphic>
+  <zone type="medallionCrop" ulx="7" uly="0" lrx="251" lry="244" cx="129" cy="122" r="122" rotate="0"/>
+  <desc type="modified">2026-04-29T17:44:58.064Z</desc>
+</surface>

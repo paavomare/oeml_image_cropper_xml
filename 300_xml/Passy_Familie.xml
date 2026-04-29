@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ad8c397b-e190-4584-9f61-1a66a4e9159a" n="passy-familie">
+  <desc type="filename">Passy_Familie.xml</desc>
+  <graphic url="Passy_Adele.jpg" width="342" height="418">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="342" lry="353" cx="171" cy="182" r="171" rotate="0"/>
+  <desc type="modified">2026-04-29T19:07:41.486Z</desc>
+</surface>

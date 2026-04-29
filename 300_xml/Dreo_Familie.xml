@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_58059cab-bc45-4818-9834-699f5223017f" n="dreo-familie">
+  <desc type="filename">Dreo_Familie.xml</desc>
+  <graphic url="Dreo_Harald.jpg" width="600" height="852">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="600" lry="631" cx="300" cy="331" r="300" rotate="0"/>
+  <desc type="modified">2026-04-29T18:21:32.956Z</desc>
+</surface>

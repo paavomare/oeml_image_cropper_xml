@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_285e9cd5-b1af-4574-951e-d8110f3f03f4" n="nino-aus-wien">
+  <desc type="filename">Nino_aus_Wien.xml</desc>
+  <graphic url="Nino_aus_Wien_2015.jpg" width="1210" height="970">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="0" lrx="1006" lry="970" cx="521" cy="485" r="485" rotate="0"/>
+  <desc type="modified">2026-04-29T19:30:38.786Z</desc>
+</surface>

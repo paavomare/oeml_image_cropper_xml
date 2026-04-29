@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ea6e9bab-78df-4450-ad6e-e7c37d25de26" n="swieten-gottfried-van">
+  <desc type="filename">Swieten_Gottfried_van.xml</desc>
+  <graphic url="bildarchivaustria/92_B2944080T2944084.jpg" width="530" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="119" uly="173" lrx="432" lry="486" cx="276" cy="330" r="157" rotate="0"/>
+  <desc type="modified">2026-04-29T18:50:12.549Z</desc>
+</surface>

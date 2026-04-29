@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d6c95a26-3ccf-44a2-a12b-15a83b43cdf1" n="eisner-erich">
+  <desc type="filename">Eisner_Erich.xml</desc>
+  <graphic url="Eisner_Erich.jpg" width="456" height="615">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="456" lry="456" cx="228" cy="228" r="228" rotate="0"/>
+  <desc type="modified">2026-04-29T19:14:41.279Z</desc>
+</surface>

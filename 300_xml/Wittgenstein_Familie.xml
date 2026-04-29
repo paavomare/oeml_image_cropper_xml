@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c0bdeb9e-6a41-4791-af1b-7994e8d39b50" n="wittgenstein-familie">
+  <desc type="filename">Wittgenstein_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_933_B10002842T12849620.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="157" lrx="524" lry="664" cx="271" cy="411" r="254" rotate="0"/>
+  <desc type="modified">2026-04-29T18:21:02.042Z</desc>
+</surface>

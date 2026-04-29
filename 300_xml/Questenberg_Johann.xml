@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7dd96fa5-2893-4d82-be84-829fdc1cdd76" n="questenberg-johann">
+  <desc type="filename">Questenberg_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_844_B8997749T8997754.jpg" width="596" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="86" uly="176" lrx="563" lry="653" cx="325" cy="415" r="239" rotate="0"/>
+  <desc type="modified">2026-04-29T19:19:26.857Z</desc>
+</surface>

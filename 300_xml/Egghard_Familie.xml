@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ec33b67a-4cd5-41ca-9505-131e97d56cb3" n="egghard-familie">
+  <desc type="filename">Egghard_Familie.xml</desc>
+  <graphic url="Egghard_Julius_J.jpg" width="283" height="398">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="283" lry="283" cx="142" cy="142" r="142" rotate="0"/>
+  <desc type="modified">2026-04-29T18:02:18.202Z</desc>
+</surface>

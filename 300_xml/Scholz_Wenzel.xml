@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_10514133-b3c7-4381-8dd9-cdc9f7779839" n="scholz-wenzel">
+  <desc type="filename">Scholz_Wenzel.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9123477T9123482.jpg" width="598" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="53" uly="135" lrx="557" lry="639" cx="305" cy="387" r="252" rotate="0"/>
+  <desc type="modified">2026-04-29T20:08:41.703Z</desc>
+</surface>

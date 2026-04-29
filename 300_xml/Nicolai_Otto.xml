@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_87f2b447-4f25-40f2-89f2-4b430865a820" n="nicolai-otto">
+  <desc type="filename">Nicolai_Otto.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9235167T9235172.jpg" width="582" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="126" uly="182" lrx="456" lry="511" cx="291" cy="347" r="165" rotate="0"/>
+  <desc type="modified">2026-04-29T17:42:08.072Z</desc>
+</surface>

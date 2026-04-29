@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9bd4bf16-0bc3-46df-bb5c-4dad505fe07c" n="deppe-ehepaar">
+  <desc type="filename">Deppe_Ehepaar.xml</desc>
+  <graphic url="Deppe_Renald.jpg" width="1100" height="729">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="0" lrx="755" lry="729" cx="391" cy="365" r="365" rotate="0"/>
+  <desc type="modified">2026-04-29T19:38:18.998Z</desc>
+</surface>

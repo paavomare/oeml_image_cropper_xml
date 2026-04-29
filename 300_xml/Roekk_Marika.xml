@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cab2415e-ae96-49e0-b5bf-b013ed7dead0" n="roekk-marika">
+  <desc type="filename">Roekk_Marika.xml</desc>
+  <graphic url="Roekk_Marika_1939.jpg" width="1074" height="1276">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="180" lrx="1074" lry="1254" cx="537" cy="717" r="537" rotate="0"/>
+  <desc type="modified">2026-04-29T18:16:21.245Z</desc>
+</surface>

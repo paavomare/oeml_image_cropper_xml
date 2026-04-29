@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_987dfe3f-6d62-4e8e-8602-d27e9f6680d6" n="simsa-familie">
+  <desc type="filename">Simsa_Familie.xml</desc>
+  <graphic url="Simsa_Sebastian.jpg" width="1064" height="861">
+  </graphic>
+  <zone type="medallionCrop" ulx="203" uly="0" lrx="1064" lry="861" cx="634" cy="431" r="431" rotate="0"/>
+  <desc type="modified">2026-04-29T18:54:39.597Z</desc>
+</surface>

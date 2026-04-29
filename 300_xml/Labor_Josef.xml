@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c318a523-531a-4245-8fac-0076f1733b83" n="labor-josef">
+  <desc type="filename">Labor_Josef.xml</desc>
+  <graphic url="Labor_Josef.jpg" width="338" height="419">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="338" lry="349" cx="169" cy="180" r="169" rotate="0"/>
+  <desc type="modified">2026-04-29T19:36:25.792Z</desc>
+</surface>

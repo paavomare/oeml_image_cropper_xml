@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fecda9a7-185f-4efd-8f4b-f74fa1b7ad13" n="pallenberg-max">
+  <desc type="filename">Pallenberg_Max.xml</desc>
+  <graphic url="bildarchivaustria/473_B389364T5101188.jpg" width="569" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="20" uly="120" lrx="544" lry="645" cx="282" cy="382" r="262" rotate="0"/>
+  <desc type="modified">2026-04-29T18:33:22.427Z</desc>
+</surface>

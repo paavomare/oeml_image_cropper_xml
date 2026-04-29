@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5bf3a91a-73c7-42ef-9fb9-01ded76ac62b" n="foll-ferdinand">
+  <desc type="filename">Foll_Ferdinand.xml</desc>
+  <graphic url="Foll_Ferdinand.jpg" width="119" height="170">
+  </graphic>
+  <zone type="medallionCrop" ulx="8" uly="12" lrx="110" lry="114" cx="59" cy="63" r="51" rotate="0"/>
+  <desc type="modified">2026-04-29T17:48:06.167Z</desc>
+</surface>

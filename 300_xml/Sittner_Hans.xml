@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_20547456-7ddb-437e-9482-982c2f606375" n="sittner-hans">
+  <desc type="filename">Sittner_Hans.xml</desc>
+  <graphic url="bildarchivaustria/144_B653566T3653504.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="193" lrx="507" lry="700" cx="254" cy="447" r="254" rotate="0"/>
+  <desc type="modified">2026-04-29T17:51:45.273Z</desc>
+</surface>

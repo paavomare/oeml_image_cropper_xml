@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_32e1185c-093e-4469-891c-9fc376c7fa4b" n="haager-max">
+  <desc type="filename">Haager_Max.xml</desc>
+  <graphic url="haager_max.jpg" width="373" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="21" lrx="363" lry="359" cx="194" cy="190" r="169" rotate="0"/>
+  <desc type="modified">2026-04-29T19:20:24.153Z</desc>
+</surface>

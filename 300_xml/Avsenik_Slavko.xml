@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_61fe4986-582f-463a-9adf-5138e9f6af99" n="avsenik-slavko">
+  <desc type="filename">Avsenik_Slavko.xml</desc>
+  <graphic url="Avsenik_1970.jpg" width="562" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="72" uly="0" lrx="484" lry="412" cx="278" cy="206" r="206" rotate="0"/>
+  <desc type="modified">2026-04-29T18:33:31.331Z</desc>
+</surface>

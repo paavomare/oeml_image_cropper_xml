@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_66077b2a-5ad9-4279-bc52-0f2ae6586e9a" n="sokal-harry">
+  <desc type="filename">Sokal_Harry.xml</desc>
+  <graphic url="Sokal_Harry.jpg" width="731" height="1100">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="731" lry="754" cx="366" cy="389" r="366" rotate="0"/>
+  <desc type="modified">2026-04-29T20:03:01.480Z</desc>
+</surface>

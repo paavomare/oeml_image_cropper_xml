@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fdbe908d-8843-4904-b1f5-4ffa49555f5d" n="krauss-elka-leopold">
+  <desc type="filename">Krauss-Elka_Leopold.xml</desc>
+  <graphic url="Krauss-Elka_Leopold_August_1961_2.jpg" width="306" height="464">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="306" lry="306" cx="153" cy="153" r="153" rotate="0"/>
+  <desc type="modified">2026-04-29T18:28:32.220Z</desc>
+</surface>

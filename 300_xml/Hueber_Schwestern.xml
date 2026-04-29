@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cf36b8dc-e8de-48cd-b7f3-f4206d2b10d5" n="hueber-schwestern">
+  <desc type="filename">Hueber_Schwestern.xml</desc>
+  <graphic url="Hueber_Olga.jpg" width="362" height="468">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="362" lry="377" cx="181" cy="196" r="181" rotate="0"/>
+  <desc type="modified">2026-04-29T18:55:53.863Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e67698b-37b2-4e90-babd-ad22f1fcd6c3" n="werndorff-etta">
+  <desc type="filename">Werndorff_Etta.xml</desc>
+  <graphic url="Werndorff_Etta.jpg" width="504" height="700">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="17" lrx="487" lry="487" cx="252" cy="252" r="235" rotate="0"/>
+  <desc type="modified">2026-04-29T18:49:02.303Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bc6042c7-e3fa-4f22-ad89-5430cefa8666" n="jenger-johann-baptist">
+  <desc type="filename">Jenger_Johann_Baptist.xml</desc>
+  <graphic url="bildarchivaustria/597_B7443893T7443897.jpg" width="627" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="88" uly="172" lrx="559" lry="643" cx="324" cy="408" r="236" rotate="0"/>
+  <desc type="modified">2026-04-29T20:09:23.225Z</desc>
+</surface>

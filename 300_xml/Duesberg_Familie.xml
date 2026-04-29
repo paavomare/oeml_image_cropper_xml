@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ddf2670a-ac16-4d21-ac38-7cda0afc2b22" n="duesberg-familie">
+  <desc type="filename">Duesberg_Familie.xml</desc>
+  <graphic url="Duesberg_Nora.jpg" width="397" height="566">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="24" lrx="397" lry="421" cx="199" cy="223" r="199" rotate="0"/>
+  <desc type="modified">2026-04-29T17:56:44.128Z</desc>
+</surface>

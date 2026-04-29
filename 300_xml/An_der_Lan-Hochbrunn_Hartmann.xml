@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9abd1f1b-e1c3-4a60-9c83-f8819b2d0518" n="an-der-lan-hochbrunn-hartmann">
+  <desc type="filename">An_der_Lan-Hochbrunn_Hartmann.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9248013T9248018.jpg" width="595" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="46" uly="80" lrx="549" lry="582" cx="298" cy="332" r="252" rotate="0"/>
+  <desc type="modified">2026-04-29T19:02:56.643Z</desc>
+</surface>

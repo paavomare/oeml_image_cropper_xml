@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_79c26784-f24a-4e0e-a762-276cee8ec3fd" n="volkmann-robert">
+  <desc type="filename">Volkmann_Robert.xml</desc>
+  <graphic url="Volkmann_Robert_1870.jpg" width="482" height="620">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="26" lrx="449" lry="457" cx="234" cy="242" r="216" rotate="0"/>
+  <desc type="modified">2026-04-29T19:20:55.265Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8b105607-4b40-47e2-8d26-c61b8aedac1f" n="rank-charlotte">
+  <desc type="filename">Rank_Charlotte.xml</desc>
+  <graphic url="Rank_Charlotte.jpg" width="422" height="572">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="422" lry="451" cx="211" cy="240" r="211" rotate="0"/>
+  <desc type="modified">2026-04-29T18:53:22.454Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f48f9df3-d75c-49cc-aa9f-b1835c638aac" n="kern-frida">
+  <desc type="filename">Kern_Frida.xml</desc>
+  <graphic url="Kern_Frida.jpg" width="227" height="336">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="227" lry="242" cx="114" cy="129" r="114" rotate="0"/>
+  <desc type="modified">2026-04-29T18:12:37.481Z</desc>
+</surface>

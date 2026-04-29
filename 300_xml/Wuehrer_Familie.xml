@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1739fd84-4633-44f2-9da1-b891200a0d6a" n="wuehrer-familie">
+  <desc type="filename">Wuehrer_Familie.xml</desc>
+  <graphic url="Wuehrer_Friedrich.jpg" width="227" height="375">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="49" lrx="227" lry="276" cx="114" cy="163" r="114" rotate="0"/>
+  <desc type="modified">2026-04-29T18:06:54.951Z</desc>
+</surface>

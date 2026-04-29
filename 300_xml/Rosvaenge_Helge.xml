@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fb26241-d13b-409c-aa2c-664ea7473018" n="rosvaenge-helge">
+  <desc type="filename">Rosvaenge_Helge.xml</desc>
+  <graphic url="Rosvaenge_Helge.jpg" width="433" height="570">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="57" lrx="433" lry="490" cx="217" cy="274" r="217" rotate="0"/>
+  <desc type="modified">2026-04-29T18:27:59.943Z</desc>
+</surface>

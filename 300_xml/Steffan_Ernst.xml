@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7e99fcb9-71ca-4aa8-84ca-e09ea5f64969" n="steffan-ernst">
+  <desc type="filename">Steffan_Ernst.xml</desc>
+  <graphic url="Steffan_Ernst_2.jpg" width="715" height="814">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="715" lry="729" cx="358" cy="372" r="358" rotate="0"/>
+  <desc type="modified">2026-04-29T17:55:15.555Z</desc>
+</surface>

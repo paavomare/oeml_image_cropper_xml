@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_44ca8713-262f-4c52-a702-02831b463203" n="megerle-abraham">
+  <desc type="filename">Megerle_Abraham.xml</desc>
+  <graphic url="Megerle.jpg" width="312" height="450">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="312" lry="312" cx="156" cy="156" r="156" rotate="0"/>
+  <desc type="modified">2026-04-29T17:47:59.381Z</desc>
+</surface>

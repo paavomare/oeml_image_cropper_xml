@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_51595c1f-eeb4-4728-a2e3-9e1a1254b0cd" n="forti-franz">
+  <desc type="filename">Forti_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9235125T9235130.jpg" width="564" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="92" uly="138" lrx="472" lry="518" cx="282" cy="328" r="190" rotate="0"/>
+  <desc type="modified">2026-04-29T17:42:24.639Z</desc>
+</surface>

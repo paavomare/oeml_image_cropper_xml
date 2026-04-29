@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1efef757-cb9c-4949-a7b2-966ba5df6f64" n="quadriga-consort">
+  <desc type="filename">Quadriga_Consort.xml</desc>
+  <graphic url="Quadriga_Consort.jpg" width="960" height="960">
+  </graphic>
+  <zone type="medallionCrop" ulx="118" uly="91" lrx="856" lry="828" cx="487" cy="460" r="369" rotate="0"/>
+  <desc type="modified">2026-04-29T19:02:16.756Z</desc>
+</surface>

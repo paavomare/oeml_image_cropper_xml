@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d413f9fc-c9b7-43aa-af62-d297250879b4" n="skrepek-paul">
+  <desc type="filename">Skrepek_Paul.xml</desc>
+  <graphic url="Skrepek_Paul_2023.jpg" width="795" height="750">
+  </graphic>
+  <zone type="medallionCrop" ulx="109" uly="214" lrx="602" lry="706" cx="356" cy="461" r="247" rotate="0"/>
+  <desc type="modified">2026-04-29T19:15:38.122Z</desc>
+</surface>

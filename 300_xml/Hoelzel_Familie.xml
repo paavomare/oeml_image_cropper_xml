@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e179abd3-fb77-488d-941c-77931669410e" n="hoelzel-familie">
+  <desc type="filename">Hoelzel_Familie.xml</desc>
+  <graphic url="bildarchivaustria/207_B3941734T3941738.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="56" uly="69" lrx="540" lry="554" cx="298" cy="311" r="242" rotate="0"/>
+  <desc type="modified">2026-04-29T19:40:10.695Z</desc>
+</surface>

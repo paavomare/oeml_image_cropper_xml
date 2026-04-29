@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3b0432a3-04b5-43a9-a8a5-97319ae3fdee" n="weber-brueder">
+  <desc type="filename">Weber_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/151_B3702095T3702099.jpg" width="548" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="88" lrx="504" lry="560" cx="268" cy="325" r="237" rotate="0"/>
+  <desc type="modified">2026-04-29T18:56:19.598Z</desc>
+</surface>

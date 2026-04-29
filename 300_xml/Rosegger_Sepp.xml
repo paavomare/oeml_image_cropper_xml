@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_65f2d584-808d-4d24-9ef9-81a2764f43f9" n="rosegger-sepp">
+  <desc type="filename">Rosegger_Sepp.xml</desc>
+  <graphic url="Rosegger_Peter.jpg" width="637" height="941">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="556" lry="556" cx="278" cy="278" r="278" rotate="0"/>
+  <desc type="modified">2026-04-29T18:07:37.185Z</desc>
+</surface>

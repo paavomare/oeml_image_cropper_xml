@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b06f6e73-153c-43e6-9761-49358b12233f" n="mildenburg-anna">
+  <desc type="filename">Mildenburg_Anna.xml</desc>
+  <graphic url="bildarchivaustria/BA_901_B9995467T9995472.jpg" width="600" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="9" uly="6" lrx="520" lry="517" cx="265" cy="262" r="256" rotate="0"/>
+  <desc type="modified">2026-04-29T17:56:27.531Z</desc>
+</surface>

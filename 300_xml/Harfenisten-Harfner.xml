@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_94fe11f7-9f5f-4eac-b3d0-207eb89f5eb0" n="harfenisten-harfner">
+  <desc type="filename">Harfenisten-Harfner.xml</desc>
+  <graphic url="Suesses-Loechel_1896.jpg" width="2400" height="2271">
+  </graphic>
+  <zone type="medallionCrop" ulx="698" uly="331" lrx="2400" lry="2033" cx="1549" cy="1182" r="851" rotate="0"/>
+  <desc type="modified">2026-04-29T17:46:05.391Z</desc>
+</surface>

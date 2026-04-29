@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1e0bd831-c72a-4a23-9cb2-75e397008db3" n="karl-vi">
+  <desc type="filename">Karl_VI.xml</desc>
+  <graphic url="bildarchivaustria/430_B4820212T4820216.jpg" width="668" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="118" uly="40" lrx="522" lry="444" cx="320" cy="242" r="202" rotate="0"/>
+  <desc type="modified">2026-04-29T19:40:29.399Z</desc>
+</surface>

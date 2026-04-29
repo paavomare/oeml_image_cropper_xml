@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1831f980-d5b9-441b-b4bc-47c4559a7bc2" n="novakovic-olga">
+  <desc type="filename">Novakovic_Olga.xml</desc>
+  <graphic url="Novakovic_Olga.jpg" width="315" height="467">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="315" lry="315" cx="158" cy="158" r="158" rotate="0"/>
+  <desc type="modified">2026-04-29T18:59:56.376Z</desc>
+</surface>

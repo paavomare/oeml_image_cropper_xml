@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3047d94d-51b5-4529-aa23-9aaa9e6ff68c" n="jaeger-karl-maria">
+  <desc type="filename">Jaeger_Karl_Maria.xml</desc>
+  <graphic url="Jaeger_Karl_Maria.jpg" width="283" height="378">
+  </graphic>
+  <zone type="medallionCrop" ulx="4" uly="0" lrx="279" lry="275" cx="142" cy="138" r="138" rotate="0"/>
+  <desc type="modified">2026-04-29T18:55:42.215Z</desc>
+</surface>

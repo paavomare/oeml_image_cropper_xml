@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8db0cc44-5751-42af-a769-18cc2967dfeb" n="reznicek-familie">
+  <desc type="filename">Reznicek_Familie.xml</desc>
+  <graphic url="Reznicek_Emil.jpg" width="346" height="505">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="346" lry="368" cx="173" cy="195" r="173" rotate="0"/>
+  <desc type="modified">2026-04-29T18:32:27.772Z</desc>
+</surface>

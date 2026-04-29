@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ea3da023-b084-44ab-8d8f-f3ff2187aec5" n="stefan-paul">
+  <desc type="filename">Stefan_Paul.xml</desc>
+  <graphic url="bildarchivaustria/89_B306999T1831330.jpg" width="563" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="66" lrx="563" lry="629" cx="282" cy="348" r="282" rotate="0"/>
+  <desc type="modified">2026-04-29T19:15:11.047Z</desc>
+</surface>

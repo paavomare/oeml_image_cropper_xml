@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e8c9fe6a-2be0-4e97-9703-d348d7eb5544" n="imhoff-fritz">
+  <desc type="filename">Imhoff_Fritz.xml</desc>
+  <graphic url="bildarchivaustria/344_B306788T4451559.jpg" width="589" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="110" uly="36" lrx="454" lry="380" cx="282" cy="208" r="172" rotate="0"/>
+  <desc type="modified">2026-04-29T18:10:10.219Z</desc>
+</surface>

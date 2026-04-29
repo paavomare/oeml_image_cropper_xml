@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_12f484c4-d4e1-4e5a-828c-ef555c5e5a43" n="abel-katharina">
+  <desc type="filename">Abel_Katharina.xml</desc>
+  <graphic url="Abel_Katharina.jpeg" width="1020" height="1306">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="99" lrx="1020" lry="1119" cx="510" cy="609" r="510" rotate="0"/>
+  <desc type="modified">2026-04-29T19:16:26.999Z</desc>
+</surface>

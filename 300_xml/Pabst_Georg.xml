@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9d6046f2-ead5-4e12-bc4b-ac3516d11e8f" n="pabst-georg">
+  <desc type="filename">Pabst_Georg.xml</desc>
+  <graphic url="bildarchivaustria/62_B1556285T1556289.jpg" width="640" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="67" lrx="640" lry="707" cx="320" cy="387" r="320" rotate="0"/>
+  <desc type="modified">2026-04-29T18:33:08.530Z</desc>
+</surface>

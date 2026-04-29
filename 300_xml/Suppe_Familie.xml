@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1ce47263-a64b-4678-aa9a-e295efa1db96" n="suppe-familie">
+  <desc type="filename">Suppe_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_913_B10828705T10828709.jpg" width="538" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="61" uly="121" lrx="477" lry="537" cx="269" cy="329" r="208" rotate="0"/>
+  <desc type="modified">2026-04-29T18:26:26.040Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_44827117-3886-4ef7-8b32-8960ea1eb9b9" n="hadrabova-eva">
+  <desc type="filename">Hadrabova_Eva.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10506349T10506354.jpg" width="573" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="20" lrx="545" lry="538" cx="287" cy="279" r="259" rotate="0"/>
+  <desc type="modified">2026-04-29T19:13:14.219Z</desc>
+</surface>

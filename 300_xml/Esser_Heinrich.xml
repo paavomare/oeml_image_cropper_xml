@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c9bf5a93-d84a-4e4a-b664-f78c82da7636" n="esser-heinrich">
+  <desc type="filename">Esser_Heinrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9242557T9242562.jpg" width="604" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="125" uly="171" lrx="470" lry="516" cx="298" cy="344" r="173" rotate="0"/>
+  <desc type="modified">2026-04-29T18:09:23.605Z</desc>
+</surface>

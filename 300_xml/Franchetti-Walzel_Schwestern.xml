@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_107559cb-afc9-4585-b897-9187397efd25" n="franchetti-walzel-schwestern">
+  <desc type="filename">Franchetti-Walzel_Schwestern.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9265945T9265950.jpg" width="583" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="113" lrx="519" lry="614" cx="268" cy="364" r="251" rotate="0"/>
+  <desc type="modified">2026-04-29T19:18:08.578Z</desc>
+</surface>

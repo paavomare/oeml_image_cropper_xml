@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b7ebe903-d62c-4f12-9a1e-bfa2a5647a4b" n="schoberlechner-familie">
+  <desc type="filename">Schoberlechner_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243172T9243177.jpg" width="611" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="49" uly="123" lrx="562" lry="637" cx="306" cy="380" r="257" rotate="0"/>
+  <desc type="modified">2026-04-29T17:46:15.437Z</desc>
+</surface>

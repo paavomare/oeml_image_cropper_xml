@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_da713ca8-791a-4f4a-967a-47146b89823c" n="zeidler-schwestern">
+  <desc type="filename">Zeidler_Schwestern.xml</desc>
+  <graphic url="Drexler_Karl_Zeidler.jpg" width="425" height="681">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="144" lrx="240" lry="384" cx="120" cy="264" r="120" rotate="0"/>
+  <desc type="modified">2026-04-29T20:05:46.005Z</desc>
+</surface>

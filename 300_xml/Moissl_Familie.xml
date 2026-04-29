@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_12d3f1b3-892b-42d5-8167-66d7793c8f5f" n="moissl-familie">
+  <desc type="filename">Moissl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10451862T10451867.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="67" lrx="487" lry="525" cx="258" cy="296" r="229" rotate="0"/>
+  <desc type="modified">2026-04-29T19:23:46.293Z</desc>
+</surface>

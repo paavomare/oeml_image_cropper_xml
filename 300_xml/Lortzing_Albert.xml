@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e350d445-5ef3-4d21-bf17-1084a5778747" n="lortzing-albert">
+  <desc type="filename">Lortzing_Albert.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9233795T9233800.jpg" width="663" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="57" uly="145" lrx="564" lry="652" cx="311" cy="399" r="254" rotate="0"/>
+  <desc type="modified">2026-04-29T20:04:22.701Z</desc>
+</surface>

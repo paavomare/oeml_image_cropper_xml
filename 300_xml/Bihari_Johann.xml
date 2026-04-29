@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fedaf933-3eb4-417f-9e6c-f4c2f9763ac7" n="bihari-johann">
+  <desc type="filename">Bihari_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9248206T9248211.jpg" width="616" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="125" lrx="570" lry="655" cx="305" cy="390" r="265" rotate="0"/>
+  <desc type="modified">2026-04-29T18:29:25.624Z</desc>
+</surface>

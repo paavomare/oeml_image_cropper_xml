@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e29c8bb8-835b-4c3c-b0af-30d2f0438130" n="wunderkinder">
+  <desc type="filename">Wunderkinder.xml</desc>
+  <graphic url="Hubermann_1896.jpg" width="1272" height="2092">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="106" lrx="1272" lry="1378" cx="636" cy="742" r="636" rotate="0"/>
+  <desc type="modified">2026-04-29T19:42:12.569Z</desc>
+</surface>

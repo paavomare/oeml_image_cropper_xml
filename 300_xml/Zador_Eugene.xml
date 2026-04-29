@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f42d2862-3d8e-4cd9-a7fa-c913259f7c5f" n="zador-eugene">
+  <desc type="filename">Zador_Eugene.xml</desc>
+  <graphic url="bildarchivaustria/192_B3890298T3890302.jpg" width="549" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="35" lrx="549" lry="584" cx="275" cy="310" r="275" rotate="0"/>
+  <desc type="modified">2026-04-29T19:37:19.522Z</desc>
+</surface>

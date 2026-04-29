@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2918a841-b57a-4842-b90f-787b41e13c26" n="wipperich-ehepaar">
+  <desc type="filename">Wipperich_Ehepaar.xml</desc>
+  <graphic url="Wipperich_Emil.jpg" width="607" height="960">
+  </graphic>
+  <zone type="medallionCrop" ulx="41" uly="173" lrx="544" lry="675" cx="293" cy="425" r="252" rotate="0"/>
+  <desc type="modified">2026-04-29T19:14:15.321Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d0da41de-cf00-428c-bfbc-6a20fe76a54c" n="drechsler-joseph">
+  <desc type="filename">Drechsler_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9252722T9252727.jpg" width="639" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="74" uly="47" lrx="581" lry="555" cx="328" cy="301" r="254" rotate="0"/>
+  <desc type="modified">2026-04-29T18:58:17.061Z</desc>
+</surface>

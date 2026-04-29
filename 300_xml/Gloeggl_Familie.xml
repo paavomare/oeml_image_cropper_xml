@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6b5ab59e-ee2a-481b-acbd-c2aaaafdfdf2" n="gloeggl-familie">
+  <desc type="filename">Gloeggl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_946_B7444196T13162673.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="63" uly="148" lrx="477" lry="562" cx="270" cy="355" r="207" rotate="0"/>
+  <desc type="modified">2026-04-29T19:03:46.477Z</desc>
+</surface>

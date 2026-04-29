@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cb20208f-4fc8-42f0-af10-77ec4f52cb6a" n="stwertka-familie">
+  <desc type="filename">Stwertka_Familie.xml</desc>
+  <graphic url="Stwertka_Julius.jpg" width="420" height="621">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="83" lrx="398" lry="446" cx="217" cy="264" r="181" rotate="0"/>
+  <desc type="modified">2026-04-29T18:28:12.888Z</desc>
+</surface>

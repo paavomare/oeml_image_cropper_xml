@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_03834400-78db-475e-978b-a7a5f0d72680" n="brammer-julius">
+  <desc type="filename">Brammer_Julius.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9802354T9802358.jpg" width="539" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="33" uly="96" lrx="493" lry="555" cx="263" cy="326" r="230" rotate="0"/>
+  <desc type="modified">2026-04-29T18:05:48.974Z</desc>
+</surface>

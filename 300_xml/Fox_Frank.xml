@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_622f4af2-3284-4647-b13b-7d4ccaf64053" n="fox-frank">
+  <desc type="filename">Fox_Frank.xml</desc>
+  <graphic url="bildarchivaustria/BA_859_B9333907T9335359.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="8" uly="12" lrx="573" lry="577" cx="291" cy="295" r="283" rotate="0"/>
+  <desc type="modified">2026-04-29T18:21:21.781Z</desc>
+</surface>

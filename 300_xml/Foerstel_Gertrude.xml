@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a8fd6763-f1df-4acc-8c69-aa30e1df73db" n="foerstel-gertrude">
+  <desc type="filename">Foerstel_Gertrude.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10452784T10452789.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="46" uly="35" lrx="488" lry="476" cx="267" cy="256" r="221" rotate="0"/>
+  <desc type="modified">2026-04-29T19:18:54.613Z</desc>
+</surface>

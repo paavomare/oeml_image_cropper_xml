@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1890c58f-54b4-4270-b7a2-e20b32c8c1e6" n="bachner-familie">
+  <desc type="filename">Bachner_Familie.xml</desc>
+  <graphic url="Bachner_Robert_2025.jpg" width="883" height="935">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="883" lry="883" cx="442" cy="442" r="442" rotate="0"/>
+  <desc type="modified">2026-04-29T19:09:56.030Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d69bb9cb-2505-40e4-9f6a-f2fcd125f99d" n="laub-familie">
+  <desc type="filename">Laub_Familie.xml</desc>
+  <graphic url="bildarchivaustria/126_B3587462T3587466.jpg" width="588" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="110" uly="155" lrx="478" lry="523" cx="294" cy="339" r="184" rotate="0"/>
+  <desc type="modified">2026-04-29T18:58:01.854Z</desc>
+</surface>

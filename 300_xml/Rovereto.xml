@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c852be86-e1d3-4b56-adf9-a94ce5e542c1" n="rovereto">
+  <desc type="filename">Rovereto.xml</desc>
+  <graphic url="bildarchivaustria/BA_936_B12952024T12952029.jpg" width="800" height="530">
+  </graphic>
+  <zone type="medallionCrop" ulx="304" uly="31" lrx="750" lry="477" cx="527" cy="254" r="223" rotate="0"/>
+  <desc type="modified">2026-04-29T19:05:49.972Z</desc>
+</surface>

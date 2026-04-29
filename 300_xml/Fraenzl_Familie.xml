@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c71fb085-12ed-4b1b-ad0f-ab15c21c1d0c" n="fraenzl-familie">
+  <desc type="filename">Fraenzl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/343_B306672T4450215.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="1" lrx="596" lry="546" cx="324" cy="273" r="272" rotate="0"/>
+  <desc type="modified">2026-04-29T18:25:53.651Z</desc>
+</surface>

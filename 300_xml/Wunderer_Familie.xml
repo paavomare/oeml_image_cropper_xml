@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ce2ea06-987b-432f-9c07-9b9b6e6ac607" n="wunderer-familie">
+  <desc type="filename">Wunderer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/89_B307056T1831536.jpg" width="550" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="54" lrx="524" lry="555" cx="274" cy="305" r="251" rotate="0"/>
+  <desc type="modified">2026-04-29T19:20:46.502Z</desc>
+</surface>

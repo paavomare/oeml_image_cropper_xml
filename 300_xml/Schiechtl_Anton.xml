@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a1963f63-55c8-418b-8b81-bbef0cf545f6" n="schiechtl-anton">
+  <desc type="filename">Schiechtl_Anton.xml</desc>
+  <graphic url="Schiechtl_Anton.jpg" width="585" height="540">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="0" lrx="561" lry="537" cx="293" cy="268" r="268" rotate="0"/>
+  <desc type="modified">2026-04-29T19:21:15.341Z</desc>
+</surface>

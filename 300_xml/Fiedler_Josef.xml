@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_55739c84-f1f9-45d5-8245-423d0b595767" n="fiedler-josef">
+  <desc type="filename">Fiedler_Josef.xml</desc>
+  <graphic url="Fiedler_Josef.jpg" width="340" height="459">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="340" lry="374" cx="170" cy="204" r="170" rotate="0"/>
+  <desc type="modified">2026-04-29T20:00:40.175Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c94df771-499d-4e35-adaa-eed9fb7fd49c" n="bergauer-josef">
+  <desc type="filename">Bergauer_Josef.xml</desc>
+  <graphic url="Bergauer_Josef.jpg" width="283" height="449">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="97" lrx="283" lry="380" cx="142" cy="239" r="142" rotate="0"/>
+  <desc type="modified">2026-04-29T18:35:00.469Z</desc>
+</surface>

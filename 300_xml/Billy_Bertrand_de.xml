@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_deac2089-4390-4514-8bd6-0cba45e05df9" n="billy-bertrand-de">
+  <desc type="filename">Billy_Bertrand_de.xml</desc>
+  <graphic url="Billy_Bertrand.jpg" width="705" height="470">
+  </graphic>
+  <zone type="medallionCrop" ulx="235" uly="0" lrx="705" lry="470" cx="470" cy="235" r="235" rotate="0"/>
+  <desc type="modified">2026-04-29T19:10:28.869Z</desc>
+</surface>

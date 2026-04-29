@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_72d3c815-71ab-4255-9c42-329d7d3b7477" n="foerster-emanuel">
+  <desc type="filename">Foerster_Emanuel.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9242578T9242583.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="82" uly="130" lrx="495" lry="544" cx="289" cy="337" r="207" rotate="0"/>
+  <desc type="modified">2026-04-29T18:23:07.329Z</desc>
+</surface>

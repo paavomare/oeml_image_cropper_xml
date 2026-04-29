@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3c4e56ba-4fe4-4c02-b103-ac925b22a6f3" n="leschetizky-familie">
+  <desc type="filename">Leschetizky_Familie.xml</desc>
+  <graphic url="Leschetizky_Fischhof.jpg" width="425" height="513">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="425" lry="425" cx="213" cy="213" r="213" rotate="0"/>
+  <desc type="modified">2026-04-29T19:17:02.704Z</desc>
+</surface>

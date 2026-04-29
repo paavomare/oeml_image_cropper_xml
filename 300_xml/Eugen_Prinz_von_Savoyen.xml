@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c41ec704-586a-49e4-ab7b-b33aee3d1c1b" n="eugen-prinz-von-savoyen">
+  <desc type="filename">Eugen_Prinz_von_Savoyen.xml</desc>
+  <graphic url="bildarchivaustria/BA_928_B5150657T12483236.jpg" width="497" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="71" uly="125" lrx="419" lry="473" cx="245" cy="299" r="174" rotate="0"/>
+  <desc type="modified">2026-04-29T19:14:08.008Z</desc>
+</surface>

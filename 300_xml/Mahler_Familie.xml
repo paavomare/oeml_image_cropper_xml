@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b677dc4e-abcc-4a0c-9c62-44d324d1fb26" n="mahler-familie">
+  <desc type="filename">Mahler_Familie.xml</desc>
+  <graphic url="Mahler_Gustav.jpg" width="332" height="449">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="31" lrx="332" lry="348" cx="174" cy="190" r="159" rotate="0"/>
+  <desc type="modified">2026-04-29T19:33:31.653Z</desc>
+</surface>

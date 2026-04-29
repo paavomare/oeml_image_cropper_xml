@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b608e007-5b27-4011-855c-d743dfc8215b" n="mildner-moritz">
+  <desc type="filename">Mildner_Moritz.xml</desc>
+  <graphic url="bildarchivaustria/215_B3971833T3971837.jpg" width="580" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="154" lrx="474" lry="537" cx="283" cy="346" r="192" rotate="0"/>
+  <desc type="modified">2026-04-29T19:35:29.764Z</desc>
+</surface>

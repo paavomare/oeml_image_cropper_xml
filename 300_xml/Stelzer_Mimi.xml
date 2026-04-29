@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_60355a5b-e09f-4494-8de9-179c5e9a1178" n="stelzer-mimi">
+  <desc type="filename">Stelzer_Mimi.xml</desc>
+  <graphic url="Stelzer_Mimi_1920.jpg" width="467" height="682">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="467" lry="478" cx="234" cy="245" r="234" rotate="0"/>
+  <desc type="modified">2026-04-29T17:49:22.200Z</desc>
+</surface>

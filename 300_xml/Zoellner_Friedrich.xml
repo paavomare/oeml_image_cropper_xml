@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fe380923-ede8-41b7-8374-8f5313758da8" n="zoellner-friedrich">
+  <desc type="filename">Zoellner_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9275875T9275880.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="105" uly="164" lrx="485" lry="544" cx="295" cy="354" r="190" rotate="0"/>
+  <desc type="modified">2026-04-29T19:32:27.707Z</desc>
+</surface>

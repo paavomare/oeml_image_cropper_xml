@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fc946a5-69e2-4c16-a40f-fa03f8fc4a49" n="wickenhauser-richard">
+  <desc type="filename">Wickenhauser_Richard.xml</desc>
+  <graphic url="bildarchivaustria/744_B8075503T8075507.jpg" width="559" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="559" lry="593" cx="280" cy="314" r="280" rotate="0"/>
+  <desc type="modified">2026-04-29T18:54:08.595Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a5fa895a-84af-4232-8956-c71cd7f633eb" n="seydel-schwestern">
+  <desc type="filename">Seydel_Schwestern.xml</desc>
+  <graphic url="Seydel_Theresina_1875.jpg" width="482" height="636">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="61" lrx="454" lry="479" cx="245" cy="271" r="210" rotate="0"/>
+  <desc type="modified">2026-04-29T18:13:48.588Z</desc>
+</surface>

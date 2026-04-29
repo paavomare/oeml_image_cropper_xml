@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cc4730e9-ee7d-47e0-a54d-b96586017781" n="fuchs-familie-3">
+  <desc type="filename">Fuchs_Familie_3.xml</desc>
+  <graphic url="fuchs_franz.jpg" width="339" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="35" lrx="317" lry="333" cx="168" cy="184" r="149" rotate="0"/>
+  <desc type="modified">2026-04-29T19:17:16.640Z</desc>
+</surface>

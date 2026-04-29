@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d9f5d38e-b45d-4431-974e-7c4e79d79310" n="raimund-ferdinand">
+  <desc type="filename">Raimund_Ferdinand.xml</desc>
+  <graphic url="bildarchivaustria/101_B3493526T3493530.jpg" width="646" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="71" uly="87" lrx="602" lry="619" cx="337" cy="353" r="266" rotate="0"/>
+  <desc type="modified">2026-04-29T19:25:04.778Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_97ffe67d-5e52-44e5-b572-d629640088c9" n="manowarda-josef">
+  <desc type="filename">Manowarda_Josef.xml</desc>
+  <graphic url="bildarchivaustria/BA_910_B10598843T10598848.jpg" width="576" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="576" lry="607" cx="288" cy="319" r="288" rotate="0"/>
+  <desc type="modified">2026-04-29T20:00:48.847Z</desc>
+</surface>

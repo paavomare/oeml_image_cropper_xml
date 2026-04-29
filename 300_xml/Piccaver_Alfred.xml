@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ecb979d9-4c95-41ea-8a02-b70d3cdf9932" n="piccaver-alfred">
+  <desc type="filename">Piccaver_Alfred.xml</desc>
+  <graphic url="Piccaver_Alfred.jpg" width="433" height="602">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="433" lry="434" cx="217" cy="218" r="217" rotate="0"/>
+  <desc type="modified">2026-04-29T19:01:03.085Z</desc>
+</surface>

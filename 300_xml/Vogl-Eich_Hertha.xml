@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d041935f-5733-452a-ba32-2139c8f63ccc" n="vogl-eich-hertha">
+  <desc type="filename">Vogl-Eich_Hertha.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10453766T10453771.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="56" uly="43" lrx="523" lry="510" cx="290" cy="277" r="234" rotate="0"/>
+  <desc type="modified">2026-04-29T19:10:34.920Z</desc>
+</surface>

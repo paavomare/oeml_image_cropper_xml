@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_676dcdb3-f0e6-456d-9dc9-4c5fe48ac26c" n="moedlinger-brueder">
+  <desc type="filename">Moedlinger_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9256015T9256020.jpg" width="565" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="107" lrx="517" lry="582" cx="280" cy="345" r="238" rotate="0"/>
+  <desc type="modified">2026-04-29T19:09:36.201Z</desc>
+</surface>

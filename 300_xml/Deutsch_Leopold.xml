@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a7c1e710-ceb4-4b40-851c-4900752fd08b" n="deutsch-leopold">
+  <desc type="filename">Deutsch_Leopold.xml</desc>
+  <graphic url="bildarchivaustria/249_B4103197T4103201.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="13" uly="107" lrx="519" lry="613" cx="266" cy="360" r="253" rotate="0"/>
+  <desc type="modified">2026-04-29T19:00:40.457Z</desc>
+</surface>

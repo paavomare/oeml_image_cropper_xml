@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1dec8cc0-ac24-4361-8571-463329ad7639" n="hofmann-hilde">
+  <desc type="filename">Hofmann_Hilde.xml</desc>
+  <graphic url="Hofmann_Hilde.jpg" width="283" height="389">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="7" lrx="283" lry="290" cx="142" cy="149" r="142" rotate="0"/>
+  <desc type="modified">2026-04-29T18:26:45.141Z</desc>
+</surface>

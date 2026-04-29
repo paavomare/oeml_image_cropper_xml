@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5f6c99d1-66b0-4632-a58d-96601e6f6fbc" n="mueller-wenzel">
+  <desc type="filename">Mueller_Wenzel.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247311T9247316.jpg" width="555" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="140" lrx="503" lry="600" cx="273" cy="370" r="230" rotate="0"/>
+  <desc type="modified">2026-04-29T19:22:00.726Z</desc>
+</surface>

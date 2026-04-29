@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf831361-e79b-4569-a6a9-d27fe2be4710" n="dudli-joris">
+  <desc type="filename">Dudli_Joris.xml</desc>
+  <graphic url="Dudli_Joris_2.jpg" width="733" height="1099">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="733" lry="755" cx="367" cy="389" r="367" rotate="0"/>
+  <desc type="modified">2026-04-29T19:33:02.001Z</desc>
+</surface>

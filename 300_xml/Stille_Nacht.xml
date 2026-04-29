@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_abeeecab-7840-48a2-9330-a92c334753e0" n="stille-nacht">
+  <desc type="filename">Stille_Nacht.xml</desc>
+  <graphic url="Stille_Nacht.jpg" width="1417" height="1099">
+  </graphic>
+  <zone type="medallionCrop" ulx="673" uly="148" lrx="1339" lry="813" cx="1006" cy="481" r="333" rotate="0"/>
+  <desc type="modified">2026-04-29T18:33:59.684Z</desc>
+</surface>

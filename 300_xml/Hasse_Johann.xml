@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b41482a9-167c-4243-9b1d-aa3852811914" n="hasse-johann">
+  <desc type="filename">Hasse_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_1099_B9236468T19808858.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="111" uly="202" lrx="409" lry="499" cx="260" cy="351" r="149" rotate="0"/>
+  <desc type="modified">2026-04-29T19:19:59.927Z</desc>
+</surface>

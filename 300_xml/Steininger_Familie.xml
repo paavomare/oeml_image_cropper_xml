@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7ad8e585-9814-4af1-97d4-b243f93d853e" n="steininger-familie">
+  <desc type="filename">Steininger_Familie.xml</desc>
+  <graphic url="Steininger_Karl.jpg" width="189" height="242">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="167" lry="172" cx="84" cy="90" r="84" rotate="0"/>
+  <desc type="modified">2026-04-29T18:07:30.344Z</desc>
+</surface>

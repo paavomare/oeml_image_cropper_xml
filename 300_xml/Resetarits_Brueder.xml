@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_98c9bb8c-3d5d-4fdf-bcf4-fa482751a1a1" n="resetarits-brueder">
+  <desc type="filename">Resetarits_Brueder.xml</desc>
+  <graphic url="Resetarits_Plakat1980.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="112" lrx="568" lry="680" cx="284" cy="396" r="284" rotate="0"/>
+  <desc type="modified">2026-04-29T19:06:59.364Z</desc>
+</surface>

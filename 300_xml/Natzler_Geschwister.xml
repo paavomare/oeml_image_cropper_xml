@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4297ae4e-4b8b-465c-814b-2981c683547e" n="natzler-geschwister">
+  <desc type="filename">Natzler_Geschwister.xml</desc>
+  <graphic url="bildarchivaustria/BA_955_B13834140T13834145.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="211" uly="163" lrx="420" lry="372" cx="316" cy="268" r="105" rotate="0"/>
+  <desc type="modified">2026-04-29T18:46:01.132Z</desc>
+</surface>

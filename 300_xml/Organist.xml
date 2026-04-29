@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7f93b27e-a948-4cd8-9e8d-d27612ad7499" n="organist">
+  <desc type="filename">Organist.xml</desc>
+  <graphic url="Moser_1927.jpg" width="950" height="1333">
+  </graphic>
+  <zone type="medallionCrop" ulx="101" uly="146" lrx="857" lry="901" cx="479" cy="524" r="378" rotate="0"/>
+  <desc type="modified">2026-04-29T19:36:42.620Z</desc>
+</surface>

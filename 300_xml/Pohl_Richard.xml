@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6ab7ab9f-5eab-4694-9559-1dc2cca84ea6" n="pohl-richard">
+  <desc type="filename">Pohl_Richard.xml</desc>
+  <graphic url="Pohl_Richard.jpg" width="408" height="510">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="408" lry="427" cx="204" cy="223" r="204" rotate="0"/>
+  <desc type="modified">2026-04-29T19:42:41.491Z</desc>
+</surface>

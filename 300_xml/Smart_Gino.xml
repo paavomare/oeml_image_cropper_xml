@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b114513d-4209-4f76-82dc-720734f32d30" n="smart-gino">
+  <desc type="filename">Smart_Gino.xml</desc>
+  <graphic url="Smart_Gino.jpg" width="227" height="376">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="78" lrx="227" lry="305" cx="114" cy="192" r="114" rotate="0"/>
+  <desc type="modified">2026-04-29T18:13:18.889Z</desc>
+</surface>

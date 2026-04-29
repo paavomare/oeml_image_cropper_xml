@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ecc8ebfa-d3e7-45a7-9937-3869c512055b" n="goldschmidt-adalbert">
+  <desc type="filename">Goldschmidt_Adalbert.xml</desc>
+  <graphic url="bildarchivaustria/BA_921_B12203857T12203862.jpg" width="496" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="27" lrx="471" lry="456" cx="257" cy="242" r="215" rotate="0"/>
+  <desc type="modified">2026-04-29T18:38:51.372Z</desc>
+</surface>

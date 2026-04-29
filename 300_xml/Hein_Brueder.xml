@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_83dc8355-ebe8-4fb6-8eff-720af51dacca" n="hein-brueder">
+  <desc type="filename">Hein_Brueder.xml</desc>
+  <graphic url="Hein_Erwin.jpg" width="425" height="642">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="17" lrx="425" lry="442" cx="213" cy="230" r="213" rotate="0"/>
+  <desc type="modified">2026-04-29T20:11:15.388Z</desc>
+</surface>

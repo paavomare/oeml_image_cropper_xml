@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_acd4a219-4dd8-4b05-9d93-d3fd62751153" n="albrechtsberger-familie">
+  <desc type="filename">Albrechtsberger_Familie.xml</desc>
+  <graphic url="Albrechtsberger_Johann_Georg.jpg" width="697" height="893">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="697" lry="697" cx="349" cy="349" r="349" rotate="0"/>
+  <desc type="modified">2026-04-29T17:43:08.904Z</desc>
+</surface>

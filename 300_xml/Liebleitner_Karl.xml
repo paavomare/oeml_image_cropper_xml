@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4b3b416e-2dfc-42f1-9ad6-2982c354a45d" n="liebleitner-karl">
+  <desc type="filename">Liebleitner_Karl.xml</desc>
+  <graphic url="Liebleitner_Karl_2.jpg" width="681" height="937">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="36" lrx="681" lry="717" cx="341" cy="377" r="341" rotate="0"/>
+  <desc type="modified">2026-04-29T18:28:53.333Z</desc>
+</surface>

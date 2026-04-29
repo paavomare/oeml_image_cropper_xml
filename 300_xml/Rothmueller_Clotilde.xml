@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3008a9b9-0160-4a8c-a882-8ac19c60edff" n="rothmueller-clotilde">
+  <desc type="filename">Rothmueller_Clotilde.xml</desc>
+  <graphic url="Rothmueller_Clotilde.jpg" width="289" height="381">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="289" lry="289" cx="145" cy="145" r="145" rotate="0"/>
+  <desc type="modified">2026-04-29T18:10:37.971Z</desc>
+</surface>

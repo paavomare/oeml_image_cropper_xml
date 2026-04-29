@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2c4c68b3-1f13-4479-aeb2-957e205bf1bc" n="wreede-fritz">
+  <desc type="filename">Wreede_Fritz.xml</desc>
+  <graphic url="Wreede_Fritz.jpg" width="641" height="689">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="641" lry="672" cx="321" cy="352" r="321" rotate="0"/>
+  <desc type="modified">2026-04-29T19:09:41.072Z</desc>
+</surface>

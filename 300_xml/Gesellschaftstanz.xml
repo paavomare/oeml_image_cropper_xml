@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_53852c0d-80a1-4a9d-a9ce-bbd991986c30" n="gesellschaftstanz">
+  <desc type="filename">Gesellschaftstanz.xml</desc>
+  <graphic url="Branle_Bruegge_1515.jpg" width="548" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="95" uly="144" lrx="460" lry="509" cx="278" cy="327" r="183" rotate="0"/>
+  <desc type="modified">2026-04-29T19:37:35.002Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_587d9f0d-5a14-4e1e-92ce-b39132451216" n="prehauser-gottfried">
+  <desc type="filename">Prehauser_Gottfried.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9131914T9131919.jpg" width="510" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="83" uly="200" lrx="417" lry="534" cx="250" cy="367" r="167" rotate="0"/>
+  <desc type="modified">2026-04-29T19:33:55.704Z</desc>
+</surface>

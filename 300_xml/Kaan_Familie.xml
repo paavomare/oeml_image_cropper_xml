@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f2071e28-124f-4eab-a022-c0b471aa3579" n="kaan-familie">
+  <desc type="filename">Kaan_Familie.xml</desc>
+  <graphic url="Kaan_von_Albest_Jindrich.jpg" width="764" height="945">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="764" lry="780" cx="382" cy="398" r="382" rotate="0"/>
+  <desc type="modified">2026-04-29T19:32:00.244Z</desc>
+</surface>

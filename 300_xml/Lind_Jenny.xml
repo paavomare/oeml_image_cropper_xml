@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f108bd8f-1f55-4da5-8fd7-ecdc35019137" n="lind-jenny">
+  <desc type="filename">Lind_Jenny.xml</desc>
+  <graphic url="bildarchivaustria/102_B3494375T3494379.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="58" lrx="526" lry="560" cx="275" cy="309" r="251" rotate="0"/>
+  <desc type="modified">2026-04-29T18:10:52.237Z</desc>
+</surface>

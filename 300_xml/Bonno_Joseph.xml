@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b3a45b64-6260-446c-9ff7-31f90a94a237" n="bonno-joseph">
+  <desc type="filename">Bonno_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245580T9245585.jpg" width="542" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="158" uly="199" lrx="401" lry="442" cx="280" cy="321" r="122" rotate="0"/>
+  <desc type="modified">2026-04-29T19:34:26.192Z</desc>
+</surface>

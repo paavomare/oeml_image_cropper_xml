@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_24e1e00f-ea37-4cfd-b934-652ded1116b3" n="clementi-muzio">
+  <desc type="filename">Clementi_Muzio.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9232882T9232887.jpg" width="619" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="156" uly="235" lrx="455" lry="535" cx="306" cy="385" r="150" rotate="0"/>
+  <desc type="modified">2026-04-29T17:50:26.475Z</desc>
+</surface>

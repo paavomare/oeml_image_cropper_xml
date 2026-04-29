@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7931b674-f65e-4671-a89c-5194613e1a6b" n="meyer-familie">
+  <desc type="filename">Meyer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9236573T9236578.jpg" width="632" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="72" uly="101" lrx="553" lry="582" cx="313" cy="342" r="241" rotate="0"/>
+  <desc type="modified">2026-04-29T19:40:55.763Z</desc>
+</surface>

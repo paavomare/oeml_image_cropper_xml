@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_afbbe859-b970-4877-83c8-50d9f18ed387" n="venedig-in-wien">
+  <desc type="filename">Venedig_in_Wien.xml</desc>
+  <graphic url="bildarchivaustria/BA_868_B9471347T9471352.jpg" width="800" height="560">
+  </graphic>
+  <zone type="medallionCrop" ulx="89" uly="0" lrx="649" lry="560" cx="369" cy="280" r="280" rotate="0"/>
+  <desc type="modified">2026-04-29T18:27:50.212Z</desc>
+</surface>

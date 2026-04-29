@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_13a5941f-dfba-4e4a-91a2-ce9aa8aa1e75" n="kwapil-johann">
+  <desc type="filename">Kwapil_Johann.xml</desc>
+  <graphic url="Kwapil_Johann_2.jpg" width="383" height="440">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="383" lry="406" cx="192" cy="215" r="192" rotate="0"/>
+  <desc type="modified">2026-04-29T18:59:48.938Z</desc>
+</surface>

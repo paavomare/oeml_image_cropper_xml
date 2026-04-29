@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_987f3acc-15a2-4f76-ad62-34780548f19e" n="seefehlner-egon">
+  <desc type="filename">Seefehlner_Egon.xml</desc>
+  <graphic url="bildarchivaustria/766_B8154788T8154792.jpg" width="502" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="145" lrx="484" lry="601" cx="256" cy="373" r="228" rotate="0"/>
+  <desc type="modified">2026-04-29T20:03:15.047Z</desc>
+</surface>

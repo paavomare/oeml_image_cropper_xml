@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_48698845-1847-4c65-969c-3dc9f207b680" n="holzschuh-lizzi">
+  <desc type="filename">Holzschuh_Lizzi.xml</desc>
+  <graphic url="bildarchivaustria/344_B306779T4451295.jpg" width="595" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="77" uly="42" lrx="506" lry="471" cx="292" cy="257" r="215" rotate="0"/>
+  <desc type="modified">2026-04-29T19:11:26.069Z</desc>
+</surface>

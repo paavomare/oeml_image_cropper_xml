@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ded0060d-4c62-463d-af2a-ff999b5b816b" n="liebhardt-luise">
+  <desc type="filename">Liebhardt_Luise.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9276409T9276414.jpg" width="603" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="150" lrx="539" lry="625" cx="302" cy="388" r="238" rotate="0"/>
+  <desc type="modified">2026-04-29T20:08:34.025Z</desc>
+</surface>

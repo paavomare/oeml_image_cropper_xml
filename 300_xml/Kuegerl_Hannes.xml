@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6c533443-786c-4c8e-8fe5-cc30af90d9f1" n="kuegerl-hannes">
+  <desc type="filename">Kuegerl_Hannes.xml</desc>
+  <graphic url="Kuegerl.jpg" width="424" height="618">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="67" lrx="424" lry="491" cx="212" cy="279" r="212" rotate="0"/>
+  <desc type="modified">2026-04-29T18:59:26.450Z</desc>
+</surface>

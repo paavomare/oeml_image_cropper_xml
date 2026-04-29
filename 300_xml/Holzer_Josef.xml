@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_106176d4-2aa6-4d9f-be18-5b28d07263ee" n="holzer-josef">
+  <desc type="filename">Holzer_Josef.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10392574T10392579.jpg" width="559" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="559" lry="559" cx="280" cy="280" r="280" rotate="0"/>
+  <desc type="modified">2026-04-29T19:26:35.091Z</desc>
+</surface>

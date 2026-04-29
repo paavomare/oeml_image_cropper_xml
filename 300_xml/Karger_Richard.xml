@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5a1a3b8c-8f26-4547-803e-f9c6f6f44a29" n="karger-richard">
+  <desc type="filename">Karger_Richard.xml</desc>
+  <graphic url="Karger_Richard.jpg" width="352" height="563">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="102" lrx="352" lry="454" cx="176" cy="278" r="176" rotate="0"/>
+  <desc type="modified">2026-04-29T18:00:16.976Z</desc>
+</surface>

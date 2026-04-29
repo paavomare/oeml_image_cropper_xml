@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fb9326e5-bc3d-4eaa-b7d7-79bf0b3aca3e" n="feuerwehrmusikkapelle">
+  <desc type="filename">Feuerwehrmusikkapelle.xml</desc>
+  <graphic url="Feuerwehrmusikkapelle_2.jpg" width="886" height="579">
+  </graphic>
+  <zone type="medallionCrop" ulx="181" uly="0" lrx="760" lry="579" cx="471" cy="290" r="290" rotate="0"/>
+  <desc type="modified">2026-04-29T20:07:01.696Z</desc>
+</surface>

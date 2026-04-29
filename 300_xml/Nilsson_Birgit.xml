@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e7cd84a-d2fd-4634-bd1f-115da235fe0e" n="nilsson-birgit">
+  <desc type="filename">Nilsson_Birgit.xml</desc>
+  <graphic url="bildarchivaustria/BA_844_B8984345T8984350.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="81" lrx="568" lry="649" cx="284" cy="365" r="284" rotate="0"/>
+  <desc type="modified">2026-04-29T18:57:54.433Z</desc>
+</surface>

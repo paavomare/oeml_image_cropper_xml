@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_212a647d-2186-4525-8f8f-0763e32fda8f" n="hahn-walter">
+  <desc type="filename">Hahn_Walter.xml</desc>
+  <graphic url="Hahn_Walter_1928.jpeg" width="255" height="250">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="207" lry="230" cx="104" cy="126" r="104" rotate="0"/>
+  <desc type="modified">2026-04-29T17:59:08.916Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f0fb3052-aaef-4e4a-a090-214090d4a26b" n="seidler-emanuel">
+  <desc type="filename">Seidler_Emanuel.xml</desc>
+  <graphic url="Seidler_Emanuel_1939.jpg" width="561" height="840">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="84" lrx="561" lry="645" cx="281" cy="365" r="281" rotate="0"/>
+  <desc type="modified">2026-04-29T17:55:46.477Z</desc>
+</surface>

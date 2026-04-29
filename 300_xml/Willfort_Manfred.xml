@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f9363a11-9c2a-4f3e-b86e-efe2bb7a39fb" n="willfort-manfred">
+  <desc type="filename">Willfort_Manfred.xml</desc>
+  <graphic url="Willfort_Manfred.jpg" width="227" height="237">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="227" lry="228" cx="114" cy="115" r="114" rotate="0"/>
+  <desc type="modified">2026-04-29T20:06:04.215Z</desc>
+</surface>

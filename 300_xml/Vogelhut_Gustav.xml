@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f228957e-908c-46f9-af60-0bb4fa2d14aa" n="vogelhut-gustav">
+  <desc type="filename">Vogelhut_Gustav.xml</desc>
+  <graphic url="Vogelhut_Gustav.jpg" width="313" height="443">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="313" lry="331" cx="157" cy="175" r="157" rotate="0"/>
+  <desc type="modified">2026-04-29T18:00:59.742Z</desc>
+</surface>

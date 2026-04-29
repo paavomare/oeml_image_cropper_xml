@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2ca6491e-aa1b-4e5d-b89a-bc6983bff121" n="pixis-familie">
+  <desc type="filename">Pixis_Familie.xml</desc>
+  <graphic url="bildarchivaustria/166_B3763631T3763635.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="185" lrx="450" lry="532" cx="277" cy="358" r="173" rotate="0"/>
+  <desc type="modified">2026-04-29T19:16:39.959Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_26b75d9f-ba33-4248-bbf5-c2def7b4f30d" n="wymetal-familie">
+  <desc type="filename">Wymetal_Familie.xml</desc>
+  <graphic url="bildarchivaustria/191_B3886549T3886553.jpg" width="694" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="694" lry="709" cx="347" cy="362" r="347" rotate="0"/>
+  <desc type="modified">2026-04-29T20:10:11.549Z</desc>
+</surface>

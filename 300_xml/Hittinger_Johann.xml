@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_79da22dc-7b67-4b5f-ad47-38d7797a6242" n="hittinger-johann">
+  <desc type="filename">Hittinger_Johann.xml</desc>
+  <graphic url="Hittinger_Johann.jpg" width="709" height="955">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="709" lry="709" cx="355" cy="355" r="355" rotate="0"/>
+  <desc type="modified">2026-04-29T18:43:21.098Z</desc>
+</surface>

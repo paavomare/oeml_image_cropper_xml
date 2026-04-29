@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1e3541f8-7249-4dbb-b1fa-146404e88c8b" n="fuerst-johann">
+  <desc type="filename">Fuerst_Johann.xml</desc>
+  <graphic url="bildarchivaustria/209_B3945988T3945992.jpg" width="587" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="94" uly="125" lrx="499" lry="529" cx="297" cy="328" r="203" rotate="0"/>
+  <desc type="modified">2026-04-29T17:44:15.805Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b9d7fdf2-e707-46c8-9ccc-f731708340c9" n="coty-anny">
+  <desc type="filename">Coty_Anny.xml</desc>
+  <graphic url="bildarchivaustria/BA_1113_B5040801T20361309.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="49" lrx="500" lry="522" cx="264" cy="286" r="237" rotate="0"/>
+  <desc type="modified">2026-04-29T18:38:07.043Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6245c673-3178-4905-9376-dc651dd85db5" n="preminger-otto">
+  <desc type="filename">Preminger_Otto.xml</desc>
+  <graphic url="bildarchivaustria/745_B8079192T8079196.jpg" width="530" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="223" lrx="512" lry="709" cx="269" cy="466" r="243" rotate="0"/>
+  <desc type="modified">2026-04-29T19:31:23.256Z</desc>
+</surface>

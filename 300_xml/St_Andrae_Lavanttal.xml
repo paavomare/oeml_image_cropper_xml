@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1cd7e0ad-71d6-435d-9e5b-061bee031e9c" n="st-andrae-lavanttal">
+  <desc type="filename">St_Andrae_Lavanttal.xml</desc>
+  <graphic url="bildarchivaustria/KAR_1_B12424212T13154383.jpg" width="801" height="535">
+  </graphic>
+  <zone type="medallionCrop" ulx="107" uly="0" lrx="642" lry="535" cx="375" cy="268" r="268" rotate="0"/>
+  <desc type="modified">2026-04-29T19:02:41.890Z</desc>
+</surface>

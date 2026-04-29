@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a72ba522-36a5-400e-aa88-a5e8591f9fcf" n="czernin-johann">
+  <desc type="filename">Czernin_Johann.xml</desc>
+  <graphic url="bildarchivaustria/118_B3558074T3558078.jpg" width="556" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="161" lrx="491" lry="606" cx="268" cy="384" r="223" rotate="0"/>
+  <desc type="modified">2026-04-29T20:01:58.784Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1a055f9c-7cd0-414c-8016-d4de72a9dee4" n="landau-familie">
+  <desc type="filename">Landau_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9255119T9255124.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="73" uly="153" lrx="495" lry="575" cx="284" cy="364" r="211" rotate="0"/>
+  <desc type="modified">2026-04-29T17:51:28.241Z</desc>
+</surface>

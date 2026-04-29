@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a732e4e4-ff42-4204-9264-5c597782cbf9" n="neusidler-familie">
+  <desc type="filename">Neusidler_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247514T9247519.jpg" width="684" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="54" uly="62" lrx="616" lry="625" cx="335" cy="343" r="281" rotate="0"/>
+  <desc type="modified">2026-04-29T18:48:44.687Z</desc>
+</surface>

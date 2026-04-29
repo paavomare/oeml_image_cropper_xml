@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf3b09d2-710b-41af-be9a-d1d507d1e3f5" n="geutebrueck-brueder">
+  <desc type="filename">Geutebrueck_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449755T10449760.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="65" lrx="497" lry="522" cx="268" cy="294" r="229" rotate="0"/>
+  <desc type="modified">2026-04-29T18:53:09.538Z</desc>
+</surface>

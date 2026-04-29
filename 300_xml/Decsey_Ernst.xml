@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e8b3967a-22e0-4b01-acbd-2f34c915f829" n="decsey-ernst">
+  <desc type="filename">Decsey_Ernst.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449670T10449675.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="61" lrx="498" lry="523" cx="267" cy="293" r="232" rotate="0"/>
+  <desc type="modified">2026-04-29T17:42:33.627Z</desc>
+</surface>

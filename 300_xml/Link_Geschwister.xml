@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7e251628-abf4-425e-a860-ef139a5ca3b2" n="link-geschwister">
+  <desc type="filename">Link_Geschwister.xml</desc>
+  <graphic url="Link_Antonia_1877.jpg" width="753" height="939">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="753" lry="779" cx="377" cy="403" r="377" rotate="0"/>
+  <desc type="modified">2026-04-29T19:14:37.924Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3f7d977b-a542-4380-b148-1c9d607d5db7" n="david-familie">
+  <desc type="filename">David_Familie.xml</desc>
+  <graphic url="bildarchivaustria/746_B8081285T8081289.jpg" width="642" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="642" lry="642" cx="321" cy="321" r="321" rotate="0"/>
+  <desc type="modified">2026-04-29T18:56:43.076Z</desc>
+</surface>

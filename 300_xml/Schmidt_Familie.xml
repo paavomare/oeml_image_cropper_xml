@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9008098a-4b89-4083-888e-e7b4f6f9f629" n="schmidt-familie">
+  <desc type="filename">Schmidt_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9242794T9242799.jpg" width="536" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="68" uly="163" lrx="474" lry="569" cx="271" cy="366" r="203" rotate="0"/>
+  <desc type="modified">2026-04-29T18:48:13.392Z</desc>
+</surface>

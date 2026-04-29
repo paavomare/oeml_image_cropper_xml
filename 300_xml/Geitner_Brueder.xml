@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e71d7774-27f5-49d2-a633-0fe9c50446b2" n="geitner-brueder">
+  <desc type="filename">Geitner_Brueder.xml</desc>
+  <graphic url="Geitner_Otto.jpg" width="425" height="556">
+  </graphic>
+  <zone type="medallionCrop" ulx="4" uly="0" lrx="366" lry="362" cx="185" cy="181" r="181" rotate="0"/>
+  <desc type="modified">2026-04-29T19:12:46.113Z</desc>
+</surface>

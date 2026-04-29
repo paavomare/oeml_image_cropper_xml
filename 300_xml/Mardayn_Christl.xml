@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_72b805d2-74b8-4cad-96d9-0b68e0cc98fe" n="mardayn-christl">
+  <desc type="filename">Mardayn_Christl.xml</desc>
+  <graphic url="bildarchivaustria/10_B1252209T1252213.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="37" uly="32" lrx="544" lry="539" cx="291" cy="286" r="254" rotate="0"/>
+  <desc type="modified">2026-04-29T19:38:27.623Z</desc>
+</surface>

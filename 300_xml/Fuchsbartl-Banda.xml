@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b0e3dbc5-4a1b-46cd-9dd4-0e4fc2ea9b97" n="fuchsbartl-banda">
+  <desc type="filename">Fuchsbartl-Banda.xml</desc>
+  <graphic url="Fuchsbartl-Banda_1.jpg" width="1134" height="756">
+  </graphic>
+  <zone type="medallionCrop" ulx="168" uly="42" lrx="882" lry="756" cx="525" cy="399" r="357" rotate="0"/>
+  <desc type="modified">2026-04-29T18:03:31.907Z</desc>
+</surface>

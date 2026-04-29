@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2de1d6b8-1aa1-4c9a-a3d4-9eafa92ec3e4" n="teyber-familie">
+  <desc type="filename">Teyber_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_851_B9137368T9137373.jpg" width="505" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="33" uly="134" lrx="453" lry="554" cx="243" cy="344" r="210" rotate="0"/>
+  <desc type="modified">2026-04-29T18:06:46.725Z</desc>
+</surface>

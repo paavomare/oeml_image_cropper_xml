@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d5160bec-b5fa-40fc-a7f3-5feee636e577" n="cebotari-maria">
+  <desc type="filename">Cebotari_Maria.xml</desc>
+  <graphic url="Cebotari_1945.jpg" width="252" height="342">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="19" lrx="235" lry="239" cx="126" cy="129" r="110" rotate="0"/>
+  <desc type="modified">2026-04-29T18:39:30.616Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_86ba5b25-49d7-4097-a805-e6b7be2f584a" n="pfeiler-t-c">
+  <desc type="filename">Pfeiler_T_C.xml</desc>
+  <graphic url="Pfeiler_T_C.jpg" width="900" height="600">
+  </graphic>
+  <zone type="medallionCrop" ulx="247" uly="0" lrx="847" lry="600" cx="547" cy="300" r="300" rotate="0"/>
+  <desc type="modified">2026-04-29T18:18:31.741Z</desc>
+</surface>

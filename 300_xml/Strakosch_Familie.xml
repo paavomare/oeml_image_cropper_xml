@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a597c011-0c6b-4547-bc8e-73894b5ad8aa" n="strakosch-familie">
+  <desc type="filename">Strakosch_Familie.xml</desc>
+  <graphic url="bildarchivaustria/744_B8075407T8075411.jpg" width="540" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="540" lry="540" cx="270" cy="270" r="270" rotate="0"/>
+  <desc type="modified">2026-04-29T18:36:54.431Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_42093848-1091-4fb3-8b96-3a5de92f4e88" n="kadmon-stella">
+  <desc type="filename">Kadmon_Stella.xml</desc>
+  <graphic url="Kadmon_Stella.jpg" width="397" height="541">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="49" lrx="397" lry="446" cx="199" cy="248" r="199" rotate="0"/>
+  <desc type="modified">2026-04-29T18:49:56.517Z</desc>
+</surface>

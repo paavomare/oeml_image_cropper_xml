@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fc7c53ca-1a5a-4000-b5ed-3544082626dc" n="neustift">
+  <desc type="filename">Neustift.xml</desc>
+  <graphic url="Neustift1.jpg" width="211" height="214">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="211" lry="211" cx="106" cy="106" r="106" rotate="0"/>
+  <desc type="modified">2026-04-29T19:37:00.725Z</desc>
+</surface>

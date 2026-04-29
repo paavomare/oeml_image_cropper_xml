@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_54a7b6a0-cc6b-4d0d-8128-c59618355b47" n="willmers-rudolph">
+  <desc type="filename">Willmers_Rudolph.xml</desc>
+  <graphic url="Willmers_Rudolph_Litho.jpg" width="641" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="27" lrx="641" lry="668" cx="321" cy="348" r="321" rotate="0"/>
+  <desc type="modified">2026-04-29T19:38:04.887Z</desc>
+</surface>

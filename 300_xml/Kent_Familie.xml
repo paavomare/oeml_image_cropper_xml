@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_61e29d89-5636-4275-8cd4-66b23fa33cf9" n="kent-familie">
+  <desc type="filename">Kent_Familie.xml</desc>
+  <graphic url="Kent_Oliver.jpg" width="1100" height="731">
+  </graphic>
+  <zone type="medallionCrop" ulx="58" uly="0" lrx="789" lry="731" cx="424" cy="366" r="366" rotate="0"/>
+  <desc type="modified">2026-04-29T18:52:41.134Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0d17e132-56a4-414e-b525-eb6cdca3ea72" n="dvorak-antonin">
+  <desc type="filename">Dvorak_Antonin.xml</desc>
+  <graphic url="Dvorak_Anton.jpg" width="595" height="710">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="595" lry="611" cx="298" cy="314" r="298" rotate="0"/>
+  <desc type="modified">2026-04-29T18:32:40.479Z</desc>
+</surface>

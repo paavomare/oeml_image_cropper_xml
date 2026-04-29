@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_291ee76d-4b19-495c-b044-dc170747f157" n="dobrek-bistro">
+  <desc type="filename">Dobrek_Bistro.xml</desc>
+  <graphic url="Dobrek_Bistro.jpg" width="821" height="714">
+  </graphic>
+  <zone type="medallionCrop" ulx="54" uly="0" lrx="768" lry="714" cx="411" cy="357" r="357" rotate="0"/>
+  <desc type="modified">2026-04-29T17:50:14.439Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4dea4fe8-7e8d-4186-9554-9c0f3cd23301" n="wild-familie">
+  <desc type="filename">Wild_Familie.xml</desc>
+  <graphic url="Wild_Denkmal.jpg" width="397" height="505">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="397" lry="412" cx="199" cy="214" r="199" rotate="0"/>
+  <desc type="modified">2026-04-29T17:52:29.675Z</desc>
+</surface>

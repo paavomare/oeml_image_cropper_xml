@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c4fe2670-734d-4124-9c60-20f7a1a6db81" n="marini-peter">
+  <desc type="filename">Marini_Peter.xml</desc>
+  <graphic url="Marini.jpg" width="446" height="610">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="446" lry="469" cx="223" cy="246" r="223" rotate="0"/>
+  <desc type="modified">2026-04-29T18:26:40.121Z</desc>
+</surface>

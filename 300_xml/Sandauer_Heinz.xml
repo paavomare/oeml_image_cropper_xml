@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6b6c7567-6a8b-4b04-94b8-01f25062a8bd" n="sandauer-heinz">
+  <desc type="filename">Sandauer_Heinz.xml</desc>
+  <graphic url="Sandauer_Heinz.jpg" width="356" height="490">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="356" lry="356" cx="178" cy="178" r="178" rotate="0"/>
+  <desc type="modified">2026-04-29T20:01:28.437Z</desc>
+</surface>

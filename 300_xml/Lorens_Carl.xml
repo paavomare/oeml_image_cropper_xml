@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4005efa6-5245-4319-bb11-ef6fcd331e49" n="lorens-carl">
+  <desc type="filename">Lorens_Carl.xml</desc>
+  <graphic url="Lorens_Carl.jpg" width="351" height="474">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="351" lry="351" cx="176" cy="176" r="176" rotate="0"/>
+  <desc type="modified">2026-04-29T18:30:44.948Z</desc>
+</surface>

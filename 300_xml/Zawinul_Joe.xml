@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d069aa9a-e0ea-4ec1-b319-a1f2aba61a6e" n="zawinul-joe">
+  <desc type="filename">Zawinul_Joe.xml</desc>
+  <graphic url="Zawinul_Foto.jpg" width="800" height="523">
+  </graphic>
+  <zone type="medallionCrop" ulx="114" uly="24" lrx="605" lry="515" cx="360" cy="270" r="246" rotate="0"/>
+  <desc type="modified">2026-04-29T17:59:27.646Z</desc>
+</surface>

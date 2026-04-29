@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_01447f3b-af30-4a41-a39b-99567548c2f4" n="heberle-therese">
+  <desc type="filename">Heberle_Therese.xml</desc>
+  <graphic url="bildarchivaustria/BA_851_B9143001T9143006.jpg" width="575" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="98" uly="186" lrx="471" lry="559" cx="285" cy="373" r="187" rotate="0"/>
+  <desc type="modified">2026-04-29T19:01:13.124Z</desc>
+</surface>

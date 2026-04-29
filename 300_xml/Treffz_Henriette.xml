@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fd603bc-e2f0-4487-8c01-50876798843c" n="treffz-henriette">
+  <desc type="filename">Treffz_Henriette.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12996022T12996027.jpg" width="490" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="254" lrx="353" lry="581" cx="190" cy="418" r="164" rotate="0"/>
+  <desc type="modified">2026-04-29T18:53:59.062Z</desc>
+</surface>

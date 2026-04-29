@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_99e5df8d-3313-407e-9ec4-e7ff872406c1" n="schillings-max-von">
+  <desc type="filename">Schillings_Max_von.xml</desc>
+  <graphic url="Schillings_Max.jpg" width="528" height="690">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="23" lrx="528" lry="551" cx="264" cy="287" r="264" rotate="0"/>
+  <desc type="modified">2026-04-29T19:32:40.725Z</desc>
+</surface>

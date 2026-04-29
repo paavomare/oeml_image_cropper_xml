@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d199e9d0-2aac-4554-9e67-cc965c6ebc7b" n="krauss-friedrich">
+  <desc type="filename">Krauss_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/747_B8081849T8081853.jpg" width="543" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="110" lrx="520" lry="594" cx="278" cy="352" r="242" rotate="0"/>
+  <desc type="modified">2026-04-29T19:16:08.918Z</desc>
+</surface>

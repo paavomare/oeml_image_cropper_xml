@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6122c32f-bbd9-4667-a698-f3c71b0b67a9" n="brigittakirtag">
+  <desc type="filename">Brigittakirtag.xml</desc>
+  <graphic url="Grillparzer_KaB.jpg" width="2448" height="3264">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1763" lry="1763" cx="882" cy="882" r="882" rotate="0"/>
+  <desc type="modified">2026-04-29T19:22:18.945Z</desc>
+</surface>

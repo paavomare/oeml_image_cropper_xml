@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_298ec7c5-23e4-40e6-bb6e-caceb2780306" n="wiener-konzerthausgesellschaft">
+  <desc type="filename">Wiener_Konzerthausgesellschaft.xml</desc>
+  <graphic url="bildarchivaustria/142_B653380T3648273.jpg" width="800" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="800" lry="800" cx="400" cy="400" r="400" rotate="0"/>
+  <desc type="modified">2026-04-29T18:32:33.311Z</desc>
+</surface>

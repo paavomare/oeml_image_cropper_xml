@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3c8d01e4-39ca-457e-b16a-ef47cc42d7b9" n="mascagni-pietro">
+  <desc type="filename">Mascagni_Pietro.xml</desc>
+  <graphic url="Mascagni_Pietro_Wienmuseum.jpg" width="621" height="935">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="75" lrx="621" lry="696" cx="311" cy="386" r="311" rotate="0"/>
+  <desc type="modified">2026-04-29T19:26:42.913Z</desc>
+</surface>

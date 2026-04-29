@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6f1e289c-3d87-46c4-8aa8-2ae22276cd7c" n="porpora-nicola">
+  <desc type="filename">Porpora_Nicola.xml</desc>
+  <graphic url="bildarchivaustria/220_B3995191T3995195.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="187" uly="163" lrx="379" lry="355" cx="283" cy="259" r="96" rotate="0"/>
+  <desc type="modified">2026-04-29T19:35:02.123Z</desc>
+</surface>

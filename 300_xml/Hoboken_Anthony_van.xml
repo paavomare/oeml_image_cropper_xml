@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b70a0943-f3e6-48d9-a755-e1732d27fc44" n="hoboken-anthony-van">
+  <desc type="filename">Hoboken_Anthony_van.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10453396T10453401.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="58" uly="54" lrx="498" lry="495" cx="278" cy="274" r="220" rotate="0"/>
+  <desc type="modified">2026-04-29T17:45:12.880Z</desc>
+</surface>

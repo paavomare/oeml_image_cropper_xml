@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e2fdb783-e345-4a10-b55a-b25348317e2f" n="fronz-brueder">
+  <desc type="filename">Fronz_Brueder.xml</desc>
+  <graphic url="Fronz_Oskar_jun.jpg" width="567" height="610">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="567" lry="573" cx="284" cy="290" r="284" rotate="0"/>
+  <desc type="modified">2026-04-29T17:51:50.241Z</desc>
+</surface>

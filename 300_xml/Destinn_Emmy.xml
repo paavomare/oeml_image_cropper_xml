@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7ee1e50d-a3d2-4aac-a1b0-406f58a5b50c" n="destinn-emmy">
+  <desc type="filename">Destinn_Emmy.xml</desc>
+  <graphic url="Destinn_Emmy.jpg" width="317" height="473">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="22" lrx="317" lry="339" cx="159" cy="181" r="159" rotate="0"/>
+  <desc type="modified">2026-04-29T18:57:35.411Z</desc>
+</surface>

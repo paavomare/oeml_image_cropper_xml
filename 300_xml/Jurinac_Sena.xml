@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_09e97f86-b062-4f92-8679-45222a597b49" n="jurinac-sena">
+  <desc type="filename">Jurinac_Sena.xml</desc>
+  <graphic url="bildarchivaustria/71_B659760T1798371.jpg" width="629" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="134" lrx="486" lry="597" cx="255" cy="365" r="231" rotate="0"/>
+  <desc type="modified">2026-04-29T20:07:21.776Z</desc>
+</surface>

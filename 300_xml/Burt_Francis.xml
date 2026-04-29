@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_03100d48-bcda-4501-a936-56d7b66c1d8a" n="burt-francis">
+  <desc type="filename">Burt_Francis.xml</desc>
+  <graphic url="Burt1.jpg" width="495" height="349">
+  </graphic>
+  <zone type="medallionCrop" ulx="84" uly="0" lrx="433" lry="349" cx="259" cy="175" r="175" rotate="0"/>
+  <desc type="modified">2026-04-29T18:59:52.394Z</desc>
+</surface>

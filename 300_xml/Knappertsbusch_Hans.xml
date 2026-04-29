@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_867f61f9-3944-473b-9949-f751f68b9a54" n="knappertsbusch-hans">
+  <desc type="filename">Knappertsbusch_Hans.xml</desc>
+  <graphic url="Knappertsbusch_Hans.jpg" width="560" height="756">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="560" lry="573" cx="280" cy="293" r="280" rotate="0"/>
+  <desc type="modified">2026-04-29T19:57:49.413Z</desc>
+</surface>

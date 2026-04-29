@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f17a5bfb-298c-4c9c-a072-704929136073" n="dirkens-annie">
+  <desc type="filename">Dirkens_Annie.xml</desc>
+  <graphic url="dirkens_annie.jpg" width="365" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="39" lrx="333" lry="354" cx="176" cy="197" r="158" rotate="0"/>
+  <desc type="modified">2026-04-29T20:07:38.433Z</desc>
+</surface>

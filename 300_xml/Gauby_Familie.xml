@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb585856-0892-4f3d-8350-80d12719fac6" n="gauby-familie">
+  <desc type="filename">Gauby_Familie.xml</desc>
+  <graphic url="Gauby_Josef.jpg" width="637" height="886">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="88" lrx="637" lry="725" cx="319" cy="407" r="319" rotate="0"/>
+  <desc type="modified">2026-04-29T19:17:38.481Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9034a37e-4cd2-43e3-bf75-10c53c394461" n="schreyvogel-familie">
+  <desc type="filename">Schreyvogel_Familie.xml</desc>
+  <graphic url="bildarchivaustria/54_B659096T1521159.jpg" width="801" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="801" lry="801" cx="401" cy="401" r="401" rotate="0"/>
+  <desc type="modified">2026-04-29T19:35:36.886Z</desc>
+</surface>

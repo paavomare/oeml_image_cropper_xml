@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_73082867-c7e5-4572-97f1-bee97dee9928" n="ondricek-frantisek">
+  <desc type="filename">Ondricek_Frantisek.xml</desc>
+  <graphic url="Ondricek_Franz.jpg" width="320" height="462">
+  </graphic>
+  <zone type="medallionCrop" ulx="12" uly="64" lrx="291" lry="343" cx="152" cy="204" r="140" rotate="0"/>
+  <desc type="modified">2026-04-29T19:27:14.801Z</desc>
+</surface>

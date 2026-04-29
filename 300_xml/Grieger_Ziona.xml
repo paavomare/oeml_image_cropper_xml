@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c67c0b4d-92e9-42a2-9844-e02aec6c8d3b" n="grieger-ziona">
+  <desc type="filename">Grieger_Ziona.xml</desc>
+  <graphic url="Grieger_Ziona_1890.jpg" width="510" height="548">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="17" lrx="465" lry="446" cx="251" cy="232" r="215" rotate="0"/>
+  <desc type="modified">2026-04-29T18:09:55.772Z</desc>
+</surface>

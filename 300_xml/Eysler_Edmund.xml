@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e8d9cfc3-f13e-4619-84cb-3e590c028094" n="eysler-edmund">
+  <desc type="filename">Eysler_Edmund.xml</desc>
+  <graphic url="bildarchivaustria/523_B5619225T5619230.jpg" width="474" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="132" uly="91" lrx="465" lry="424" cx="299" cy="258" r="167" rotate="0"/>
+  <desc type="modified">2026-04-29T17:57:53.260Z</desc>
+</surface>

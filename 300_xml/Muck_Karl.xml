@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3bc9654a-295b-4a6c-a18b-65f608e3e426" n="muck-karl">
+  <desc type="filename">Muck_Karl.xml</desc>
+  <graphic url="bildarchivaustria/739_B8035847T8035851.jpg" width="501" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="37" uly="59" lrx="486" lry="508" cx="262" cy="284" r="225" rotate="0"/>
+  <desc type="modified">2026-04-29T19:30:31.142Z</desc>
+</surface>

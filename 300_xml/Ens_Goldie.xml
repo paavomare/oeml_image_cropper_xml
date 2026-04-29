@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d07ef0e7-52db-43db-996e-b82daf1bf81f" n="ens-goldie">
+  <desc type="filename">Ens_Goldie.xml</desc>
+  <graphic url="Ens_Plakat1975.jpg" width="564" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="303" uly="238" lrx="506" lry="441" cx="405" cy="340" r="102" rotate="0"/>
+  <desc type="modified">2026-04-29T20:12:14.446Z</desc>
+</surface>

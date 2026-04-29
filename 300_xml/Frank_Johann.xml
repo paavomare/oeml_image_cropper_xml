@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5d26a2df-3751-4325-b2f4-627d44fd49eb" n="frank-johann">
+  <desc type="filename">Frank_Johann.xml</desc>
+  <graphic url="bildarchivaustria/582_B7389442T7389446.jpg" width="597" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="83" uly="114" lrx="493" lry="524" cx="288" cy="319" r="205" rotate="0"/>
+  <desc type="modified">2026-04-29T17:49:01.169Z</desc>
+</surface>

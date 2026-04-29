@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0060c468-c2f1-4588-9ac5-58ae4b7dabb9" n="strecker-heinrich">
+  <desc type="filename">Strecker_Heinrich.xml</desc>
+  <graphic url="strecker_heinrich2.jpg" width="337" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="55" lrx="316" lry="349" cx="169" cy="203" r="148" rotate="0"/>
+  <desc type="modified">2026-04-29T18:01:08.066Z</desc>
+</surface>

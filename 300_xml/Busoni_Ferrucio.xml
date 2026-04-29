@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_02507b84-73e8-4d86-a9fd-12f78a1b576c" n="busoni-ferrucio">
+  <desc type="filename">Busoni_Ferrucio.xml</desc>
+  <graphic url="bildarchivaustria/3_B1208810T1208814.jpg" width="523" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="46" lrx="523" lry="569" cx="262" cy="308" r="262" rotate="0"/>
+  <desc type="modified">2026-04-29T19:08:53.408Z</desc>
+</surface>

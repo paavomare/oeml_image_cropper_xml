@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e4a4192-8751-4909-9f5d-17fb94485690" n="valker-georg">
+  <desc type="filename">Valker_Georg.xml</desc>
+  <graphic url="bildarchivaustria/178_B3822780T3822784.jpg" width="525" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="107" uly="210" lrx="430" lry="533" cx="269" cy="372" r="162" rotate="0"/>
+  <desc type="modified">2026-04-29T18:57:30.723Z</desc>
+</surface>

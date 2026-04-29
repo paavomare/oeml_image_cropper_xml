@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7ee5cf7e-2291-432c-964f-1adf0fdb83cc" n="statzer-josefine">
+  <desc type="filename">Statzer_Josefine.xml</desc>
+  <graphic url="Statzer_Josefine.jpg" width="687" height="921">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="76" lrx="687" lry="763" cx="344" cy="420" r="344" rotate="0"/>
+  <desc type="modified">2026-04-29T19:25:40.577Z</desc>
+</surface>

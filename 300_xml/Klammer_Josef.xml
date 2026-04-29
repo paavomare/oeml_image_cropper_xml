@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_482bb49a-f8a0-4d8a-8480-8c7fdd8004e1" n="klammer-josef">
+  <desc type="filename">Klammer_Josef.xml</desc>
+  <graphic url="Klammer_Josef.jpg" width="1100" height="731">
+  </graphic>
+  <zone type="medallionCrop" ulx="358" uly="0" lrx="1089" lry="731" cx="724" cy="366" r="366" rotate="0"/>
+  <desc type="modified">2026-04-29T18:08:47.816Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_654b3aa2-945d-4728-9a7e-d90efa1811e1" n="durante-francesco">
+  <desc type="filename">Durante_Francesco.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9252659T9252664.jpg" width="612" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="139" uly="103" lrx="441" lry="404" cx="290" cy="254" r="151" rotate="0"/>
+  <desc type="modified">2026-04-29T18:21:49.746Z</desc>
+</surface>
