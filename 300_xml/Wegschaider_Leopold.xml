@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ab793edc-6333-4faa-a4b8-b1925e31a5e5" n="wegschaider-leopold">
+  <desc type="filename">Wegschaider_Leopold.xml</desc>
+  <graphic url="Wegschaider_Leopold.jpg" width="584" height="885">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="98" lrx="584" lry="682" cx="292" cy="390" r="292" rotate="0"/>
+  <desc type="modified">2026-04-30T18:46:49.268Z</desc>
+</surface>

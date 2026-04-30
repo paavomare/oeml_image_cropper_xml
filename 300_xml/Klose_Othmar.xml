@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d1694790-9632-4cc2-9560-af8e2afa1bfe" n="klose-othmar">
+  <desc type="filename">Klose_Othmar.xml</desc>
+  <graphic url="Klose_Othmar_2.jpg" width="364" height="483">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="364" lry="394" cx="182" cy="212" r="182" rotate="0"/>
+  <desc type="modified">2026-04-30T19:59:17.772Z</desc>
+</surface>

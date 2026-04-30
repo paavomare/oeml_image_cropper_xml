@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4c05418d-ac62-4415-855d-62e520e73f99" n="laska-familie">
+  <desc type="filename">Laska_Familie.xml</desc>
+  <graphic url="bildarchivaustria/212_B3959361T3959365.jpg" width="544" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="123" lrx="489" lry="573" cx="264" cy="348" r="225" rotate="0"/>
+  <desc type="modified">2026-04-30T20:23:00.356Z</desc>
+</surface>

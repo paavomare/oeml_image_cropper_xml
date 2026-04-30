@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e713e7ec-b259-4170-8896-74349de1fe73" n="jones-familie">
+  <desc type="filename">Jones_Familie.xml</desc>
+  <graphic url="Jones_Stella.jpg" width="1100" height="729">
+  </graphic>
+  <zone type="medallionCrop" ulx="50" uly="0" lrx="779" lry="729" cx="415" cy="365" r="365" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:58.785Z</desc>
+</surface>

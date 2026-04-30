@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c4fbbfc0-3b0f-40f0-98b4-aaf01cd747d7" n="karajan-familie">
+  <desc type="filename">Karajan_Familie.xml</desc>
+  <graphic url="bildarchivaustria/745_B8077721T8077725.jpg" width="536" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="81" uly="64" lrx="468" lry="450" cx="275" cy="258" r="194" rotate="0"/>
+  <desc type="modified">2026-04-30T18:34:56.348Z</desc>
+</surface>

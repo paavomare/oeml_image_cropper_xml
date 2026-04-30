@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3c86452c-902d-4c56-a6a8-ae91a5818ab2" n="diabate-mamadou">
+  <desc type="filename">Diabate_Mamadou.xml</desc>
+  <graphic url="Diabate_181122.JPG" width="1915" height="1774">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="323" lrx="1356" lry="1679" cx="678" cy="1001" r="678" rotate="0"/>
+  <desc type="modified">2026-04-30T20:29:12.311Z</desc>
+</surface>

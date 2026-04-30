@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_939090ae-6342-4ee3-9f17-b89d433ebad1" n="komauer-edwin">
+  <desc type="filename">Komauer_Edwin.xml</desc>
+  <graphic url="Komauer.jpg" width="426" height="609">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="426" lry="452" cx="213" cy="239" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T20:25:10.073Z</desc>
+</surface>

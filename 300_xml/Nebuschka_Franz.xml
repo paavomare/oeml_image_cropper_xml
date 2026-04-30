@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_96ca10a6-103c-4d47-b203-fde92efc9fe2" n="nebuschka-franz">
+  <desc type="filename">Nebuschka_Franz.xml</desc>
+  <graphic url="Nebuschka_Franz.jpg" width="571" height="848">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="85" lrx="571" lry="656" cx="286" cy="371" r="286" rotate="0"/>
+  <desc type="modified">2026-04-30T20:49:40.568Z</desc>
+</surface>

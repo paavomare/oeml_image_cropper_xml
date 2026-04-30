@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_99553fb8-b237-498d-81c4-06ef251f485e" n="schlaeger-antonie">
+  <desc type="filename">Schlaeger_Antonie.xml</desc>
+  <graphic url="bildarchivaustria/BA_909_B10541728T10541733.jpg" width="560" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="70" uly="51" lrx="470" lry="452" cx="270" cy="251" r="200" rotate="0"/>
+  <desc type="modified">2026-04-30T20:20:56.417Z</desc>
+</surface>

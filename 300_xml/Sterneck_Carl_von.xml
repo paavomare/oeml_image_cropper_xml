@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6a272f5b-3734-4c49-a375-7ef62c1a37b7" n="sterneck-carl-von">
+  <desc type="filename">Sterneck_Carl_von.xml</desc>
+  <graphic url="bildarchivaustria/118_B3557810T3557814.jpg" width="571" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="127" uly="151" lrx="459" lry="483" cx="293" cy="317" r="166" rotate="0"/>
+  <desc type="modified">2026-04-30T20:41:46.360Z</desc>
+</surface>

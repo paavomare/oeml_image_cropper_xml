@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_81d826dd-0d44-4e55-8353-a12a54aec2b9" n="klenau-paul">
+  <desc type="filename">Klenau_Paul.xml</desc>
+  <graphic url="Klenau_Paul.jpg" width="317" height="449">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="18" lrx="301" lry="294" cx="163" cy="156" r="138" rotate="0"/>
+  <desc type="modified">2026-04-30T20:51:47.425Z</desc>
+</surface>

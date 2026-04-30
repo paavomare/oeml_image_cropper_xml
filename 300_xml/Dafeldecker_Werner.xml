@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_386baea6-df5f-4edc-9bf4-f034ddcef9d6" n="dafeldecker-werner">
+  <desc type="filename">Dafeldecker_Werner.xml</desc>
+  <graphic url="Dafeldecker_Werner.jpg" width="667" height="1004">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="51" lrx="667" lry="718" cx="334" cy="385" r="334" rotate="0"/>
+  <desc type="modified">2026-04-30T18:23:50.328Z</desc>
+</surface>

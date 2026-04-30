@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b157c386-c4ac-43af-aee4-52cf73316543" n="alberdingk-erny">
+  <desc type="filename">Alberdingk_Erny.xml</desc>
+  <graphic url="Alberdingk_1930.jpg" width="754" height="535">
+  </graphic>
+  <zone type="medallionCrop" ulx="74" uly="0" lrx="609" lry="535" cx="342" cy="268" r="268" rotate="0"/>
+  <desc type="modified">2026-04-30T18:46:45.360Z</desc>
+</surface>

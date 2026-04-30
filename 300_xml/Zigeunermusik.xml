@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_705ee778-f726-42a2-8288-c34904e7f2f7" n="zigeunermusik">
+  <desc type="filename">Zigeunermusik.xml</desc>
+  <graphic url="Zigeuner_1896.jpg" width="2426" height="2099">
+  </graphic>
+  <zone type="medallionCrop" ulx="151" uly="0" lrx="2250" lry="2099" cx="1201" cy="1050" r="1050" rotate="0"/>
+  <desc type="modified">2026-04-30T20:58:45.183Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fff95506-1705-4008-a67e-b6e9f5b0052c" n="zwerenz-familie">
+  <desc type="filename">Zwerenz_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_913_B10828775T10828780.jpg" width="436" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="152" lrx="245" lry="398" cx="123" cy="275" r="123" rotate="0"/>
+  <desc type="modified">2026-04-30T20:36:56.413Z</desc>
+</surface>

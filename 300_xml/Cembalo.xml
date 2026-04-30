@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0a0b0761-3d74-4171-9dd3-c86e4656c70f" n="cembalo">
+  <desc type="filename">Cembalo.xml</desc>
+  <graphic url="Claviorganum_KHM.jpg" width="1464" height="1114">
+  </graphic>
+  <zone type="medallionCrop" ulx="202" uly="0" lrx="1316" lry="1114" cx="759" cy="557" r="557" rotate="0"/>
+  <desc type="modified">2026-04-30T19:01:17.574Z</desc>
+</surface>

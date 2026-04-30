@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c01bb536-abd6-4438-ac3d-a5e49b4f1ac7" n="loidol-oddo">
+  <desc type="filename">Loidol_Oddo.xml</desc>
+  <graphic url="Loidol_Oddo.jpg" width="445" height="711">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="121" lrx="412" lry="498" cx="224" cy="309" r="188" rotate="0"/>
+  <desc type="modified">2026-04-30T18:58:15.015Z</desc>
+</surface>

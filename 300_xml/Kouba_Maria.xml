@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_163d6bd3-f4a0-4524-b603-97bc8c047720" n="kouba-maria">
+  <desc type="filename">Kouba_Maria.xml</desc>
+  <graphic url="Kouba_Maria_1957.jpg" width="450" height="656">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="38" lrx="438" lry="446" cx="234" cy="243" r="205" rotate="0"/>
+  <desc type="modified">2026-04-30T20:22:53.653Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_76b41974-6528-42ec-9dbb-1d080ccc777d" n="finaly-caroline">
+  <desc type="filename">Finaly_Caroline.xml</desc>
+  <graphic url="Finaly_Karoline_1875.jpg" width="824" height="1065">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="172" lrx="824" lry="996" cx="412" cy="584" r="412" rotate="0"/>
+  <desc type="modified">2026-04-30T19:20:31.983Z</desc>
+</surface>

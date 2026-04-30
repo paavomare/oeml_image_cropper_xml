@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_07161717-3ce1-4323-a876-542ef0f18588" n="polatschek-viktor">
+  <desc type="filename">Polatschek_Viktor.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9819056T9819061.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="578" lry="609" cx="289" cy="320" r="289" rotate="0"/>
+  <desc type="modified">2026-04-30T19:09:04.628Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fc4a4d2b-b718-4c06-b673-93296eced5b7" n="pauly-rose">
+  <desc type="filename">Pauly_Rose.xml</desc>
+  <graphic url="bildarchivaustria/BA_1108_B8017228T20136568.jpg" width="580" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="132" uly="103" lrx="563" lry="533" cx="348" cy="319" r="216" rotate="0"/>
+  <desc type="modified">2026-04-30T18:39:36.562Z</desc>
+</surface>

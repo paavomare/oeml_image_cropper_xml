@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2f3adc54-8082-4c75-b63c-d996be358985" n="maria-am-gestade">
+  <desc type="filename">Maria_am_Gestade.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10466233T10466238.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="187" lrx="579" lry="766" cx="290" cy="477" r="290" rotate="0"/>
+  <desc type="modified">2026-04-30T18:31:23.965Z</desc>
+</surface>

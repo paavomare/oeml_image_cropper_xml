@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_96bbb9af-dc03-45a6-8df6-9edc347e0d00" n="kiesewetter-familie">
+  <desc type="filename">Kiesewetter_Familie.xml</desc>
+  <graphic url="bildarchivaustria/126_B3590497T3590501.jpg" width="592" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="84" uly="172" lrx="488" lry="577" cx="286" cy="374" r="202" rotate="0"/>
+  <desc type="modified">2026-04-30T19:55:12.197Z</desc>
+</surface>

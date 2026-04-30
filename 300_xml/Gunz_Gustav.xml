@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb6bc23f-7860-40be-87ea-b33527d16651" n="gunz-gustav">
+  <desc type="filename">Gunz_Gustav.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9242703T9242708.jpg" width="585" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="124" uly="188" lrx="461" lry="525" cx="293" cy="357" r="169" rotate="0"/>
+  <desc type="modified">2026-04-30T19:06:49.798Z</desc>
+</surface>

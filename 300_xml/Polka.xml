@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bd8a5eb9-fc24-4936-951a-0e05f1e7491f" n="polka">
+  <desc type="filename">Polka.xml</desc>
+  <graphic url="Polka.jpg" width="425" height="585">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="425" lry="431" cx="213" cy="219" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T20:35:33.612Z</desc>
+</surface>

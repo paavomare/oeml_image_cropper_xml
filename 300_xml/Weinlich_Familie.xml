@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_95e8aa8a-cbb3-44f2-90e2-0156938a07be" n="weinlich-familie">
+  <desc type="filename">Weinlich_Familie.xml</desc>
+  <graphic url="Weinlich_Familie.jpg" width="227" height="366">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="58" lrx="227" lry="285" cx="114" cy="172" r="114" rotate="0"/>
+  <desc type="modified">2026-04-30T20:17:57.704Z</desc>
+</surface>

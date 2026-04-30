@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fe4ad0a6-ca40-4586-8c4b-ef51fdb4bd04" n="lakatos-ruza">
+  <desc type="filename">Lakatos_Ruza.xml</desc>
+  <graphic url="Lakatos_Ruza.jpg" width="800" height="548">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="0" lrx="600" lry="548" cx="326" cy="274" r="274" rotate="0"/>
+  <desc type="modified">2026-04-30T20:23:43.500Z</desc>
+</surface>

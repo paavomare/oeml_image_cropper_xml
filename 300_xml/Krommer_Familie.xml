@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_03fd9632-ed55-4a7e-952f-a8a91c716ff8" n="krommer-familie">
+  <desc type="filename">Krommer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247570T9247575.jpg" width="590" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="113" uly="147" lrx="480" lry="513" cx="297" cy="331" r="184" rotate="0"/>
+  <desc type="modified">2026-04-30T20:14:10.351Z</desc>
+</surface>

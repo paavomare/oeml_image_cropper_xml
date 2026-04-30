@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_45da4ed1-18d4-4b3b-97d7-337072c41ce4" n="lindpaintner-peter">
+  <desc type="filename">Lindpaintner_Peter.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9235195T9235200.jpg" width="619" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="50" uly="100" lrx="552" lry="602" cx="301" cy="351" r="251" rotate="0"/>
+  <desc type="modified">2026-04-30T20:24:44.329Z</desc>
+</surface>

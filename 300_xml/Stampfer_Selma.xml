@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_07858265-8284-4ce8-ae8a-962249bb22d3" n="stampfer-selma">
+  <desc type="filename">Stampfer_Selma.xml</desc>
+  <graphic url="Stampfer_Selma.jpg" width="663" height="496">
+  </graphic>
+  <zone type="medallionCrop" ulx="69" uly="57" lrx="312" lry="300" cx="191" cy="179" r="122" rotate="0"/>
+  <desc type="modified">2026-04-30T18:25:37.259Z</desc>
+</surface>

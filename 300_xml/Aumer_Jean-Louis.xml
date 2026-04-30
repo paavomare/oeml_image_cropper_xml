@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_aa136dca-7c72-4b1d-83fa-beb2e8ad1816" n="aumer-jean-louis">
+  <desc type="filename">Aumer_Jean-Louis.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9122207T9122212.jpg" width="604" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="126" uly="117" lrx="499" lry="490" cx="313" cy="304" r="187" rotate="0"/>
+  <desc type="modified">2026-04-30T19:52:44.606Z</desc>
+</surface>

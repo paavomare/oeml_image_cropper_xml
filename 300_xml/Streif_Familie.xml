@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a11601e5-ffee-4966-a958-854048ef2959" n="streif-familie">
+  <desc type="filename">Streif_Familie.xml</desc>
+  <graphic url="Streif_Emanuel_2.JPG" width="850" height="1134">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="850" lry="879" cx="425" cy="454" r="425" rotate="0"/>
+  <desc type="modified">2026-04-30T20:22:13.839Z</desc>
+</surface>

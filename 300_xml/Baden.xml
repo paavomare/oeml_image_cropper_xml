@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5599afa2-8379-4e86-a081-4ac504c917d7" n="baden">
+  <desc type="filename">Baden.xml</desc>
+  <graphic url="Baden_Stadttheater.jpg" width="567" height="380">
+  </graphic>
+  <zone type="medallionCrop" ulx="85" uly="0" lrx="465" lry="380" cx="275" cy="190" r="190" rotate="0"/>
+  <desc type="modified">2026-04-30T19:01:06.774Z</desc>
+</surface>

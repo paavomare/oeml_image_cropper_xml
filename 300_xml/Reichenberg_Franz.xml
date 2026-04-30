@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_231c982a-f37d-42d6-8b49-6112d427d039" n="reichenberg-franz">
+  <desc type="filename">Reichenberg_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_909_B10541826T10541831.jpg" width="520" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="33" uly="152" lrx="484" lry="604" cx="259" cy="378" r="226" rotate="0"/>
+  <desc type="modified">2026-04-30T18:59:18.138Z</desc>
+</surface>

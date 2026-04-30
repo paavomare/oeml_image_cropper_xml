@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_56e0e535-d868-4cf1-af0e-a4f188eefe71" n="lutzer-jenny">
+  <desc type="filename">Lutzer_Jenny.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9275098T9275103.jpg" width="633" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="110" lrx="582" lry="645" cx="315" cy="378" r="268" rotate="0"/>
+  <desc type="modified">2026-04-30T19:56:28.518Z</desc>
+</surface>

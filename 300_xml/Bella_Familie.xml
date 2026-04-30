@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9bb79317-a3e0-4d4d-8c1d-54363dcbc2a3" n="bella-familie">
+  <desc type="filename">Bella_Familie.xml</desc>
+  <graphic url="Bella_Johann_Leopold.jpg" width="582" height="821">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="33" lrx="582" lry="615" cx="291" cy="324" r="291" rotate="0"/>
+  <desc type="modified">2026-04-30T20:21:51.021Z</desc>
+</surface>

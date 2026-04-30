@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6cb5078d-801b-4acf-a1cd-3ff1a0be6fab" n="vestris-familie">
+  <desc type="filename">Vestris_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9263316T9263321.jpg" width="632" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="119" uly="103" lrx="520" lry="503" cx="320" cy="304" r="201" rotate="0"/>
+  <desc type="modified">2026-04-30T20:53:42.505Z</desc>
+</surface>

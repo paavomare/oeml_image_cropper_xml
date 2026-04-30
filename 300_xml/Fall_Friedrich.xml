@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_85ac2de7-b3a5-43e0-9a4c-a900156878cd" n="fall-friedrich">
+  <desc type="filename">Fall_Friedrich.xml</desc>
+  <graphic url="Fall_Fritz.jpg" width="170" height="283">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="8" lrx="170" lry="178" cx="85" cy="93" r="85" rotate="0"/>
+  <desc type="modified">2026-04-30T19:12:14.180Z</desc>
+</surface>

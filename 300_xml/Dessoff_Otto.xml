@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d0f470b5-f0a5-46b7-8e19-cba62e780c45" n="dessoff-otto">
+  <desc type="filename">Dessoff_Otto.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12992022T12992027.jpg" width="489" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="66" lrx="478" lry="533" cx="245" cy="300" r="234" rotate="0"/>
+  <desc type="modified">2026-04-30T18:33:42.180Z</desc>
+</surface>

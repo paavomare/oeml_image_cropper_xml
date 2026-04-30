@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9d878de5-af1c-4b62-a9b7-54b48700edbe" n="door-anton">
+  <desc type="filename">Door_Anton.xml</desc>
+  <graphic url="bildarchivaustria/118_B3561328T3561332.jpg" width="584" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="74" uly="135" lrx="487" lry="549" cx="281" cy="342" r="207" rotate="0"/>
+  <desc type="modified">2026-04-30T20:34:23.174Z</desc>
+</surface>

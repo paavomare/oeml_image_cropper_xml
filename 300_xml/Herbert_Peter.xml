@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_21fc91fe-a37a-4eb3-a4be-7b30dfd7f9b1" n="herbert-peter">
+  <desc type="filename">Herbert_Peter.xml</desc>
+  <graphic url="Herbert_Peter.jpg" width="665" height="1004">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="2" lrx="665" lry="667" cx="333" cy="335" r="333" rotate="0"/>
+  <desc type="modified">2026-04-30T18:41:30.510Z</desc>
+</surface>

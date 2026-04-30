@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_aab62a96-3cdd-4dc2-994f-9917103711b2" n="steinbrecher-alexander">
+  <desc type="filename">Steinbrecher_Alexander.xml</desc>
+  <graphic url="Steinbrecher_Alexander.jpg" width="425" height="639">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="82" lrx="425" lry="507" cx="213" cy="295" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T20:53:22.432Z</desc>
+</surface>

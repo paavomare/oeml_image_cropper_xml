@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9c10bc06-7531-4406-879b-1f9840c309ef" n="bakanic-christian">
+  <desc type="filename">Bakanic_Christian.xml</desc>
+  <graphic url="Bakanic_Christian_Grilc.jpg" width="1267" height="989">
+  </graphic>
+  <zone type="medallionCrop" ulx="139" uly="0" lrx="1128" lry="989" cx="634" cy="495" r="495" rotate="0"/>
+  <desc type="modified">2026-04-30T18:47:34.099Z</desc>
+</surface>

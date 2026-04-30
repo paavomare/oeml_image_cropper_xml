@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cf290ca9-6a7e-4d38-a774-5a1dffec3acd" n="pommer-familie">
+  <desc type="filename">Pommer_Familie.xml</desc>
+  <graphic url="Pommer_Josef.jpg" width="709" height="892">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="709" lry="710" cx="355" cy="356" r="355" rotate="0"/>
+  <desc type="modified">2026-04-30T18:57:15.080Z</desc>
+</surface>

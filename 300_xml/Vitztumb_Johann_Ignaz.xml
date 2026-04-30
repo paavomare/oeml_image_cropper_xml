@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7f737952-ea06-412b-b609-922f9012540a" n="vitztumb-johann-ignaz">
+  <desc type="filename">Vitztumb_Johann_Ignaz.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9263295T9263300.jpg" width="593" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="112" uly="115" lrx="478" lry="480" cx="295" cy="298" r="183" rotate="0"/>
+  <desc type="modified">2026-04-30T18:25:14.206Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ced99391-53a2-47cb-9151-322c05639a67" n="jazz">
+  <desc type="filename">Jazz.xml</desc>
+  <graphic url="Jazzshowband_wrb1933.jpg" width="1344" height="932">
+  </graphic>
+  <zone type="medallionCrop" ulx="176" uly="0" lrx="1108" lry="932" cx="642" cy="466" r="466" rotate="0"/>
+  <desc type="modified">2026-04-30T18:39:55.989Z</desc>
+</surface>

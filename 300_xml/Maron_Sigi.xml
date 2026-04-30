@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e77b88ac-bdec-4127-9a1d-89595ec3ceec" n="maron-sigi">
+  <desc type="filename">Maron_Sigi.xml</desc>
+  <graphic url="Maron_1986.jpg" width="565" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="7" uly="166" lrx="562" lry="721" cx="285" cy="444" r="278" rotate="0"/>
+  <desc type="modified">2026-04-30T18:46:00.973Z</desc>
+</surface>

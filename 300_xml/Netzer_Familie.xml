@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0a27b6da-26d5-483c-8b18-e28c2b2af17d" n="netzer-familie">
+  <desc type="filename">Netzer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243964T9243969.jpg" width="561" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="30" uly="119" lrx="510" lry="599" cx="270" cy="359" r="240" rotate="0"/>
+  <desc type="modified">2026-04-30T19:04:33.829Z</desc>
+</surface>

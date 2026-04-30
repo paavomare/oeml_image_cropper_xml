@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fb6af6a4-05f8-4d03-bdbc-3f1993525f11" n="fellner-familie">
+  <desc type="filename">Fellner_Familie.xml</desc>
+  <graphic url="Fellner_Sepp.jpg" width="369" height="505">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="369" lry="401" cx="185" cy="217" r="185" rotate="0"/>
+  <desc type="modified">2026-04-30T20:56:17.611Z</desc>
+</surface>

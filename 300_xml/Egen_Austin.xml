@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4a9ee96f-f553-4bdc-97a5-5a57d82f9aeb" n="egen-austin">
+  <desc type="filename">Egen_Austin.xml</desc>
+  <graphic url="Egen_Austin.jpg" width="472" height="622">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="472" lry="488" cx="236" cy="252" r="236" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:44.961Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_98656a93-d236-45ef-b401-9f2e7b6343cf" n="sechter-familie">
+  <desc type="filename">Sechter_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9236237T9236242.jpg" width="599" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="49" uly="140" lrx="518" lry="609" cx="284" cy="375" r="235" rotate="0"/>
+  <desc type="modified">2026-04-30T18:37:48.964Z</desc>
+</surface>

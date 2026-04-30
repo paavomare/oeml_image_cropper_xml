@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c9934993-ff5c-48a5-af98-9f19d9d1d6d7" n="fuehrich-carl">
+  <desc type="filename">Fuehrich_Carl.xml</desc>
+  <graphic url="bildarchivaustria/747_B8082204T8082208.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="579" lry="598" cx="290" cy="309" r="290" rotate="0"/>
+  <desc type="modified">2026-04-30T18:35:44.518Z</desc>
+</surface>

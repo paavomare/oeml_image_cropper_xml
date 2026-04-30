@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f9cbddab-7c15-49b7-b550-ab9ed6457061" n="schmied-jaro">
+  <desc type="filename">Schmied_Jaro.xml</desc>
+  <graphic url="bildarchivaustria/234_B4045686T4045690.jpg" width="591" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="3" uly="54" lrx="572" lry="623" cx="288" cy="339" r="285" rotate="0"/>
+  <desc type="modified">2026-04-30T18:41:15.311Z</desc>
+</surface>

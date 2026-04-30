@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a8d059f5-4661-4c4d-9c4f-7329c0c22566" n="klier-karl">
+  <desc type="filename">Klier_Karl.xml</desc>
+  <graphic url="klier_karl_magnus.jpg" width="371" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="54" lrx="346" lry="382" cx="183" cy="218" r="164" rotate="0"/>
+  <desc type="modified">2026-04-30T19:23:35.578Z</desc>
+</surface>

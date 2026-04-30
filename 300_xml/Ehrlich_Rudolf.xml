@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_375f8a36-a81c-42d2-89c5-3714b90e739b" n="ehrlich-rudolf">
+  <desc type="filename">Ehrlich_Rudolf.xml</desc>
+  <graphic url="Ehrlich_Rudolf_1899.jpg" width="297" height="600">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="83" lrx="278" lry="361" cx="139" cy="222" r="139" rotate="0"/>
+  <desc type="modified">2026-04-30T20:45:11.732Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4b7c347e-1c44-43fa-84d3-b7d2e2964eaa" n="drehleier">
+  <desc type="filename">Drehleier.xml</desc>
+  <graphic url="Drehleierspieler_MAK.jpg" width="534" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="139" lrx="534" lry="673" cx="267" cy="406" r="267" rotate="0"/>
+  <desc type="modified">2026-04-30T19:05:50.707Z</desc>
+</surface>

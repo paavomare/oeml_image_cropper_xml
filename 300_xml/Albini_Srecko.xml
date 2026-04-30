@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_35a7636a-74a8-4a64-a78d-10b84e9402e3" n="albini-srecko">
+  <desc type="filename">Albini_Srecko.xml</desc>
+  <graphic url="Albini_Srecko.jpg" width="381" height="482">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="381" lry="395" cx="191" cy="205" r="191" rotate="0"/>
+  <desc type="modified">2026-04-30T20:58:03.529Z</desc>
+</surface>

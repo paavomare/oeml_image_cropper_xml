@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1ad5cb9f-8163-4832-84f0-55c2f114ea91" n="modl-josef">
+  <desc type="filename">Modl_Josef.xml</desc>
+  <graphic url="modl_josef_u_kratzl_karl.jpg" width="861" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="117" uly="70" lrx="445" lry="398" cx="281" cy="234" r="164" rotate="0"/>
+  <desc type="modified">2026-04-30T18:32:53.384Z</desc>
+</surface>

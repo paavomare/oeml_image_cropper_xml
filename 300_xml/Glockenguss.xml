@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_16c97248-cc24-4850-a109-760d04b98e70" n="glockenguss">
+  <desc type="filename">Glockenguss.xml</desc>
+  <graphic url="Glockenfriedhof_1918.jpg" width="1795" height="1149">
+  </graphic>
+  <zone type="medallionCrop" ulx="348" uly="0" lrx="1497" lry="1149" cx="923" cy="575" r="575" rotate="0"/>
+  <desc type="modified">2026-04-30T19:05:22.837Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1bd0febe-5e3c-41b8-8c54-1404a524f7cc" n="ziehharmonika">
+  <desc type="filename">Ziehharmonika.xml</desc>
+  <graphic url="Ziehharmonika-Goethehof_KaB.jpg" width="905" height="1885">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="75" lrx="762" lry="837" cx="381" cy="456" r="381" rotate="0"/>
+  <desc type="modified">2026-04-30T20:51:29.195Z</desc>
+</surface>

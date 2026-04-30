@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_49f6bb74-a022-4989-aad0-814895d2133e" n="herbst-ignaz">
+  <desc type="filename">Herbst_Ignaz.xml</desc>
+  <graphic url="Herbst_Ignaz.jpg" width="358" height="443">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="358" lry="364" cx="179" cy="185" r="179" rotate="0"/>
+  <desc type="modified">2026-04-30T20:19:04.562Z</desc>
+</surface>

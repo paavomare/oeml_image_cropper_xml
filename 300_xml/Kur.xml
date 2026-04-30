@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_68bab3ca-960a-425f-830e-1102e8ccc54e" n="kur">
+  <desc type="filename">Kur.xml</desc>
+  <graphic url="Rathner_1896.jpg" width="2363" height="1243">
+  </graphic>
+  <zone type="medallionCrop" ulx="640" uly="0" lrx="1883" lry="1243" cx="1262" cy="622" r="622" rotate="0"/>
+  <desc type="modified">2026-04-30T20:45:26.495Z</desc>
+</surface>

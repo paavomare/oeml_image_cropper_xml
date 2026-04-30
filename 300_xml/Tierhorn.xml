@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8fbb0028-fe68-4270-99e2-95e23e93ffd7" n="tierhorn">
+  <desc type="filename">Tierhorn.xml</desc>
+  <graphic url="Weinlese_KaB.jpg" width="3264" height="2448">
+  </graphic>
+  <zone type="medallionCrop" ulx="1961" uly="356" lrx="3145" lry="1540" cx="2553" cy="948" r="592" rotate="0"/>
+  <desc type="modified">2026-04-30T20:42:30.434Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_654cfc4a-1b0d-48af-ae05-a6afc7fb315d" n="pilss-karl">
+  <desc type="filename">Pilss_Karl.xml</desc>
+  <graphic url="pilss_karl.jpg" width="366" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="26" lrx="345" lry="350" cx="183" cy="188" r="162" rotate="0"/>
+  <desc type="modified">2026-04-30T18:24:02.933Z</desc>
+</surface>

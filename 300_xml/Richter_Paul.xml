@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_121dfec1-1f14-4745-b9a9-21eb280c25d3" n="richter-paul">
+  <desc type="filename">Richter_Paul.xml</desc>
+  <graphic url="Richter_Paul.jpg" width="576" height="824">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="66" lrx="576" lry="642" cx="288" cy="354" r="288" rotate="0"/>
+  <desc type="modified">2026-04-30T20:19:34.337Z</desc>
+</surface>

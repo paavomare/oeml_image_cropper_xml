@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_02fa3546-e41d-448c-8130-26053c091d18" n="arleth-familie">
+  <desc type="filename">Arleth_Familie.xml</desc>
+  <graphic url="Arleth_Emmerich.jpg" width="283" height="382">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="7" lrx="283" lry="290" cx="142" cy="149" r="142" rotate="0"/>
+  <desc type="modified">2026-04-30T19:53:16.483Z</desc>
+</surface>

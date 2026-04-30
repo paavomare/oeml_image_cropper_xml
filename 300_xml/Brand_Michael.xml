@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_80b08f97-677f-426b-b99c-7361ed7919f4" n="brand-michael">
+  <desc type="filename">Brand_Michael.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245805T9245810.jpg" width="620" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="22" uly="79" lrx="572" lry="629" cx="297" cy="354" r="275" rotate="0"/>
+  <desc type="modified">2026-04-30T19:50:48.464Z</desc>
+</surface>

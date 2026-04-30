@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_583864f8-2fc4-4d7a-9fb3-30349ab60f7d" n="hassreiter-josef">
+  <desc type="filename">Hassreiter_Josef.xml</desc>
+  <graphic url="Hassreiter_1896.jpg" width="576" height="734">
+  </graphic>
+  <zone type="medallionCrop" ulx="162" uly="153" lrx="601" lry="592" cx="382" cy="373" r="220" rotate="20"/>
+  <desc type="modified">2026-04-30T18:32:00.440Z</desc>
+</surface>

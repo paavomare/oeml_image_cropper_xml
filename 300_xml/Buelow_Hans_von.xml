@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ebb3f3cb-4705-40fa-a649-316783837c85" n="buelow-hans-von">
+  <desc type="filename">Buelow_Hans_von.xml</desc>
+  <graphic url="Buelow_Foto.jpg" width="499" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="119" lrx="460" lry="534" cx="253" cy="327" r="208" rotate="0"/>
+  <desc type="modified">2026-04-30T20:25:23.225Z</desc>
+</surface>

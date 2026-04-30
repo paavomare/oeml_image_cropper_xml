@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e44a43b4-23f1-4da9-9ffb-e88c241203bc" n="engel-berger-willy">
+  <desc type="filename">Engel-Berger_Willy.xml</desc>
+  <graphic url="Engel-Berger_Willy.jpg" width="470" height="592">
+  </graphic>
+  <zone type="medallionCrop" ulx="22" uly="144" lrx="470" lry="592" cx="246" cy="368" r="224" rotate="0"/>
+  <desc type="modified">2026-04-30T20:21:18.058Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_40d730df-ae8a-4554-bcf0-20fab9de3bec" n="roth-brueder">
+  <desc type="filename">Roth_Brueder.xml</desc>
+  <graphic url="roth_louis.jpg" width="307" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="20" uly="49" lrx="287" lry="316" cx="154" cy="183" r="134" rotate="0"/>
+  <desc type="modified">2026-04-30T20:43:08.526Z</desc>
+</surface>

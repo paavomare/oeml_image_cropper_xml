@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_579c5644-adca-4d1e-bc57-d3ea008998a2" n="satzinger-bernd">
+  <desc type="filename">Satzinger_Bernd.xml</desc>
+  <graphic url="Satzinger_Bernd.jpg" width="1100" height="702">
+  </graphic>
+  <zone type="medallionCrop" ulx="108" uly="0" lrx="810" lry="702" cx="459" cy="351" r="351" rotate="0"/>
+  <desc type="modified">2026-04-30T20:48:40.887Z</desc>
+</surface>

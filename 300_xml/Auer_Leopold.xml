@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c435d361-3740-4340-a04d-2830933ecd2e" n="auer-leopold">
+  <desc type="filename">Auer_Leopold.xml</desc>
+  <graphic url="Auer_Leopold.jpg" width="666" height="781">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="666" lry="685" cx="333" cy="352" r="333" rotate="0"/>
+  <desc type="modified">2026-04-30T19:03:55.809Z</desc>
+</surface>

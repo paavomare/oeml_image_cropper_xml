@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_119765fd-b889-4e68-ab8f-1a19bd6e751c" n="schwendt-theodor">
+  <desc type="filename">Schwendt_Theodor.xml</desc>
+  <graphic url="Hellmesberger_Quartett_2.jpg" width="781" height="1134">
+  </graphic>
+  <zone type="medallionCrop" ulx="508" uly="210" lrx="761" lry="463" cx="635" cy="337" r="127" rotate="0"/>
+  <desc type="modified">2026-04-30T19:57:04.411Z</desc>
+</surface>

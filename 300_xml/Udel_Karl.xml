@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_79761225-ea85-4e50-a878-b5cbf8f3ebae" n="udel-karl">
+  <desc type="filename">Udel_Karl.xml</desc>
+  <graphic url="Udel_1896.jpg" width="649" height="1022">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="82" lrx="586" lry="610" cx="323" cy="346" r="264" rotate="0"/>
+  <desc type="modified">2026-04-30T18:29:45.397Z</desc>
+</surface>

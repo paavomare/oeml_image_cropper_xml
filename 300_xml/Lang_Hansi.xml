@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a7d58d7d-1401-4bc6-b692-52c69ee00b93" n="lang-hansi">
+  <desc type="filename">Lang_Hansi.xml</desc>
+  <graphic url="Lang_Hansi_Ehrengrab_Detail.jpg" width="916" height="686">
+  </graphic>
+  <zone type="medallionCrop" ulx="7" uly="239" lrx="453" lry="684" cx="230" cy="462" r="223" rotate="0"/>
+  <desc type="modified">2026-04-30T19:07:32.659Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_376125ba-1b29-41b9-8739-52a51f2bfdef" n="weiskern-friedrich">
+  <desc type="filename">Weiskern_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9121528T9121533.jpg" width="513" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="130" uly="173" lrx="406" lry="449" cx="268" cy="311" r="138" rotate="0"/>
+  <desc type="modified">2026-04-30T20:04:28.746Z</desc>
+</surface>

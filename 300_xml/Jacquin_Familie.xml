@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b9e4e30b-60d0-4686-888f-b3a73dc03f0e" n="jacquin-familie">
+  <desc type="filename">Jacquin_Familie.xml</desc>
+  <graphic url="bildarchivaustria/626_B7563361T7563365.jpg" width="636" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="92" lrx="599" lry="646" cx="322" cy="369" r="277" rotate="0"/>
+  <desc type="modified">2026-04-30T19:58:28.493Z</desc>
+</surface>

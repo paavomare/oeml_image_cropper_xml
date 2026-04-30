@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9ad54859-4266-431e-91eb-16ec06b8df9d" n="dietz-max">
+  <desc type="filename">Dietz_Max.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450902T10450907.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="34" lrx="496" lry="496" cx="265" cy="265" r="231" rotate="0"/>
+  <desc type="modified">2026-04-30T18:46:59.350Z</desc>
+</surface>

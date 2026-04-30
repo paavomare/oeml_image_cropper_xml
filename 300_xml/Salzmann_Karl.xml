@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ef7fee6-b705-4850-a75a-09f93cced4d7" n="salzmann-karl">
+  <desc type="filename">Salzmann_Karl.xml</desc>
+  <graphic url="bildarchivaustria/170_B3785088T3785092.jpg" width="591" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="46" lrx="532" lry="520" cx="296" cy="283" r="237" rotate="0"/>
+  <desc type="modified">2026-04-30T20:18:32.008Z</desc>
+</surface>

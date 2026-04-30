@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f02c6a58-b651-4b69-a174-8b6ec1578814" n="marlow-mimi">
+  <desc type="filename">Marlow_Mimi.xml</desc>
+  <graphic url="Marlow_Mimi.jpg" width="369" height="583">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="78" lrx="369" lry="447" cx="185" cy="263" r="185" rotate="0"/>
+  <desc type="modified">2026-04-30T18:25:02.771Z</desc>
+</surface>

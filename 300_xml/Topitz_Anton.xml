@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b1d6267e-ea41-4ad0-9293-d5eecf07d6b6" n="topitz-anton">
+  <desc type="filename">Topitz_Anton.xml</desc>
+  <graphic url="Topitz_Anton.jpg" width="438" height="651">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="2" lrx="438" lry="440" cx="219" cy="221" r="219" rotate="0"/>
+  <desc type="modified">2026-04-30T18:35:19.402Z</desc>
+</surface>

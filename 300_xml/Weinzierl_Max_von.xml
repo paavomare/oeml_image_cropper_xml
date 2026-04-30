@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3b3f7d6b-ffdb-4b81-8da8-ff69f10c9d3f" n="weinzierl-max-von">
+  <desc type="filename">Weinzierl_Max_von.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243228T9243233.jpg" width="543" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="184" lrx="449" lry="541" cx="270" cy="363" r="179" rotate="0"/>
+  <desc type="modified">2026-04-30T18:38:08.920Z</desc>
+</surface>

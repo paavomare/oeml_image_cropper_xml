@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_873a3806-c14a-4c91-8cb2-38921cc85346" n="bokor-margit">
+  <desc type="filename">Bokor_Margit.xml</desc>
+  <graphic url="Bokor_Margit.jpg" width="283" height="277">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="277" lry="277" cx="139" cy="139" r="139" rotate="0"/>
+  <desc type="modified">2026-04-30T20:16:37.693Z</desc>
+</surface>

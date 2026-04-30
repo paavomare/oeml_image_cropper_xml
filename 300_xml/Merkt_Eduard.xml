@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8a37e68a-5bea-41e3-9c78-d4051eabbbe5" n="merkt-eduard">
+  <desc type="filename">Merkt_Eduard.xml</desc>
+  <graphic url="Merkt_Eduard_1900.jpg" width="603" height="789">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="57" lrx="603" lry="660" cx="302" cy="359" r="302" rotate="0"/>
+  <desc type="modified">2026-04-30T18:27:31.479Z</desc>
+</surface>

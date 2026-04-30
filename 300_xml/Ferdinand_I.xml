@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_499a8a5f-bfa7-4821-a42e-cc7ed4c04cf0" n="ferdinand-i">
+  <desc type="filename">Ferdinand_I.xml</desc>
+  <graphic url="bildarchivaustria/396_B4618894T4618898.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="105" lrx="511" lry="597" cx="265" cy="352" r="247" rotate="0"/>
+  <desc type="modified">2026-04-30T20:00:02.905Z</desc>
+</surface>

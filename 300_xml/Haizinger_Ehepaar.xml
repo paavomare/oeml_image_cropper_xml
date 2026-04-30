@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f5ac3603-6272-40e3-9df4-42e0f89b6a0f" n="haizinger-ehepaar">
+  <desc type="filename">Haizinger_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9267910T9267915.jpg" width="635" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="81" lrx="560" lry="630" cx="286" cy="356" r="275" rotate="0"/>
+  <desc type="modified">2026-04-30T20:20:04.204Z</desc>
+</surface>

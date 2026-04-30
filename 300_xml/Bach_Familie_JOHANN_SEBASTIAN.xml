@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a90ea74e-7e91-4ab1-84c5-e6d4256ea692" n="bach-familie-johann-sebastian">
+  <desc type="filename">Bach_Familie_JOHANN_SEBASTIAN.xml</desc>
+  <graphic url="bildarchivaustria/112_B3522719T3522723.jpg" width="555" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="70" lrx="555" lry="625" cx="278" cy="348" r="278" rotate="0"/>
+  <desc type="modified">2026-04-30T18:23:54.478Z</desc>
+</surface>

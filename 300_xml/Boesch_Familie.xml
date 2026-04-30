@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d74b4787-2702-476c-892d-14b8aa146894" n="boesch-familie">
+  <desc type="filename">Boesch_Familie.xml</desc>
+  <graphic url="bildarchivaustria/88_B307321T1830938.jpg" width="568" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="10" uly="49" lrx="498" lry="537" cx="254" cy="293" r="244" rotate="0"/>
+  <desc type="modified">2026-04-30T20:23:12.945Z</desc>
+</surface>

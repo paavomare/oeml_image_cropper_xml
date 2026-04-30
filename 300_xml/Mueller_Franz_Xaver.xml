@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_155026ba-c414-4267-82da-ce1d2a9b32d3" n="mueller-franz-xaver">
+  <desc type="filename">Mueller_Franz_Xaver.xml</desc>
+  <graphic url="Mueller_Franz_Xaver.jpg" width="283" height="413">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="283" lry="301" cx="142" cy="160" r="142" rotate="0"/>
+  <desc type="modified">2026-04-30T20:48:03.016Z</desc>
+</surface>

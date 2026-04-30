@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dc82bc0b-5374-49da-b4c3-c42ba71e59bf" n="arnold-ernst">
+  <desc type="filename">Arnold_Ernst.xml</desc>
+  <graphic url="bildarchivaustria/391_B391822T4605443.jpg" width="586" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="107" uly="21" lrx="571" lry="485" cx="339" cy="253" r="232" rotate="0"/>
+  <desc type="modified">2026-04-30T18:30:09.499Z</desc>
+</surface>

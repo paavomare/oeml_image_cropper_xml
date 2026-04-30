@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5b8a5a8a-a54d-4ca1-9538-3076b5a39256" n="teyna-sakina">
+  <desc type="filename">Teyna_Sakina.xml</desc>
+  <graphic url="Teyna_Sakina.jpg" width="844" height="1181">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="844" lry="844" cx="422" cy="422" r="422" rotate="0"/>
+  <desc type="modified">2026-04-30T19:58:35.384Z</desc>
+</surface>

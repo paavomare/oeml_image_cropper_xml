@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2387404d-8d4c-464f-a483-c41d0a624cbc" n="josephi-josef">
+  <desc type="filename">Josephi_Josef.xml</desc>
+  <graphic url="Josephi_Josef.jpg" width="315" height="379">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="4" lrx="315" lry="319" cx="158" cy="162" r="158" rotate="0"/>
+  <desc type="modified">2026-04-30T20:47:42.188Z</desc>
+</surface>

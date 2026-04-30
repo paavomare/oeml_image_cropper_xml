@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dc5de6ea-b1de-4f6a-b6b1-2d261a3a1952" n="haehnel-amalie">
+  <desc type="filename">Haehnel_Amalie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9266388T9266393.jpg" width="573" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="102" lrx="534" lry="620" cx="275" cy="361" r="259" rotate="0"/>
+  <desc type="modified">2026-04-30T20:44:50.287Z</desc>
+</surface>

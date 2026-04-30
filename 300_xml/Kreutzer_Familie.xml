@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fd292645-06b3-4cbe-817c-71ec8c930421" n="kreutzer-familie">
+  <desc type="filename">Kreutzer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/166_B3763523T3763527.jpg" width="712" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="120" uly="106" lrx="595" lry="580" cx="358" cy="344" r="238" rotate="0"/>
+  <desc type="modified">2026-04-30T20:44:09.033Z</desc>
+</surface>

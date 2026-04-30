@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_376ad4dd-d0b9-449c-8730-17dca15ecc21" n="ander-alois">
+  <desc type="filename">Ander_Alois.xml</desc>
+  <graphic url="Ander_Alois.jpg" width="268" height="437">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="28" lrx="223" lry="213" cx="131" cy="120" r="92" rotate="0"/>
+  <desc type="modified">2026-04-30T20:54:52.022Z</desc>
+</surface>

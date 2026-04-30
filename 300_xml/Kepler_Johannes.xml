@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_89a0eeb6-4fd4-41bb-a42b-e6cbb5dacbc0" n="kepler-johannes">
+  <desc type="filename">Kepler_Johannes.xml</desc>
+  <graphic url="bildarchivaustria/3_B1207236T1207240.jpg" width="521" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="49" lrx="504" lry="542" cx="258" cy="296" r="247" rotate="0"/>
+  <desc type="modified">2026-04-30T20:36:27.624Z</desc>
+</surface>

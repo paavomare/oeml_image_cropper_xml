@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7cdbe357-ef68-4b83-a8e1-adc990387645" n="schrammel-familie">
+  <desc type="filename">Schrammel_Familie.xml</desc>
+  <graphic url="bildarchivaustria/742_B8061798T8061802.jpg" width="433" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="42" lrx="433" lry="475" cx="217" cy="259" r="217" rotate="0"/>
+  <desc type="modified">2026-04-30T20:42:45.039Z</desc>
+</surface>

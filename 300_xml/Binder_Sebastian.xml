@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e0cf1dd1-a59e-4151-aa84-98891c5b30f4" n="binder-sebastian">
+  <desc type="filename">Binder_Sebastian.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9248199T9248204.jpg" width="576" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="76" uly="150" lrx="471" lry="544" cx="274" cy="348" r="198" rotate="0"/>
+  <desc type="modified">2026-04-30T18:33:53.326Z</desc>
+</surface>

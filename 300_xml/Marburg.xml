@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2407aba9-592b-4d5e-a439-69bf54b07c69" n="marburg">
+  <desc type="filename">Marburg.xml</desc>
+  <graphic url="Marburg_Dom.jpg" width="653" height="850">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="41" lrx="653" lry="694" cx="327" cy="368" r="327" rotate="0"/>
+  <desc type="modified">2026-04-30T20:28:49.995Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ca6fb1db-ae9d-4e30-a6f9-db7e3a39b9c9" n="galitzin-familie">
+  <desc type="filename">Galitzin_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_956_B8061960T14174105.jpg" width="701" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="155" uly="219" lrx="557" lry="621" cx="356" cy="420" r="201" rotate="0"/>
+  <desc type="modified">2026-04-30T18:35:33.484Z</desc>
+</surface>

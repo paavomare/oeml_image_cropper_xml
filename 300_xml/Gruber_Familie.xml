@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_903a97fc-664f-41a0-9635-44a4d67fd27c" n="gruber-familie">
+  <desc type="filename">Gruber_Familie.xml</desc>
+  <graphic url="gruber_felix.jpg" width="373" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="77" lrx="359" lry="420" cx="188" cy="249" r="172" rotate="0"/>
+  <desc type="modified">2026-04-30T20:24:17.574Z</desc>
+</surface>

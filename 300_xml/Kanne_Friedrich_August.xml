@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_11edb056-364f-4c49-987b-379cf8fa4a6f" n="kanne-friedrich-august">
+  <desc type="filename">Kanne_Friedrich_August.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B9238694T10491543.jpg" width="587" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="98" lrx="587" lry="646" cx="313" cy="372" r="274" rotate="0"/>
+  <desc type="modified">2026-04-30T19:50:39.136Z</desc>
+</surface>

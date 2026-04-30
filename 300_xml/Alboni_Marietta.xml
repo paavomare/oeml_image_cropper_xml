@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f4f7cdfb-0a28-4e09-879d-bfad544ffb6d" n="alboni-marietta">
+  <desc type="filename">Alboni_Marietta.xml</desc>
+  <graphic url="bildarchivaustria/BA_956_B14181619T14181624.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="77" uly="60" lrx="499" lry="482" cx="288" cy="271" r="211" rotate="0"/>
+  <desc type="modified">2026-04-30T20:53:33.750Z</desc>
+</surface>

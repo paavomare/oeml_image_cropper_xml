@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d608ed0e-f9e9-4aaa-aa16-35bd9cf0ae27" n="genee-richard">
+  <desc type="filename">Genee_Richard.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9818685T9818690.jpg" width="554" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="79" uly="78" lrx="546" lry="544" cx="313" cy="312" r="234" rotate="0"/>
+  <desc type="modified">2026-04-30T18:44:03.149Z</desc>
+</surface>

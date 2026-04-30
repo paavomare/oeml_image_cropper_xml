@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_97a2e9ec-1e5c-487b-a254-c57b4a3a21e8" n="krakauer-alexander">
+  <desc type="filename">Krakauer_Alexander.xml</desc>
+  <graphic url="Krakauer_Alexander.jpg" width="224" height="346">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="224" lry="225" cx="112" cy="113" r="112" rotate="0"/>
+  <desc type="modified">2026-04-30T19:03:21.338Z</desc>
+</surface>

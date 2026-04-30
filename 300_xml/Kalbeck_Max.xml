@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dc386954-fe2c-49a6-b45a-ff0768b4849c" n="kalbeck-max">
+  <desc type="filename">Kalbeck_Max.xml</desc>
+  <graphic url="Kalbeck_1919.jpg" width="572" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="71" lrx="522" lry="533" cx="291" cy="303" r="232" rotate="0"/>
+  <desc type="modified">2026-04-30T19:51:22.583Z</desc>
+</surface>

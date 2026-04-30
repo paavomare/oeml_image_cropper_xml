@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e44349a4-91fa-4c76-ac2c-6581071a5b95" n="komoedienhaus">
+  <desc type="filename">Komoedienhaus.xml</desc>
+  <graphic url="Komoedienhaus_Wien.jpg" width="646" height="486">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="0" lrx="517" lry="486" cx="274" cy="243" r="243" rotate="0"/>
+  <desc type="modified">2026-04-30T18:47:49.931Z</desc>
+</surface>

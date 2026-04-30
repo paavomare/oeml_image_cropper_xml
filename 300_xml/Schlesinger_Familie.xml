@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_807f97c3-6a15-44d3-a718-7a10e0691480" n="schlesinger-familie">
+  <desc type="filename">Schlesinger_Familie.xml</desc>
+  <graphic url="Schlesinger_Karl_1875.jpg" width="867" height="1071">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="867" lry="867" cx="434" cy="434" r="434" rotate="0"/>
+  <desc type="modified">2026-04-30T20:23:37.314Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e96d7eb8-389f-40e8-a47d-52cf66985033" n="auersperg-familie">
+  <desc type="filename">Auersperg_Familie.xml</desc>
+  <graphic url="bildarchivaustria/517_B5311982T5311986.jpg" width="581" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="82" uly="123" lrx="495" lry="536" cx="289" cy="330" r="207" rotate="0"/>
+  <desc type="modified">2026-04-30T18:47:12.470Z</desc>
+</surface>

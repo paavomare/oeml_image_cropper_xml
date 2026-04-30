@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bfb40c3e-df49-49a5-9b87-1f840e1cf236" n="proch-familie">
+  <desc type="filename">Proch_Familie.xml</desc>
+  <graphic url="Proch_Heinrich_2.jpg" width="487" height="673">
+  </graphic>
+  <zone type="medallionCrop" ulx="48" uly="124" lrx="456" lry="532" cx="252" cy="328" r="204" rotate="0"/>
+  <desc type="modified">2026-04-30T20:51:55.255Z</desc>
+</surface>

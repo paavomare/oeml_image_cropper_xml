@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d5cd3768-f226-4016-8d95-e5e9c4d3e791" n="preinfalk-gerald">
+  <desc type="filename">Preinfalk_Gerald.xml</desc>
+  <graphic url="Preinfalk_Gerald.jpg" width="729" height="1100">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="574" lry="574" cx="287" cy="287" r="287" rotate="0"/>
+  <desc type="modified">2026-04-30T20:50:09.877Z</desc>
+</surface>

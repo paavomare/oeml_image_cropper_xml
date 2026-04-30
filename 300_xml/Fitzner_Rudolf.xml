@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7668d829-91a5-4da1-9656-986884e2b915" n="fitzner-rudolf">
+  <desc type="filename">Fitzner_Rudolf.xml</desc>
+  <graphic url="Fitzner-Quartett_1903.jpg" width="936" height="675">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="123" lrx="271" lry="336" cx="165" cy="229" r="106" rotate="0"/>
+  <desc type="modified">2026-04-30T19:21:47.440Z</desc>
+</surface>

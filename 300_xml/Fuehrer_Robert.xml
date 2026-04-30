@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_87ee3445-a889-4374-aa06-bb75431d0581" n="fuehrer-robert">
+  <desc type="filename">Fuehrer_Robert.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9246584T9246589.jpg" width="608" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="115" uly="169" lrx="482" lry="536" cx="299" cy="353" r="184" rotate="0"/>
+  <desc type="modified">2026-04-30T19:10:05.400Z</desc>
+</surface>

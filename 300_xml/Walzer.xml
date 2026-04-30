@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3d87aadf-e617-4665-906a-c3c26fb316e6" n="walzer">
+  <desc type="filename">Walzer.xml</desc>
+  <graphic url="Walzer_1896.jpg" width="1114" height="966">
+  </graphic>
+  <zone type="medallionCrop" ulx="66" uly="0" lrx="1032" lry="966" cx="549" cy="483" r="483" rotate="0"/>
+  <desc type="modified">2026-04-30T19:00:35.821Z</desc>
+</surface>

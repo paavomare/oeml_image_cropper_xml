@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_841693dc-be68-448e-92cb-d9d4229508b8" n="leeuwen-ary-van">
+  <desc type="filename">Leeuwen_Ary_van.xml</desc>
+  <graphic url="Leeuwen_Ary_van.jpg" width="712" height="532">
+  </graphic>
+  <zone type="medallionCrop" ulx="137" uly="0" lrx="669" lry="532" cx="403" cy="266" r="266" rotate="0"/>
+  <desc type="modified">2026-04-30T19:11:37.929Z</desc>
+</surface>

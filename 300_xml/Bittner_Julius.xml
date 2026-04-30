@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6d6849fc-8eb2-4bb9-ab52-6c3734735997" n="bittner-julius">
+  <desc type="filename">Bittner_Julius.xml</desc>
+  <graphic url="bildarchivaustria/BA_904_B10089692T10089697.jpg" width="509" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="38" lrx="476" lry="490" cx="250" cy="264" r="226" rotate="0"/>
+  <desc type="modified">2026-04-30T19:56:42.646Z</desc>
+</surface>

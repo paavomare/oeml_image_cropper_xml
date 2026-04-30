@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f2c6262d-1b2d-4a8b-a52f-0e7c255e23ee" n="adorno-theodor">
+  <desc type="filename">Adorno_Theodor.xml</desc>
+  <graphic url="Adorno.jpg" width="643" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="48" lrx="574" lry="622" cx="287" cy="335" r="287" rotate="0"/>
+  <desc type="modified">2026-04-30T20:23:33.195Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fe2448c-fbf8-4b5a-9cdf-4cacfba2f95b" n="helmer-hermann">
+  <desc type="filename">Helmer_Hermann.xml</desc>
+  <graphic url="bildarchivaustria/744_B8075283T8075287.jpg" width="530" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="58" uly="127" lrx="478" lry="547" cx="268" cy="337" r="210" rotate="0"/>
+  <desc type="modified">2026-04-30T18:38:36.542Z</desc>
+</surface>

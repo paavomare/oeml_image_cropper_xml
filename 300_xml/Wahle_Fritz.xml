@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9d65c9d2-f284-494a-86e9-d4d48db4a478" n="wahle-fritz">
+  <desc type="filename">Wahle_Fritz.xml</desc>
+  <graphic url="Winkler-Quartett.jpg" width="907" height="666">
+  </graphic>
+  <zone type="medallionCrop" ulx="73" uly="77" lrx="282" lry="286" cx="178" cy="182" r="105" rotate="0"/>
+  <desc type="modified">2026-04-30T20:21:44.332Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_aa24e180-0580-4a6b-9b49-9c5f75ab0dcf" n="koch-karl">
+  <desc type="filename">Koch_Karl.xml</desc>
+  <graphic url="koch_karl1.jpg" width="366" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="91" lrx="350" lry="416" cx="188" cy="253" r="162" rotate="0"/>
+  <desc type="modified">2026-04-30T19:50:12.707Z</desc>
+</surface>

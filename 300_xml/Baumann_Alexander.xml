@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7c3c3ede-01d3-4b16-9424-c0ac35f5b2b8" n="baumann-alexander">
+  <desc type="filename">Baumann_Alexander.xml</desc>
+  <graphic url="bildarchivaustria/662_B7691825T7691829.jpg" width="552" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="24" uly="73" lrx="528" lry="577" cx="276" cy="325" r="252" rotate="0"/>
+  <desc type="modified">2026-04-30T20:29:46.260Z</desc>
+</surface>

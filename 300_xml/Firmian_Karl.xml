@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d521d45d-fe1e-412f-9b7f-82ade44a197e" n="firmian-karl">
+  <desc type="filename">Firmian_Karl.xml</desc>
+  <graphic url="bildarchivaustria/93_B2952181T2952185.jpg" width="551" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="130" lrx="522" lry="629" cx="273" cy="380" r="250" rotate="0"/>
+  <desc type="modified">2026-04-30T20:38:11.191Z</desc>
+</surface>

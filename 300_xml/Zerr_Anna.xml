@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1744ffe7-3e5f-4cdf-9266-263b853764d7" n="zerr-anna">
+  <desc type="filename">Zerr_Anna.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9274598T9274603.jpg" width="636" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="45" uly="113" lrx="636" lry="704" cx="341" cy="409" r="296" rotate="0"/>
+  <desc type="modified">2026-04-30T18:31:30.251Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_74c4415d-c46b-4ad8-8c30-5a60f7802b45" n="bernauer-josef">
+  <desc type="filename">Bernauer_Josef.xml</desc>
+  <graphic url="Bernauer_Joseph.jpg" width="273" height="381">
+  </graphic>
+  <zone type="medallionCrop" ulx="2" uly="44" lrx="265" lry="307" cx="134" cy="176" r="132" rotate="0"/>
+  <desc type="modified">2026-04-30T19:01:27.966Z</desc>
+</surface>

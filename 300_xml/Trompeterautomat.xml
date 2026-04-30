@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_265b2582-5968-4f8d-9d73-7fa24a934cc0" n="trompeterautomat">
+  <desc type="filename">Trompeterautomat.xml</desc>
+  <graphic url="Trompeterautomat_Heinrich_und_Seyffert.jpg" width="366" height="771">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="4" lrx="366" lry="370" cx="183" cy="187" r="183" rotate="0"/>
+  <desc type="modified">2026-04-30T18:43:40.564Z</desc>
+</surface>

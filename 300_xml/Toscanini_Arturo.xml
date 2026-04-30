@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c3806744-ca79-4cc6-b804-5b6e9a15a080" n="toscanini-arturo">
+  <desc type="filename">Toscanini_Arturo.xml</desc>
+  <graphic url="bildarchivaustria/BA_956_B13870659T13870664.jpg" width="632" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="10" uly="21" lrx="597" lry="608" cx="304" cy="315" r="294" rotate="0"/>
+  <desc type="modified">2026-04-30T19:12:30.760Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_14002d47-e9af-4e1c-be18-0ebb7cf359c1" n="kirchl-adolf">
+  <desc type="filename">Kirchl_Adolf.xml</desc>
+  <graphic url="Kirchl_Adolf.jpg" width="377" height="620">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="56" lrx="377" lry="433" cx="189" cy="245" r="189" rotate="0"/>
+  <desc type="modified">2026-04-30T19:52:25.460Z</desc>
+</surface>

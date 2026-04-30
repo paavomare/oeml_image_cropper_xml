@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5f4acd9e-221f-4c57-83fd-501fc64f5b39" n="buwa-familie">
+  <desc type="filename">Buwa_Familie.xml</desc>
+  <graphic url="buwa_emilie.jpg" width="363" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="21" lrx="348" lry="350" cx="184" cy="186" r="165" rotate="0"/>
+  <desc type="modified">2026-04-30T18:44:44.900Z</desc>
+</surface>

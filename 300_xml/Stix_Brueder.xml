@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_45b6a82d-c721-47f3-813a-4a317f9f315a" n="stix-brueder">
+  <desc type="filename">Stix_Brueder.xml</desc>
+  <graphic url="Stix_Otto.jpg" width="170" height="219">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="68" lrx="156" lry="207" cx="86" cy="138" r="70" rotate="0"/>
+  <desc type="modified">2026-04-30T19:49:10.302Z</desc>
+</surface>

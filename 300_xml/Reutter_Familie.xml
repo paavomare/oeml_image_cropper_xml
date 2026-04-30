@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2da1a653-5d2e-407f-963f-3c753bdcbffe" n="reutter-familie">
+  <desc type="filename">Reutter_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_1099_B9238666T19808862.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="140" uly="235" lrx="391" lry="486" cx="266" cy="361" r="126" rotate="0"/>
+  <desc type="modified">2026-04-30T20:27:34.869Z</desc>
+</surface>

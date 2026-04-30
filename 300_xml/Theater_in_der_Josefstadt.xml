@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_27dae6ce-5a58-4c76-a08a-859b32b471b0" n="theater-in-der-josefstadt">
+  <desc type="filename">Theater_in_der_Josefstadt.xml</desc>
+  <graphic url="Theater-in-der-Josefstadt_1888.jpg" width="800" height="640">
+  </graphic>
+  <zone type="medallionCrop" ulx="98" uly="46" lrx="662" lry="610" cx="380" cy="328" r="282" rotate="0"/>
+  <desc type="modified">2026-04-30T18:44:29.219Z</desc>
+</surface>

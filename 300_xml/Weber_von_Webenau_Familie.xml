@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_78ffc74a-b1ea-4a6f-ab86-248f20704620" n="weber-von-webenau-familie">
+  <desc type="filename">Weber_von_Webenau_Familie.xml</desc>
+  <graphic url="Webenau_Vilma_Portraet.JPG" width="436" height="705">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="100" lrx="367" lry="407" cx="213" cy="254" r="154" rotate="0"/>
+  <desc type="modified">2026-04-30T20:15:48.059Z</desc>
+</surface>

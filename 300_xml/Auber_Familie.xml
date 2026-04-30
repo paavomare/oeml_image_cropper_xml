@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_56f07f5e-7086-418f-b672-a695c0304ecc" n="auber-familie">
+  <desc type="filename">Auber_Familie.xml</desc>
+  <graphic url="Auber_Quartett.jpg" width="700" height="560">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="0" lrx="625" lry="560" cx="345" cy="280" r="280" rotate="0"/>
+  <desc type="modified">2026-04-30T18:22:33.024Z</desc>
+</surface>

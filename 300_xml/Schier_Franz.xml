@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_52183a88-3221-437a-b40b-dc4e9fd75c62" n="schier-franz">
+  <desc type="filename">Schier_Franz.xml</desc>
+  <graphic url="Schier_Franz_1935.jpg" width="425" height="703">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="68" lrx="425" lry="493" cx="213" cy="281" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T18:34:24.958Z</desc>
+</surface>

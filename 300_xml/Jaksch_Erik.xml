@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_62b6dbf2-c19f-4706-9850-bec8d04a5fe4" n="jaksch-erik">
+  <desc type="filename">Jaksch_Erik.xml</desc>
+  <graphic url="Giampietro-Jaksch_wrb1933.jpg" width="1055" height="914">
+  </graphic>
+  <zone type="medallionCrop" ulx="404" uly="209" lrx="1055" lry="859" cx="730" cy="535" r="326" rotate="0"/>
+  <desc type="modified">2026-04-30T20:57:28.796Z</desc>
+</surface>

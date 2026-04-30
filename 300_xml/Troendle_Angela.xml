@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1a442806-76a3-4c3b-966a-32e9621c1881" n="troendle-angela">
+  <desc type="filename">Troendle_Angela.xml</desc>
+  <graphic url="Troendle_Angela.jpg" width="1175" height="735">
+  </graphic>
+  <zone type="medallionCrop" ulx="1" uly="0" lrx="655" lry="654" cx="328" cy="327" r="327" rotate="0"/>
+  <desc type="modified">2026-04-30T18:57:05.844Z</desc>
+</surface>

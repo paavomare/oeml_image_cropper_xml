@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f4513320-1594-46b7-a431-cc5c287f151f" n="glocke">
+  <desc type="filename">Glocke.xml</desc>
+  <graphic url="Pummerin_Zeichnung.jpg" width="524" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="127" lrx="524" lry="651" cx="262" cy="389" r="262" rotate="0"/>
+  <desc type="modified">2026-04-30T18:32:19.368Z</desc>
+</surface>

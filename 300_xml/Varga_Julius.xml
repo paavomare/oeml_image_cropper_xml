@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d0a1a561-eb55-4d57-98ec-32b749dcf7c1" n="varga-julius">
+  <desc type="filename">Varga_Julius.xml</desc>
+  <graphic url="Varga_Julius_1935.jpg" width="344" height="480">
+  </graphic>
+  <zone type="medallionCrop" ulx="10" uly="52" lrx="331" lry="373" cx="171" cy="213" r="161" rotate="0"/>
+  <desc type="modified">2026-04-30T19:12:05.562Z</desc>
+</surface>

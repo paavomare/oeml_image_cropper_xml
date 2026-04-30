@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6e2233bd-4391-4817-9e9b-78bac23fadf2" n="bieler-erni">
+  <desc type="filename">Bieler_Erni.xml</desc>
+  <graphic url="bildarchivaustria/88_B670696T1829306.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="55" uly="83" lrx="536" lry="563" cx="296" cy="324" r="241" rotate="0"/>
+  <desc type="modified">2026-04-30T18:23:15.215Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_64398931-22a1-4258-88cf-626bdbf56cbc" n="ambros-familie">
+  <desc type="filename">Ambros_Familie.xml</desc>
+  <graphic url="Schlemmer-Ambros_Irene.jpg" width="517" height="799">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="43" lrx="481" lry="507" cx="250" cy="275" r="232" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:28.771Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_84a87488-0288-4d08-9ca3-437ba94ac771" n="walter-bruno">
+  <desc type="filename">Walter_Bruno.xml</desc>
+  <graphic url="Walter_Bruno.jpg" width="283" height="403">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="283" lry="289" cx="142" cy="148" r="142" rotate="0"/>
+  <desc type="modified">2026-04-30T19:20:57.454Z</desc>
+</surface>

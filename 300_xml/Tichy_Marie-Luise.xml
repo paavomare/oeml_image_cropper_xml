@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7f8d57f2-f769-4215-9638-1201995a0406" n="tichy-marie-luise">
+  <desc type="filename">Tichy_Marie-Luise.xml</desc>
+  <graphic url="Tichy_Maria_Luise.jpg" width="492" height="771">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="492" lry="511" cx="246" cy="265" r="246" rotate="0"/>
+  <desc type="modified">2026-04-30T20:30:08.297Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c2fbc7dd-5e03-4aab-9348-ea1dcec0a77e" n="friedmann-oskar">
+  <desc type="filename">Friedmann_Oskar.xml</desc>
+  <graphic url="Friedmann_Oskar.jpg" width="289" height="434">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="289" lry="299" cx="145" cy="155" r="145" rotate="0"/>
+  <desc type="modified">2026-04-30T18:47:54.565Z</desc>
+</surface>

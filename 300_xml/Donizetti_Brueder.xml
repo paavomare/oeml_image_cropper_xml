@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1f0ef479-bcf3-4dfc-bc4a-d4acb1f9260b" n="donizetti-brueder">
+  <desc type="filename">Donizetti_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/96_B3479874T3479878.jpg" width="572" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="95" uly="169" lrx="471" lry="545" cx="283" cy="357" r="188" rotate="0"/>
+  <desc type="modified">2026-04-30T18:27:21.172Z</desc>
+</surface>

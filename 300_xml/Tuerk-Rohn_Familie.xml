@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8f64bf18-39cb-4b1e-9663-27b648dc0446" n="tuerk-rohn-familie">
+  <desc type="filename">Tuerk-Rohn_Familie.xml</desc>
+  <graphic url="Tuerk-Rohn_Olga_Theatermuseum.jpg" width="502" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="20" uly="79" lrx="454" lry="513" cx="237" cy="296" r="217" rotate="0"/>
+  <desc type="modified">2026-04-30T20:26:14.353Z</desc>
+</surface>

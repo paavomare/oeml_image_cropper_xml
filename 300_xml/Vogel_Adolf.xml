@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a074073f-77e4-4f7f-b662-ec211b1af1e5" n="vogel-adolf">
+  <desc type="filename">Vogel_Adolf.xml</desc>
+  <graphic url="bildarchivaustria/194_B3895681T3895685.jpg" width="640" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="57" uly="32" lrx="633" lry="608" cx="345" cy="320" r="288" rotate="0"/>
+  <desc type="modified">2026-04-30T20:18:23.264Z</desc>
+</surface>

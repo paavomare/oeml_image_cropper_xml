@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_32607ee7-928d-4ce9-85f9-cbbbfbf1c204" n="gulda-familie">
+  <desc type="filename">Gulda_Familie.xml</desc>
+  <graphic url="bildarchivaustria/740_B8042099T8042103.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="49" uly="85" lrx="511" lry="546" cx="280" cy="316" r="231" rotate="0"/>
+  <desc type="modified">2026-04-30T20:56:52.596Z</desc>
+</surface>

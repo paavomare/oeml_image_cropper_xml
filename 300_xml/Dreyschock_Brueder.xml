@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b6e64155-00d2-4d1c-9c83-6fd353e9455c" n="dreyschock-brueder">
+  <desc type="filename">Dreyschock_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9233613T9233618.jpg" width="505" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="159" lrx="444" lry="539" cx="254" cy="349" r="190" rotate="0"/>
+  <desc type="modified">2026-04-30T19:23:58.246Z</desc>
+</surface>

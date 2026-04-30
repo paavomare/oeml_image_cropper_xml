@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c772e15a-cd0e-46b4-9a87-40cb136273ea" n="mayrhofer-ludwig">
+  <desc type="filename">Mayrhofer_Ludwig.xml</desc>
+  <graphic url="Mayrhofer_Ludwig.jpg" width="226" height="339">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="35" lrx="226" lry="261" cx="113" cy="148" r="113" rotate="0"/>
+  <desc type="modified">2026-04-30T18:55:18.031Z</desc>
+</surface>

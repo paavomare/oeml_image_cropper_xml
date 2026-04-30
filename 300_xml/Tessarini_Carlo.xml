@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_673c46da-5011-4d93-8e31-1b89bd471e84" n="tessarini-carlo">
+  <desc type="filename">Tessarini_Carlo.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9263575T9263580.jpg" width="581" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="61" lrx="502" lry="505" cx="281" cy="283" r="222" rotate="0"/>
+  <desc type="modified">2026-04-30T18:25:22.466Z</desc>
+</surface>

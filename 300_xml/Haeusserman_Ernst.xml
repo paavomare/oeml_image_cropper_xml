@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b6824556-740f-417d-a2f6-90b87e6078b3" n="haeusserman-ernst">
+  <desc type="filename">Haeusserman_Ernst.xml</desc>
+  <graphic url="bildarchivaustria/87_B670408T1827812.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="259" uly="18" lrx="577" lry="336" cx="418" cy="177" r="159" rotate="0"/>
+  <desc type="modified">2026-04-30T18:40:44.845Z</desc>
+</surface>

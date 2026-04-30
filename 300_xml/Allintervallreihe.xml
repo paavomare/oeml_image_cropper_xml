@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f5252170-1414-40d7-8cf2-a9393e2bcca2" n="allintervallreihe">
+  <desc type="filename">Allintervallreihe.xml</desc>
+  <graphic url="Allintervallreihe.jpg" width="567" height="141">
+  </graphic>
+  <zone type="medallionCrop" ulx="171" uly="0" lrx="312" lry="141" cx="242" cy="71" r="71" rotate="0"/>
+  <desc type="modified">2026-04-30T18:26:44.005Z</desc>
+</surface>

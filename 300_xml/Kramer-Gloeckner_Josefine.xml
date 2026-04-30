@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d5acf5f1-b8ef-47e6-a019-a68175f124c4" n="kramer-gloeckner-josefine">
+  <desc type="filename">Kramer-Gloeckner_Josefine.xml</desc>
+  <graphic url="bildarchivaustria/341_B307528T4442259.jpg" width="584" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="13" uly="78" lrx="536" lry="601" cx="275" cy="340" r="262" rotate="0"/>
+  <desc type="modified">2026-04-30T19:08:44.306Z</desc>
+</surface>

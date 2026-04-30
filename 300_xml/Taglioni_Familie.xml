@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_27f8da3a-569e-4720-8acf-e6f98f503079" n="taglioni-familie">
+  <desc type="filename">Taglioni_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12991917T12991922.jpg" width="498" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="77" lrx="455" lry="492" cx="248" cy="285" r="208" rotate="0"/>
+  <desc type="modified">2026-04-30T20:43:56.912Z</desc>
+</surface>

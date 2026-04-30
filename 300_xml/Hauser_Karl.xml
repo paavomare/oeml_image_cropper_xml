@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_713ae004-753e-4001-a746-317b83d22422" n="hauser-karl">
+  <desc type="filename">Hauser_Karl.xml</desc>
+  <graphic url="Haders_Heinrich.jpg" width="715" height="822">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="715" lry="730" cx="358" cy="373" r="358" rotate="0"/>
+  <desc type="modified">2026-04-30T20:42:38.329Z</desc>
+</surface>

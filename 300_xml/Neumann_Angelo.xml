@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5471ef56-2ec2-4e61-8e04-7822aafc889b" n="neumann-angelo">
+  <desc type="filename">Neumann_Angelo.xml</desc>
+  <graphic url="Neumann_Angelo.jpg" width="340" height="408">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="15" lrx="310" lry="297" cx="170" cy="156" r="141" rotate="0"/>
+  <desc type="modified">2026-04-30T18:42:56.362Z</desc>
+</surface>

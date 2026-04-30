@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ea819be5-f22f-4cd1-bd0e-b62e7dc2235e" n="gmeiner-geschwister">
+  <desc type="filename">Gmeiner_Geschwister.xml</desc>
+  <graphic url="Gmeiner_Lula.jpg" width="448" height="728">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="448" lry="487" cx="224" cy="263" r="224" rotate="0"/>
+  <desc type="modified">2026-04-30T20:41:00.904Z</desc>
+</surface>

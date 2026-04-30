@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3b0dc390-6bb9-4656-8ec8-521eac54ed47" n="trautson-familie">
+  <desc type="filename">Trautson_Familie.xml</desc>
+  <graphic url="bildarchivaustria/654_B7668701T7668705.jpg" width="592" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="145" lrx="482" lry="523" cx="293" cy="334" r="189" rotate="0"/>
+  <desc type="modified">2026-04-30T19:07:56.861Z</desc>
+</surface>

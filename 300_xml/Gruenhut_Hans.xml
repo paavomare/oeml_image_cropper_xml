@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2690d4d8-d043-45d3-b0ff-5554246836ac" n="gruenhut-hans">
+  <desc type="filename">Gruenhut_Hans.xml</desc>
+  <graphic url="Gruenhut_Hans_1930.jpg" width="227" height="384">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="41" lrx="227" lry="268" cx="114" cy="155" r="114" rotate="0"/>
+  <desc type="modified">2026-04-30T18:59:32.676Z</desc>
+</surface>

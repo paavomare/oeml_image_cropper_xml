@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1f06698b-02d9-4e7a-a729-e918fcd415c0" n="benesch-familie">
+  <desc type="filename">Benesch_Familie.xml</desc>
+  <graphic url="bildarchivaustria/177_B3820726T3820730.jpg" width="528" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="106" uly="180" lrx="428" lry="502" cx="267" cy="341" r="161" rotate="0"/>
+  <desc type="modified">2026-04-30T20:24:04.733Z</desc>
+</surface>

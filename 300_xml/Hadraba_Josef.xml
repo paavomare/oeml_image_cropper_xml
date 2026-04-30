@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2824591a-5336-416e-808f-532cac056249" n="hadraba-josef">
+  <desc type="filename">Hadraba_Josef.xml</desc>
+  <graphic url="Hadraba_Josef.JPG" width="632" height="672">
+  </graphic>
+  <zone type="medallionCrop" ulx="158" uly="179" lrx="477" lry="498" cx="318" cy="339" r="160" rotate="0"/>
+  <desc type="modified">2026-04-30T19:54:44.321Z</desc>
+</surface>

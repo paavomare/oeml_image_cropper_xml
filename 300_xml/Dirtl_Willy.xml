@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3c78113f-568a-4062-9d04-8278d7dce3b3" n="dirtl-willy">
+  <desc type="filename">Dirtl_Willy.xml</desc>
+  <graphic url="bildarchivaustria/BA_903_B10028791T10028796.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="84" uly="0" lrx="514" lry="430" cx="299" cy="215" r="215" rotate="0"/>
+  <desc type="modified">2026-04-30T19:57:44.079Z</desc>
+</surface>

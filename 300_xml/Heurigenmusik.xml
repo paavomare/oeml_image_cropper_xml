@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d8eca376-58b8-4a24-b031-59a81c560c64" n="heurigenmusik">
+  <desc type="filename">Heurigenmusik.xml</desc>
+  <graphic url="Heurigenmusik_1896.jpg" width="2261" height="1727">
+  </graphic>
+  <zone type="medallionCrop" ulx="459" uly="0" lrx="2186" lry="1727" cx="1323" cy="864" r="864" rotate="0"/>
+  <desc type="modified">2026-04-30T20:49:31.205Z</desc>
+</surface>

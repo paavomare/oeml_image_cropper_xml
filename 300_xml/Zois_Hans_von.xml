@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7b00c806-5af5-4ec0-a284-3d9e1bf9ba73" n="zois-hans-von">
+  <desc type="filename">Zois_Hans_von.xml</desc>
+  <graphic url="Zois_Hans_von_Foto.jpg" width="467" height="617">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="52" lrx="467" lry="519" cx="234" cy="286" r="234" rotate="0"/>
+  <desc type="modified">2026-04-30T18:22:52.987Z</desc>
+</surface>

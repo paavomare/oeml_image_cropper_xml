@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d2a89ebe-97dc-49e2-a1c7-ba06ef26379f" n="martini-louise">
+  <desc type="filename">Martini_Louise.xml</desc>
+  <graphic url="bildarchivaustria/BA_933_B12844362T12844367.jpg" width="551" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="51" uly="80" lrx="518" lry="547" cx="285" cy="314" r="234" rotate="0"/>
+  <desc type="modified">2026-04-30T18:33:35.487Z</desc>
+</surface>

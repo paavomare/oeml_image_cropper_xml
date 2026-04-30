@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7ab6542a-3f3a-43de-b5cb-7b0dd61ce3d5" n="jurek-wilhelm-august">
+  <desc type="filename">Jurek_Wilhelm_August.xml</desc>
+  <graphic url="Jurek_wrb1933.jpg" width="893" height="1241">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="56" lrx="893" lry="949" cx="447" cy="503" r="447" rotate="0"/>
+  <desc type="modified">2026-04-30T20:45:55.993Z</desc>
+</surface>

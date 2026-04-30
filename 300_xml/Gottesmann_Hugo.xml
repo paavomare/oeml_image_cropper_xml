@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_151e3e02-2c46-416d-9e18-954e958cf33a" n="gottesmann-hugo">
+  <desc type="filename">Gottesmann_Hugo.xml</desc>
+  <graphic url="Gottesmann-Quartett.jpg" width="336" height="352">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="20" lrx="108" lry="111" cx="63" cy="66" r="46" rotate="0"/>
+  <desc type="modified">2026-04-30T19:13:09.539Z</desc>
+</surface>

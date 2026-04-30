@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dbac6480-abf9-48a1-8f74-edd8ca69f46f" n="gaudriot-karl">
+  <desc type="filename">Gaudriot_Karl.xml</desc>
+  <graphic url="bildarchivaustria/89_B307194T1832056.jpg" width="580" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="116" lrx="554" lry="653" cx="286" cy="385" r="269" rotate="0"/>
+  <desc type="modified">2026-04-30T19:55:53.004Z</desc>
+</surface>

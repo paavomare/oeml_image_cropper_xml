@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_03d4627a-fae2-4d1f-a9bd-4923994c07bb" n="braunstein-joseph">
+  <desc type="filename">Braunstein_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10449649T10449654.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="49" lrx="503" lry="512" cx="271" cy="281" r="232" rotate="0"/>
+  <desc type="modified">2026-04-30T19:53:25.473Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c5faecbf-d751-40dd-bb3f-34905ec7689e" n="cech-christoph">
+  <desc type="filename">Cech_Christoph.xml</desc>
+  <graphic url="Cech_Christoph.jpg" width="733" height="1100">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="577" lry="609" cx="289" cy="321" r="289" rotate="0"/>
+  <desc type="modified">2026-04-30T19:57:53.318Z</desc>
+</surface>

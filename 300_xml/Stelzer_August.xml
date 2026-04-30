@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_49768119-64cf-4839-93e9-405055a54a33" n="stelzer-august">
+  <desc type="filename">Stelzer_August.xml</desc>
+  <graphic url="Stelzer.jpg" width="426" height="605">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="44" lrx="426" lry="470" cx="213" cy="257" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T20:16:27.647Z</desc>
+</surface>

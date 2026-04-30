@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_182279c0-f75a-4a80-b9ac-0658cceb438f" n="sonnleithner-familie">
+  <desc type="filename">Sonnleithner_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9262667T9262672.jpg" width="530" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="95" uly="135" lrx="458" lry="498" cx="277" cy="317" r="182" rotate="0"/>
+  <desc type="modified">2026-04-30T20:49:59.455Z</desc>
+</surface>

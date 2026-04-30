@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_63986c9b-486f-4693-967f-0ebfad963d9f" n="lewis-joanna">
+  <desc type="filename">Lewis_Joanna.xml</desc>
+  <graphic url="Lewis_Joanna_2023.jpg" width="644" height="1000">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="223" lrx="529" lry="752" cx="265" cy="488" r="265" rotate="0"/>
+  <desc type="modified">2026-04-30T20:23:55.264Z</desc>
+</surface>

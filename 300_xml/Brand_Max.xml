@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6d916f95-bb71-41ac-b740-5194c74a6c45" n="brand-max">
+  <desc type="filename">Brand_Max.xml</desc>
+  <graphic url="Brand1.jpg" width="455" height="591">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="57" lrx="455" lry="512" cx="228" cy="285" r="228" rotate="0"/>
+  <desc type="modified">2026-04-30T18:23:21.692Z</desc>
+</surface>

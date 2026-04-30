@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_215391e6-21d5-4420-af35-386149072a45" n="lehner-familie">
+  <desc type="filename">Lehner_Familie.xml</desc>
+  <graphic url="Lehner_Josef.jpg" width="374" height="506">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="2" lrx="374" lry="376" cx="187" cy="189" r="187" rotate="0"/>
+  <desc type="modified">2026-04-30T20:56:40.920Z</desc>
+</surface>

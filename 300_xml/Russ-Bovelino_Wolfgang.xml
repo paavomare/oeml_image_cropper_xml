@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9138d61e-aaf2-46e6-8f78-0510a94b2ed0" n="russ-bovelino-wolfgang">
+  <desc type="filename">Russ-Bovelino_Wolfgang.xml</desc>
+  <graphic url="russ_wolfgang.jpg" width="421" height="604">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="152" lrx="421" lry="573" cx="211" cy="363" r="211" rotate="0"/>
+  <desc type="modified">2026-04-30T19:01:13.555Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_678fe57f-fe83-41a8-9925-ab1c5717e72e" n="wienerlied">
+  <desc type="filename">Wienerlied.xml</desc>
+  <graphic url="Frankowski_Gedenkmosaik.jpg" width="3264" height="2448">
+  </graphic>
+  <zone type="medallionCrop" ulx="493" uly="0" lrx="2941" lry="2448" cx="1717" cy="1224" r="1224" rotate="0"/>
+  <desc type="modified">2026-04-30T18:47:22.715Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_34a88ad2-32f2-4317-9e15-469b38b25360" n="rudolph-erzherzog">
+  <desc type="filename">Rudolph_Erzherzog.xml</desc>
+  <graphic url="bildarchivaustria/437_B4848621T4848625.jpg" width="521" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="83" lrx="486" lry="527" cx="264" cy="305" r="222" rotate="0"/>
+  <desc type="modified">2026-04-30T20:25:04.137Z</desc>
+</surface>

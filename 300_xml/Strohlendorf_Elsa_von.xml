@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ce74599b-87ca-446a-88f7-7799bd2a6102" n="strohlendorf-elsa-von">
+  <desc type="filename">Strohlendorf_Elsa_von.xml</desc>
+  <graphic url="Cerri_Caecilie_Hassreiter_Josef.jpg" width="449" height="357">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="0" lrx="375" lry="357" cx="197" cy="179" r="179" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:36.054Z</desc>
+</surface>

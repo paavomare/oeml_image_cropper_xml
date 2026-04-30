@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_36d57862-a59f-438e-9715-814c07f958d3" n="harnoncourt-familie">
+  <desc type="filename">Harnoncourt_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B1148561T10015977.jpg" width="599" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="135" lrx="599" lry="688" cx="323" cy="411" r="276" rotate="0"/>
+  <desc type="modified">2026-04-30T20:03:01.547Z</desc>
+</surface>

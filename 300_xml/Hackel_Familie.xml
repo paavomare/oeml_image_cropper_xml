@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_babf4456-7240-4e75-9f69-d3b365fc2bd0" n="hackel-familie">
+  <desc type="filename">Hackel_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9254161T9254166.jpg" width="547" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="55" uly="155" lrx="486" lry="586" cx="271" cy="371" r="216" rotate="0"/>
+  <desc type="modified">2026-04-30T20:52:39.184Z</desc>
+</surface>

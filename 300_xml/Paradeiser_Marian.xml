@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_94ee25c2-7c54-4706-8bc0-5933d0c49324" n="paradeiser-marian">
+  <desc type="filename">Paradeiser_Marian.xml</desc>
+  <graphic url="Paradeiser_Marian.jpg" width="687" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="155" uly="187" lrx="545" lry="576" cx="350" cy="382" r="195" rotate="0"/>
+  <desc type="modified">2026-04-30T18:33:14.920Z</desc>
+</surface>

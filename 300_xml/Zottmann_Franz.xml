@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f9827446-3509-4684-a7f9-73a74127dd6e" n="zottmann-franz">
+  <desc type="filename">Zottmann_Franz.xml</desc>
+  <graphic url="Zottmann_Franz.jpg" width="281" height="368">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="15" lrx="281" lry="296" cx="141" cy="156" r="141" rotate="0"/>
+  <desc type="modified">2026-04-30T20:25:46.575Z</desc>
+</surface>

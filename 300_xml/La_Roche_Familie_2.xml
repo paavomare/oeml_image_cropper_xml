@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9c3d40fa-63c8-4e60-998d-5b850cf33c65" n="la-roche-familie-2">
+  <desc type="filename">La_Roche_Familie_2.xml</desc>
+  <graphic url="bildarchivaustria/108_B3510845T3510849.jpg" width="527" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="61" uly="114" lrx="469" lry="522" cx="265" cy="318" r="204" rotate="0"/>
+  <desc type="modified">2026-04-30T20:50:39.647Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2307a3c8-3ff8-402b-ad55-34155f4e276a" n="treitschke-ehepaar">
+  <desc type="filename">Treitschke_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/BA_858_B9299614T9299619.jpg" width="560" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="105" lrx="514" lry="590" cx="272" cy="348" r="243" rotate="0"/>
+  <desc type="modified">2026-04-30T20:36:16.620Z</desc>
+</surface>

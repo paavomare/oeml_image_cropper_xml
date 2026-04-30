@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_00b524fb-168b-4d89-a327-963cf26bfd07" n="schmidt-juergen">
+  <desc type="filename">Schmidt_Juergen.xml</desc>
+  <graphic url="Schmidt_Juergen.jpg" width="664" height="902">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="664" lry="684" cx="332" cy="352" r="332" rotate="0"/>
+  <desc type="modified">2026-04-30T19:03:03.389Z</desc>
+</surface>

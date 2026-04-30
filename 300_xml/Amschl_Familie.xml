@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_afd3aa1c-081d-4fe2-bda3-16d2137fb05a" n="amschl-familie">
+  <desc type="filename">Amschl_Familie.xml</desc>
+  <graphic url="amschl_sepp.jpg" width="353" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="71" lrx="325" lry="378" cx="172" cy="224" r="153" rotate="0"/>
+  <desc type="modified">2026-04-30T20:41:54.150Z</desc>
+</surface>

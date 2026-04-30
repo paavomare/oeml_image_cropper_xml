@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_180e894f-8e63-4d57-9633-4c708639835c" n="luze-carl">
+  <desc type="filename">Luze_Carl.xml</desc>
+  <graphic url="Luze_Karl.jpg" width="340" height="464">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="340" lry="340" cx="170" cy="170" r="170" rotate="0"/>
+  <desc type="modified">2026-04-30T18:45:23.953Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_27226722-47a5-4675-899f-8f95f6290c74" n="gaigg-gustav">
+  <desc type="filename">Gaigg_Gustav.xml</desc>
+  <graphic url="Gaigg_Gustav.jpg" width="425" height="559">
+  </graphic>
+  <zone type="medallionCrop" ulx="8" uly="2" lrx="408" lry="401" cx="208" cy="202" r="200" rotate="0"/>
+  <desc type="modified">2026-04-30T18:41:26.545Z</desc>
+</surface>

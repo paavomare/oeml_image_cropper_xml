@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ad9b0eb6-f543-4577-9c9a-21115f7d9dd5" n="buxbaum-familie">
+  <desc type="filename">Buxbaum_Familie.xml</desc>
+  <graphic url="bildarchivaustria/340_B307859T4439553.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="94" lrx="559" lry="626" cx="293" cy="360" r="266" rotate="0"/>
+  <desc type="modified">2026-04-30T19:04:06.079Z</desc>
+</surface>

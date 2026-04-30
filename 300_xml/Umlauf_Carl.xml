@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0e7e7686-652d-41db-a34d-a923bc5ff804" n="umlauf-carl">
+  <desc type="filename">Umlauf_Carl.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9246113T9246118.jpg" width="648" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="33" uly="82" lrx="612" lry="661" cx="323" cy="372" r="290" rotate="0"/>
+  <desc type="modified">2026-04-30T18:24:17.299Z</desc>
+</surface>

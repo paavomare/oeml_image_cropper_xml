@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dc09afd8-0892-43ed-8ed8-df74540eda4c" n="selim-josma">
+  <desc type="filename">Selim_Josma.xml</desc>
+  <graphic url="bildarchivaustria/339_B307757T4438159.jpg" width="597" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="84" lrx="572" lry="631" cx="299" cy="358" r="274" rotate="0"/>
+  <desc type="modified">2026-04-30T20:54:32.236Z</desc>
+</surface>

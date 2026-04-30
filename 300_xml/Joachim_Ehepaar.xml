@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7da2656e-a76d-4eaf-858c-94cbc50a5504" n="joachim-ehepaar">
+  <desc type="filename">Joachim_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/474_B5104262T5104266.jpg" width="576" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="55" uly="100" lrx="518" lry="563" cx="287" cy="332" r="232" rotate="0"/>
+  <desc type="modified">2026-04-30T20:55:44.512Z</desc>
+</surface>

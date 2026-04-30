@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b1f421b1-6f62-4893-a7ae-5a47f00c0a23" n="orsini-rosenberg-franz">
+  <desc type="filename">Orsini-Rosenberg_Franz.xml</desc>
+  <graphic url="bildarchivaustria/170_B3785052T3785056.jpg" width="569" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="172" uly="228" lrx="389" lry="445" cx="281" cy="337" r="109" rotate="0"/>
+  <desc type="modified">2026-04-30T21:02:43.981Z</desc>
+</surface>

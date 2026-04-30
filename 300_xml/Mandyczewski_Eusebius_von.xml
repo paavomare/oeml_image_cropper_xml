@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_28f76af7-04e0-4f79-ae17-d8c093598384" n="mandyczewski-eusebius-von">
+  <desc type="filename">Mandyczewski_Eusebius_von.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450021T10450026.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="113" lrx="497" lry="595" cx="256" cy="354" r="241" rotate="0"/>
+  <desc type="modified">2026-04-30T19:09:35.918Z</desc>
+</surface>

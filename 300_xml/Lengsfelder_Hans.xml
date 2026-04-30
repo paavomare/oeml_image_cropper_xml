@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6157d0df-dc60-4450-8407-c9a01f6cc325" n="lengsfelder-hans">
+  <desc type="filename">Lengsfelder_Hans.xml</desc>
+  <graphic url="Lengsfelder_Hans.jpg" width="281" height="433">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="118" lrx="281" lry="399" cx="141" cy="259" r="141" rotate="0"/>
+  <desc type="modified">2026-04-30T18:31:06.789Z</desc>
+</surface>

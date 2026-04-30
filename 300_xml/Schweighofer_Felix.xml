@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e32b8ce2-096f-4d14-bdd3-220a82c472dd" n="schweighofer-felix">
+  <desc type="filename">Schweighofer_Felix.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9124927T9124932.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="63" lrx="535" lry="571" cx="281" cy="317" r="254" rotate="0"/>
+  <desc type="modified">2026-04-30T20:58:16.711Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a4912c17-83ed-4d28-8c01-de9bb4634c2d" n="mikuli-karol">
+  <desc type="filename">Mikuli_Karol.xml</desc>
+  <graphic url="Mikuli_Karl.jpg" width="567" height="669">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="567" lry="588" cx="284" cy="305" r="284" rotate="0"/>
+  <desc type="modified">2026-04-30T20:14:38.481Z</desc>
+</surface>

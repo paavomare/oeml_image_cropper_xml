@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b1a6e035-83bf-43d1-8688-d2d7c8bca663" n="fuerstenberg-friedrich">
+  <desc type="filename">Fuerstenberg_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/498_B5235244T5235248.jpg" width="605" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="209" uly="250" lrx="399" lry="440" cx="304" cy="345" r="95" rotate="0"/>
+  <desc type="modified">2026-04-30T20:32:42.701Z</desc>
+</surface>

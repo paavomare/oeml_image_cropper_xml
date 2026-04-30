@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_660d12c7-8abb-4d9f-ac57-63ff4c3c81ec" n="haid-gerlinde">
+  <desc type="filename">Haid_Gerlinde.xml</desc>
+  <graphic url="Haid_Gerlinde.jpg" width="283" height="399">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="283" lry="299" cx="142" cy="158" r="142" rotate="0"/>
+  <desc type="modified">2026-04-30T19:52:02.113Z</desc>
+</surface>

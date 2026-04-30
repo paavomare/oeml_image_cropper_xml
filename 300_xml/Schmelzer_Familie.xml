@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_417d7961-949f-4485-bccb-2e5170a6b541" n="schmelzer-familie">
+  <desc type="filename">Schmelzer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/172_B3791455T3791459.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="76" uly="144" lrx="454" lry="521" cx="265" cy="333" r="189" rotate="0"/>
+  <desc type="modified">2026-04-30T19:11:08.341Z</desc>
+</surface>

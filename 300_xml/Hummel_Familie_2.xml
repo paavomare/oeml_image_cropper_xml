@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_65ae9742-4c7e-4365-a993-256ad92fe7c7" n="hummel-familie-2">
+  <desc type="filename">Hummel_Familie_2.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9245917T9245922.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="75" uly="99" lrx="532" lry="556" cx="304" cy="328" r="229" rotate="0"/>
+  <desc type="modified">2026-04-30T20:44:20.413Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c4e02378-3aeb-471d-ae28-a082dba5b55b" n="armin-josef">
+  <desc type="filename">Armin_Josef.xml</desc>
+  <graphic url="Armin_Josef2.jpg" width="350" height="470">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="350" lry="384" cx="175" cy="209" r="175" rotate="0"/>
+  <desc type="modified">2026-04-30T20:14:21.041Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6bbc61d7-547e-41bb-bf70-f422540e1d6a" n="schuster-rudolf">
+  <desc type="filename">Schuster_Rudolf.xml</desc>
+  <graphic url="schuster_rudolf.jpg" width="431" height="617">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="41" lrx="431" lry="472" cx="216" cy="257" r="216" rotate="0"/>
+  <desc type="modified">2026-04-30T18:39:23.305Z</desc>
+</surface>

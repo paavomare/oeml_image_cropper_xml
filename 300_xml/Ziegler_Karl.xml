@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c6fb6919-d098-41d9-949d-a2fcafa037e0" n="ziegler-karl">
+  <desc type="filename">Ziegler_Karl.xml</desc>
+  <graphic url="Ziegler_Karl.jpg" width="169" height="228">
+  </graphic>
+  <zone type="medallionCrop" ulx="8" uly="11" lrx="163" lry="167" cx="86" cy="89" r="78" rotate="0"/>
+  <desc type="modified">2026-04-30T18:39:17.530Z</desc>
+</surface>

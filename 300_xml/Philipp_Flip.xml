@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8251ee90-4e1c-47d0-99e7-f87d3282491e" n="philipp-flip">
+  <desc type="filename">Philipp_Flip.xml</desc>
+  <graphic url="Philipp_Flip_2024.jpg" width="2504" height="3923">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="2302" lry="2302" cx="1151" cy="1151" r="1151" rotate="0"/>
+  <desc type="modified">2026-04-30T19:08:20.242Z</desc>
+</surface>

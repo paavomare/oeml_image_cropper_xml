@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_060dbfdc-9418-41c1-a6bd-98baaf26c178" n="jelinek-willy">
+  <desc type="filename">Jelinek_Willy.xml</desc>
+  <graphic url="Jelinek_Willy.jpg" width="340" height="439">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="14" lrx="340" lry="354" cx="170" cy="184" r="170" rotate="0"/>
+  <desc type="modified">2026-04-30T18:24:30.131Z</desc>
+</surface>

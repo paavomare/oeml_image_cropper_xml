@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b60bfc2c-1370-41f8-a356-c19f470e2f8b" n="bandltanz">
+  <desc type="filename">Bandltanz.xml</desc>
+  <graphic url="Bandltanz.jpg" width="800" height="566">
+  </graphic>
+  <zone type="medallionCrop" ulx="159" uly="0" lrx="725" lry="566" cx="442" cy="283" r="283" rotate="0"/>
+  <desc type="modified">2026-04-30T20:18:48.321Z</desc>
+</surface>

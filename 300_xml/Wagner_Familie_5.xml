@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_14693cec-3942-47e7-8f48-22bca9709abc" n="wagner-familie-5">
+  <desc type="filename">Wagner_Familie_5.xml</desc>
+  <graphic url="Wagner-Schoenkirch_Hans.jpg" width="531" height="732">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="92" lrx="500" lry="560" cx="266" cy="327" r="235" rotate="0"/>
+  <desc type="modified">2026-04-30T19:24:23.253Z</desc>
+</surface>

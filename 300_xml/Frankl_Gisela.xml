@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9f68024f-8f8e-4909-b611-3d5aa29a17c5" n="frankl-gisela">
+  <desc type="filename">Frankl_Gisela.xml</desc>
+  <graphic url="Frankl_Gisela.jpg" width="505" height="657">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="505" lry="526" cx="253" cy="274" r="253" rotate="0"/>
+  <desc type="modified">2026-04-30T20:51:04.013Z</desc>
+</surface>

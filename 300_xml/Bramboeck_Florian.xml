@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b9ab5c4c-9834-4338-ae96-609dce1fe2e0" n="bramboeck-florian">
+  <desc type="filename">Bramboeck_Florian.xml</desc>
+  <graphic url="Bramboeck_Florian.jpg" width="800" height="531">
+  </graphic>
+  <zone type="medallionCrop" ulx="176" uly="0" lrx="707" lry="531" cx="442" cy="266" r="266" rotate="0"/>
+  <desc type="modified">2026-04-30T20:53:55.267Z</desc>
+</surface>

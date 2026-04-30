@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9b6eb516-7167-4b99-8cee-e9d551226abd" n="reichardt-johann">
+  <desc type="filename">Reichardt_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247416T9247421.jpg" width="610" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="119" uly="142" lrx="474" lry="496" cx="297" cy="320" r="178" rotate="0"/>
+  <desc type="modified">2026-04-30T19:58:46.765Z</desc>
+</surface>

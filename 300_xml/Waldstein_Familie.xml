@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cda7fe88-b12a-43ee-b9a9-125f50bd11b7" n="waldstein-familie">
+  <desc type="filename">Waldstein_Familie.xml</desc>
+  <graphic url="bildarchivaustria/178_B3826323T3826327.jpg" width="674" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="68" uly="49" lrx="585" lry="565" cx="327" cy="308" r="259" rotate="0"/>
+  <desc type="modified">2026-04-30T19:05:03.734Z</desc>
+</surface>

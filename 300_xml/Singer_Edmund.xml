@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4aa1949f-7095-4d3d-8e23-690e1cd1ea6d" n="singer-edmund">
+  <desc type="filename">Singer_Edmund.xml</desc>
+  <graphic url="bildarchivaustria/175_B3814047T3814051.jpg" width="558" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="111" lrx="527" lry="610" cx="278" cy="361" r="250" rotate="0"/>
+  <desc type="modified">2026-04-30T20:36:04.191Z</desc>
+</surface>

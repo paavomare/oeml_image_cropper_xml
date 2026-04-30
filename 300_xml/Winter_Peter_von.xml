@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d11e3d2e-50ae-4f7e-a472-4389c1ad8be4" n="winter-peter-von">
+  <desc type="filename">Winter_Peter_von.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9264270T9264275.jpg" width="700" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="154" uly="161" lrx="549" lry="556" cx="352" cy="359" r="198" rotate="0"/>
+  <desc type="modified">2026-04-30T20:32:11.906Z</desc>
+</surface>

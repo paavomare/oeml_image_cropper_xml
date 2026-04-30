@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3713c813-6fad-45df-868a-866620d430e0" n="totentanz">
+  <desc type="filename">Totentanz.xml</desc>
+  <graphic url="Totentanz_Metnitz.JPG" width="1024" height="693">
+  </graphic>
+  <zone type="medallionCrop" ulx="155" uly="0" lrx="848" lry="693" cx="502" cy="347" r="347" rotate="0"/>
+  <desc type="modified">2026-04-30T18:43:50.337Z</desc>
+</surface>

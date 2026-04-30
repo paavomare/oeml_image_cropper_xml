@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_50e8e305-6ea3-4383-be4b-cc46ab806d9d" n="metzger-j-c">
+  <desc type="filename">Metzger_J_C.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9255537T9255542.jpg" width="627" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="116" uly="165" lrx="508" lry="557" cx="312" cy="361" r="196" rotate="0"/>
+  <desc type="modified">2026-04-30T20:16:49.662Z</desc>
+</surface>

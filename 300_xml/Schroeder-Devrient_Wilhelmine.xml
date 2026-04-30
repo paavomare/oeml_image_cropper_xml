@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d13368fa-dc9f-427a-a494-523df587c19d" n="schroeder-devrient-wilhelmine">
+  <desc type="filename">Schroeder-Devrient_Wilhelmine.xml</desc>
+  <graphic url="bildarchivaustria/BA_851_B9138906T9139926.jpg" width="570" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="107" uly="114" lrx="473" lry="479" cx="290" cy="297" r="183" rotate="0"/>
+  <desc type="modified">2026-04-30T18:37:19.119Z</desc>
+</surface>

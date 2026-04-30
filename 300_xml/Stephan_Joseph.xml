@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0fea5bbb-4f6b-453d-ad16-ceaf23699cf8" n="stephan-joseph">
+  <desc type="filename">Stephan_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_1100_B9247290T19868959.jpg" width="587" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="239" lrx="574" lry="771" cx="308" cy="505" r="266" rotate="0"/>
+  <desc type="modified">2026-04-30T20:46:12.012Z</desc>
+</surface>

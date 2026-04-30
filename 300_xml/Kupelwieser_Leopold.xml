@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8618540b-aeae-405a-8bf2-c4a298bf7c7a" n="kupelwieser-leopold">
+  <desc type="filename">Kupelwieser_Leopold.xml</desc>
+  <graphic url="bildarchivaustria/789_B8239208T8239212.jpg" width="604" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="86" uly="122" lrx="470" lry="506" cx="278" cy="314" r="192" rotate="0"/>
+  <desc type="modified">2026-04-30T20:25:37.848Z</desc>
+</surface>

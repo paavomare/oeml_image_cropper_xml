@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_023015ca-c695-42c1-9237-19038e2c3748" n="violoncello">
+  <desc type="filename">Violoncello.xml</desc>
+  <graphic url="Cello_KaB.jpg" width="2212" height="2397">
+  </graphic>
+  <zone type="medallionCrop" ulx="830" uly="106" lrx="2099" lry="1375" cx="1465" cy="741" r="635" rotate="0"/>
+  <desc type="modified">2026-04-30T20:59:27.536Z</desc>
+</surface>

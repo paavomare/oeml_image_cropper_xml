@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_94dfe534-642d-47e2-9950-c956ea093a14" n="nefzger-bernhard">
+  <desc type="filename">Nefzger_Bernhard.xml</desc>
+  <graphic url="Nefzger.jpg" width="421" height="608">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="36" lrx="421" lry="457" cx="211" cy="247" r="211" rotate="0"/>
+  <desc type="modified">2026-04-30T20:55:19.008Z</desc>
+</surface>

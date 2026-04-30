@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_de2c7037-f32f-4ee4-975e-6fd92125aa9c" n="pick-gustav">
+  <desc type="filename">Pick_Gustav.xml</desc>
+  <graphic url="Pick_Gustav_1902.jpg" width="574" height="654">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="574" lry="585" cx="287" cy="298" r="287" rotate="0"/>
+  <desc type="modified">2026-04-30T20:14:53.838Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8390c4e3-0e42-4201-ac98-967b3433243a" n="kraegel-ernst">
+  <desc type="filename">Kraegel_Ernst.xml</desc>
+  <graphic url="Kraegel_1896.jpg" width="648" height="1031">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="136" lrx="648" lry="784" cx="324" cy="460" r="324" rotate="0"/>
+  <desc type="modified">2026-04-30T20:03:33.819Z</desc>
+</surface>

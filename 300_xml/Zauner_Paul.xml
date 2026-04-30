@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7e0259f7-f932-4252-9ab3-eeffa080dc95" n="zauner-paul">
+  <desc type="filename">Zauner_Paul.xml</desc>
+  <graphic url="Zauner_Paul.jpg" width="2606" height="1737">
+  </graphic>
+  <zone type="medallionCrop" ulx="532" uly="0" lrx="2269" lry="1737" cx="1401" cy="869" r="869" rotate="0"/>
+  <desc type="modified">2026-04-30T20:58:33.195Z</desc>
+</surface>

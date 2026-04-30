@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c94504ae-28bc-4ac8-bb0a-d248de7d8658" n="streitmann-familie">
+  <desc type="filename">Streitmann_Familie.xml</desc>
+  <graphic url="Streitmann_Carl.jpg" width="338" height="404">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="338" lry="347" cx="169" cy="178" r="169" rotate="0"/>
+  <desc type="modified">2026-04-30T20:46:47.048Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_302b572d-b2f8-4e49-90c1-a31357d49238" n="alexander-peter">
+  <desc type="filename">Alexander_Peter.xml</desc>
+  <graphic url="bildarchivaustria/412_B389611T4689879.jpg" width="800" height="608">
+  </graphic>
+  <zone type="medallionCrop" ulx="206" uly="4" lrx="672" lry="470" cx="439" cy="237" r="233" rotate="0"/>
+  <desc type="modified">2026-04-30T20:52:27.418Z</desc>
+</surface>

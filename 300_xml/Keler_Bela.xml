@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f907438f-6e4e-4abb-8c1d-31ae05dbd3be" n="keler-bela">
+  <desc type="filename">Keler_Bela.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9246913T9246918.jpg" width="515" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="123" lrx="456" lry="533" cx="252" cy="328" r="205" rotate="0"/>
+  <desc type="modified">2026-04-30T18:41:37.921Z</desc>
+</surface>

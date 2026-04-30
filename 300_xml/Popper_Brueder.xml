@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2ab3bf1a-3841-4a28-825f-08a4ff6213f2" n="popper-brueder">
+  <desc type="filename">Popper_Brueder.xml</desc>
+  <graphic url="Popper_Brueder_David.jpg" width="491" height="636">
+  </graphic>
+  <zone type="medallionCrop" ulx="38" uly="48" lrx="455" lry="465" cx="247" cy="257" r="209" rotate="0"/>
+  <desc type="modified">2026-04-30T19:06:58.875Z</desc>
+</surface>

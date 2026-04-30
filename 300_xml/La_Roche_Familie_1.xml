@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cd4fa25a-f5f6-429a-88bf-481caa8ece4c" n="la-roche-familie-1">
+  <desc type="filename">La_Roche_Familie_1.xml</desc>
+  <graphic url="La_Roche_Carl_Kriehuber.jpg" width="645" height="964">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="84" lrx="624" lry="708" cx="312" cy="396" r="312" rotate="0"/>
+  <desc type="modified">2026-04-30T20:33:59.594Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c7f9dc96-6bca-4f6e-8ea9-f07e3c3fdeab" n="rossi-marcello">
+  <desc type="filename">Rossi_Marcello.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9238239T9238244.jpg" width="612" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="90" uly="104" lrx="554" lry="568" cx="322" cy="336" r="232" rotate="0"/>
+  <desc type="modified">2026-04-30T20:15:10.231Z</desc>
+</surface>

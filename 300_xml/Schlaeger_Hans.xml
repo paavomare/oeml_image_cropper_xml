@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a9dfb08b-22a7-44c5-a73b-edf41bfad5c7" n="schlaeger-hans">
+  <desc type="filename">Schlaeger_Hans.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257952T9257957.jpg" width="642" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="114" uly="128" lrx="525" lry="539" cx="320" cy="334" r="206" rotate="0"/>
+  <desc type="modified">2026-04-30T19:12:54.866Z</desc>
+</surface>

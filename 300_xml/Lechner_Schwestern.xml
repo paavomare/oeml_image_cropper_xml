@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c91ef037-0749-4b86-a187-dcd92f4d74af" n="lechner-schwestern">
+  <desc type="filename">Lechner_Schwestern.xml</desc>
+  <graphic url="Bauer-Lechner_Natalie.jpg" width="556" height="881">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="69" lrx="515" lry="566" cx="267" cy="318" r="249" rotate="0"/>
+  <desc type="modified">2026-04-30T20:14:33.035Z</desc>
+</surface>

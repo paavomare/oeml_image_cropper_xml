@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0090d503-6206-4b1c-ab23-ea024e52505d" n="ibn-quadr-adula">
+  <desc type="filename">Ibn_Quadr_Adula.xml</desc>
+  <graphic url="Ibn_Quadr_Adula_2022.jpg" width="878" height="1103">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="878" lry="878" cx="439" cy="439" r="439" rotate="0"/>
+  <desc type="modified">2026-04-30T20:20:19.524Z</desc>
+</surface>

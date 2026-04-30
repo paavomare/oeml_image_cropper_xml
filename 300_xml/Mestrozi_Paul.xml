@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5b257145-8e01-40b7-ad8a-3cb5cee5e789" n="mestrozi-paul">
+  <desc type="filename">Mestrozi_Paul.xml</desc>
+  <graphic url="Mestrozi_Paul.jpg" width="346" height="421">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="11" lrx="346" lry="357" cx="173" cy="184" r="173" rotate="0"/>
+  <desc type="modified">2026-04-30T18:42:41.066Z</desc>
+</surface>

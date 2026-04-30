@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90d90861-862a-4d0d-84c0-a7116c271f46" n="dumba-nikolaus">
+  <desc type="filename">Dumba_Nikolaus.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12995850T12995855.jpg" width="508" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="89" lrx="508" lry="597" cx="254" cy="343" r="254" rotate="0"/>
+  <desc type="modified">2026-04-30T20:49:45.271Z</desc>
+</surface>

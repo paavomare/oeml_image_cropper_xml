@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ce9b51da-beab-4eb8-9475-32bcff24b656" n="marchesi-ehepaar">
+  <desc type="filename">Marchesi_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9267288T9267293.jpg" width="493" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="156" uly="235" lrx="350" lry="430" cx="253" cy="332" r="97" rotate="0"/>
+  <desc type="modified">2026-04-30T20:17:32.338Z</desc>
+</surface>

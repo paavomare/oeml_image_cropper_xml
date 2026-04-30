@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_52eb997a-2f7a-4c0a-a475-ad3aaf4c5faa" n="bodenwieser-gertrud">
+  <desc type="filename">Bodenwieser_Gertrud.xml</desc>
+  <graphic url="bildarchivaustria/744_B8076085T8076089.jpg" width="522" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="54" lrx="485" lry="505" cx="260" cy="280" r="226" rotate="0"/>
+  <desc type="modified">2026-04-30T20:03:22.135Z</desc>
+</surface>

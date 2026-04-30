@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5e8645bb-6c2d-4c06-a12c-a918589334a3" n="demel-emilie">
+  <desc type="filename">Demel_Emilie.xml</desc>
+  <graphic url="fiakermilli.jpg" width="312" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="58" lrx="287" lry="314" cx="159" cy="186" r="128" rotate="0"/>
+  <desc type="modified">2026-04-30T20:03:09.156Z</desc>
+</surface>

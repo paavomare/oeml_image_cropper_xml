@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ae7f42bb-e944-43fd-933a-2b7eca616cce" n="kubik-reinhold">
+  <desc type="filename">Kubik_Reinhold.xml</desc>
+  <graphic url="Kubik_Reinhold_3_07.jpg" width="828" height="643">
+  </graphic>
+  <zone type="medallionCrop" ulx="93" uly="0" lrx="736" lry="643" cx="415" cy="322" r="322" rotate="0"/>
+  <desc type="modified">2026-04-30T20:29:41.401Z</desc>
+</surface>

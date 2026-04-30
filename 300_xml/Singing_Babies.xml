@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cbab0f9c-2f46-476f-9136-eedd6c8ec7bd" n="singing-babies">
+  <desc type="filename">Singing_Babies.xml</desc>
+  <graphic url="Singing_Babies.jpg" width="425" height="675">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="29" lrx="425" lry="454" cx="213" cy="242" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T18:41:50.199Z</desc>
+</surface>

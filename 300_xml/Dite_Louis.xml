@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8bf93ecc-4696-4f76-ab04-5afe38b14f44" n="dite-louis">
+  <desc type="filename">Dite_Louis.xml</desc>
+  <graphic url="bildarchivaustria/343_B306544T4448184.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="48" lrx="565" lry="570" cx="304" cy="309" r="261" rotate="0"/>
+  <desc type="modified">2026-04-30T19:24:09.314Z</desc>
+</surface>

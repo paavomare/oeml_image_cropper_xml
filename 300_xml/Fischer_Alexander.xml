@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f02d8714-31c5-4766-981f-cb7b642afb10" n="fischer-alexander">
+  <desc type="filename">Fischer_Alexander.xml</desc>
+  <graphic url="Fischer_Alexander_2012.jpg" width="825" height="725">
+  </graphic>
+  <zone type="medallionCrop" ulx="100" uly="0" lrx="825" lry="725" cx="463" cy="363" r="363" rotate="0"/>
+  <desc type="modified">2026-04-30T18:34:13.054Z</desc>
+</surface>

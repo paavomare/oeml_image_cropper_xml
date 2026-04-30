@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e9d8de07-99b5-4d45-bc04-386a060786e0" n="cerha-ehepaar">
+  <desc type="filename">Cerha_Ehepaar.xml</desc>
+  <graphic url="Cerha.jpg" width="339" height="503">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="339" lry="339" cx="170" cy="170" r="170" rotate="0"/>
+  <desc type="modified">2026-04-30T19:52:48.823Z</desc>
+</surface>

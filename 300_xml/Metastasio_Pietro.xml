@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c2c769bf-2c6f-40e4-ab85-e3f46bd78d08" n="metastasio-pietro">
+  <desc type="filename">Metastasio_Pietro.xml</desc>
+  <graphic url="bildarchivaustria/654_B7666715T7666719.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="103" lrx="542" lry="610" cx="289" cy="357" r="254" rotate="0"/>
+  <desc type="modified">2026-04-30T20:29:00.259Z</desc>
+</surface>

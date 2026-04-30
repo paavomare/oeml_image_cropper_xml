@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3d0bba7f-0bfb-4d31-b8a8-0c3c8df24701" n="marinelli-karl-von">
+  <desc type="filename">Marinelli_Karl_von.xml</desc>
+  <graphic url="bildarchivaustria/835_B8410819T8410823.jpg" width="536" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="75" uly="102" lrx="464" lry="491" cx="270" cy="297" r="195" rotate="0"/>
+  <desc type="modified">2026-04-30T20:33:49.221Z</desc>
+</surface>

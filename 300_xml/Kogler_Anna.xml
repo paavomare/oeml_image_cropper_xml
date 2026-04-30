@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1444bd19-b1f8-4c4b-9138-13ffa9096dc1" n="kogler-anna">
+  <desc type="filename">Kogler_Anna.xml</desc>
+  <graphic url="Kogler_Anna.jpg" width="307" height="458">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="307" lry="328" cx="154" cy="175" r="154" rotate="0"/>
+  <desc type="modified">2026-04-30T20:55:30.288Z</desc>
+</surface>

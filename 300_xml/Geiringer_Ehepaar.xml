@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c01668cf-d511-4252-871c-167ff4e73196" n="geiringer-ehepaar">
+  <desc type="filename">Geiringer_Ehepaar.xml</desc>
+  <graphic url="Geiringer_Gustav.JPG" width="491" height="676">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="40" lrx="491" lry="531" cx="246" cy="286" r="246" rotate="0"/>
+  <desc type="modified">2026-04-30T20:46:23.906Z</desc>
+</surface>

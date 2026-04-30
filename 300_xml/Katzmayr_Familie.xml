@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5474d935-85e5-40e5-8761-d084a95fa751" n="katzmayr-familie">
+  <desc type="filename">Katzmayr_Familie.xml</desc>
+  <graphic url="Katzmayr_Hermine.jpg" width="898" height="938">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="898" lry="911" cx="449" cy="462" r="449" rotate="0"/>
+  <desc type="modified">2026-04-30T20:20:08.709Z</desc>
+</surface>

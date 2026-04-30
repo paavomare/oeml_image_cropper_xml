@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_756da272-b5d5-4ca4-9b05-f25713d5b106" n="ploner-josef-eduard">
+  <desc type="filename">Ploner_Josef_Eduard.xml</desc>
+  <graphic url="Ploner_Josef_Eduard.jpg" width="589" height="495">
+  </graphic>
+  <zone type="medallionCrop" ulx="70" uly="0" lrx="565" lry="495" cx="318" cy="248" r="248" rotate="0"/>
+  <desc type="modified">2026-04-30T20:57:19.013Z</desc>
+</surface>

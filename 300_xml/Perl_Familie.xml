@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b593678b-018f-430e-9196-25f537ba3716" n="perl-familie">
+  <desc type="filename">Perl_Familie.xml</desc>
+  <graphic url="Perl_Carl.jpg" width="628" height="868">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="628" lry="644" cx="314" cy="330" r="314" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:02.715Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e501a108-1a76-47bf-a3bf-3c294d8833e5" n="austria-romana">
+  <desc type="filename">Austria_Romana.xml</desc>
+  <graphic url="Austria_Romana_1.jpg" width="526" height="1134">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="526" lry="544" cx="263" cy="281" r="263" rotate="0"/>
+  <desc type="modified">2026-04-30T18:55:36.015Z</desc>
+</surface>

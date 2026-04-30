@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_90197bb9-649d-4dd6-b483-bee6fee37056" n="iro-otto">
+  <desc type="filename">Iro_Otto.xml</desc>
+  <graphic url="Iro_Otto_1934.jpg" width="340" height="350">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="340" lry="341" cx="170" cy="171" r="170" rotate="0"/>
+  <desc type="modified">2026-04-30T20:13:52.334Z</desc>
+</surface>

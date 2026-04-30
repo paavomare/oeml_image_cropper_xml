@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ce38caf-4b57-48d8-a827-582131a02000" n="wehle-carl">
+  <desc type="filename">Wehle_Carl.xml</desc>
+  <graphic url="Wehle_Carl.jpg" width="456" height="604">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="18" lrx="456" lry="474" cx="228" cy="246" r="228" rotate="0"/>
+  <desc type="modified">2026-04-30T18:37:30.729Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8885fb51-0ea2-4b29-9648-f853dcf97733" n="nouseul-ehepaar">
+  <desc type="filename">Nouseul_Ehepaar.xml</desc>
+  <graphic url="Nouseul_Rosalia.jpg" width="929" height="1480">
+  </graphic>
+  <zone type="medallionCrop" ulx="85" uly="147" lrx="850" lry="912" cx="468" cy="530" r="383" rotate="0"/>
+  <desc type="modified">2026-04-30T18:56:58.224Z</desc>
+</surface>

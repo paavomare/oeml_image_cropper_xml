@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ec558776-08fa-46c8-a48b-18ed1d29a37f" n="schabata-woody">
+  <desc type="filename">Schabata_Woody.xml</desc>
+  <graphic url="Schabata_Woody_2007.jpg" width="768" height="512">
+  </graphic>
+  <zone type="medallionCrop" ulx="67" uly="0" lrx="579" lry="512" cx="323" cy="256" r="256" rotate="0"/>
+  <desc type="modified">2026-04-30T19:56:04.491Z</desc>
+</surface>

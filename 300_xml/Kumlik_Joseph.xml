@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0424b12a-25aa-4b9d-9ad8-b65dd8988b6a" n="kumlik-joseph">
+  <desc type="filename">Kumlik_Joseph.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243535T9243540.jpg" width="568" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="157" lrx="526" lry="646" cx="281" cy="402" r="245" rotate="0"/>
+  <desc type="modified">2026-04-30T18:29:53.560Z</desc>
+</surface>

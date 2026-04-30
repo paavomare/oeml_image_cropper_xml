@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_457ee589-9416-4e0d-bbbc-d741cfe51ba0" n="gyra-familie">
+  <desc type="filename">Gyra_Familie.xml</desc>
+  <graphic url="Gyra_Josef.jpg" width="916" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="11" lrx="880" lry="826" cx="473" cy="419" r="408" rotate="0"/>
+  <desc type="modified">2026-04-30T18:30:49.771Z</desc>
+</surface>

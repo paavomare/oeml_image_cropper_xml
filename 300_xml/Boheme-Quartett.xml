@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_475f602c-f37d-4c2b-91fc-79b3a57b19e5" n="boheme-quartett">
+  <desc type="filename">Boheme-Quartett.xml</desc>
+  <graphic url="Boheme_Quartett.jpg" width="567" height="439">
+  </graphic>
+  <zone type="medallionCrop" ulx="97" uly="0" lrx="536" lry="439" cx="317" cy="220" r="220" rotate="0"/>
+  <desc type="modified">2026-04-30T20:38:31.225Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_30bf7c5c-accc-4745-891d-480f3e7b71a1" n="trixner-heimo">
+  <desc type="filename">Trixner_Heimo.xml</desc>
+  <graphic url="Trixner_Heimo.jpg" width="734" height="1100">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="65" lrx="734" lry="799" cx="367" cy="432" r="367" rotate="0"/>
+  <desc type="modified">2026-04-30T19:48:31.833Z</desc>
+</surface>

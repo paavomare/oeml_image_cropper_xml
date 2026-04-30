@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0be294d1-fc19-4c89-9476-262b0ddd6af0" n="kreuder-peter">
+  <desc type="filename">Kreuder_Peter.xml</desc>
+  <graphic url="Kreuder_Peter.jpg" width="675" height="904">
+  </graphic>
+  <zone type="medallionCrop" ulx="58" uly="45" lrx="627" lry="615" cx="343" cy="330" r="285" rotate="0"/>
+  <desc type="modified">2026-04-30T20:17:07.598Z</desc>
+</surface>

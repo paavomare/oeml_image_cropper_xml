@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8bfbcbaa-ee8d-4d7a-b618-3a0438ef7702" n="cerri-caecilie">
+  <desc type="filename">Cerri_Caecilie.xml</desc>
+  <graphic url="Cerri_Caecilie_mit_Hund.jpg" width="276" height="218">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="218" lry="218" cx="109" cy="109" r="109" rotate="0"/>
+  <desc type="modified">2026-04-30T20:23:23.178Z</desc>
+</surface>

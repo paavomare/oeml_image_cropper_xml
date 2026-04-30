@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dfe20684-ee2d-4e82-97d7-e362b8d98347" n="namtchylak-sainkho">
+  <desc type="filename">Namtchylak_Sainkho.xml</desc>
+  <graphic url="Namtchylak_Sainkho_2022.jpg" width="659" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="53" uly="178" lrx="403" lry="527" cx="228" cy="353" r="175" rotate="0"/>
+  <desc type="modified">2026-04-30T19:12:47.975Z</desc>
+</surface>

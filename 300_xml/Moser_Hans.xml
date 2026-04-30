@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1c442eca-7d3b-456e-aff5-0de039f9fcb8" n="moser-hans">
+  <desc type="filename">Moser_Hans.xml</desc>
+  <graphic url="bildarchivaustria/744_B8077187T8077191.jpg" width="536" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="123" lrx="497" lry="555" cx="281" cy="339" r="216" rotate="0"/>
+  <desc type="modified">2026-04-30T20:47:16.421Z</desc>
+</surface>

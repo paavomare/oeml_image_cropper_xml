@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e9a9bd40-2461-4406-8958-58c5df5aaadb" n="koehler-luise">
+  <desc type="filename">Koehler_Luise.xml</desc>
+  <graphic url="Koehler_Luise.jpg" width="375" height="377">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="22" lrx="358" lry="365" cx="187" cy="194" r="172" rotate="0"/>
+  <desc type="modified">2026-04-30T18:56:48.453Z</desc>
+</surface>

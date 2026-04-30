@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bcc5d08d-8452-4e70-9ed1-7c3b974da507" n="doerr-familie">
+  <desc type="filename">Doerr_Familie.xml</desc>
+  <graphic url="Doerr_Wilhelm_II_1880.jpg" width="848" height="890">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="848" lry="854" cx="424" cy="430" r="424" rotate="0"/>
+  <desc type="modified">2026-04-30T19:05:43.362Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3df143dc-4479-4a66-ae61-cbf562926dff" n="schenk-johann-baptist">
+  <desc type="filename">Schenk_Johann_Baptist.xml</desc>
+  <graphic url="Schenk_Johann.jpg" width="714" height="942">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="57" lrx="714" lry="771" cx="357" cy="414" r="357" rotate="0"/>
+  <desc type="modified">2026-04-30T18:31:34.151Z</desc>
+</surface>

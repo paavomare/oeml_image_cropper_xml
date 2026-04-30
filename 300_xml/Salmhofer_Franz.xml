@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_24122197-81cd-487e-9e03-e5d7667df03f" n="salmhofer-franz">
+  <desc type="filename">Salmhofer_Franz.xml</desc>
+  <graphic url="Salmhofer_Franz.jpg" width="425" height="496">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="425" lry="425" cx="213" cy="213" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T20:19:09.048Z</desc>
+</surface>

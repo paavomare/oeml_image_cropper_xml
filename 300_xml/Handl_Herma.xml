@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2e47e742-831b-41e2-81f4-58ba0ab101ca" n="handl-herma">
+  <desc type="filename">Handl_Herma.xml</desc>
+  <graphic url="bildarchivaustria/71_B659526T1798299.jpg" width="629" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="9" uly="84" lrx="503" lry="578" cx="256" cy="331" r="247" rotate="0"/>
+  <desc type="modified">2026-04-30T18:43:13.976Z</desc>
+</surface>

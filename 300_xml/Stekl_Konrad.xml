@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f2b6055c-06ec-4692-8feb-071b8f033c51" n="stekl-konrad">
+  <desc type="filename">Stekl_Konrad.xml</desc>
+  <graphic url="Stekl.jpg" width="420" height="617">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="420" lry="452" cx="210" cy="242" r="210" rotate="0"/>
+  <desc type="modified">2026-04-30T20:59:01.096Z</desc>
+</surface>

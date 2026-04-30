@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2a2b271b-cc58-4f2e-a212-f8579a988693" n="koschat-thomas">
+  <desc type="filename">Koschat_Thomas.xml</desc>
+  <graphic url="bildarchivaustria/117_B3550462T3550466.jpg" width="544" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="32" uly="89" lrx="500" lry="558" cx="266" cy="323" r="234" rotate="0"/>
+  <desc type="modified">2026-04-30T20:31:43.313Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_01d2f64e-32c1-40ba-9bd6-c5a8ca09219a" n="kalkbrenner-friedrich">
+  <desc type="filename">Kalkbrenner_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9242934T9242939.jpg" width="599" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="46" uly="83" lrx="539" lry="576" cx="293" cy="330" r="247" rotate="0"/>
+  <desc type="modified">2026-04-30T19:22:12.466Z</desc>
+</surface>

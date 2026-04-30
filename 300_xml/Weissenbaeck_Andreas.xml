@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_614e6fa6-73ed-46e3-8215-576653beeb40" n="weissenbaeck-andreas">
+  <desc type="filename">Weissenbaeck_Andreas.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450318T10450323.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="36" uly="85" lrx="497" lry="545" cx="267" cy="316" r="231" rotate="0"/>
+  <desc type="modified">2026-04-30T20:21:09.355Z</desc>
+</surface>

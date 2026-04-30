@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f7edea20-ebf8-41d7-8016-2e24e5ea186b" n="studentenlied">
+  <desc type="filename">Studentenlied.xml</desc>
+  <graphic url="Studentenlieder.jpg" width="388" height="513">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="32" lrx="388" lry="420" cx="194" cy="226" r="194" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:16.409Z</desc>
+</surface>

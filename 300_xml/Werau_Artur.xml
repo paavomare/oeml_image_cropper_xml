@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_57845808-1d04-47eb-b716-a5a2af38e90f" n="werau-artur">
+  <desc type="filename">Werau_Artur.xml</desc>
+  <graphic url="Werau_Artur.jpg" width="312" height="358">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="4" lrx="305" lry="293" cx="161" cy="148" r="144" rotate="0"/>
+  <desc type="modified">2026-04-30T19:01:47.512Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b5072613-a6a8-4ec8-873c-2176c37c7fe4" n="raffay-isabella">
+  <desc type="filename">Raffay_Isabella.xml</desc>
+  <graphic url="Raffay_Isabella_1893.jpg" width="494" height="748">
+  </graphic>
+  <zone type="medallionCrop" ulx="19" uly="32" lrx="463" lry="476" cx="241" cy="254" r="222" rotate="0"/>
+  <desc type="modified">2026-04-30T19:58:08.710Z</desc>
+</surface>

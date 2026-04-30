@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_397bab42-e810-4961-82a4-e67e61df17d0" n="mozart-familie-franz-xaver">
+  <desc type="filename">Mozart_Familie_FRANZ_XAVER.xml</desc>
+  <graphic url="bildarchivaustria/101_B3492035T3492039.jpg" width="631" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="92" uly="104" lrx="539" lry="551" cx="316" cy="328" r="224" rotate="0"/>
+  <desc type="modified">2026-04-30T18:32:32.947Z</desc>
+</surface>

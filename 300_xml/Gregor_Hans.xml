@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dd95eb95-43b2-4194-b563-4eca5021ea41" n="gregor-hans">
+  <desc type="filename">Gregor_Hans.xml</desc>
+  <graphic url="bildarchivaustria/BA_903_B10029779T10029784.jpg" width="555" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="555" lry="589" cx="278" cy="312" r="278" rotate="0"/>
+  <desc type="modified">2026-04-30T20:50:16.629Z</desc>
+</surface>

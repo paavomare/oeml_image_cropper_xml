@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_149ca3d7-391c-4c39-b04f-76a84f5b8fed" n="denisova-elena">
+  <desc type="filename">Denisova_Elena.xml</desc>
+  <graphic url="Denisova_Elena.jpg" width="644" height="783">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="129" lrx="644" lry="773" cx="322" cy="451" r="322" rotate="0"/>
+  <desc type="modified">2026-04-30T20:39:38.564Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_81f2d859-862d-4e4e-a408-d989bb943c38" n="monticelli-angelo">
+  <desc type="filename">Monticelli_Angelo.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9256288T9256293.jpg" width="545" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="38" uly="110" lrx="507" lry="580" cx="273" cy="345" r="235" rotate="0"/>
+  <desc type="modified">2026-04-30T20:55:58.553Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_005b5442-20af-4906-b88f-0e9812337282" n="brahms-johannes">
+  <desc type="filename">Brahms_Johannes.xml</desc>
+  <graphic url="bildarchivaustria/3_B1208657T1208661.jpg" width="654" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="54" uly="103" lrx="606" lry="654" cx="330" cy="379" r="276" rotate="0"/>
+  <desc type="modified">2026-04-30T19:07:44.067Z</desc>
+</surface>

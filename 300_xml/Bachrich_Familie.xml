@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7462b3ae-4f7b-4801-b39f-a079b6eac0d6" n="bachrich-familie">
+  <desc type="filename">Bachrich_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9818936T9818941.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="98" lrx="504" lry="536" cx="285" cy="318" r="220" rotate="0"/>
+  <desc type="modified">2026-04-30T20:05:45.054Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_63ff685a-f607-4f6a-9c0c-72a3a84a5a9d" n="girardi-alexander">
+  <desc type="filename">Girardi_Alexander.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9801955T9801960.jpg" width="588" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="588" lry="618" cx="294" cy="324" r="294" rotate="0"/>
+  <desc type="modified">2026-04-30T20:57:00.527Z</desc>
+</surface>

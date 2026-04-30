@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6535c9b2-d27c-49b6-89c6-aabf11b022ca" n="henriquez-arthur-von">
+  <desc type="filename">Henriquez_Arthur_von.xml</desc>
+  <graphic url="Henriquez_Arthur.jpg" width="474" height="589">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="46" lrx="466" lry="490" cx="244" cy="269" r="223" rotate="0"/>
+  <desc type="modified">2026-04-30T19:08:50.409Z</desc>
+</surface>

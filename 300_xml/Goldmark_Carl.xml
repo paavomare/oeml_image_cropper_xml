@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_837687d4-e7fe-48bd-b3e6-f2e96ee11a5d" n="goldmark-carl">
+  <desc type="filename">Goldmark_Carl.xml</desc>
+  <graphic url="Goldmark_Carl.jpg" width="501" height="755">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="50" lrx="501" lry="551" cx="251" cy="301" r="251" rotate="0"/>
+  <desc type="modified">2026-04-30T19:19:51.939Z</desc>
+</surface>

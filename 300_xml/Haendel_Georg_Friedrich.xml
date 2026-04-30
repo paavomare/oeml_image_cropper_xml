@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d0c3363f-1b3a-4535-a025-0ef5d93213ff" n="haendel-georg-friedrich">
+  <desc type="filename">Haendel_Georg_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/100_B3490929T3490933.jpg" width="594" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="28" uly="45" lrx="569" lry="586" cx="299" cy="316" r="271" rotate="0"/>
+  <desc type="modified">2026-04-30T19:58:18.627Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f2cc271e-0ce6-4a94-ba45-aa92b936abe0" n="rose-familie">
+  <desc type="filename">Rose_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_938_B12992106T12992111.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="578" lry="584" cx="289" cy="295" r="289" rotate="0"/>
+  <desc type="modified">2026-04-30T19:23:19.688Z</desc>
+</surface>

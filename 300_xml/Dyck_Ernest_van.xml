@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6e65f4db-dc8f-4493-bf6f-cee73cf02ee2" n="dyck-ernest-van">
+  <desc type="filename">Dyck_Ernest_van.xml</desc>
+  <graphic url="Chevalier_1896.jpg" width="2235" height="1931">
+  </graphic>
+  <zone type="medallionCrop" ulx="1040" uly="344" lrx="1580" lry="884" cx="1310" cy="614" r="270" rotate="0"/>
+  <desc type="modified">2026-04-30T18:45:17.697Z</desc>
+</surface>

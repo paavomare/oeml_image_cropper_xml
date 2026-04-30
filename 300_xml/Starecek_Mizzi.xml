@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_af387132-39ff-48b2-96f2-6744b80f3c4f" n="starecek-mizzi">
+  <desc type="filename">Starecek_Mizzi.xml</desc>
+  <graphic url="Starecek_Mizzi_Hafenrichter.jpg" width="709" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="3" lrx="709" lry="712" cx="355" cy="358" r="355" rotate="0"/>
+  <desc type="modified">2026-04-30T20:28:22.605Z</desc>
+</surface>

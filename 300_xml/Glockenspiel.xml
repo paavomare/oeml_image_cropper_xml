@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_140ceec1-f64a-47de-ba24-323a2ce5193e" n="glockenspiel">
+  <desc type="filename">Glockenspiel.xml</desc>
+  <graphic url="Glockenspiel.jpg" width="510" height="748">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="56" lrx="510" lry="566" cx="255" cy="311" r="255" rotate="0"/>
+  <desc type="modified">2026-04-30T20:41:59.841Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d78b76c2-2498-4e6e-b33c-199805d2f9d8" n="archive-und-bibliotheken-wien">
+  <desc type="filename">Archive_und_Bibliotheken_WIEN.xml</desc>
+  <graphic url="Photogrammarchiv_1936.jpg" width="1125" height="1051">
+  </graphic>
+  <zone type="medallionCrop" ulx="210" uly="0" lrx="1084" lry="874" cx="647" cy="437" r="437" rotate="0"/>
+  <desc type="modified">2026-04-30T19:03:42.259Z</desc>
+</surface>

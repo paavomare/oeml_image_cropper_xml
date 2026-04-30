@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dd15b6c3-c58b-48d1-aa33-315ee94c26cc" n="straus-familie">
+  <desc type="filename">Straus_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_913_B10828810T10828815.jpg" width="502" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="61" lrx="308" lry="368" cx="154" cy="215" r="154" rotate="0"/>
+  <desc type="modified">2026-04-30T18:42:25.764Z</desc>
+</surface>

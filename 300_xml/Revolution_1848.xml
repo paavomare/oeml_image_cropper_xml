@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a170008e-2cca-40c0-94ea-e114bb927e65" n="revolution-1848">
+  <desc type="filename">Revolution_1848.xml</desc>
+  <graphic url="Revolution_Karikatur.jpg" width="787" height="997">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="787" lry="787" cx="394" cy="394" r="394" rotate="0"/>
+  <desc type="modified">2026-04-30T20:28:41.499Z</desc>
+</surface>

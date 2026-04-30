@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_18cd13e5-deb1-487d-8031-3ebb519b32f2" n="koller-martin">
+  <desc type="filename">Koller_Martin.xml</desc>
+  <graphic url="Koller_Martin.jpg" width="1100" height="734">
+  </graphic>
+  <zone type="medallionCrop" ulx="118" uly="0" lrx="852" lry="734" cx="485" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-04-30T20:58:41.197Z</desc>
+</surface>

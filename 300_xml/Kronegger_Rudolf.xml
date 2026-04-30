@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ee2d7239-a00d-4eae-a5d4-4c7c183e25e6" n="kronegger-rudolf">
+  <desc type="filename">Kronegger_Rudolf.xml</desc>
+  <graphic url="kronegger_rudolf.jpg" width="374" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="20" uly="15" lrx="347" lry="341" cx="184" cy="179" r="164" rotate="0"/>
+  <desc type="modified">2026-04-30T20:22:40.041Z</desc>
+</surface>

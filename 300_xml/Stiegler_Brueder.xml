@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fb962050-c524-4b72-852d-2b03e18a23f8" n="stiegler-brueder">
+  <desc type="filename">Stiegler_Brueder.xml</desc>
+  <graphic url="Stiegler-Quartett.jpg" width="1203" height="816">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="163" lrx="332" lry="478" cx="174" cy="321" r="158" rotate="0"/>
+  <desc type="modified">2026-04-30T19:02:45.204Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e9ab5f4e-2a24-427e-98b8-c6ded054c0a6" n="guttmann-familie">
+  <desc type="filename">Guttmann_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_967_B14648994T14648999.jpg" width="579" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="88" uly="115" lrx="488" lry="516" cx="288" cy="315" r="200" rotate="0"/>
+  <desc type="modified">2026-04-30T18:39:02.126Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6b9cc17e-a311-44ce-9443-90d5096a1d5d" n="monte-philippe-de">
+  <desc type="filename">Monte_Philippe_de.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9236005T9236010.jpg" width="607" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="81" uly="94" lrx="541" lry="554" cx="311" cy="324" r="230" rotate="0"/>
+  <desc type="modified">2026-04-30T20:56:27.390Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_af400c52-1389-4914-9993-b3d8d2cdd1fe" n="farkas-karl">
+  <desc type="filename">Farkas_Karl.xml</desc>
+  <graphic url="Farkas_1965.jpg" width="606" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="103" lrx="579" lry="658" cx="302" cy="380" r="277" rotate="0"/>
+  <desc type="modified">2026-04-30T18:43:05.459Z</desc>
+</surface>

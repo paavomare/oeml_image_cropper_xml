@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c39f826f-59b4-4a76-9a64-eb35a8501e15" n="haindl-josef">
+  <desc type="filename">Haindl_Josef.xml</desc>
+  <graphic url="Haindl_Josef.jpg" width="227" height="364">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="227" lry="236" cx="114" cy="123" r="114" rotate="0"/>
+  <desc type="modified">2026-04-30T19:00:20.260Z</desc>
+</surface>

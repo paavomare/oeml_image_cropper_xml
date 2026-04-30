@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4aac4a54-c34c-4b3f-ac1a-7b9c87d49f57" n="brunflicker-franz">
+  <desc type="filename">Brunflicker_Franz.xml</desc>
+  <graphic url="Brunflicker_Franz.jpg" width="565" height="762">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="53" lrx="565" lry="618" cx="283" cy="336" r="283" rotate="0"/>
+  <desc type="modified">2026-04-30T20:39:08.791Z</desc>
+</surface>

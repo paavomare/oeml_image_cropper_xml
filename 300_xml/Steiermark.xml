@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bc88402c-bcd4-4fba-bfdf-85e02b181cfe" n="steiermark">
+  <desc type="filename">Steiermark.xml</desc>
+  <graphic url="Steiermark_2.jpg" width="424" height="472">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="424" lry="424" cx="212" cy="212" r="212" rotate="0"/>
+  <desc type="modified">2026-04-30T18:24:45.022Z</desc>
+</surface>

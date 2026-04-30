@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_498e027f-4d29-439a-88cb-2f72227e1ad4" n="bahr-hermann">
+  <desc type="filename">Bahr_Hermann.xml</desc>
+  <graphic url="bildarchivaustria/89_B307026T1831306.jpg" width="558" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="165" uly="62" lrx="558" lry="455" cx="362" cy="259" r="197" rotate="0"/>
+  <desc type="modified">2026-04-30T20:42:17.023Z</desc>
+</surface>

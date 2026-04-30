@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f2cd1ba7-2363-4b5d-9669-e2511307964e" n="leithner-eduard">
+  <desc type="filename">Leithner_Eduard.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243493T9243498.jpg" width="607" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="111" uly="170" lrx="477" lry="536" cx="294" cy="353" r="183" rotate="0"/>
+  <desc type="modified">2026-04-30T19:51:08.530Z</desc>
+</surface>

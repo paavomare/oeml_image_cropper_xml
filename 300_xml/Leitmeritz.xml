@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_046a1d17-0424-42ef-b1c1-bcb0be6201ee" n="leitmeritz">
+  <desc type="filename">Leitmeritz.xml</desc>
+  <graphic url="Leitmeritz_Ringplatz1916.jpg" width="800" height="506">
+  </graphic>
+  <zone type="medallionCrop" ulx="192" uly="23" lrx="654" lry="484" cx="423" cy="254" r="231" rotate="0"/>
+  <desc type="modified">2026-04-30T18:44:13.504Z</desc>
+</surface>

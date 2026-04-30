@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8b2d8c66-7a61-4650-b060-aeb45b189edd" n="krenek-ernst">
+  <desc type="filename">Krenek_Ernst.xml</desc>
+  <graphic url="Krenek_1954.jpg" width="525" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="73" lrx="497" lry="536" cx="266" cy="305" r="232" rotate="0"/>
+  <desc type="modified">2026-04-30T18:57:22.562Z</desc>
+</surface>

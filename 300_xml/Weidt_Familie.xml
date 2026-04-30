@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e39f376-04d6-4e39-938e-165820af93ba" n="weidt-familie">
+  <desc type="filename">Weidt_Familie.xml</desc>
+  <graphic url="Weidt-Eichoff.jpg" width="439" height="605">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="21" lrx="439" lry="445" cx="228" cy="233" r="212" rotate="0"/>
+  <desc type="modified">2026-04-30T20:52:57.582Z</desc>
+</surface>

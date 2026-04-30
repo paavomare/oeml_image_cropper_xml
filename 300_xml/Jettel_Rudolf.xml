@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b9f32387-ac89-4af9-bfe6-55cd757eb157" n="jettel-rudolf">
+  <desc type="filename">Jettel_Rudolf.xml</desc>
+  <graphic url="Jettel_Rudolf.jpg" width="368" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="74" lrx="350" lry="407" cx="183" cy="241" r="167" rotate="0"/>
+  <desc type="modified">2026-04-30T18:45:34.542Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_213eff0a-cfec-4b22-851e-d15e54228050" n="grossmann-familie">
+  <desc type="filename">Grossmann_Familie.xml</desc>
+  <graphic url="Grossmann_Ferdinand.jpg" width="339" height="483">
+  </graphic>
+  <zone type="medallionCrop" ulx="20" uly="18" lrx="304" lry="303" cx="162" cy="160" r="142" rotate="0"/>
+  <desc type="modified">2026-04-30T19:49:26.099Z</desc>
+</surface>

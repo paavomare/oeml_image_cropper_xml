@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_06652e36-5605-429f-a6f8-d1c58ae34cd2" n="schamann-anton">
+  <desc type="filename">Schamann_Anton.xml</desc>
+  <graphic url="Schamann_Anton.jpg" width="329" height="415">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="329" lry="350" cx="165" cy="186" r="165" rotate="0"/>
+  <desc type="modified">2026-04-30T20:33:00.495Z</desc>
+</surface>

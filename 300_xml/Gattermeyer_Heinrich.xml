@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_244fbede-2d24-40c4-852d-87fb329be2bc" n="gattermeyer-heinrich">
+  <desc type="filename">Gattermeyer_Heinrich.xml</desc>
+  <graphic url="gattermeyer_heinrich.jpg" width="530" height="331">
+  </graphic>
+  <zone type="medallionCrop" ulx="131" uly="22" lrx="440" lry="331" cx="286" cy="177" r="155" rotate="0"/>
+  <desc type="modified">2026-04-30T19:48:27.898Z</desc>
+</surface>

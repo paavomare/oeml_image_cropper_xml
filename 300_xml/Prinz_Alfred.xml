@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6d2fa6b4-a3aa-49d7-bd80-ca82b68aa192" n="prinz-alfred">
+  <desc type="filename">Prinz_Alfred.xml</desc>
+  <graphic url="Prinz_Alfred_1.jpg" width="600" height="783">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="600" lry="613" cx="300" cy="313" r="300" rotate="0"/>
+  <desc type="modified">2026-04-30T20:58:50.597Z</desc>
+</surface>

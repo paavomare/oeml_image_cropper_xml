@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_68b632bd-ede4-4011-8245-cb5719b29823" n="xaenorphica">
+  <desc type="filename">Xaenorphica.xml</desc>
+  <graphic url="Xaenorphica.jpg" width="172" height="236">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="172" lry="203" cx="86" cy="117" r="86" rotate="0"/>
+  <desc type="modified">2026-04-30T20:20:26.484Z</desc>
+</surface>

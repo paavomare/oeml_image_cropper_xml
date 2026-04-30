@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0e6947e7-054d-4b32-88dc-6a9a28882c55" n="hasselt-barth-wilhelmine">
+  <desc type="filename">Hasselt-Barth_Wilhelmine.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9276178T9276183.jpg" width="558" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="120" lrx="529" lry="620" cx="279" cy="370" r="250" rotate="0"/>
+  <desc type="modified">2026-04-30T20:34:11.794Z</desc>
+</surface>

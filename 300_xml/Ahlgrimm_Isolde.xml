@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7d89e9c2-5dbc-42be-8271-9471f19bdabc" n="ahlgrimm-isolde">
+  <desc type="filename">Ahlgrimm_Isolde.xml</desc>
+  <graphic url="Ahlgrimm.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="123" uly="55" lrx="680" lry="613" cx="402" cy="334" r="279" rotate="0"/>
+  <desc type="modified">2026-04-30T18:32:42.902Z</desc>
+</surface>

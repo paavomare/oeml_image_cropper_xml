@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bdabbdff-860e-4482-a80b-243a86ef6cca" n="amade-von-varkony-thaddaeus">
+  <desc type="filename">Amade_von_Varkony_Thaddaeus.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9245313T9245318.jpg" width="619" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="153" lrx="550" lry="612" cx="321" cy="383" r="230" rotate="0"/>
+  <desc type="modified">2026-04-30T20:53:50.817Z</desc>
+</surface>

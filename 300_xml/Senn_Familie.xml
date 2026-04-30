@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9d8a6dd9-f396-440c-b19c-0a71c4663120" n="senn-familie">
+  <desc type="filename">Senn_Familie.xml</desc>
+  <graphic url="Senn_Karl.jpg" width="357" height="542">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="26" lrx="357" lry="383" cx="179" cy="205" r="179" rotate="0"/>
+  <desc type="modified">2026-04-30T20:26:19.975Z</desc>
+</surface>

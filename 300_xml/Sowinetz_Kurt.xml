@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_05c0b853-438f-47a4-88d1-2838ac1eb050" n="sowinetz-kurt">
+  <desc type="filename">Sowinetz_Kurt.xml</desc>
+  <graphic url="Sowinetz_1953.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="198" lrx="234" lry="396" cx="135" cy="298" r="100" rotate="0"/>
+  <desc type="modified">2026-04-30T20:26:52.149Z</desc>
+</surface>

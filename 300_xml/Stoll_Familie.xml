@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a7dda30c-5b1a-4db1-b59a-5535e5a65785" n="stoll-familie">
+  <desc type="filename">Stoll_Familie.xml</desc>
+  <graphic url="Stoll_Gisela.jpg" width="752" height="817">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="7" lrx="752" lry="759" cx="376" cy="383" r="376" rotate="0"/>
+  <desc type="modified">2026-04-30T20:32:52.096Z</desc>
+</surface>

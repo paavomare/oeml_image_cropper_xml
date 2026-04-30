@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_750c9f7e-0d89-4f4a-b819-1cb41b5c7aca" n="knebelsberger-familie">
+  <desc type="filename">Knebelsberger_Familie.xml</desc>
+  <graphic url="Knebelsberger_Paul.jpg" width="551" height="382">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="0" lrx="429" lry="382" cx="238" cy="191" r="191" rotate="0"/>
+  <desc type="modified">2026-04-30T18:30:35.372Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_625d9bc9-f7fc-45f9-b03d-095b7af38b06" n="schuppanzigh-ignaz">
+  <desc type="filename">Schuppanzigh_Ignaz.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9238183T9238188.jpg" width="607" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="56" uly="71" lrx="531" lry="545" cx="294" cy="309" r="238" rotate="0"/>
+  <desc type="modified">2026-04-30T20:41:09.831Z</desc>
+</surface>

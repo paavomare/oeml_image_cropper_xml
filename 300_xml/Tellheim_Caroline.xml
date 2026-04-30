@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d7cafac8-7cee-4341-9cfb-f94c70b9bcb1" n="tellheim-caroline">
+  <desc type="filename">Tellheim_Caroline.xml</desc>
+  <graphic url="Tellheim_Karoline.jpg" width="720" height="1015">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="148" lrx="720" lry="868" cx="360" cy="508" r="360" rotate="0"/>
+  <desc type="modified">2026-04-30T18:59:58.183Z</desc>
+</surface>

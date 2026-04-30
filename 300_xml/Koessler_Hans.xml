@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7829269d-c9b3-412e-8315-ec786600987e" n="koessler-hans">
+  <desc type="filename">Koessler_Hans.xml</desc>
+  <graphic url="bildarchivaustria/126_B3590167T3590171.jpg" width="561" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="150" uly="257" lrx="408" lry="515" cx="279" cy="386" r="129" rotate="0"/>
+  <desc type="modified">2026-04-30T18:57:52.513Z</desc>
+</surface>

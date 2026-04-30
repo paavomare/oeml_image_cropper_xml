@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e95fd9de-21e9-4c5f-9699-529d5e3ee405" n="vajda-emil-von">
+  <desc type="filename">Vajda_Emil_von.xml</desc>
+  <graphic url="Vajda_Emil_von.jpg" width="327" height="403">
+  </graphic>
+  <zone type="medallionCrop" ulx="18" uly="22" lrx="311" lry="315" cx="165" cy="169" r="147" rotate="0"/>
+  <desc type="modified">2026-04-30T19:12:22.928Z</desc>
+</surface>

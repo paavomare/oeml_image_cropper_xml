@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8739a28c-23db-4f15-b0cd-740e597f7f56" n="marschner-heinrich">
+  <desc type="filename">Marschner_Heinrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9236734T9236739.jpg" width="541" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="77" uly="137" lrx="464" lry="524" cx="271" cy="331" r="194" rotate="0"/>
+  <desc type="modified">2026-04-30T19:50:21.709Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f75af699-9b6f-43df-a7b9-a55d5312312c" n="neurath-ehepaar">
+  <desc type="filename">Neurath_Ehepaar.xml</desc>
+  <graphic url="Neurath_Herbert.jpg" width="822" height="749">
+  </graphic>
+  <zone type="medallionCrop" ulx="29" uly="0" lrx="778" lry="749" cx="404" cy="375" r="375" rotate="0"/>
+  <desc type="modified">2026-04-30T20:46:55.177Z</desc>
+</surface>

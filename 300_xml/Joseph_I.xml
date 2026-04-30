@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_97162e22-4f9d-4cff-8465-15b0c25b5893" n="joseph-i">
+  <desc type="filename">Joseph_I.xml</desc>
+  <graphic url="bildarchivaustria/429_B4817717T4817721.jpg" width="594" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="80" uly="84" lrx="499" lry="503" cx="290" cy="294" r="210" rotate="0"/>
+  <desc type="modified">2026-04-30T19:51:00.937Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a023b2c7-9a9d-4c11-92cd-d070b89b10e7" n="karpath-ludwig">
+  <desc type="filename">Karpath_Ludwig.xml</desc>
+  <graphic url="bildarchivaustria/BA_927_B12427558T12427563.jpg" width="566" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="56" lrx="566" lry="622" cx="283" cy="339" r="283" rotate="0"/>
+  <desc type="modified">2026-04-30T18:34:03.880Z</desc>
+</surface>

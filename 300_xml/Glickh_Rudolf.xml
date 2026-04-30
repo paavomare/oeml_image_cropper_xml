@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_95309955-6d19-4d64-a1a4-e34a366577ca" n="glickh-rudolf">
+  <desc type="filename">Glickh_Rudolf.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9253685T9253690.jpg" width="523" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="187" lrx="432" lry="514" cx="268" cy="351" r="164" rotate="0"/>
+  <desc type="modified">2026-04-30T20:18:44.673Z</desc>
+</surface>

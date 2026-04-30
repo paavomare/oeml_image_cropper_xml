@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4bea281e-fa90-4e99-8ca7-2b38174f6cff" n="drdla-franz">
+  <desc type="filename">Drdla_Franz.xml</desc>
+  <graphic url="drdla_franz.jpg" width="356" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="89" lrx="336" lry="414" cx="174" cy="252" r="163" rotate="0"/>
+  <desc type="modified">2026-04-30T19:57:25.139Z</desc>
+</surface>

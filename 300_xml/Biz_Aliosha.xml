@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8d9f36c1-8d6e-4e33-8132-4a140254a52a" n="biz-aliosha">
+  <desc type="filename">Biz_Aliosha.xml</desc>
+  <graphic url="Biz_Aliosha_260524.jpg" width="720" height="843">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="3" lrx="697" lry="701" cx="349" cy="352" r="349" rotate="0"/>
+  <desc type="modified">2026-04-30T19:51:14.913Z</desc>
+</surface>

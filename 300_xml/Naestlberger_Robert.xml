@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_265289d5-fd89-4023-bc23-128de3fd0dcb" n="naestlberger-robert">
+  <desc type="filename">Naestlberger_Robert.xml</desc>
+  <graphic url="Naestlberger_Robert_1921.jpg" width="397" height="385">
+  </graphic>
+  <zone type="medallionCrop" ulx="6" uly="0" lrx="391" lry="385" cx="199" cy="193" r="193" rotate="0"/>
+  <desc type="modified">2026-04-30T19:23:46.648Z</desc>
+</surface>

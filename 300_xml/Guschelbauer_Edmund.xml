@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e1381286-1f7c-46c1-9249-f3bada64d715" n="guschelbauer-edmund">
+  <desc type="filename">Guschelbauer_Edmund.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9234838T9234843.jpg" width="480" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="91" lrx="442" lry="499" cx="239" cy="295" r="204" rotate="0"/>
+  <desc type="modified">2026-04-30T19:57:13.719Z</desc>
+</surface>

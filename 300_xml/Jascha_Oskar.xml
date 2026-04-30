@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3ae6716e-ac24-4689-aeef-8bebf2a46720" n="jascha-oskar">
+  <desc type="filename">Jascha_Oskar.xml</desc>
+  <graphic url="Jascha_Oscar_2.jpg" width="425" height="591">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="36" lrx="425" lry="461" cx="213" cy="249" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T19:21:54.552Z</desc>
+</surface>

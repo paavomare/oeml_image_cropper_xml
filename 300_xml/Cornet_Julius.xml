@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6a03cfb7-bc51-40f5-8e11-108513d8e2cb" n="cornet-julius">
+  <desc type="filename">Cornet_Julius.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9252414T9252419.jpg" width="609" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="225" lrx="521" lry="655" cx="306" cy="440" r="215" rotate="0"/>
+  <desc type="modified">2026-04-30T19:52:14.958Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_83fb35b2-5a0e-4597-a34a-7756078d0c52" n="szenkar-familie">
+  <desc type="filename">Szenkar_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10467489T10467494.jpg" width="600" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="44" lrx="600" lry="644" cx="300" cy="344" r="300" rotate="0"/>
+  <desc type="modified">2026-04-30T19:55:18.561Z</desc>
+</surface>

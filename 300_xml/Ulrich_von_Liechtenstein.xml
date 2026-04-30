@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_76d15b10-d41d-4009-990d-a1159a6eb918" n="ulrich-von-liechtenstein">
+  <desc type="filename">Ulrich_von_Liechtenstein.xml</desc>
+  <graphic url="Ulrich_Liechtenstein_cpg848_0469.jpg" width="1285" height="1924">
+  </graphic>
+  <zone type="medallionCrop" ulx="111" uly="216" lrx="1040" lry="1145" cx="576" cy="681" r="465" rotate="0"/>
+  <desc type="modified">2026-04-30T18:59:08.622Z</desc>
+</surface>

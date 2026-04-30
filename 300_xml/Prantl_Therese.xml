@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d9d43418-8494-4c30-a94d-836e51320963" n="prantl-therese">
+  <desc type="filename">Prantl_Therese.xml</desc>
+  <graphic url="Prantl_Therese.jpg" width="425" height="727">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="425" lry="425" cx="213" cy="213" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T19:02:03.435Z</desc>
+</surface>

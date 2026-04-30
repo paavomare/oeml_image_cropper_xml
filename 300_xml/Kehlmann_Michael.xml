@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_123769fa-b791-4125-a648-88e5509450a9" n="kehlmann-michael">
+  <desc type="filename">Kehlmann_Michael.xml</desc>
+  <graphic url="bildarchivaustria/BA_906_B10312692T10312697.jpg" width="518" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="53" uly="128" lrx="511" lry="586" cx="282" cy="357" r="229" rotate="0"/>
+  <desc type="modified">2026-04-30T20:02:53.089Z</desc>
+</surface>

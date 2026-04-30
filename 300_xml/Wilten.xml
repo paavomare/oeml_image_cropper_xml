@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3cdae110-7104-41e2-8b42-a142766472e9" n="wilten">
+  <desc type="filename">Wilten.xml</desc>
+  <graphic url="bildarchivaustria/BA_954_B13787490T13787495.jpg" width="800" height="533">
+  </graphic>
+  <zone type="medallionCrop" ulx="271" uly="202" lrx="562" lry="493" cx="417" cy="348" r="146" rotate="0"/>
+  <desc type="modified">2026-04-30T18:27:14.301Z</desc>
+</surface>

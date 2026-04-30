@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_503f77ad-c21b-46d5-a950-ddf1d3e3e869" n="hopp-familie">
+  <desc type="filename">Hopp_Familie.xml</desc>
+  <graphic url="Hopp_1885.jpg" width="322" height="408">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="8" lrx="322" lry="330" cx="161" cy="169" r="161" rotate="0"/>
+  <desc type="modified">2026-04-30T20:43:20.398Z</desc>
+</surface>

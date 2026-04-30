@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ccc9eb57-c8eb-4c42-b3cb-aa1ad45064e0" n="krbavac-karl">
+  <desc type="filename">Krbavac_Karl.xml</desc>
+  <graphic url="Krbavac_Karl_2025.jpg" width="538" height="853">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="63" lrx="538" lry="601" cx="269" cy="332" r="269" rotate="0"/>
+  <desc type="modified">2026-04-30T20:46:16.342Z</desc>
+</surface>

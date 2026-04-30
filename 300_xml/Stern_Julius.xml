@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1f768bc0-ecbd-4ad2-93ca-c7dd4f5d9b67" n="stern-julius">
+  <desc type="filename">Stern_Julius.xml</desc>
+  <graphic url="stern_julius.jpg" width="461" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="1" lrx="461" lry="462" cx="231" cy="232" r="231" rotate="0"/>
+  <desc type="modified">2026-04-30T20:55:27.522Z</desc>
+</surface>

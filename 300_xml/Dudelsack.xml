@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_22247266-8e1a-4dae-82b9-7711c237f59c" n="dudelsack">
+  <desc type="filename">Dudelsack.xml</desc>
+  <graphic url="Sackpfeifer-Igler_KaB.jpg" width="1598" height="2373">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="91" lrx="1483" lry="1575" cx="742" cy="833" r="742" rotate="0"/>
+  <desc type="modified">2026-04-30T20:47:31.107Z</desc>
+</surface>

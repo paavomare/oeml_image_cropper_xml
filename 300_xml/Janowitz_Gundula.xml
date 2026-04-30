@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8d2f7f0d-7d26-46a4-abf7-8b129b604860" n="janowitz-gundula">
+  <desc type="filename">Janowitz_Gundula.xml</desc>
+  <graphic url="bildarchivaustria/693_B7817812T7817816.jpg" width="624" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="40" lrx="624" lry="664" cx="312" cy="352" r="312" rotate="0"/>
+  <desc type="modified">2026-04-30T18:33:58.784Z</desc>
+</surface>

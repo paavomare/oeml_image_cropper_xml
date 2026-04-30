@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1134462f-f6cf-4d6e-8d7a-98a4f9b56981" n="lafite-familie">
+  <desc type="filename">Lafite_Familie.xml</desc>
+  <graphic url="lafite_karl.jpg" width="367" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="32" lrx="322" lry="311" cx="183" cy="172" r="140" rotate="0"/>
+  <desc type="modified">2026-04-30T20:02:31.418Z</desc>
+</surface>

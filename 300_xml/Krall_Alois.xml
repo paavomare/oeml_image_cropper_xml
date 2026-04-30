@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_69c81416-ef6f-4399-a473-8459ce98e438" n="krall-alois">
+  <desc type="filename">Krall_Alois.xml</desc>
+  <graphic url="Krall.jpg" width="433" height="625">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="7" lrx="433" lry="440" cx="217" cy="224" r="217" rotate="0"/>
+  <desc type="modified">2026-04-30T20:50:25.371Z</desc>
+</surface>

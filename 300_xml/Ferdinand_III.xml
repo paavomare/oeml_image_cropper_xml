@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d77a9591-c495-4568-a562-73bf36408378" n="ferdinand-iii">
+  <desc type="filename">Ferdinand_III.xml</desc>
+  <graphic url="bildarchivaustria/430_B4824770T4824774.jpg" width="639" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="117" uly="169" lrx="504" lry="556" cx="311" cy="363" r="194" rotate="0"/>
+  <desc type="modified">2026-04-30T19:48:21.880Z</desc>
+</surface>

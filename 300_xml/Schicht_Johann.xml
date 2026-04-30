@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_302f7acb-af6f-411e-87c3-7dfb41b58216" n="schicht-johann">
+  <desc type="filename">Schicht_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9258001T9258006.jpg" width="618" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="63" uly="102" lrx="594" lry="633" cx="329" cy="368" r="266" rotate="0"/>
+  <desc type="modified">2026-04-30T18:24:37.210Z</desc>
+</surface>

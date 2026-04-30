@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_096efa9d-a07c-4bb9-ae60-8b613be5df08" n="rom-peter">
+  <desc type="filename">Rom_Peter.xml</desc>
+  <graphic url="Rom_Peter_071223.jpg" width="751" height="501">
+  </graphic>
+  <zone type="medallionCrop" ulx="130" uly="0" lrx="631" lry="501" cx="381" cy="251" r="251" rotate="0"/>
+  <desc type="modified">2026-04-30T18:33:23.410Z</desc>
+</surface>

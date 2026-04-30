@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fb69906d-aa1d-487c-a45a-2cf94911b544" n="rohrbeck-karl-ferdinand">
+  <desc type="filename">Rohrbeck_Karl_Ferdinand.xml</desc>
+  <graphic url="Rohrbeck_Karl.jpg" width="287" height="409">
+  </graphic>
+  <zone type="medallionCrop" ulx="7" uly="14" lrx="277" lry="284" cx="142" cy="149" r="135" rotate="0"/>
+  <desc type="modified">2026-04-30T19:22:28.557Z</desc>
+</surface>

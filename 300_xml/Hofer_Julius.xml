@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4fc3d749-27bf-498b-addf-cf05e6d0592f" n="hofer-julius">
+  <desc type="filename">Hofer_Julius.xml</desc>
+  <graphic url="Hofer_Julius.jpg" width="420" height="655">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="81" lrx="420" lry="501" cx="210" cy="291" r="210" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:39.768Z</desc>
+</surface>

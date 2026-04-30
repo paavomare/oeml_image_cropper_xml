@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dbfeb094-f0e8-42c8-8f7a-ba8e781ac115" n="schwerttanz">
+  <desc type="filename">Schwerttanz.xml</desc>
+  <graphic url="Schwerttanz_1950.jpg" width="800" height="533">
+  </graphic>
+  <zone type="medallionCrop" ulx="181" uly="0" lrx="714" lry="533" cx="448" cy="267" r="267" rotate="0"/>
+  <desc type="modified">2026-04-30T20:59:51.509Z</desc>
+</surface>

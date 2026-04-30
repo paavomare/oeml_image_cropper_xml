@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_de082896-e741-4205-9cfd-28a14aacaded" n="mars-mella">
+  <desc type="filename">Mars_Mella.xml</desc>
+  <graphic url="Mars_Mella_1903.jpg" width="697" height="766">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="697" lry="707" cx="349" cy="359" r="349" rotate="0"/>
+  <desc type="modified">2026-04-30T20:59:54.825Z</desc>
+</surface>

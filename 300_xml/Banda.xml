@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_23d0661f-50f4-4df2-83c0-23d0d1b914d3" n="banda">
+  <desc type="filename">Banda.xml</desc>
+  <graphic url="Banda_Plakat1934.jpg" width="800" height="604">
+  </graphic>
+  <zone type="medallionCrop" ulx="121" uly="0" lrx="725" lry="604" cx="423" cy="302" r="302" rotate="0"/>
+  <desc type="modified">2026-04-30T18:26:28.218Z</desc>
+</surface>

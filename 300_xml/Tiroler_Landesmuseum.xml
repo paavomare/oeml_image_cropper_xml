@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_30786a66-3ddb-458f-8928-893b9d622d04" n="tiroler-landesmuseum">
+  <desc type="filename">Tiroler_Landesmuseum.xml</desc>
+  <graphic url="Tiroler_Landesmuseum.jpg" width="768" height="1024">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="82" lrx="768" lry="850" cx="384" cy="466" r="384" rotate="0"/>
+  <desc type="modified">2026-04-30T19:51:47.533Z</desc>
+</surface>

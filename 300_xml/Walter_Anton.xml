@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bc7c42a1-f227-4d68-90c0-036c3e49ba3c" n="walter-anton">
+  <desc type="filename">Walter_Anton.xml</desc>
+  <graphic url="Walter_Anton.jpg" width="572" height="789">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="34" lrx="572" lry="606" cx="286" cy="320" r="286" rotate="0"/>
+  <desc type="modified">2026-04-30T20:03:40.201Z</desc>
+</surface>

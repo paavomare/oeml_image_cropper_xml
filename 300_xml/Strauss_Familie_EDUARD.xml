@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_04700a5e-2762-4df7-8876-03dcb357d8bd" n="strauss-familie-eduard">
+  <desc type="filename">Strauss_Familie_EDUARD.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10506244T10506249.jpg" width="470" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="17" uly="65" lrx="430" lry="478" cx="224" cy="272" r="207" rotate="0"/>
+  <desc type="modified">2026-04-30T20:54:07.064Z</desc>
+</surface>

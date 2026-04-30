@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4837daad-63d4-4b7a-9750-3c37b1d3bb09" n="eder-familie-3">
+  <desc type="filename">Eder_Familie_3.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9246134T9246139.jpg" width="539" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="77" uly="181" lrx="450" lry="554" cx="264" cy="368" r="187" rotate="0"/>
+  <desc type="modified">2026-04-30T18:35:06.074Z</desc>
+</surface>

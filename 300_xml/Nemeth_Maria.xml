@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2de3d6c1-c80d-4f5f-9b43-c3244356d7f5" n="nemeth-maria">
+  <desc type="filename">Nemeth_Maria.xml</desc>
+  <graphic url="Nemeth_Maria.jpg" width="472" height="644">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="472" lry="472" cx="236" cy="236" r="236" rotate="0"/>
+  <desc type="modified">2026-04-30T18:25:46.898Z</desc>
+</surface>

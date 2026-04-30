@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_aef999bf-71c4-4ea5-9928-64345939534e" n="liebich-johann-karl">
+  <desc type="filename">Liebich_Johann_Karl.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9130794T9130799.jpg" width="510" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="92" uly="112" lrx="415" lry="435" cx="254" cy="274" r="162" rotate="0"/>
+  <desc type="modified">2026-04-30T20:18:15.699Z</desc>
+</surface>

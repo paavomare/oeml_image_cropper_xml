@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3d7a18e2-9a21-491e-9489-55fec5337917" n="strauss-richard">
+  <desc type="filename">Strauss_Richard.xml</desc>
+  <graphic url="Strauss_Richard.jpg" width="437" height="578">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="437" lry="446" cx="219" cy="228" r="219" rotate="0"/>
+  <desc type="modified">2026-04-30T19:10:56.547Z</desc>
+</surface>

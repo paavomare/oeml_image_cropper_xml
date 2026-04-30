@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1a934a7b-dedf-4b35-8d95-5038f3a71fb0" n="bronner-gerhard">
+  <desc type="filename">Bronner_Gerhard.xml</desc>
+  <graphic url="bildarchivaustria/742_B8064562T8064566.jpg" width="574" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="165" uly="88" lrx="567" lry="489" cx="366" cy="289" r="201" rotate="0"/>
+  <desc type="modified">2026-04-30T18:25:55.503Z</desc>
+</surface>

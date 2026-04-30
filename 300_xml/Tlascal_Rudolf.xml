@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_40eaddc5-96d9-495f-9bcd-d9d75edf7492" n="tlascal-rudolf">
+  <desc type="filename">Tlascal_Rudolf.xml</desc>
+  <graphic url="Tlascal_Rudolf.jpg" width="361" height="363">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="25" lrx="336" lry="338" cx="180" cy="182" r="157" rotate="0"/>
+  <desc type="modified">2026-04-30T19:53:07.092Z</desc>
+</surface>

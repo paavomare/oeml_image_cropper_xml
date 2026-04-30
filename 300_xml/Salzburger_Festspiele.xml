@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b1e7a018-40b5-44b0-a77b-9f75cfe8b05c" n="salzburger-festspiele">
+  <desc type="filename">Salzburger_Festspiele.xml</desc>
+  <graphic url="Salzburger_Festspiele.jpg" width="472" height="680">
+  </graphic>
+  <zone type="medallionCrop" ulx="5" uly="114" lrx="459" lry="568" cx="232" cy="341" r="227" rotate="0"/>
+  <desc type="modified">2026-04-30T20:41:29.611Z</desc>
+</surface>

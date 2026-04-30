@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f4135731-6068-46b7-8395-a420ce9ef4c4" n="mayer-lise">
+  <desc type="filename">Mayer_Lise.xml</desc>
+  <graphic url="Mayer_Lisa.jpg" width="800" height="599">
+  </graphic>
+  <zone type="medallionCrop" ulx="213" uly="68" lrx="644" lry="499" cx="429" cy="284" r="216" rotate="0"/>
+  <desc type="modified">2026-04-30T19:50:31.878Z</desc>
+</surface>

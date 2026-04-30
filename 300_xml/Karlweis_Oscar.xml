@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_68f950ed-c463-45b6-b771-e8bb9edb8069" n="karlweis-oscar">
+  <desc type="filename">Karlweis_Oscar.xml</desc>
+  <graphic url="Karlweis_Oskar.jpg" width="425" height="602">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="135" lrx="425" lry="560" cx="213" cy="348" r="213" rotate="0"/>
+  <desc type="modified">2026-04-30T19:09:16.289Z</desc>
+</surface>

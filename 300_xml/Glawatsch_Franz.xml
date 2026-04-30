@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d1c9a7a9-85de-446a-bde6-3a43b4db0418" n="glawatsch-franz">
+  <desc type="filename">Glawatsch_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B10467321T10467326.jpg" width="517" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="199" uly="153" lrx="379" lry="334" cx="289" cy="243" r="90" rotate="0"/>
+  <desc type="modified">2026-04-30T20:33:31.798Z</desc>
+</surface>

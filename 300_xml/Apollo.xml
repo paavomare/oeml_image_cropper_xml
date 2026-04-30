@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ed2a65ea-2915-4494-a222-df8d4ff27f69" n="apollo">
+  <desc type="filename">Apollo.xml</desc>
+  <graphic url="Apollo_Aussenansicht.jpg" width="963" height="1219">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="50" lrx="963" lry="1013" cx="482" cy="532" r="482" rotate="0"/>
+  <desc type="modified">2026-04-30T19:05:35.519Z</desc>
+</surface>

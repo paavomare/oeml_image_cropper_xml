@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0f8400e1-9dcd-41e7-b59e-c0cc02787fb6" n="pessiak-anna">
+  <desc type="filename">Pessiak_Anna.xml</desc>
+  <graphic url="Pessiak_Anna.jpg" width="1274" height="1335">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="1274" lry="1295" cx="637" cy="658" r="637" rotate="0"/>
+  <desc type="modified">2026-04-30T20:40:57.648Z</desc>
+</surface>

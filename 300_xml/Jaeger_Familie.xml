@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_163678c7-9f3a-4e3f-ab04-451678ae2491" n="jaeger-familie">
+  <desc type="filename">Jaeger_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9254470T9254475.jpg" width="611" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="118" uly="165" lrx="487" lry="534" cx="303" cy="350" r="185" rotate="0"/>
+  <desc type="modified">2026-04-30T19:00:15.596Z</desc>
+</surface>

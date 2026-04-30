@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_92254ebe-e171-4f9f-8df5-f1c2fe952930" n="penner-august">
+  <desc type="filename">Penner_August.xml</desc>
+  <graphic url="Penner_August_1.jpg" width="1128" height="851">
+  </graphic>
+  <zone type="medallionCrop" ulx="254" uly="149" lrx="665" lry="559" cx="460" cy="355" r="206" rotate="0"/>
+  <desc type="modified">2026-04-30T19:10:46.595Z</desc>
+</surface>

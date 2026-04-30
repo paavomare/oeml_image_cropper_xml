@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d3aa099d-b009-4613-99c0-6c21ceedf853" n="hofmannsthal-hugo-von">
+  <desc type="filename">Hofmannsthal_Hugo_von.xml</desc>
+  <graphic url="Hofmannsthal_Hertwig.jpg" width="506" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="90" lrx="506" lry="596" cx="253" cy="343" r="253" rotate="0"/>
+  <desc type="modified">2026-04-30T20:27:03.903Z</desc>
+</surface>

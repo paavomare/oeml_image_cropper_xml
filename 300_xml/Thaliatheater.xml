@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_da271c51-ea84-46c3-bbf7-75056d43b045" n="thaliatheater">
+  <desc type="filename">Thaliatheater.xml</desc>
+  <graphic url="Thaliatheater_Ansicht1890.jpg" width="800" height="717">
+  </graphic>
+  <zone type="medallionCrop" ulx="49" uly="58" lrx="628" lry="636" cx="339" cy="348" r="290" rotate="0"/>
+  <desc type="modified">2026-04-30T18:26:07.854Z</desc>
+</surface>

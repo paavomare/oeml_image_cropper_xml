@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_386eaa16-95c1-4bbe-aa2b-584e317eb4ef" n="reinholz-konrad">
+  <desc type="filename">Reinholz_Konrad.xml</desc>
+  <graphic url="Reinholz_Konrad.jpg" width="397" height="564">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="397" lry="413" cx="199" cy="215" r="199" rotate="0"/>
+  <desc type="modified">2026-04-30T18:41:45.599Z</desc>
+</surface>

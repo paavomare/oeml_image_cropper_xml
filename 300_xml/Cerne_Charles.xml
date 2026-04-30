@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_475c3e43-edde-4ea0-b01d-96c992453d4a" n="cerne-charles">
+  <desc type="filename">Cerne_Charles.xml</desc>
+  <graphic url="bildarchivaustria/180_B3840846T3840850.jpg" width="696" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="35" uly="27" lrx="652" lry="644" cx="344" cy="336" r="309" rotate="0"/>
+  <desc type="modified">2026-04-30T18:55:27.445Z</desc>
+</surface>

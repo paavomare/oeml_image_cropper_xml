@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dafdc38d-206a-4147-9322-437ad1819bde" n="walker-luise">
+  <desc type="filename">Walker_Luise.xml</desc>
+  <graphic url="bildarchivaustria/344_B306879T4451839.jpg" width="800" height="598">
+  </graphic>
+  <zone type="medallionCrop" ulx="172" uly="53" lrx="705" lry="586" cx="439" cy="320" r="267" rotate="0"/>
+  <desc type="modified">2026-04-30T20:59:15.730Z</desc>
+</surface>

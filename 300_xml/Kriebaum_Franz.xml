@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e2a03c2-3d54-407b-b06c-f7fcbb46e3b5" n="kriebaum-franz">
+  <desc type="filename">Kriebaum_Franz.xml</desc>
+  <graphic url="Kriebaum_1896.jpg" width="439" height="549">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="35" lrx="422" lry="443" cx="219" cy="239" r="204" rotate="0"/>
+  <desc type="modified">2026-04-30T20:33:16.925Z</desc>
+</surface>

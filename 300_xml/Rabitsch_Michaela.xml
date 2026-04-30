@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_884e6c4c-6ecc-4594-8d25-785dec4ebffe" n="rabitsch-michaela">
+  <desc type="filename">Rabitsch_Michaela.xml</desc>
+  <graphic url="Rabitsch_Michaela_2013.jpg" width="850" height="1280">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="3" lrx="850" lry="853" cx="425" cy="428" r="425" rotate="0"/>
+  <desc type="modified">2026-04-30T19:55:25.059Z</desc>
+</surface>

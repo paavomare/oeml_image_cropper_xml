@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_af60dd56-dd01-4874-b967-81e8e384e91c" n="grois-louis">
+  <desc type="filename">Grois_Louis.xml</desc>
+  <graphic url="bildarchivaustria/156_B3716421T3716425.jpg" width="555" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="60" uly="120" lrx="498" lry="558" cx="279" cy="339" r="219" rotate="0"/>
+  <desc type="modified">2026-04-30T20:17:46.643Z</desc>
+</surface>

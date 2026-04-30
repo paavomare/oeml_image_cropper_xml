@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c4435021-a6d3-4860-99b7-99a46c5da812" n="binder-jakob">
+  <desc type="filename">Binder_Jakob.xml</desc>
+  <graphic url="Binder_Jakob.jpg" width="255" height="309">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="255" lry="255" cx="128" cy="128" r="128" rotate="0"/>
+  <desc type="modified">2026-04-30T20:18:01.920Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7a2aa85e-21d0-408c-bbf9-e2b19c451497" n="thern-familie">
+  <desc type="filename">Thern_Familie.xml</desc>
+  <graphic url="bildarchivaustria/177_B3818870T3818874.jpg" width="801" height="558">
+  </graphic>
+  <zone type="medallionCrop" ulx="111" uly="0" lrx="669" lry="558" cx="390" cy="279" r="279" rotate="0"/>
+  <desc type="modified">2026-04-30T20:40:39.594Z</desc>
+</surface>

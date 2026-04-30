@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_53e9de8e-6ae9-4922-a8ed-2f1a5ef7b66d" n="grell-familie">
+  <desc type="filename">Grell_Familie.xml</desc>
+  <graphic url="Grell_Karl.jpg" width="635" height="504">
+  </graphic>
+  <zone type="medallionCrop" ulx="55" uly="0" lrx="559" lry="504" cx="307" cy="252" r="252" rotate="0"/>
+  <desc type="modified">2026-04-30T20:37:51.158Z</desc>
+</surface>

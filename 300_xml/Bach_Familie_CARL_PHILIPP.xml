@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9ac61a55-eb2e-44df-a107-02060997dc57" n="bach-familie-carl-philipp">
+  <desc type="filename">Bach_Familie_CARL_PHILIPP.xml</desc>
+  <graphic url="bildarchivaustria/112_B3522647T3522651.jpg" width="562" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="112" uly="113" lrx="445" lry="446" cx="279" cy="280" r="167" rotate="0"/>
+  <desc type="modified">2026-04-30T20:22:05.455Z</desc>
+</surface>

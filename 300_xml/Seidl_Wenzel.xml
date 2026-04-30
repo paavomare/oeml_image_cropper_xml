@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fb8e3571-c48d-4988-b7af-d6eeced673e9" n="seidl-wenzel">
+  <desc type="filename">Seidl_Wenzel.xml</desc>
+  <graphic url="Seidl_Wenzel.jpg" width="321" height="556">
+  </graphic>
+  <zone type="medallionCrop" ulx="12" uly="40" lrx="291" lry="318" cx="152" cy="180" r="140" rotate="0"/>
+  <desc type="modified">2026-04-30T19:09:51.050Z</desc>
+</surface>

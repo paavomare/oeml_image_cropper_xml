@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0201ee7f-3979-4044-86b8-3d94b9055d01" n="dessauer-josef">
+  <desc type="filename">Dessauer_Josef.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9233571T9233575.jpg" width="576" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="91" uly="165" lrx="474" lry="549" cx="283" cy="357" r="192" rotate="0"/>
+  <desc type="modified">2026-04-30T19:10:22.704Z</desc>
+</surface>

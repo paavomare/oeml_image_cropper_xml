@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3be4a586-252c-4755-9187-fed3dac24bf3" n="foederl-karl">
+  <desc type="filename">Foederl_Karl.xml</desc>
+  <graphic url="Foederl_Karl.jpg" width="425" height="598">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="0" lrx="381" lry="357" cx="202" cy="179" r="179" rotate="0"/>
+  <desc type="modified">2026-04-30T20:58:27.757Z</desc>
+</surface>

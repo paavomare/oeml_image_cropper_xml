@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_34a4212e-cbbf-4842-8435-a29d62964e2e" n="schwarzenberg-familie">
+  <desc type="filename">Schwarzenberg_Familie.xml</desc>
+  <graphic url="bildarchivaustria/518_B5313433T5313437.jpg" width="654" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="31" uly="75" lrx="615" lry="658" cx="323" cy="367" r="292" rotate="0"/>
+  <desc type="modified">2026-04-30T19:01:36.490Z</desc>
+</surface>
