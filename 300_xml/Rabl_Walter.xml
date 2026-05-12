@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f105bd1d-e5ec-42f8-8074-b88a60dc1125" n="rabl-walter">
+  <desc type="filename">Rabl_Walter.xml</desc>
+  <graphic url="Rabl_Walter.jpg" width="339" height="486">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="339" lry="360" cx="170" cy="191" r="170" rotate="0"/>
+  <desc type="modified">2026-05-12T13:16:13.036Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a63deeb0-ce28-4d8d-83f9-509bf5b07f7d" n="andreae-volkmar">
+  <desc type="filename">Andreae_Volkmar.xml</desc>
+  <graphic url="bildarchivaustria/450_B390770T4900785.jpg" width="800" height="602">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="25" lrx="619" lry="578" cx="342" cy="302" r="277" rotate="0"/>
+  <desc type="modified">2026-05-12T12:41:52.941Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e598e8a6-94c9-4912-883d-8fe66bea850d" n="vivaldi-antonio">
+  <desc type="filename">Vivaldi_Antonio.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9237033T9237038.jpg" width="624" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="51" uly="79" lrx="573" lry="602" cx="312" cy="340" r="261" rotate="0"/>
+  <desc type="modified">2026-05-12T12:54:12.358Z</desc>
+</surface>

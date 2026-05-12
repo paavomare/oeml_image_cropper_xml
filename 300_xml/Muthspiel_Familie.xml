@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fe135770-9e23-434e-8d4e-8e80a903e238" n="muthspiel-familie">
+  <desc type="filename">Muthspiel_Familie.xml</desc>
+  <graphic url="Muthspiel_Gerhard_2014.jpg" width="591" height="885">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="168" lrx="591" lry="759" cx="296" cy="464" r="296" rotate="0"/>
+  <desc type="modified">2026-05-12T12:50:37.829Z</desc>
+</surface>

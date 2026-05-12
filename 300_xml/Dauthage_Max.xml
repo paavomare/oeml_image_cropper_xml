@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f03123a1-8c1b-4735-b0fe-af7252a0c94c" n="dauthage-max">
+  <desc type="filename">Dauthage_Max.xml</desc>
+  <graphic url="Dauthage_Max.jpg" width="580" height="804">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="53" lrx="516" lry="542" cx="272" cy="298" r="245" rotate="0"/>
+  <desc type="modified">2026-05-12T12:56:27.173Z</desc>
+</surface>

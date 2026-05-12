@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c372f472-d686-44c1-9d24-a056e95897a9" n="korntheuer-johann">
+  <desc type="filename">Korntheuer_Johann.xml</desc>
+  <graphic url="Korntheuer_Johann.jpg" width="500" height="730">
+  </graphic>
+  <zone type="medallionCrop" ulx="15" uly="36" lrx="469" lry="490" cx="242" cy="263" r="227" rotate="0"/>
+  <desc type="modified">2026-05-12T13:13:55.387Z</desc>
+</surface>

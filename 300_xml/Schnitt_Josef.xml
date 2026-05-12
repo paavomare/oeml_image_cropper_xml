@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b44bcf4e-8201-468a-ac10-297c98f98fa3" n="schnitt-josef">
+  <desc type="filename">Schnitt_Josef.xml</desc>
+  <graphic url="bildarchivaustria/77_B658036T1809480.jpg" width="800" height="629">
+  </graphic>
+  <zone type="medallionCrop" ulx="544" uly="33" lrx="800" lry="289" cx="672" cy="161" r="128" rotate="0"/>
+  <desc type="modified">2026-05-12T12:54:01.700Z</desc>
+</surface>

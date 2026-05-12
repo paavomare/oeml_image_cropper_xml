@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_17cd73af-8b19-4175-887a-02edf5af72fa" n="madroszkiewicz-joanna">
+  <desc type="filename">Madroszkiewicz_Joanna.xml</desc>
+  <graphic url="Madroszkiewicz_Joanna.jpg" width="500" height="365">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="0" lrx="469" lry="365" cx="287" cy="183" r="183" rotate="0"/>
+  <desc type="modified">2026-05-12T12:20:39.295Z</desc>
+</surface>

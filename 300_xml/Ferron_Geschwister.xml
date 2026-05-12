@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_970650b8-0e7d-459f-94f5-be119c64724b" n="ferron-geschwister">
+  <desc type="filename">Ferron_Geschwister.xml</desc>
+  <graphic url="Ferron_Adolf.jpg" width="425" height="542">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="16" lrx="425" lry="441" cx="213" cy="229" r="213" rotate="0"/>
+  <desc type="modified">2026-05-12T12:19:48.508Z</desc>
+</surface>

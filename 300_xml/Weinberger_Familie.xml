@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0e286c05-52fd-4ad2-87ff-073890248f54" n="weinberger-familie">
+  <desc type="filename">Weinberger_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_909_B10541777T10541782.jpg" width="486" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="14" uly="102" lrx="454" lry="542" cx="234" cy="322" r="220" rotate="0"/>
+  <desc type="modified">2026-05-12T12:38:43.439Z</desc>
+</surface>

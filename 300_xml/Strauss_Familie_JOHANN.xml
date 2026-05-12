@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0740fe8c-9e63-413f-86a2-4c15219c278a" n="strauss-familie-johann">
+  <desc type="filename">Strauss_Familie_JOHANN.xml</desc>
+  <graphic url="bildarchivaustria/162_B3739319T3739323.jpg" width="800" height="656">
+  </graphic>
+  <zone type="medallionCrop" ulx="105" uly="19" lrx="642" lry="556" cx="374" cy="288" r="269" rotate="0"/>
+  <desc type="modified">2026-05-12T12:25:22.286Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7a9fa7fa-9be6-4cbb-a01f-3b2948c70a2a" n="rosenthal-ehepaar">
+  <desc type="filename">Rosenthal_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/BA_858_B9311798T9311803.jpg" width="578" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="2" uly="0" lrx="420" lry="417" cx="211" cy="209" r="209" rotate="0"/>
+  <desc type="modified">2026-05-12T12:25:02.143Z</desc>
+</surface>

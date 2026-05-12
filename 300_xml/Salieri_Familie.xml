@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c4d42896-aaee-4102-9def-b0ee19fc825e" n="salieri-familie">
+  <desc type="filename">Salieri_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9237397T9237402.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="101" uly="161" lrx="461" lry="521" cx="281" cy="341" r="180" rotate="0"/>
+  <desc type="modified">2026-05-12T12:48:05.619Z</desc>
+</surface>

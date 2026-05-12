@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dafd6ebf-de42-48a5-8429-47c52adf6a37" n="ricci-brueder">
+  <desc type="filename">Ricci_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9257133T9257138.jpg" width="534" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="72" lrx="517" lry="569" cx="269" cy="320" r="248" rotate="0"/>
+  <desc type="modified">2026-05-12T12:48:36.375Z</desc>
+</surface>

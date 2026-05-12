@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_920fcf9e-30ce-4945-b9d6-de84cfc2cb41" n="sitt-familie">
+  <desc type="filename">Sitt_Familie.xml</desc>
+  <graphic url="Sitt_Hans.jpg" width="678" height="805">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="6" lrx="678" lry="684" cx="339" cy="345" r="339" rotate="0"/>
+  <desc type="modified">2026-05-12T13:08:47.858Z</desc>
+</surface>

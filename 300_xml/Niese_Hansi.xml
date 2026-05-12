@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_58294ab5-4a22-42d1-9bde-bb084ebec317" n="niese-hansi">
+  <desc type="filename">Niese_Hansi.xml</desc>
+  <graphic url="bildarchivaustria/523_B5619418T5619423.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="59" uly="70" lrx="542" lry="552" cx="301" cy="312" r="242" rotate="0"/>
+  <desc type="modified">2026-05-12T12:54:52.850Z</desc>
+</surface>

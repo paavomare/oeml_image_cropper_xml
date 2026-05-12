@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2b820c4f-7814-4845-b041-4fea19b43755" n="gallmeyer-josefine">
+  <desc type="filename">Gallmeyer_Josefine.xml</desc>
+  <graphic url="Gallmeyer_Josefine.jpg" width="340" height="471">
+  </graphic>
+  <zone type="medallionCrop" ulx="89" uly="29" lrx="339" lry="279" cx="214" cy="154" r="125" rotate="0"/>
+  <desc type="modified">2026-05-12T13:06:19.058Z</desc>
+</surface>

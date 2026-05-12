@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_afebc5ac-e7c1-4b8f-b98b-be72fbf767a2" n="haubenstock-ramati-roman">
+  <desc type="filename">Haubenstock-Ramati_Roman.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10000780T10000785.jpg" width="800" height="778">
+  </graphic>
+  <zone type="medallionCrop" ulx="142" uly="113" lrx="733" lry="704" cx="438" cy="409" r="296" rotate="0"/>
+  <desc type="modified">2026-05-12T12:44:14.134Z</desc>
+</surface>

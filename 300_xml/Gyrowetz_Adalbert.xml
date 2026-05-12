@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6d490a6b-eaa6-4ced-9efd-ed2a57ab4e96" n="gyrowetz-adalbert">
+  <desc type="filename">Gyrowetz_Adalbert.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9244076T9244081.jpg" width="540" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="178" lrx="476" lry="589" cx="270" cy="384" r="206" rotate="0"/>
+  <desc type="modified">2026-05-12T12:57:00.048Z</desc>
+</surface>

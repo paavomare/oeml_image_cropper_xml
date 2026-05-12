@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_431d5226-92b4-45c6-ae84-51e1b76b4e3f" n="gruenbaum-fritz">
+  <desc type="filename">Gruenbaum_Fritz.xml</desc>
+  <graphic url="bildarchivaustria/62_B1556604T1556607.jpg" width="604" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="604" lry="604" cx="302" cy="302" r="302" rotate="0"/>
+  <desc type="modified">2026-05-12T12:18:01.681Z</desc>
+</surface>

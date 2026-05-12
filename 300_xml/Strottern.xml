@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f7bf95a2-bc23-4607-b0ca-6ccf0f6ebe7f" n="strottern">
+  <desc type="filename">Strottern.xml</desc>
+  <graphic url="Strottern.jpg" width="594" height="655">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="511" lry="511" cx="256" cy="256" r="256" rotate="0"/>
+  <desc type="modified">2026-05-12T12:50:24.207Z</desc>
+</surface>

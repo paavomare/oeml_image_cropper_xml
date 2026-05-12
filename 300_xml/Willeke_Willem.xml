@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a3c9b8cd-a6c6-4202-83d4-48b339a73cbd" n="willeke-willem">
+  <desc type="filename">Willeke_Willem.xml</desc>
+  <graphic url="Willeke_Willem.jpg" width="740" height="1024">
+  </graphic>
+  <zone type="medallionCrop" ulx="32" uly="92" lrx="708" lry="769" cx="370" cy="430" r="338" rotate="0"/>
+  <desc type="modified">2026-05-12T12:51:55.249Z</desc>
+</surface>

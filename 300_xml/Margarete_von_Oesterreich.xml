@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ac30066a-b42e-4161-8ea9-4d36c9538a10" n="margarete-von-oesterreich">
+  <desc type="filename">Margarete_von_Oesterreich.xml</desc>
+  <graphic url="bildarchivaustria/430_B4825571T4825575.jpg" width="507" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="32" uly="66" lrx="457" lry="491" cx="245" cy="279" r="213" rotate="0"/>
+  <desc type="modified">2026-05-12T13:16:58.256Z</desc>
+</surface>

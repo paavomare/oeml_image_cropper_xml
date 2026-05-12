@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_85211aa0-9cb9-419c-9e5f-fe78dffcac11" n="spimmer-wimmer-rolf">
+  <desc type="filename">Spimmer-Wimmer_Rolf.xml</desc>
+  <graphic url="Spimmer-Wimmer.jpg" width="472" height="728">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="18" lrx="443" lry="435" cx="235" cy="227" r="209" rotate="0"/>
+  <desc type="modified">2026-05-12T12:46:19.910Z</desc>
+</surface>

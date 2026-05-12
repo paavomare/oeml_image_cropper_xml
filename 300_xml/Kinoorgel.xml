@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b86c2cd9-232d-4708-874d-69efa9866d2b" n="kinoorgel">
+  <desc type="filename">Kinoorgel.xml</desc>
+  <graphic url="bildarchivaustria/354_B1363828T4483473.jpg" width="800" height="580">
+  </graphic>
+  <zone type="medallionCrop" ulx="150" uly="0" lrx="730" lry="580" cx="440" cy="290" r="290" rotate="0"/>
+  <desc type="modified">2026-05-12T12:59:38.339Z</desc>
+</surface>

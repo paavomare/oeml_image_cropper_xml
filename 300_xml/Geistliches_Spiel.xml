@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5c32290a-1f85-4d4c-b00a-659cf87cfde3" n="geistliches-spiel">
+  <desc type="filename">Geistliches_Spiel.xml</desc>
+  <graphic url="Erl_wrb1933a.jpg" width="873" height="1349">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="67" lrx="873" lry="940" cx="437" cy="504" r="437" rotate="0"/>
+  <desc type="modified">2026-05-12T13:13:17.470Z</desc>
+</surface>

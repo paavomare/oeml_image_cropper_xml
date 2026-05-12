@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_038507e4-f65c-4e77-b87c-32df46180744" n="lassel-rudolf">
+  <desc type="filename">Lassel_Rudolf.xml</desc>
+  <graphic url="Lassel_Rudolf.jpg" width="444" height="603">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="30" lrx="435" lry="444" cx="228" cy="237" r="207" rotate="0"/>
+  <desc type="modified">2026-05-12T13:14:03.564Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b8bf4b3f-12b6-4d0e-a2ae-651a943669ca" n="paderewski-ignacy">
+  <desc type="filename">Paderewski_Ignacy.xml</desc>
+  <graphic url="bildarchivaustria/172_B3791353T3791357.jpg" width="558" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="145" uly="227" lrx="400" lry="481" cx="273" cy="355" r="128" rotate="0"/>
+  <desc type="modified">2026-05-12T13:08:11.155Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6149de69-c89a-4931-815a-dfdf38986e8b" n="mosel-familie">
+  <desc type="filename">Mosel_Familie.xml</desc>
+  <graphic url="bildarchivaustria/168_B3779655T3779659.jpg" width="517" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="103" uly="192" lrx="423" lry="511" cx="263" cy="352" r="160" rotate="0"/>
+  <desc type="modified">2026-05-12T13:14:54.285Z</desc>
+</surface>

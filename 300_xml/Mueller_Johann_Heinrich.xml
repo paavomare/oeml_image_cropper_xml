@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b50c080d-e39f-4361-a054-7fcfbad02f73" n="mueller-johann-heinrich">
+  <desc type="filename">Mueller_Johann_Heinrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9130401T9130406.jpg" width="516" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="73" uly="147" lrx="414" lry="488" cx="244" cy="318" r="171" rotate="0"/>
+  <desc type="modified">2026-05-12T13:09:35.842Z</desc>
+</surface>

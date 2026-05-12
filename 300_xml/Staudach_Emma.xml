@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_149dfea1-0dbb-4881-b505-e1294d4636a6" n="staudach-emma">
+  <desc type="filename">Staudach_Emma.xml</desc>
+  <graphic url="bildarchivaustria/176_B3817498T3817502.jpg" width="552" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="54" uly="35" lrx="540" lry="522" cx="297" cy="278" r="243" rotate="0"/>
+  <desc type="modified">2026-05-12T13:04:16.883Z</desc>
+</surface>

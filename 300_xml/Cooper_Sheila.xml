@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_189a90c8-a077-4d22-8a15-6f2151c7615d" n="cooper-sheila">
+  <desc type="filename">Cooper_Sheila.xml</desc>
+  <graphic url="Cooper_Sheila_05092009.jpg" width="752" height="1134">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="192" lrx="752" lry="944" cx="376" cy="568" r="376" rotate="0"/>
+  <desc type="modified">2026-05-12T12:57:19.926Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_aef32c83-179d-44cd-b8b1-fcde7cacc368" n="leidesdorf-maximilian">
+  <desc type="filename">Leidesdorf_Maximilian.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243521T9243526.jpg" width="636" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="73" uly="131" lrx="555" lry="613" cx="314" cy="372" r="241" rotate="0"/>
+  <desc type="modified">2026-05-12T12:28:00.686Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6da8ea4d-fa60-4d1d-967a-60b06c175e58" n="philipp-ludo">
+  <desc type="filename">Philipp_Ludo.xml</desc>
+  <graphic url="Philipp_Ludo_1930.jpg" width="255" height="402">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="40" lrx="255" lry="295" cx="128" cy="168" r="128" rotate="0"/>
+  <desc type="modified">2026-05-12T13:09:07.371Z</desc>
+</surface>

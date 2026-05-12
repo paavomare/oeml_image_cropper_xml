@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b260fda1-560a-4cf6-bd25-c6a921a69b78" n="reim-eduard">
+  <desc type="filename">Reim_Eduard.xml</desc>
+  <graphic url="Reim_Eduard.jpg" width="291" height="406">
+  </graphic>
+  <zone type="medallionCrop" ulx="43" uly="52" lrx="258" lry="267" cx="151" cy="160" r="108" rotate="0"/>
+  <desc type="modified">2026-05-12T13:11:29.560Z</desc>
+</surface>

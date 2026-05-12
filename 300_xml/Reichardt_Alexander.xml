@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ccd2822f-b55f-4f83-9864-d893033956df" n="reichardt-alexander">
+  <desc type="filename">Reichardt_Alexander.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9243353T9243358.jpg" width="602" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="103" uly="79" lrx="490" lry="465" cx="297" cy="273" r="194" rotate="0"/>
+  <desc type="modified">2026-05-12T12:19:41.105Z</desc>
+</surface>

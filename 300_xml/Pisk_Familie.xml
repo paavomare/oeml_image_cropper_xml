@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8d508cd9-0978-45f5-a3ec-976a81e829c4" n="pisk-familie">
+  <desc type="filename">Pisk_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450063T10450068.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="39" uly="68" lrx="501" lry="529" cx="270" cy="299" r="231" rotate="0"/>
+  <desc type="modified">2026-05-12T12:24:39.710Z</desc>
+</surface>

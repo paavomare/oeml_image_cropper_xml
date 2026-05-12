@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bee0b686-a3f3-4cd0-9a40-73d67379a20f" n="romberg-andreas">
+  <desc type="filename">Romberg_Andreas.xml</desc>
+  <graphic url="bildarchivaustria/BA_908_B9242668T10491551.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="127" lrx="533" lry="613" cx="290" cy="370" r="243" rotate="0"/>
+  <desc type="modified">2026-05-12T13:11:42.457Z</desc>
+</surface>

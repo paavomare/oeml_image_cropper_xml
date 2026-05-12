@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf273cae-51f6-45a0-92db-aa02ac04f4a3" n="berger-familie">
+  <desc type="filename">Berger_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10000752T10000757.jpg" width="754" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="81" uly="225" lrx="656" lry="800" cx="369" cy="513" r="288" rotate="0"/>
+  <desc type="modified">2026-05-12T13:02:33.726Z</desc>
+</surface>

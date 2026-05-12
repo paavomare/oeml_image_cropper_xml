@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d1d67840-ae37-4781-871f-e6cd152cc873" n="schlee-familie">
+  <desc type="filename">Schlee_Familie.xml</desc>
+  <graphic url="Schlee_Alfred.jpg" width="912" height="651">
+  </graphic>
+  <zone type="medallionCrop" ulx="481" uly="108" lrx="912" lry="539" cx="697" cy="324" r="216" rotate="0"/>
+  <desc type="modified">2026-05-12T12:22:40.173Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fc9ee9df-438d-4247-870e-964f4c3206b4" n="seyfried-familie">
+  <desc type="filename">Seyfried_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9238554T9238559.jpg" width="567" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="140" uly="167" lrx="432" lry="460" cx="286" cy="313" r="146" rotate="0"/>
+  <desc type="modified">2026-05-12T12:57:35.830Z</desc>
+</surface>

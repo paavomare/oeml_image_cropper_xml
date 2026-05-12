@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_91d1c922-e501-4f37-8f45-7026c7b0fe13" n="nagelmueller-carli">
+  <desc type="filename">Nagelmueller_Carli.xml</desc>
+  <graphic url="Nagelmueller_Carli.jpg" width="268" height="452">
+  </graphic>
+  <zone type="medallionCrop" ulx="11" uly="84" lrx="268" lry="341" cx="140" cy="213" r="129" rotate="0"/>
+  <desc type="modified">2026-05-12T12:39:18.193Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2d894163-e48a-400c-9903-259c7a605302" n="kratzl-brueder">
+  <desc type="filename">Kratzl_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/127_B3593060T3593064.jpg" width="615" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="108" uly="172" lrx="527" lry="591" cx="318" cy="382" r="210" rotate="0"/>
+  <desc type="modified">2026-05-12T12:24:00.346Z</desc>
+</surface>

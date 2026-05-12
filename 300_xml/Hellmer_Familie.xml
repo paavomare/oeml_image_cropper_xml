@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_555da9cc-b8b8-46c0-9015-dcaf2c14bc57" n="hellmer-familie">
+  <desc type="filename">Hellmer_Familie.xml</desc>
+  <graphic url="bildarchivaustria/122_B3576269T3576273.jpg" width="571" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="94" uly="170" lrx="491" lry="567" cx="293" cy="369" r="199" rotate="0"/>
+  <desc type="modified">2026-05-12T13:15:12.577Z</desc>
+</surface>

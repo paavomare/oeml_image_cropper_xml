@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4a8e68dd-01da-4535-b1f0-9750048f0916" n="gutheil-schoder-marie">
+  <desc type="filename">Gutheil-Schoder_Marie.xml</desc>
+  <graphic url="Gutheil-Schoder_wrb1933.jpg" width="659" height="890">
+  </graphic>
+  <zone type="medallionCrop" ulx="97" uly="0" lrx="647" lry="550" cx="372" cy="275" r="275" rotate="0"/>
+  <desc type="modified">2026-05-12T12:25:53.278Z</desc>
+</surface>

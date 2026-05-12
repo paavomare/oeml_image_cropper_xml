@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_dfc6b296-e377-4ee1-8b56-5317c497947b" n="alpar-gitta">
+  <desc type="filename">Alpar_Gitta.xml</desc>
+  <graphic url="bildarchivaustria/736_B8017570T8017574.jpg" width="800" height="583">
+  </graphic>
+  <zone type="medallionCrop" ulx="354" uly="101" lrx="683" lry="430" cx="519" cy="266" r="165" rotate="0"/>
+  <desc type="modified">2026-05-12T13:14:32.286Z</desc>
+</surface>

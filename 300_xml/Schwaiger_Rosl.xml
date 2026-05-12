@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_9c651da2-bc07-460d-bf4a-8427d3f6fb7a" n="schwaiger-rosl">
+  <desc type="filename">Schwaiger_Rosl.xml</desc>
+  <graphic url="schwaiger-rosi_1946.jpg" width="252" height="370">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="3" lrx="252" lry="255" cx="126" cy="129" r="126" rotate="0"/>
+  <desc type="modified">2026-05-12T13:15:57.229Z</desc>
+</surface>

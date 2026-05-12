@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d4be92ec-93cb-4796-b89e-07a120694163" n="pembaur-familie">
+  <desc type="filename">Pembaur_Familie.xml</desc>
+  <graphic url="Pembaur_Josef_Portraet.jpg" width="332" height="507">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="332" lry="332" cx="166" cy="166" r="166" rotate="0"/>
+  <desc type="modified">2026-05-12T12:56:38.128Z</desc>
+</surface>

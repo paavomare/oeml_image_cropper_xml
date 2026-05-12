@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_23c8a1e6-d941-405e-bcea-c0574514770b" n="saengerfeste">
+  <desc type="filename">Saengerfeste.xml</desc>
+  <graphic url="Fahnenweihe_1896.jpg" width="2449" height="2039">
+  </graphic>
+  <zone type="medallionCrop" ulx="228" uly="111" lrx="2082" lry="1964" cx="1155" cy="1038" r="927" rotate="0"/>
+  <desc type="modified">2026-05-12T13:04:42.862Z</desc>
+</surface>

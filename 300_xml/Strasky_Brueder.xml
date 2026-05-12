@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_382e25fe-c837-42e2-9fa2-cd37144cd2a8" n="strasky-brueder">
+  <desc type="filename">Strasky_Brueder.xml</desc>
+  <graphic url="Strasky_Alois.jpg" width="304" height="384">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="31" lrx="304" lry="335" cx="152" cy="183" r="152" rotate="0"/>
+  <desc type="modified">2026-05-12T12:46:08.609Z</desc>
+</surface>

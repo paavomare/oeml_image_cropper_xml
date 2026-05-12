@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_40f68f8e-d810-46e8-8254-68e498b4c585" n="salvi-familie">
+  <desc type="filename">Salvi_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_1119_B9245587T20633271.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="80" uly="166" lrx="431" lry="516" cx="256" cy="342" r="176" rotate="0"/>
+  <desc type="modified">2026-05-12T12:57:54.128Z</desc>
+</surface>

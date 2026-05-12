@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5dc8a448-67fe-4fc5-bb68-2683ed814436" n="ast-familie">
+  <desc type="filename">Ast_Familie.xml</desc>
+  <graphic url="Anita-Ast-Quartett.jpg" width="360" height="497">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="7" lrx="360" lry="367" cx="180" cy="187" r="180" rotate="0"/>
+  <desc type="modified">2026-05-12T12:25:36.979Z</desc>
+</surface>

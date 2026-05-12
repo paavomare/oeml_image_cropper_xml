@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bcc2bbd7-294a-4910-b6ef-332c7ee9dd07" n="wolfsecker-familie">
+  <desc type="filename">Wolfsecker_Familie.xml</desc>
+  <graphic url="Wolfsecker_Franz_1926.jpg" width="403" height="814">
+  </graphic>
+  <zone type="medallionCrop" ulx="46" uly="48" lrx="355" lry="358" cx="201" cy="203" r="155" rotate="0"/>
+  <desc type="modified">2026-05-12T12:45:16.658Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7b5e0063-cfce-40dd-8ade-fbedaed47b6c" n="buerde-ney-jenny">
+  <desc type="filename">Buerde-Ney_Jenny.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9267938T9267943.jpg" width="606" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="46" uly="104" lrx="493" lry="551" cx="270" cy="328" r="224" rotate="0"/>
+  <desc type="modified">2026-05-12T12:22:03.885Z</desc>
+</surface>

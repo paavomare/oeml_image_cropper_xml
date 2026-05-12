@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3e05faea-6624-416a-a1ba-a049dced85e8" n="bednarz-wilhelm">
+  <desc type="filename">Bednarz_Wilhelm.xml</desc>
+  <graphic url="Bednarz_1896.jpg" width="440" height="543">
+  </graphic>
+  <zone type="medallionCrop" ulx="111" uly="72" lrx="438" lry="399" cx="275" cy="236" r="164" rotate="15"/>
+  <desc type="modified">2026-05-12T13:01:24.834Z</desc>
+</surface>

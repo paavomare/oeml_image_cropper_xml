@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ff0d423-3bf3-400c-b2e6-87a24194c64b" n="urbantschitsch-familie">
+  <desc type="filename">Urbantschitsch_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10450262T10450267.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="105" lrx="480" lry="544" cx="260" cy="325" r="220" rotate="0"/>
+  <desc type="modified">2026-05-12T12:46:52.106Z</desc>
+</surface>

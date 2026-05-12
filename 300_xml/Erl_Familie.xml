@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2e033b3d-581b-494e-92cf-3ad806d5d97b" n="erl-familie">
+  <desc type="filename">Erl_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9253336T9253341.jpg" width="537" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="42" uly="126" lrx="495" lry="580" cx="269" cy="353" r="227" rotate="0"/>
+  <desc type="modified">2026-05-12T12:49:32.099Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4ffa46b9-a437-49fd-ac12-621819d54dee" n="fodor-josephine">
+  <desc type="filename">Fodor_Josephine.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9276689T9276694.jpg" width="561" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="113" uly="154" lrx="440" lry="481" cx="277" cy="318" r="164" rotate="0"/>
+  <desc type="modified">2026-05-12T12:46:04.326Z</desc>
+</surface>

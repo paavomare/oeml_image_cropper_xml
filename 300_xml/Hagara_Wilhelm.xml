@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2f626358-0ff9-4a26-9c6a-73af6a51939f" n="hagara-wilhelm">
+  <desc type="filename">Hagara_Wilhelm.xml</desc>
+  <graphic url="Hagara_Willy.jpg" width="338" height="461">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="64" lrx="338" lry="402" cx="169" cy="233" r="169" rotate="0"/>
+  <desc type="modified">2026-05-12T12:37:56.688Z</desc>
+</surface>

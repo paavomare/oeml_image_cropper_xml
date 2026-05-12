@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_37bef802-9c8d-4a3b-aa6a-45201d2d2243" n="pavlis-familie">
+  <desc type="filename">Pavlis_Familie.xml</desc>
+  <graphic url="Pavlis_Hans.jpg" width="616" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="171" uly="264" lrx="488" lry="581" cx="330" cy="423" r="159" rotate="0"/>
+  <desc type="modified">2026-05-12T12:39:09.695Z</desc>
+</surface>

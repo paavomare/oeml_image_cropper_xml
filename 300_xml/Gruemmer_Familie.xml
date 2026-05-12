@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ed29c7dd-c289-4821-aa45-046cfa588325" n="gruemmer-familie">
+  <desc type="filename">Gruemmer_Familie.xml</desc>
+  <graphic url="Bokmayer_Elisabeth.jpg" width="425" height="712">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="48" lrx="425" lry="473" cx="213" cy="261" r="213" rotate="0"/>
+  <desc type="modified">2026-05-12T12:27:09.155Z</desc>
+</surface>

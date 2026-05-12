@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cb1cc69c-8622-4645-90ed-295271224342" n="vorisek-jan">
+  <desc type="filename">Vorisek_Jan.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9264424T9264429.jpg" width="557" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="153" lrx="479" lry="569" cx="272" cy="361" r="208" rotate="0"/>
+  <desc type="modified">2026-05-12T13:16:08.671Z</desc>
+</surface>

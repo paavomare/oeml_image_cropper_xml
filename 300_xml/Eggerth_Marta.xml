@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8a874f06-8856-47d8-b853-120f763d9b81" n="eggerth-marta">
+  <desc type="filename">Eggerth_Marta.xml</desc>
+  <graphic url="bildarchivaustria/391_B391946T4606515.jpg" width="581" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="49" lrx="581" lry="630" cx="291" cy="340" r="291" rotate="0"/>
+  <desc type="modified">2026-05-12T13:16:21.053Z</desc>
+</surface>

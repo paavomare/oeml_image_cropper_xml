@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fbd87dc4-d5fe-43c5-b71c-2c5170f386c7" n="jandourek-anton">
+  <desc type="filename">Jandourek_Anton.xml</desc>
+  <graphic url="Jandourek_Anton.jpg" width="170" height="223">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="35" lrx="170" lry="205" cx="85" cy="120" r="85" rotate="0"/>
+  <desc type="modified">2026-05-12T12:50:54.272Z</desc>
+</surface>

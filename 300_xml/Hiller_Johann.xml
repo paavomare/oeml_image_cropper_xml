@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c7fbac46-4598-4980-876e-cabac9e01563" n="hiller-johann">
+  <desc type="filename">Hiller_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9242501T9242506.jpg" width="622" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="130" uly="225" lrx="470" lry="564" cx="300" cy="395" r="170" rotate="0"/>
+  <desc type="modified">2026-05-12T12:59:58.899Z</desc>
+</surface>

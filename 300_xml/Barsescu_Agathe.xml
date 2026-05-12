@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_42b499ee-9820-43df-8e60-18dc7a7ce336" n="barsescu-agathe">
+  <desc type="filename">Barsescu_Agathe.xml</desc>
+  <graphic url="bildarchivaustria/151_B3704057T3704061.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="54" uly="85" lrx="556" lry="587" cx="305" cy="336" r="251" rotate="0"/>
+  <desc type="modified">2026-05-12T13:13:40.196Z</desc>
+</surface>

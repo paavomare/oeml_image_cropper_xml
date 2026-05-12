@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_adae24a8-2c4f-4b31-8b26-a59cb7531630" n="de-bassini-familie">
+  <desc type="filename">De_Bassini_Familie.xml</desc>
+  <graphic url="De_Bassini_Rita.jpg" width="711" height="1030">
+  </graphic>
+  <zone type="medallionCrop" ulx="72" uly="143" lrx="631" lry="702" cx="352" cy="423" r="280" rotate="0"/>
+  <desc type="modified">2026-05-12T13:11:04.783Z</desc>
+</surface>

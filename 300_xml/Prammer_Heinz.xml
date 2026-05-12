@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d2f253f0-e9e9-4ce9-b24a-e453393fdc7d" n="prammer-heinz">
+  <desc type="filename">Prammer_Heinz.xml</desc>
+  <graphic url="Prammer_Heinz.jpg" width="782" height="1083">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="76" lrx="782" lry="858" cx="391" cy="467" r="391" rotate="0"/>
+  <desc type="modified">2026-05-12T12:26:35.201Z</desc>
+</surface>

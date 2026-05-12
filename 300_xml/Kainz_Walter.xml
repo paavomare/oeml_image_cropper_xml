@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_de96df07-8b54-46f6-8738-55b8f4e91f43" n="kainz-walter">
+  <desc type="filename">Kainz_Walter.xml</desc>
+  <graphic url="Kainz.jpg" width="434" height="623">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="72" lrx="434" lry="506" cx="217" cy="289" r="217" rotate="0"/>
+  <desc type="modified">2026-05-12T12:49:48.082Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d7ea5b63-5e5a-4f88-9097-9d5c87298714" n="herbeck-johann">
+  <desc type="filename">Herbeck_Johann.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9234859T9234864.jpg" width="527" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="130" lrx="419" lry="445" cx="262" cy="288" r="158" rotate="0"/>
+  <desc type="modified">2026-05-12T13:10:02.386Z</desc>
+</surface>

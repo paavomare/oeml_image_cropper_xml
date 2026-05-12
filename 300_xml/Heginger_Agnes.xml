@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_3bbb0b57-da05-4437-8129-5f63dea3b1c3" n="heginger-agnes">
+  <desc type="filename">Heginger_Agnes.xml</desc>
+  <graphic url="Heginger_Agnes.jpg" width="1100" height="734">
+  </graphic>
+  <zone type="medallionCrop" ulx="150" uly="0" lrx="884" lry="734" cx="517" cy="367" r="367" rotate="0"/>
+  <desc type="modified">2026-05-12T12:46:57.300Z</desc>
+</surface>

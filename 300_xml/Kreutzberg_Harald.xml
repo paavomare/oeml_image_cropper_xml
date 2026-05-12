@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eafcc59b-7f2c-4e2b-907f-d0e125942b8d" n="kreutzberg-harald">
+  <desc type="filename">Kreutzberg_Harald.xml</desc>
+  <graphic url="Kreutzberg_1950.jpg" width="800" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="259" uly="160" lrx="628" lry="529" cx="444" cy="345" r="185" rotate="0"/>
+  <desc type="modified">2026-05-12T12:20:27.118Z</desc>
+</surface>

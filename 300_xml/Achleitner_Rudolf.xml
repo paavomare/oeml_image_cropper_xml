@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f2c75890-c889-459d-aa2b-2a4e772b0cb6" n="achleitner-rudolf">
+  <desc type="filename">Achleitner_Rudolf.xml</desc>
+  <graphic url="Achleitner.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="35" lrx="534" lry="522" cx="291" cy="279" r="244" rotate="0"/>
+  <desc type="modified">2026-05-12T13:14:44.674Z</desc>
+</surface>

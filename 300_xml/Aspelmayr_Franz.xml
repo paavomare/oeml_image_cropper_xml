@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_44834364-ccb1-4be7-9032-92dffb9ee167" n="aspelmayr-franz">
+  <desc type="filename">Aspelmayr_Franz.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247950T9247955.jpg" width="598" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="123" uly="214" lrx="469" lry="560" cx="296" cy="387" r="173" rotate="0"/>
+  <desc type="modified">2026-05-12T12:38:09.487Z</desc>
+</surface>

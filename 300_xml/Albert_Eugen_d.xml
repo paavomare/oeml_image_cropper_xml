@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2f316feb-ba28-4d63-ac56-94d7b92d1de9" n="albert-eugen-d">
+  <desc type="filename">Albert_Eugen_d.xml</desc>
+  <graphic url="bildarchivaustria/475_B5106124T5106128.jpg" width="608" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="62" lrx="608" lry="670" cx="304" cy="366" r="304" rotate="0"/>
+  <desc type="modified">2026-05-12T13:02:40.292Z</desc>
+</surface>

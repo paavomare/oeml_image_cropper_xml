@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_49670081-1708-4743-b714-bd85581f82b5" n="schwegel">
+  <desc type="filename">Schwegel.xml</desc>
+  <graphic url="Schwegelpfeifen.jpg" width="915" height="858">
+  </graphic>
+  <zone type="medallionCrop" ulx="57" uly="0" lrx="915" lry="858" cx="486" cy="429" r="429" rotate="0"/>
+  <desc type="modified">2026-05-12T13:09:14.917Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c935fa3a-1ec7-4924-941a-f10eb0d30853" n="ascher-familie">
+  <desc type="filename">Ascher_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_898_B9801722T9801726.jpg" width="549" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="40" uly="117" lrx="512" lry="588" cx="276" cy="353" r="236" rotate="0"/>
+  <desc type="modified">2026-05-12T13:12:27.133Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_04bf21e9-8fae-4d0a-8435-bc6bbbf76560" n="gruenner-familie">
+  <desc type="filename">Gruenner_Familie.xml</desc>
+  <graphic url="Messerschmidt-Gruenner.jpg" width="624" height="832">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="93" lrx="624" lry="717" cx="312" cy="405" r="312" rotate="0"/>
+  <desc type="modified">2026-05-12T12:27:44.976Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5f5645a1-0a25-4786-8f17-3359dab806ce" n="rubatscher-familie">
+  <desc type="filename">Rubatscher_Familie.xml</desc>
+  <graphic url="Rubatscher_Otto.jpg" width="477" height="660">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="39" lrx="477" lry="516" cx="239" cy="278" r="239" rotate="0"/>
+  <desc type="modified">2026-05-12T12:21:53.613Z</desc>
+</surface>

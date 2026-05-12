@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f5bef998-adcd-4a1e-90e1-a1a45616e4ab" n="internationale-gustav-mahler-gesellschaft">
+  <desc type="filename">Internationale_Gustav_Mahler_Gesellschaft.xml</desc>
+  <graphic url="Mahlergesellschaft_Goldene_Medaille.jpg" width="563" height="768">
+  </graphic>
+  <zone type="medallionCrop" ulx="158" uly="320" lrx="407" lry="569" cx="283" cy="445" r="125" rotate="0"/>
+  <desc type="modified">2026-05-12T13:10:51.632Z</desc>
+</surface>

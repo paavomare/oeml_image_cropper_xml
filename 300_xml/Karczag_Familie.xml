@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_91b56716-675b-46a3-9174-72da2dbec61c" n="karczag-familie">
+  <desc type="filename">Karczag_Familie.xml</desc>
+  <graphic url="bildarchivaustria/342_B306342T4447103.jpg" width="595" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="64" uly="72" lrx="523" lry="531" cx="294" cy="302" r="230" rotate="0"/>
+  <desc type="modified">2026-05-12T12:54:40.632Z</desc>
+</surface>

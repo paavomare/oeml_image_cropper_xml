@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c34088c6-3239-4c52-9a94-ae6ee23b43e7" n="pulverriedl-musi">
+  <desc type="filename">Pulverriedl_Musi.xml</desc>
+  <graphic url="Pulverriedl.jpg" width="640" height="431">
+  </graphic>
+  <zone type="medallionCrop" ulx="99" uly="0" lrx="530" lry="431" cx="315" cy="216" r="216" rotate="0"/>
+  <desc type="modified">2026-05-12T12:22:10.800Z</desc>
+</surface>

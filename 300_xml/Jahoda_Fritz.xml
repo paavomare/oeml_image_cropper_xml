@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7c03555a-0b42-4840-a73a-8b7a8f090987" n="jahoda-fritz">
+  <desc type="filename">Jahoda_Fritz.xml</desc>
+  <graphic url="bildarchivaustria/116_B655868T3543816.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="50" uly="195" lrx="489" lry="634" cx="270" cy="415" r="220" rotate="0"/>
+  <desc type="modified">2026-05-12T13:01:35.521Z</desc>
+</surface>

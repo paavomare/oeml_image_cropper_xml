@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_976ed10e-1da4-4587-9dc2-dffc9e51bba6" n="boisits-barbara">
+  <desc type="filename">Boisits_Barbara.xml</desc>
+  <graphic url="Boisits_Barbara.jpg" width="150" height="200">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="9" lrx="150" lry="159" cx="75" cy="84" r="75" rotate="0"/>
+  <desc type="modified">2026-05-12T12:38:32.035Z</desc>
+</surface>

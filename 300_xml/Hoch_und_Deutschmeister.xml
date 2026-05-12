@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6fad10a4-e574-48a5-839b-546ba906a77f" n="hoch-und-deutschmeister">
+  <desc type="filename">Hoch_und_Deutschmeister.xml</desc>
+  <graphic url="Deutschmeister_1896.jpg" width="2545" height="4017">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="33" lrx="2545" lry="2578" cx="1273" cy="1306" r="1273" rotate="0"/>
+  <desc type="modified">2026-05-12T12:56:09.395Z</desc>
+</surface>

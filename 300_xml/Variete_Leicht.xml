@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7b3395c0-c032-4997-87e7-e1ef78916e3b" n="variete-leicht">
+  <desc type="filename">Variete_Leicht.xml</desc>
+  <graphic url="Leicht_Variete_1924.jpg" width="1358" height="884">
+  </graphic>
+  <zone type="medallionCrop" ulx="426" uly="92" lrx="1113" lry="780" cx="770" cy="436" r="344" rotate="0"/>
+  <desc type="modified">2026-05-12T12:43:08.640Z</desc>
+</surface>

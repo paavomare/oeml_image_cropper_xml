@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a4017fd2-d069-44a3-8f96-2e6b338fd3a0" n="mansfeld-familie">
+  <desc type="filename">Mansfeld_Familie.xml</desc>
+  <graphic url="mannsfeld_antonia.jpg" width="306" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="22" lrx="284" lry="280" cx="155" cy="151" r="129" rotate="0"/>
+  <desc type="modified">2026-05-12T13:05:39.014Z</desc>
+</surface>

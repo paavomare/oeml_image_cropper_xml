@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1c025385-9ee3-4b78-bcd8-497114eed408" n="thaler-isko">
+  <desc type="filename">Thaler_Isko.xml</desc>
+  <graphic url="Thaler_Isko.jpg" width="255" height="389">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="19" lrx="255" lry="274" cx="128" cy="147" r="128" rotate="0"/>
+  <desc type="modified">2026-05-12T12:21:45.331Z</desc>
+</surface>

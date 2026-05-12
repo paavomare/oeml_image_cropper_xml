@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_1f017972-13fd-4925-b53a-a780aa72855d" n="teplitz">
+  <desc type="filename">Teplitz.xml</desc>
+  <graphic url="bildarchivaustria/BA_1051_B17888883T17888888.jpg" width="800" height="582">
+  </graphic>
+  <zone type="medallionCrop" ulx="265" uly="102" lrx="654" lry="491" cx="460" cy="297" r="195" rotate="0"/>
+  <desc type="modified">2026-05-12T12:47:56.485Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e747216f-8f35-4210-a71d-a3aa7d04850e" n="tuma-familie">
+  <desc type="filename">Tuma_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9244628T9244633.jpg" width="500" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="90" uly="164" lrx="421" lry="496" cx="256" cy="330" r="166" rotate="0"/>
+  <desc type="modified">2026-05-12T12:26:10.878Z</desc>
+</surface>

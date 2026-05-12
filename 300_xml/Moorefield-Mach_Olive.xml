@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8793164d-b1de-4b3b-8763-7ddff2673658" n="moorefield-mach-olive">
+  <desc type="filename">Moorefield-Mach_Olive.xml</desc>
+  <graphic url="Moorefield_1953.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="125" lrx="549" lry="674" cx="275" cy="400" r="275" rotate="0"/>
+  <desc type="modified">2026-05-12T12:26:22.898Z</desc>
+</surface>

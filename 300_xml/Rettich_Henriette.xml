@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6d99aea6-4a8a-4bee-88e8-dca814d2f09b" n="rettich-henriette">
+  <desc type="filename">Rettich_Henriette.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9277018T9277023.jpg" width="605" height="801">
+  </graphic>
+  <zone type="medallionCrop" ulx="85" uly="92" lrx="513" lry="520" cx="299" cy="306" r="214" rotate="0"/>
+  <desc type="modified">2026-05-12T12:56:49.955Z</desc>
+</surface>

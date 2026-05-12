@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6a8100c3-4eff-43fa-adf7-7fc088d50dfb" n="fuechs-ferdinand">
+  <desc type="filename">Fuechs_Ferdinand.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9253126T9253131.jpg" width="559" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="138" uly="240" lrx="410" lry="512" cx="274" cy="376" r="136" rotate="0"/>
+  <desc type="modified">2026-05-12T12:53:17.108Z</desc>
+</surface>

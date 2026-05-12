@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_99bdb797-9c90-49d9-a328-1ef5787d7d42" n="schreiber-familie">
+  <desc type="filename">Schreiber_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9132966T9132971.jpg" width="614" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="23" uly="41" lrx="567" lry="586" cx="295" cy="313" r="272" rotate="0"/>
+  <desc type="modified">2026-05-12T12:51:18.384Z</desc>
+</surface>

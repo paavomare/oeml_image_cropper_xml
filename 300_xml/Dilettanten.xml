@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e4188040-cc0b-479e-ab7c-8ef06c0214a0" n="dilettanten">
+  <desc type="filename">Dilettanten.xml</desc>
+  <graphic url="Dilettanten_1896.jpg" width="1630" height="1159">
+  </graphic>
+  <zone type="medallionCrop" ulx="104" uly="0" lrx="1263" lry="1159" cx="684" cy="580" r="580" rotate="0"/>
+  <desc type="modified">2026-05-12T12:52:52.706Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_70dedee9-0008-45a3-880d-29826158c736" n="cerale-luigia">
+  <desc type="filename">Cerale_Luigia.xml</desc>
+  <graphic url="Cerale_Luigia.jpg" width="341" height="417">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="76" lrx="341" lry="417" cx="171" cy="247" r="171" rotate="0"/>
+  <desc type="modified">2026-05-12T13:05:31.471Z</desc>
+</surface>

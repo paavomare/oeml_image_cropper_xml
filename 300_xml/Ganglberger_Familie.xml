@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8f78772e-178c-4d80-ae0d-34fc00c4f82a" n="ganglberger-familie">
+  <desc type="filename">Ganglberger_Familie.xml</desc>
+  <graphic url="Ganglberger_1938.jpg" width="771" height="638">
+  </graphic>
+  <zone type="medallionCrop" ulx="227" uly="10" lrx="771" lry="554" cx="499" cy="282" r="272" rotate="0"/>
+  <desc type="modified">2026-05-12T12:58:41.249Z</desc>
+</surface>

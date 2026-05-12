@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_68fc5670-0b59-40cf-851a-62a4d8ada79f" n="kaerntnertortheater">
+  <desc type="filename">Kaerntnertortheater.xml</desc>
+  <graphic url="bildarchivaustria/BA_1018_B12361368T17005385.jpg" width="800" height="608">
+  </graphic>
+  <zone type="medallionCrop" ulx="106" uly="26" lrx="610" lry="530" cx="358" cy="278" r="252" rotate="0"/>
+  <desc type="modified">2026-05-12T13:05:08.836Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bfda0f3b-98df-4859-a837-bc01f91e9442" n="bononcini-brueder">
+  <desc type="filename">Bononcini_Brueder.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247130T9247135.jpg" width="691" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="94" uly="90" lrx="602" lry="598" cx="348" cy="344" r="254" rotate="0"/>
+  <desc type="modified">2026-05-12T12:18:31.230Z</desc>
+</surface>

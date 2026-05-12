@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_cc7a0a34-d824-4094-86d6-397ab1694970" n="roever-heinrich">
+  <desc type="filename">Roever_Heinrich.xml</desc>
+  <graphic url="Hellmesberger_Quartett.jpg" width="846" height="1121">
+  </graphic>
+  <zone type="medallionCrop" ulx="115" uly="161" lrx="367" lry="413" cx="241" cy="287" r="126" rotate="0"/>
+  <desc type="modified">2026-05-12T12:17:54.669Z</desc>
+</surface>

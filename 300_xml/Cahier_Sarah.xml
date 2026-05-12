@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_928ba4c6-ed56-406e-8a7c-0708d0412177" n="cahier-sarah">
+  <desc type="filename">Cahier_Sarah.xml</desc>
+  <graphic url="Cahier_Sarah_1911.jpg" width="310" height="535">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="98" lrx="310" lry="408" cx="155" cy="253" r="155" rotate="0"/>
+  <desc type="modified">2026-05-12T13:00:31.073Z</desc>
+</surface>

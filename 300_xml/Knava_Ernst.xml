@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b8064abf-221e-428e-af46-89e09b3f747f" n="knava-ernst">
+  <desc type="filename">Knava_Ernst.xml</desc>
+  <graphic url="knava_ernst.jpg" width="1204" height="1678">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="1204" lry="1204" cx="602" cy="602" r="602" rotate="0"/>
+  <desc type="modified">2026-05-12T13:06:30.881Z</desc>
+</surface>

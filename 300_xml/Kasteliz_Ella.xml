@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb18c165-c56f-49df-a045-a70dd377d302" n="kasteliz-ella">
+  <desc type="filename">Kasteliz_Ella.xml</desc>
+  <graphic url="Kasteliz.jpg" width="447" height="610">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="84" lrx="447" lry="531" cx="224" cy="308" r="224" rotate="0"/>
+  <desc type="modified">2026-05-12T13:02:17.663Z</desc>
+</surface>

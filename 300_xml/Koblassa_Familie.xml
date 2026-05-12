@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_257826eb-7070-4a30-9e50-cd0c6af43b4d" n="koblassa-familie">
+  <desc type="filename">Koblassa_Familie.xml</desc>
+  <graphic url="Mirzl.jpg" width="810" height="972">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="810" lry="810" cx="405" cy="405" r="405" rotate="0"/>
+  <desc type="modified">2026-05-12T13:11:16.555Z</desc>
+</surface>

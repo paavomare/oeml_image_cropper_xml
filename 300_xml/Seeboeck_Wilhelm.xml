@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_08a2172b-d62c-450b-9fa1-653933bd21ff" n="seeboeck-wilhelm">
+  <desc type="filename">Seeboeck_Wilhelm.xml</desc>
+  <graphic url="Seeboeck_Wilhelm_2.JPG" width="454" height="684">
+  </graphic>
+  <zone type="medallionCrop" ulx="56" uly="92" lrx="403" lry="438" cx="230" cy="266" r="174" rotate="0"/>
+  <desc type="modified">2026-05-12T12:18:20.405Z</desc>
+</surface>

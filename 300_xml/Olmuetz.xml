@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4517e5bb-a60b-47db-883e-a3d845abe612" n="olmuetz">
+  <desc type="filename">Olmuetz.xml</desc>
+  <graphic url="Olmuetz_St_Wenzel.jpg" width="850" height="1134">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="93" lrx="850" lry="943" cx="425" cy="518" r="425" rotate="0"/>
+  <desc type="modified">2026-05-12T12:21:19.247Z</desc>
+</surface>

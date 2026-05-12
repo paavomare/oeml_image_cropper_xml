@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2d83712f-cdce-4719-becc-f38b22972d13" n="rucker-charlotte">
+  <desc type="filename">Rucker_Charlotte.xml</desc>
+  <graphic url="Rucker_Charlotte_1876.jpg" width="899" height="1094">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="98" lrx="899" lry="997" cx="450" cy="548" r="450" rotate="0"/>
+  <desc type="modified">2026-05-12T12:26:45.807Z</desc>
+</surface>

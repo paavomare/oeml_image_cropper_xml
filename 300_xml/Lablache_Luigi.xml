@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0ea519ea-8d4b-4673-9caa-797de7ccb9cb" n="lablache-luigi">
+  <desc type="filename">Lablache_Luigi.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9235293T9235298.jpg" width="693" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="70" uly="80" lrx="614" lry="624" cx="342" cy="352" r="272" rotate="0"/>
+  <desc type="modified">2026-05-12T13:02:08.594Z</desc>
+</surface>

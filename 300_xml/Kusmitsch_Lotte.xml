@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_855aa23c-7ebe-491d-9362-e6d601063172" n="kusmitsch-lotte">
+  <desc type="filename">Kusmitsch_Lotte.xml</desc>
+  <graphic url="Kusmitsch_Lotte_1900.jpeg" width="983" height="1311">
+  </graphic>
+  <zone type="medallionCrop" ulx="34" uly="49" lrx="911" lry="925" cx="473" cy="488" r="439" rotate="0"/>
+  <desc type="modified">2026-05-12T13:01:03.804Z</desc>
+</surface>

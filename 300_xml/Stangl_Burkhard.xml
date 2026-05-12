@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5005c446-a721-4b6f-869d-c284318d5dc7" n="stangl-burkhard">
+  <desc type="filename">Stangl_Burkhard.xml</desc>
+  <graphic url="Stangl_Burkhard.jpg" width="650" height="978">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="33" lrx="650" lry="683" cx="325" cy="358" r="325" rotate="0"/>
+  <desc type="modified">2026-05-12T12:54:19.989Z</desc>
+</surface>

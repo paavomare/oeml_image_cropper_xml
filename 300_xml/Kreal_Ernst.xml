@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_42460698-d58e-4e6c-afef-23f914c7fc0e" n="kreal-ernst">
+  <desc type="filename">Kreal_Ernst.xml</desc>
+  <graphic url="Kreal_Ernst.jpg" width="265" height="338">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="30" lrx="265" lry="295" cx="133" cy="163" r="133" rotate="0"/>
+  <desc type="modified">2026-05-12T13:16:41.422Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_c1fce4dd-0067-4695-8cd2-7fc0ee9009c2" n="krall-familie">
+  <desc type="filename">Krall_Familie.xml</desc>
+  <graphic url="Krall_Schwestern.jpg" width="642" height="992">
+  </graphic>
+  <zone type="medallionCrop" ulx="41" uly="128" lrx="593" lry="680" cx="317" cy="404" r="276" rotate="0"/>
+  <desc type="modified">2026-05-12T12:59:12.771Z</desc>
+</surface>

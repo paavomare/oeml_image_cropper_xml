@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a0c53b66-e552-4098-970d-6c3ba2ea0c29" n="paradis-maria">
+  <desc type="filename">Paradis_Maria.xml</desc>
+  <graphic url="Paradis_Nachdruck.jpg" width="533" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="37" uly="106" lrx="496" lry="564" cx="267" cy="336" r="230" rotate="0"/>
+  <desc type="modified">2026-05-12T12:23:00.187Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bf66393c-9fe5-4745-b73c-502d4a9fead7" n="hausegger-familie">
+  <desc type="filename">Hausegger_Familie.xml</desc>
+  <graphic url="Hausegger_Siegmund.jpg" width="402" height="558">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="20" lrx="402" lry="422" cx="201" cy="221" r="201" rotate="0"/>
+  <desc type="modified">2026-05-12T12:38:25.409Z</desc>
+</surface>

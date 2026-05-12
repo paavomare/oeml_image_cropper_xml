@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8f5cd3ae-5a23-4d61-961c-06df92726fac" n="winkelmayer-matthias">
+  <desc type="filename">Winkelmayer_Matthias.xml</desc>
+  <graphic url="Winkelmayer_Mathias.jpg" width="490" height="483">
+  </graphic>
+  <zone type="medallionCrop" ulx="101" uly="19" lrx="471" lry="389" cx="286" cy="204" r="185" rotate="0"/>
+  <desc type="modified">2026-05-12T12:23:36.898Z</desc>
+</surface>

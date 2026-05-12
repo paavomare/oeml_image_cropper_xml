@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_493e3bca-2ba0-4e8d-b9f7-3a51f7cd04b8" n="mirarab-mahan">
+  <desc type="filename">Mirarab_Mahan.xml</desc>
+  <graphic url="Mirarab_Mahan_20072023.jpg" width="799" height="784">
+  </graphic>
+  <zone type="medallionCrop" ulx="8" uly="0" lrx="792" lry="784" cx="400" cy="392" r="392" rotate="0"/>
+  <desc type="modified">2026-05-12T13:09:22.599Z</desc>
+</surface>

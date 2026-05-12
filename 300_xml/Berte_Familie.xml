@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4d2319e5-586f-44b9-a7a5-229c08814750" n="berte-familie">
+  <desc type="filename">Berte_Familie.xml</desc>
+  <graphic url="Berte_Emil.jpg" width="591" height="684">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="13" lrx="591" lry="604" cx="296" cy="309" r="296" rotate="0"/>
+  <desc type="modified">2026-05-12T12:17:33.977Z</desc>
+</surface>

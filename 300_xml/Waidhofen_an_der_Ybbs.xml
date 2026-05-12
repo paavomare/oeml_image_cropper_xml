@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_68bae9f3-bdbc-480c-ad6c-d3fd495a52c7" n="waidhofen-an-der-ybbs">
+  <desc type="filename">Waidhofen_an_der_Ybbs.xml</desc>
+  <graphic url="Waidhofen_Orgel.jpg" width="1134" height="884">
+  </graphic>
+  <zone type="medallionCrop" ulx="129" uly="0" lrx="1013" lry="884" cx="571" cy="442" r="442" rotate="0"/>
+  <desc type="modified">2026-05-12T12:19:17.284Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a6349e2d-1a89-448f-8959-82c035be6d52" n="demelius-margarethe">
+  <desc type="filename">Demelius_Margarethe.xml</desc>
+  <graphic url="Demelius_Margarethe.jpg" width="279" height="326">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="7" lrx="279" lry="286" cx="140" cy="147" r="140" rotate="0"/>
+  <desc type="modified">2026-05-12T12:20:30.656Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb2b291a-0355-4ef1-a5f0-61077dabd3bd" n="friesach">
+  <desc type="filename">Friesach.xml</desc>
+  <graphic url="bildarchivaustria/BA_972_B14840624T14840629.jpg" width="800" height="587">
+  </graphic>
+  <zone type="medallionCrop" ulx="239" uly="17" lrx="789" lry="567" cx="514" cy="292" r="275" rotate="0"/>
+  <desc type="modified">2026-05-12T13:03:21.839Z</desc>
+</surface>

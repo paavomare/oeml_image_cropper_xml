@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d41716fa-5432-4043-b218-7920b2a4ab8b" n="nowakowski-jan">
+  <desc type="filename">Nowakowski_Jan.xml</desc>
+  <graphic url="bildarchivaustria/BA_850_B9131473T9131478.jpg" width="558" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="106" uly="201" lrx="431" lry="527" cx="269" cy="364" r="163" rotate="0"/>
+  <desc type="modified">2026-05-12T12:19:05.794Z</desc>
+</surface>

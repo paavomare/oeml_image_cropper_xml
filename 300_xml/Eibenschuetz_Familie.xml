@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_7bc95be1-6a8b-41cd-b748-0f129491e44e" n="eibenschuetz-familie">
+  <desc type="filename">Eibenschuetz_Familie.xml</desc>
+  <graphic url="Eibenschuetz_Albert.jpg" width="437" height="484">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="10" lrx="437" lry="447" cx="219" cy="229" r="219" rotate="0"/>
+  <desc type="modified">2026-05-12T12:48:19.747Z</desc>
+</surface>

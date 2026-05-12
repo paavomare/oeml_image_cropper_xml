@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_5ed90bed-4864-4698-89c6-750b8b6850f5" n="fahrbach-familie">
+  <desc type="filename">Fahrbach_Familie.xml</desc>
+  <graphic url="fahrbach_philipp_vater.jpg" width="309" height="500">
+  </graphic>
+  <zone type="medallionCrop" ulx="26" uly="55" lrx="283" lry="313" cx="155" cy="184" r="129" rotate="0"/>
+  <desc type="modified">2026-05-12T13:12:04.746Z</desc>
+</surface>

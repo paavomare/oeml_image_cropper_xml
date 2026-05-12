@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e91cf3c6-be41-433e-8b9c-aae1b9c07cf7" n="bielczizky-familie">
+  <desc type="filename">Bielczizky_Familie.xml</desc>
+  <graphic url="Onitsch_Nina.jpg" width="410" height="509">
+  </graphic>
+  <zone type="medallionCrop" ulx="71" uly="73" lrx="332" lry="334" cx="202" cy="204" r="131" rotate="0"/>
+  <desc type="modified">2026-05-12T12:53:25.300Z</desc>
+</surface>

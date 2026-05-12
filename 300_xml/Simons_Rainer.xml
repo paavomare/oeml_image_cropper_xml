@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_37469654-dd48-4460-8373-bd67b04a0420" n="simons-rainer">
+  <desc type="filename">Simons_Rainer.xml</desc>
+  <graphic url="Simons_Rainer_ONB.jpg" width="217" height="300">
+  </graphic>
+  <zone type="medallionCrop" ulx="12" uly="13" lrx="204" lry="205" cx="108" cy="109" r="96" rotate="0"/>
+  <desc type="modified">2026-05-12T12:55:04.178Z</desc>
+</surface>

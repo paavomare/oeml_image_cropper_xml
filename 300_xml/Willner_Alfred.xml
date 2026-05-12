@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b75e3051-baad-48a9-b836-eea64e6688b2" n="willner-alfred">
+  <desc type="filename">Willner_Alfred.xml</desc>
+  <graphic url="Willner_Alfred.jpg" width="525" height="737">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="0" lrx="525" lry="525" cx="263" cy="263" r="263" rotate="0"/>
+  <desc type="modified">2026-05-12T12:59:42.801Z</desc>
+</surface>

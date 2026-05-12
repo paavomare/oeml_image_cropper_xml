@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_139e3795-a40c-47ce-b8a7-33115b7dfce9" n="mirkovic-de-ro-natasa">
+  <desc type="filename">Mirkovic-De_Ro_Natasa.xml</desc>
+  <graphic url="Mirkovic_Natascha_2024.jpg" width="625" height="533">
+  </graphic>
+  <zone type="medallionCrop" ulx="65" uly="0" lrx="598" lry="533" cx="332" cy="267" r="267" rotate="0"/>
+  <desc type="modified">2026-05-12T12:53:29.746Z</desc>
+</surface>

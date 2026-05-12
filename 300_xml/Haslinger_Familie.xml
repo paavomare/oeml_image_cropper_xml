@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_28f9721f-8422-478d-9dd7-efe33f8bcf3b" n="haslinger-familie">
+  <desc type="filename">Haslinger_Familie.xml</desc>
+  <graphic url="bildarchivaustria/776_B8191219T8191223.jpg" width="572" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="95" uly="205" lrx="447" lry="557" cx="271" cy="381" r="176" rotate="0"/>
+  <desc type="modified">2026-05-12T13:08:35.201Z</desc>
+</surface>

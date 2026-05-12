@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e5a8a862-e8a7-431a-818b-3e92ab0505ac" n="blasel-carl">
+  <desc type="filename">Blasel_Carl.xml</desc>
+  <graphic url="bildarchivaustria/339_B307683T4436984.jpg" width="596" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="64" lrx="405" lry="469" cx="203" cy="267" r="203" rotate="0"/>
+  <desc type="modified">2026-05-12T12:58:16.514Z</desc>
+</surface>

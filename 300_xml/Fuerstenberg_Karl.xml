@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_92f3f72b-a65d-4df1-bfbd-9fd98cd6eeb3" n="fuerstenberg-karl">
+  <desc type="filename">Fuerstenberg_Karl.xml</desc>
+  <graphic url="bildarchivaustria/499_B5236584T5236588.jpg" width="590" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="21" uly="140" lrx="543" lry="662" cx="282" cy="401" r="261" rotate="0"/>
+  <desc type="modified">2026-05-12T13:17:07.997Z</desc>
+</surface>

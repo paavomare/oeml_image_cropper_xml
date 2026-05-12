@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2072ad4a-a3e9-43ee-bdbc-37e82ede6c93" n="schwarzboeck-familie">
+  <desc type="filename">Schwarzboeck_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9277670T9277675.jpg" width="570" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="12" uly="58" lrx="491" lry="537" cx="252" cy="298" r="240" rotate="0"/>
+  <desc type="modified">2026-05-12T13:01:43.455Z</desc>
+</surface>

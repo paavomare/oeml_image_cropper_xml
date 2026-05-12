@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8b5e1c02-e7d0-43b7-b6bc-f7e520ce2c88" n="epstein-familie">
+  <desc type="filename">Epstein_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9253273T9253278.jpg" width="637" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="51" uly="62" lrx="590" lry="601" cx="321" cy="332" r="270" rotate="0"/>
+  <desc type="modified">2026-05-12T12:18:55.353Z</desc>
+</surface>

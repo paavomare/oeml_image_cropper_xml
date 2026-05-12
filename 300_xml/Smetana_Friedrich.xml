@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e1ac8fc9-d507-4cc8-807b-5beb70e49a91" n="smetana-friedrich">
+  <desc type="filename">Smetana_Friedrich.xml</desc>
+  <graphic url="bildarchivaustria/BA_855_B9237005T9237010.jpg" width="577" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="41" uly="127" lrx="519" lry="605" cx="280" cy="366" r="239" rotate="0"/>
+  <desc type="modified">2026-05-12T13:01:55.713Z</desc>
+</surface>

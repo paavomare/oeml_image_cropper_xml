@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_ece41c2f-e0b0-4020-b2f9-69289b2df46b" n="redlich-gerda">
+  <desc type="filename">Redlich_Gerda.xml</desc>
+  <graphic url="Redlich_Gerda.jpg" width="281" height="411">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="58" lrx="281" lry="339" cx="141" cy="199" r="141" rotate="0"/>
+  <desc type="modified">2026-05-12T13:12:41.150Z</desc>
+</surface>

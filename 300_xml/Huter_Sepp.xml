@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_d584f6d0-9b6d-4863-b50a-6dd18ca79f56" n="huter-sepp">
+  <desc type="filename">Huter_Sepp.xml</desc>
+  <graphic url="Huter_Sepp.jpg" width="545" height="720">
+  </graphic>
+  <zone type="medallionCrop" ulx="82" uly="0" lrx="545" lry="463" cx="314" cy="232" r="232" rotate="0"/>
+  <desc type="modified">2026-05-12T13:00:41.441Z</desc>
+</surface>

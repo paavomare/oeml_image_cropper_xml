@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fbf4524e-a829-4d15-9015-bf2b2e467bd5" n="lichnowsky-familie">
+  <desc type="filename">Lichnowsky_Familie.xml</desc>
+  <graphic url="bildarchivaustria/BA_907_B10393129T10393134.jpg" width="633" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="14" uly="109" lrx="597" lry="691" cx="306" cy="401" r="292" rotate="0"/>
+  <desc type="modified">2026-05-12T12:23:22.732Z</desc>
+</surface>

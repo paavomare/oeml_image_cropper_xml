@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_69c8f0d1-2a43-4eb1-80cd-ba9e35204c4c" n="pastorale">
+  <desc type="filename">Pastorale.xml</desc>
+  <graphic url="Hirtenfamilie_KaB.jpg" width="3264" height="2448">
+  </graphic>
+  <zone type="medallionCrop" ulx="388" uly="0" lrx="2836" lry="2448" cx="1612" cy="1224" r="1224" rotate="0"/>
+  <desc type="modified">2026-05-12T12:20:53.613Z</desc>
+</surface>

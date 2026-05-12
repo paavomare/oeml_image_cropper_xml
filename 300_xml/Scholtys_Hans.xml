@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_bff1a328-a7da-406b-8d07-e5daa0c9de47" n="scholtys-hans">
+  <desc type="filename">Scholtys_Hans.xml</desc>
+  <graphic url="bildarchivaustria/169_B3782782T3782786.jpg" width="659" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="27" uly="28" lrx="636" lry="637" cx="332" cy="333" r="305" rotate="0"/>
+  <desc type="modified">2026-05-12T13:07:38.210Z</desc>
+</surface>

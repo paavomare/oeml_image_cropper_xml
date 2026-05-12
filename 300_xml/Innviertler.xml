@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_4a65e440-7ef2-45ce-8e8d-7959736ef3f1" n="innviertler">
+  <desc type="filename">Innviertler.xml</desc>
+  <graphic url="Oberinnviertler.jpg" width="1073" height="708">
+  </graphic>
+  <zone type="medallionCrop" ulx="403" uly="74" lrx="870" lry="541" cx="637" cy="308" r="234" rotate="0"/>
+  <desc type="modified">2026-05-12T13:04:07.637Z</desc>
+</surface>

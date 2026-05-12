@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_fc4455b1-574e-43e2-85f1-ad148f8d2697" n="heesters-johannes">
+  <desc type="filename">Heesters_Johannes.xml</desc>
+  <graphic url="bildarchivaustria/403_B391911T4649947.jpg" width="590" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="47" uly="0" lrx="490" lry="444" cx="269" cy="222" r="222" rotate="0"/>
+  <desc type="modified">2026-05-12T12:43:28.842Z</desc>
+</surface>

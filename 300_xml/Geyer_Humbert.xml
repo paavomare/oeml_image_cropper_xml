@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_a1b020c7-80ef-451c-b08e-d1f14a41b05f" n="geyer-humbert">
+  <desc type="filename">Geyer_Humbert.xml</desc>
+  <graphic url="Geyer_Humbert_1935.jpg" width="227" height="302">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="42" lrx="227" lry="269" cx="114" cy="156" r="114" rotate="0"/>
+  <desc type="modified">2026-05-12T12:41:18.566Z</desc>
+</surface>

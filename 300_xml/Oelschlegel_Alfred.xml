@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_b317d0bb-4236-4bbb-9a4c-9cb1e4e22062" n="oelschlegel-alfred">
+  <desc type="filename">Oelschlegel_Alfred.xml</desc>
+  <graphic url="Oelschlegel_Alfred.jpg" width="341" height="417">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="21" lrx="341" lry="362" cx="171" cy="192" r="171" rotate="0"/>
+  <desc type="modified">2026-05-12T12:22:17.615Z</desc>
+</surface>

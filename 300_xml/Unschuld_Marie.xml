@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_92c2b38c-0215-4068-a41d-6df5b5dbbf47" n="unschuld-marie">
+  <desc type="filename">Unschuld_Marie.xml</desc>
+  <graphic url="Unschuld_Marie.jpg" width="283" height="372">
+  </graphic>
+  <zone type="medallionCrop" ulx="25" uly="13" lrx="269" lry="256" cx="147" cy="135" r="122" rotate="0"/>
+  <desc type="modified">2026-05-12T12:42:01.746Z</desc>
+</surface>

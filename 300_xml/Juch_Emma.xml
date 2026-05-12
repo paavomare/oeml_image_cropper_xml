@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_24362086-777e-4980-9e97-bebd25951778" n="juch-emma">
+  <desc type="filename">Juch_Emma.xml</desc>
+  <graphic url="bildarchivaustria/235_B4048193T4048197.jpg" width="592" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="86" uly="83" lrx="531" lry="528" cx="309" cy="306" r="223" rotate="0"/>
+  <desc type="modified">2026-05-12T12:19:59.005Z</desc>
+</surface>

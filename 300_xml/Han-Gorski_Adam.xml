@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_181b85ac-9cdf-41ff-9073-68ba469a2e70" n="han-gorski-adam">
+  <desc type="filename">Han-Gorski_Adam.xml</desc>
+  <graphic url="Han-Gorski_Adam_1.jpg" width="640" height="445">
+  </graphic>
+  <zone type="medallionCrop" ulx="195" uly="0" lrx="640" lry="445" cx="418" cy="223" r="223" rotate="0"/>
+  <desc type="modified">2026-05-12T13:07:50.820Z</desc>
+</surface>

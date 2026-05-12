@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_0e3c3bf0-c3b8-4429-a6b3-af59c3c40f0a" n="schebest-agnes">
+  <desc type="filename">Schebest_Agnes.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9275924T9275929.jpg" width="599" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="63" uly="43" lrx="541" lry="521" cx="302" cy="282" r="239" rotate="0"/>
+  <desc type="modified">2026-05-12T13:16:33.803Z</desc>
+</surface>

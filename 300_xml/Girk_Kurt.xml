@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_48673041-93ac-4654-a0a3-a075e0395ab0" n="girk-kurt">
+  <desc type="filename">Girk_Kurt.xml</desc>
+  <graphic url="Girk_Kurt.jpg" width="1134" height="891">
+  </graphic>
+  <zone type="medallionCrop" ulx="498" uly="172" lrx="891" lry="565" cx="695" cy="369" r="197" rotate="0"/>
+  <desc type="modified">2026-05-12T13:15:41.485Z</desc>
+</surface>

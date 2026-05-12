@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_f71bff1e-bad3-4b4b-8bb0-cf2e16711bbd" n="pott-ehepaar">
+  <desc type="filename">Pott_Ehepaar.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9247262T9247267.jpg" width="580" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="52" uly="163" lrx="528" lry="639" cx="290" cy="401" r="238" rotate="0"/>
+  <desc type="modified">2026-05-12T12:57:13.687Z</desc>
+</surface>

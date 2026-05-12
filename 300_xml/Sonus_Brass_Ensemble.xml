@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_2c78df41-8f7b-46af-bf13-e3e8be984182" n="sonus-brass-ensemble">
+  <desc type="filename">Sonus_Brass_Ensemble.xml</desc>
+  <graphic url="Sonus_Brass.jpg" width="975" height="650">
+  </graphic>
+  <zone type="medallionCrop" ulx="162" uly="0" lrx="812" lry="650" cx="487" cy="325" r="325" rotate="0"/>
+  <desc type="modified">2026-05-12T12:41:25.341Z</desc>
+</surface>

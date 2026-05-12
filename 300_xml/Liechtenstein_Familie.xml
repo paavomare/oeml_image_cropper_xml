@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_eb0ac72c-ba1e-4869-9b93-ed6ffc08a22f" n="liechtenstein-familie">
+  <desc type="filename">Liechtenstein_Familie.xml</desc>
+  <graphic url="bildarchivaustria/500_B5244706T5244710.jpg" width="581" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="72" uly="106" lrx="510" lry="544" cx="291" cy="325" r="219" rotate="0"/>
+  <desc type="modified">2026-05-12T13:06:56.220Z</desc>
+</surface>

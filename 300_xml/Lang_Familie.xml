@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_e2957677-784a-407e-b287-93226060e966" n="lang-familie">
+  <desc type="filename">Lang_Familie.xml</desc>
+  <graphic url="Lang_Hermann.jpg" width="556" height="834">
+  </graphic>
+  <zone type="medallionCrop" ulx="16" uly="46" lrx="556" lry="586" cx="286" cy="316" r="270" rotate="0"/>
+  <desc type="modified">2026-05-12T12:50:48.472Z</desc>
+</surface>

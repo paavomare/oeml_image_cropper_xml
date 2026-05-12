@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_21957a16-83fa-4a5e-932a-0b005b924627" n="bordoni-faustina">
+  <desc type="filename">Bordoni_Faustina.xml</desc>
+  <graphic url="bildarchivaustria/BA_857_B9276234T9276239.jpg" width="598" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="89" uly="183" lrx="498" lry="592" cx="294" cy="388" r="205" rotate="0"/>
+  <desc type="modified">2026-05-12T12:26:55.308Z</desc>
+</surface>

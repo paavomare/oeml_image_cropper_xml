@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_6c8e8861-b602-414a-9094-41a19f0a38e4" n="webern-anton-von">
+  <desc type="filename">Webern_Anton_von.xml</desc>
+  <graphic url="bildarchivaustria/BA_902_B10002821T10002826.jpg" width="589" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="0" uly="91" lrx="589" lry="680" cx="295" cy="386" r="295" rotate="0"/>
+  <desc type="modified">2026-05-12T12:18:08.984Z</desc>
+</surface>

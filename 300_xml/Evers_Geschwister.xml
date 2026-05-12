@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_09e768e4-c0e7-4b0c-a5ce-f74088f55e16" n="evers-geschwister">
+  <desc type="filename">Evers_Geschwister.xml</desc>
+  <graphic url="bildarchivaustria/122_B3573970T3573974.jpg" width="588" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="20" uly="43" lrx="549" lry="571" cx="285" cy="308" r="265" rotate="0"/>
+  <desc type="modified">2026-05-12T12:41:32.689Z</desc>
+</surface>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_8428614b-6e4d-4131-8a52-4a92c71ab39d" n="oberlaender-alfred">
+  <desc type="filename">Oberlaender_Alfred.xml</desc>
+  <graphic url="bildarchivaustria/BA_856_B9256759T9256764.jpg" width="562" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="62" uly="121" lrx="515" lry="574" cx="289" cy="348" r="227" rotate="0"/>
+  <desc type="modified">2026-05-12T12:24:22.975Z</desc>
+</surface>

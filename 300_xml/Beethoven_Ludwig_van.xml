@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surface xml:id="img_37b56ed6-83f9-4cbe-9230-ec81861b986a" n="beethoven-ludwig-van">
+  <desc type="filename">Beethoven_Ludwig_van.xml</desc>
+  <graphic url="bildarchivaustria/95_B3478905T3478909.jpg" width="672" height="800">
+  </graphic>
+  <zone type="medallionCrop" ulx="118" uly="122" lrx="545" lry="549" cx="332" cy="336" r="214" rotate="0"/>
+  <desc type="modified">2026-05-12T13:02:54.303Z</desc>
+</surface>
